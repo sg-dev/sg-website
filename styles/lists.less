@@ -1,0 +1,175 @@
+/*******************************
+styles.less
+*******************************/
+
+/*****
+DEFINITIIONS:
+*****/
+
+@import "definitions.less";
+
+
+// List
+
+.listwrapper {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 0px auto -30px !important ;
+  padding-bottom: 30px;
+
+  .responsive-md({
+    margin-top: -10px !important;
+  });
+
+  .list {
+    background: white;
+    width: 100%;
+    display: flex;
+    flex-flow: row-reverse nowrap;
+    border-radius: @border-radius;
+    color: @color-dark;
+    overflow: hidden;
+    box-shadow: @box-shadow;
+    margin: 10px 0;
+    transition: transform @transition;
+    padding: 20px 20px;
+
+
+
+    .responsive-md({
+        flex-flow: column nowrap;
+    });
+
+    &:hover {
+      transform: scale(1.01);
+    }
+
+    // Removed because we do not wnt alternating
+    // &:nth-child(2n) {
+    // //   flex-flow: row-reverse nowrap;
+
+    //   .second {
+    //     margin-right: 30px;
+    //     margin-left: 0;
+
+    //     img {
+    //       margin: 0;
+    //     }
+    //   }
+    // }
+
+    // Inner list style
+
+    .first {
+      display: flex;
+      flex-flow: column nowrap;
+      flex: 1 1 ~"calc(100% - 190px)";
+
+      .responsive-lg({
+        flex: 1 1 ~"calc(100% - 160px)";
+      });
+
+
+      .date {
+        font-size: smaller;
+        margin: 5px 0 5px;
+        color: gray;
+
+        .responsive-md({
+          font-size: x-small;
+        });
+      }
+
+      h3 {
+        font-size: 26px;
+        font-weight: bold;
+        margin: 5px 0 0;
+
+        .responsive-md({
+            font-size: 22px;
+        });
+      }
+
+      p {
+        font-size: 18px;
+        margin: 5px 0;
+
+        .responsive-md({
+          font-size: 16px;
+        });
+      }
+
+      .btn {
+        margin: 10px auto 15px 0;
+      }
+
+      .author {
+          margin-top: 20px;
+          font-style: italic;
+      }
+
+      .journal {
+          font-weight: bolder;
+      }
+
+
+    }
+
+    .second {
+      width: 160px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 20px;
+
+      .responsive-md({
+          display: none;
+      });
+
+      img {
+        width: 100%;
+        margin: 0;
+        height: auto;
+      }
+    }
+
+    // End inner list style
+  }
+
+  // Pagination
+
+  &__pagination {
+    margin: 15px 0 15px auto;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+    span {
+      display: flex;
+      padding:8px;
+      margin-left: 10px;
+      justify-content: center;
+      align-items: center;
+      background: white;
+      border-radius: @border-radius;
+      color: @color-primary;
+      line-height: 1;
+      transition: transform @transition;
+      box-shadow: @box-shadow;
+      cursor: pointer;
+
+      &.active, &:hover {
+        font-weight: bold;
+        transform: scale(1.02);
+      }
+    }
+  }
+
+  // End Pagination
+}
+
+// End List
+
+// End of document

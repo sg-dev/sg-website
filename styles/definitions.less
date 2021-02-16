@@ -1,0 +1,79 @@
+/*******************************
+definitions.inc.less
+*******************************/
+
+
+//Colors
+
+@color-primary: #A8322D;
+@color-secondary: #e5c2c0; //rgba(168,50,45,0.3) on white
+@color-light: #FFF;
+@color-dark: #090909;
+@color-dark-red: #581616;
+
+//Dimensions
+
+@padding-waves: 5.555%; // 80px / 1440px
+@border-radius: 3px;
+
+//Shadows
+
+@box-shadow: 4px 4px 20px rgba(77, 71, 71, 0.4);
+@box-shadow2: 2px 2px 8px rgba(77, 71, 71, 0.2);
+@box-shadow-before: inset 0 -1px 0px;
+@box-shadow-after: inset 0 1px 0px;
+
+//Transitions
+
+@transition: 0.5s ease-in-out;
+
+//Responsive
+
+@breakpoint-eth: 768px; // Only used for the header (hamburger etc.)
+@breakpoint-sm: 500px;
+@breakpoint-md: 700px;
+@breakpoint-lg: 980px;
+@breakpoint-xl: 1200px;
+
+@container-max-width-sm: 0;
+@container-max-width-md: 0;
+@container-max-width-lg: 0;
+@container-max-width-xl: 0;
+
+.responsive-sm(@rules) {
+  @media (max-width: @breakpoint-sm) { @rules(); }
+}
+
+.responsive-md(@rules) {
+  @media (max-width: @breakpoint-md) { @rules(); }
+}
+
+.responsive-lg(@rules) {
+  @media (max-width: @breakpoint-lg) { @rules(); }
+}
+
+.responsive-xl(@rules) {
+  @media (max-width: @breakpoint-xl) { @rules(); }
+}
+
+.responsive-eth(@rules) {
+  @media (max-width: @breakpoint-eth) { @rules(); }
+}
+
+.responsive(@rules-sm; @rules-md; @rules-lg; @rules-xl; @rules-eth) {
+  .responsive-sm({
+    @rules-sm();
+  });
+  .responsive-md({
+    @rules-md();
+  });
+  .responsive-lg({
+    @rules-lg();
+  });
+  .responsive-xl({
+    @rules-xl();
+  });
+  .responsive-eth({
+    @rules-eth();
+  });
+}
