@@ -1,0 +1,36 @@
+---
+title: 'Heterogeneous bounds of confidence: Meet, discuss and find consensus!'
+date: '2010-01-01'
+volume: '15'
+number: '4'
+pages: 43-- 52
+publishDate: '2021-02-08T11:56:30.284914Z'
+authors:
+- Jan Lorenz
+abstract: Models of continuous opinion dynamics under bounded confidence show a sharp
+  transition between a consensus and a polarization phase at a critical global bound
+  of confidence. In this paper, heterogeneous bounds of confidence are studied. The
+  surprising result is that a society of agents with two different bounds of confidence
+  (open-minded and closed-minded agents) can find consensus even when both bounds
+  of confidence are significantly below the critical bound of confidence of a homogeneous
+  society. The phenomenon is shown by examples of agent-based simulation and by numerical
+  computation of the time evolution of the agents density. The result holds for the
+  bounded confidence model of Deffuant, Weisbuch and others (Weisbuch, G. et al; Meet,
+  discuss, and segregate!, Complexity, 2002, 7, 55-- 63), as well as for the model
+  of Hegselmann and Krause (Hegselmann, R., Krause, U.; Opinion Dynamics and Bounded
+  Confidence, Models, Analysis and Simulation, Journal of Artificial Societies and
+  Social Simulation, 2002, 5, 2). Thus, given an average level of confidence, diversity
+  of bounds of confidence enhances the chances for consensus. The drawback of this
+  enhancement is that opinion dynamics becomes suspect to severe drifts of clusters,
+  where open-minded agents can pull closed-minded agents towards another cluster of
+  closed-minded agents. A final consensus might thus not lie in the center of the
+  opinion interval as it happens for uniform initial opinion distributions under homogeneous
+  bounds of confidence. It can be located at extremal locations. This is demonstrated
+  by example. This also show that the extension to heterogeneous bounds of confidence
+  enriches the complexity of the dynamics tremendously.
+publication: Inter Science Complexity
+url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/cplx.20295/abstract
+doi: 10.1002/cplx.20295
+featured: false
+sg-areas:
+---
