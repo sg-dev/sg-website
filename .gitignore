@@ -1,0 +1,7 @@
+resources/_gen
+.envrc
+.vscode/
+.idea/*
+**/.idea/*
+node_modules/
+public/*
