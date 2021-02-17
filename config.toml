@@ -2,7 +2,7 @@ baseURL = "https://sg-dev.github.io/sg-website/"
 languageCode = "en-us"
 title = "Chair of Systems Design"
 theme = "eth-hugo"
-relativeURLS = false
+relativeURLS = true
 canonifyurls = true
 pluralizelisttitles = "false"
 
