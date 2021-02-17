@@ -15,7 +15,6 @@ This course focuses both on the fundamentals and applications of Data Science in
 
 Students of Social Data Science learn how to plan, execute, and interpret complete Data Science projects to address questions about human behavior. After this course, students will know how to gather data from social media, search trends, and other online and offline sources, how to process and store that data, and how to combine, analyze, and visualize data to address specific questions. The course makes a special emphasis in interpretation and critique of Data Science in the Social Sciences, aiming at an interdisciplinary approach that can inform students from various disciplines.
 
-
 ## Useful Information
 
 - **Course ID**: [363-1091-00L][vvz]

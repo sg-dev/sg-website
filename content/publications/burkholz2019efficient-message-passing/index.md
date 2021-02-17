@@ -22,6 +22,6 @@ abstract: 'How big is the risk that a few initial failures of networked nodes am
 publication: Scientific Reports
 url_pdf: https://www.nature.com/articles/s41598-019-42873-9
 doi: https://doi.org/10.1038/s41598-019-42873-9
-featured: true
+featured: false
 sg-areas:
 ---

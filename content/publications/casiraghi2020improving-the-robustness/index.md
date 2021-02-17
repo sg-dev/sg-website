@@ -23,6 +23,5 @@ abstract: Online social networks (OSN) are prime examples of socio-technical sys
 publication: Frontiers in Robotics and AI
 url_pdf: https://www.frontiersin.org/article/10.3389/frobt.2020.00057
 doi: 10.3389/frobt.2020.00057
-featured: true
 sg-areas:
 ---

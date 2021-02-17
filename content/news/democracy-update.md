@@ -1,7 +1,7 @@
 ---
 title: "Democracy Update"
 date: 2021-02-10T15:04:57+01:00
-draft: false
+draft: true
 projects:
     - Democrasci
 areas:
