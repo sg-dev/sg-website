@@ -19,6 +19,8 @@ $(document).ready(function () {
         if ($("section").hasClass("isteam")) teamConnections(true);
     });
 
+    if ( $(".swiper-container")[0] ) {
+
     let front = new Swiper('.swiper-container', {
         loop: true,
         autoplay: true,
@@ -26,6 +28,8 @@ $(document).ready(function () {
             el: '.swiper-pagination',
         }
     });
+    }
+
 
 });
 
@@ -79,4 +83,7 @@ function teamConnections(resize = false) {
 
 // timeago
 
-timeago.render(document.querySelectorAll('.render_elapsed_time'));
+if ( $(".render_elapsed_time")[0] ) {
+    timeago.render(document.querySelectorAll('.render_elapsed_time'));
+}
+
