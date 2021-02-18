@@ -7,7 +7,7 @@ tel: +41 44 632 82 46
 website: www.linkedin.com/in/cgote
 honorific: MSc Finance and MSc Electrical Engineering
 role: PhD Candidate
-seniority: 2
+weight: 4
 ---
 
 Christoph Gote is a PhD Candidate at the Chair of Systems Design at ETH Zurich, Switzerland.

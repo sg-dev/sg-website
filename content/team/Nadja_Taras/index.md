@@ -7,7 +7,7 @@ website:
 firstname: Nadja
 lastname: Taras
 role: Personal Assistant
-seniority: 0
+weight: 10
 ---
 
 Administrative Assistant

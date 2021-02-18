@@ -3,12 +3,12 @@ image: profile_pic.jpg
 email: czingg@ethz.ch
 room: WEV G 206
 tel: +41 44 632 69 01
-website:
 firstname: Christian
 lastname: Zingg
 role: PhD Candidate
 honorific: MSc Math
-seniority: 2
+weight: 4
+website:
 ---
 
 In my research I study the effects that shocks have on the network structure of social systems. To examine structural changes I define and analyze measures that are for example based on entropies. Having a theoretical background yet being interested in real world problems it is very important to me to discuss both theory and applications.

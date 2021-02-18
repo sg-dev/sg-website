@@ -7,7 +7,7 @@ website:
 firstname: Giacomo
 lastname: Vaccario
 role: Postdoc
-seniority: 5
+weight: 3
 honorific: Dr.
 ---
 

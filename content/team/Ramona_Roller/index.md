@@ -9,7 +9,7 @@ firstname: Ramona
 lastname: Roller
 role: PhD Candidate
 honorific: MSc Computational Science
-seniority: 2
+weight: 4
 ---
 
 I am a Ph.D. candidate at the Chair of Systems design at ETH Zurich where I work on data-driven models of socio-historical systems.
