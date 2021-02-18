@@ -1,13 +1,19 @@
 ---
-image: profile_pic.jpg
-email: lverginer@ethz.ch
-room: WEV G 213
-website: http://www.verginer.eu/
 firstname: Luca
 lastname: Verginer
 role: Postdoc
 honorific: Dr.
 seniority: 4
+
+room: WEV G 213
+
+email: lverginer@ethz.ch
+github: verginer
+website: http://www.verginer.eu/
+orcid: 0000-0002-2952-6634
+gscholar: cZT_l5AAAAAJ
+image: profile_pic.jpg
+twitter: lucaverginer
 ---
 
 I am an economist researching through the methods of complex systems, temporal network analysis, machine learning and standard econometrics migration of high skill labour, citation dynamics in patents and papers and spatial diffusion of knowledge.
