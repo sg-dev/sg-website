@@ -7,7 +7,7 @@ website:
 firstname: Georges
 lastname: Andreas
 role: PhD Student
-seniority: 1
+weight: 5
 honorific: MSc Physics
 ---
 

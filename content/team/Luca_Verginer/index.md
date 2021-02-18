@@ -3,7 +3,7 @@ firstname: Luca
 lastname: Verginer
 role: Postdoc
 honorific: Dr.
-seniority: 4
+weight: 3
 
 room: WEV G 213
 
@@ -16,9 +16,26 @@ image: profile_pic.jpg
 twitter: lucaverginer
 ---
 
-I am an economist researching through the methods of complex systems, temporal network analysis, machine learning and standard econometrics migration of high skill labour, citation dynamics in patents and papers and spatial diffusion of knowledge.
+Luca Verginer is an economist working on subjects, covering
 
-I am also a core contributor of Pathpy, the open source temporal network analysis library developed here at SG and the DAG Group at the University of Zürich.
-Work on the exciting and novel field of temporal networks allows me to test these methods on various economic networks (e.g. Supply Chains).
+- Fundamentals of Temporal Networks
+- Science of Science
+- Research Policy
+- Supply and Distribution Networks
 
-Prior to joining Chair of Systems Design Team, I received a Master's degree in Economics from the University of Trento and a PhD in Economics and Data Science from IMT School for Advanced Studies, Lucca.
+To tackles these problems he relies on a wide variety of methods including but not limited to
+
+- Social Network Analysis
+- Econometrics
+- Machine Learning (e.g. NLP, Graph Neural Networks)
+- Agent Based Modelling
+
+Prior to joining Chair of Systems Design Team, Luca received a
+**Master's degree in Economics** from the University of Trento and a **PhD in Economics and Data Science** from IMT School for Advanced Studies, Lucca.
+
+Luca is als a core contributor to [Pathpy], an open source **temporal network analysis** library developed in collaboration with the [DAG group University of Zürich][dag] and the University of Wuppertal.
+
+The work on the exciting and novel field of temporal networks allows are is central in addressing temporal economic network data (e.g. Supply Chains).
+
+[pathpy]: http://www.pathpy.net
+[dag]: https://www.ifi.uzh.ch/en/dag/people/scholtes.html

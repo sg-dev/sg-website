@@ -7,7 +7,7 @@ website:
 firstname: Laurence
 lastname: Brandenberger
 role: Postdoc
-seniority: 5
+weight: 3
 honorific: Dr.
 ---
 

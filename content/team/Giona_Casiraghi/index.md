@@ -7,7 +7,7 @@ website:
 firstname: Giona
 lastname: Casiraghi
 role: Postdoc
-seniority: 5
+weight: 3
 honorific: Dr.
 ---
 

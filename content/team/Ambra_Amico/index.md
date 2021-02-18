@@ -7,7 +7,7 @@ firstname: Ambra
 lastname: Amico
 role: PhD Student
 honorific: MSc Physics
-seniority: 2
+weight: 4
 ---
 
 Before joining the Chair, I received a Master degree in physics at Universit� la Sapienza in Rome, where I got interested in the complex systems field. During my master thesis I applied inference methods and machine learning techniques to study human perception of facial beauty.
