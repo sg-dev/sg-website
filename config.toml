@@ -1,4 +1,4 @@
-baseURL = "https://www2.sg.ethz.ch/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Chair of Systems Design"
 theme = "eth-hugo"
