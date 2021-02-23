@@ -9,6 +9,7 @@ lastname: Casiraghi
 role: Postdoc
 weight: 3
 honorific: Dr.
+twitter: gcasiraghi
 ---
 
 ## Interests
