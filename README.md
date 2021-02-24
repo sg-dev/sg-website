@@ -186,10 +186,10 @@ For example, a publication related to the "Alphorn" project and deals with "ABM"
 ---
 ...
 areas:
-	- ABM
-	- Economics
+  - ABM
+  - Economics
 projects:
-	- Alphorn
+  - Alphorn
 ---
 ```
 
