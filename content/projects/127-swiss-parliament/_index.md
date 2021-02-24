@@ -2,7 +2,8 @@
 duration: 36 months (2019-2022)
 funding: Swiss National Science Foundation (SNSF)
 website: http://p3.snf.ch/Project-184963
-title: Analyzing Co-Sponsorship Networks from 127 Years of the Swiss Federal Assembly
+title: Co-Sponsorship Networks
+description: Analyzing Co-Sponsorship Networks from 127 Years of the Swiss Federal Assembly
 ---
 
 Analyses of legislative behavior is often based on ideological positions (or policy preferences) of the involved actors, such as parties or individual members of parliament (MPs). These positions allow for detailed analysis on how political alliances are formed and leveraged to influence the decision-making process in their favour. Over the years the discipline has generated and adapted different methods and measures to estimate ideological positions of political actors. These measures are based on a variety of data sources, such as roll-call voting behavior in parliament, surveys, social media behavior or campaign contributions of MPs. Most of these measures have constraints, either methodologically or based on data availability. Roll-call votes are only informative if this form of voting is standard in a parliament; surveys only report snapshots of positions and are often not answered by all MPs; social media behavior depends on the availability of profiles; and campaign contributions have to be public record.

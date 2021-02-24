@@ -3,6 +3,7 @@ title: "Complex Networks"
 date: 2021-02-09T21:36:03+01:00
 draft: false
 weight: 1
+featured_image: mobility-net.png
 ---
 
 ![cover image course](mobility-net.png)

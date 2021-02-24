@@ -2,6 +2,7 @@
 title: "Systems Dynamics and Complexity"
 date: 2021-02-09T21:43:22+01:00
 draft: false
+featured_image: lorenz.png
 ---
 
 

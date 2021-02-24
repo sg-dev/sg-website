@@ -3,6 +3,7 @@ title: "Agent-based Modelling of Social Systems"
 date: 2021-02-09T21:43:13+01:00
 draft: false
 weight: 2
+featured_image: abm_example.png
 ---
 
 ![ABM cover image](abm_example.png)
