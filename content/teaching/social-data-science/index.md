@@ -2,6 +2,7 @@
 title: "Social Data Science"
 date: 2021-02-11T13:58:20+01:00
 draft: false
+featured_image: social_data_science.png
 ---
 
 ![](social_data_science.png)
