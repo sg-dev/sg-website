@@ -49,7 +49,7 @@ git clone --recursive git@github.com:sg-dev/sg-website.git
 To test if the website compiles correctly, and see how Hugo will render the post on the web, run the following command:
 
 ```bash
-Hugo server -D 
+hugo server -D 
 ```
 
 Note the `-D` flag means that also Hugo will include content marked with `draft: true` (in the frontmatter).
