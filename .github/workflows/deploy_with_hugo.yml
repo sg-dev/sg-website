@@ -29,4 +29,5 @@ jobs:
         with:
             publish_dir: ./public
             deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+            external_repository: sg-dev/public-website
             cname: www2.sg.ethz.ch
