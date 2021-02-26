@@ -5,3 +5,4 @@ resources/_gen
 **/.idea/*
 node_modules/
 public/*
+.Rhistory
