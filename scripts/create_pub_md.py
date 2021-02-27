@@ -62,7 +62,7 @@ def create_pub_bundle(bib_path, pub_dir):
     authors = entry["author"]
     authors = clean_bibtex_authors([i.strip() for i in authors.replace("\n", " ").split(" and ")])
 
-    output_path = Path(pub_dir) / slugify(authors, year, title, words_from_title=3)
+    output_path = Path(pub_dir) / year / slugify(authors, year, title, words_from_title=3)
     output_path.mkdir(parents=True, exist_ok=True)
 
     index_md_path = Path(output_path)/'index.md'
