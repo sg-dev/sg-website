@@ -11,12 +11,9 @@ featured: true
 description: This is a description
 ---
 
-
+## Top Level Heading
 
 ![An alt text](/teaching/complex-networks/mobility-net.png)
-
-
-# Top Level Heading
 
 - [x] Item 1
 - [ ] Item 2
