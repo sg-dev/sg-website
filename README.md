@@ -49,8 +49,33 @@ git clone --recursive git@github.com:sg-dev/sg-website.git
 To test if the website compiles correctly, and see how Hugo will render the post on the web, run the following command:
 
 ```bash
-hugo server -D 
+hugo server -D
 ```
+
+Which will print the following:
+
+```plain
+                   | EN
+-------------------+------
+  Pages            | 327
+  Paginator pages  |  25
+  Non-page files   | 842
+  Static files     |  71
+  Processed images | 290
+  Aliases          |   4
+  Sitemaps         |   1
+  Cleaned          |   0
+
+Built in 1153 ms
+Watching for changes in /Users/lucaverginer/Research/Other/sg-website/{archetypes,content,static,themes}
+Watching for config changes in /Users/lucaverginer/Research/Other/sg-website/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at //localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+```
+To see the website then open in your brower http://localhost:1313 or http://127.0.0.1:1313.
 
 Note the `-D` flag means that also Hugo will include content marked with `draft: true` (in the frontmatter).
 The deployed website **does not include drafts**.
