@@ -10,6 +10,9 @@ lastname: Roller
 role: PhD Candidate
 honorific: MSc Computational Science
 weight: 4
+twitter: ramona_roller
+orcid: 0000-0003-0146-4264
+github: RamonaRoller
 ---
 
 I am a Ph.D. candidate at the Chair of Systems design at ETH Zurich where I work on data-driven models of socio-historical systems.
