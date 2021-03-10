@@ -1,15 +1,20 @@
 ---
-image: profile_pic.jpg
-email: gcasiraghi@ethz.ch
-room: WEV G 205
-tel: +41 44 632 06 24
-website:
 firstname: Giona
 lastname: Casiraghi
 role: Postdoc
-weight: 3
 honorific: Dr.
-twitter: gcasiraghi
+weight: 3
+
+room: WEV G 205
+
+image: profile_pic.jpg
+email: gcasiraghi@ethz.ch
+tel: +41 44 632 06 24
+website: https://giona.info
+twitter: gi_ona
+github: gi0na
+orcid: 0000-0003-0233-5747
+gscholar: ApW8UuAAAAAJ
 ---
 
 ## Interests
