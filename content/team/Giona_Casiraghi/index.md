@@ -21,7 +21,7 @@ gscholar: ApW8UuAAAAAJ
 
 ## GHYPERNET
 
-<img src="https://ghyper.net/reference/figures/logo.svg" alt="ghypernet logo" width="790" height="156"/>
+<img src="https://ghyper.net/reference/figures/logo.svg" alt="ghypernet logo" width="600"/>
 
 Part of my work revolves around the generalised hypergeometric ensemble of random graphs, gHypEG for short.
 
