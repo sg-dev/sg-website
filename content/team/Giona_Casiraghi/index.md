@@ -42,12 +42,12 @@ The R package [ghypernet](https://ghyper.net) provides an Open Source implemen
 
 The following links contain a collection of tutorials and material about the ghypernet R package.
 
-Tutorial to network regression models: https://sg.ethz.ch/nrm-tutorial/
+Tutorial to network regression models: [https://sg.ethz.ch/nrm-tutorial/](https://sg.ethz.ch/nrm-tutorial/)
 
-Companion git repository for the 2019 EUSN Workshop in Zurich: https://github.com/sg-dev/EUSN2019_r-ghypernet
+Companion git repository for the 2019 EUSN Workshop in Zurich: [https://github.com/sg-dev/EUSN2019_r-ghypernet](https://github.com/sg-dev/EUSN2019_r-ghypernet)
 
-Repository for the EuroCSS Tutorial "Introduction to Multi-edge Network Inference in R Using the Ghypernet-package": https://github.com/sg-dev/EuroCSS2019_r-ghypernet
+Repository for the EuroCSS Tutorial "Introduction to Multi-edge Network Inference in R Using the Ghypernet-package": [https://github.com/sg-dev/EuroCSS2019_r-ghypernet](https://github.com/sg-dev/EuroCSS2019_r-ghypernet)
 
-GitHub repository for ghypernet: https://github.com/gi0na/r-ghypernet
+GitHub repository for ghypernet: [https://github.com/gi0na/r-ghypernet](https://github.com/gi0na/r-ghypernet)
 
-Manual and Vignettes of the R package: https://ghyper.net
+Manual and Vignettes of the R package: [https://ghyper.net](https://ghyper.net)
