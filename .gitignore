@@ -6,3 +6,4 @@ resources/_gen
 node_modules/
 public/*
 .Rhistory
+/content/news/.DS_Store
