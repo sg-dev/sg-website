@@ -125,6 +125,19 @@ mv featured.png news/bundle-post/  # optional
 Note that both adding a post as `title.md` or as `title/index.md` has no effect on the rendering. It is merely a way to organize content.
 You are encouraged to place pdfs, images etc., in with the post because it makes it easier to reuse and find the relative media.
 
+
+## Featured and Pinned Posts
+
+To add your post to the front page you can set the `feature: true` in the frontmatter of the markdown file.
+This means that the post will be shown as a card on the first page.
+Note that only the last 9 posts marked as featured will be shown (this can be changed in `config.toml`).
+
+If you have post which should be shown regardless of publication you can **pin** it by setting `pin: true` in the frontmatter.
+This means that it will be shown before the featured content.
+Note also here that only 3 pinned posts are possible (this can be changed in the `config.toml`).
+
+
+
 ## Adding Pictures
 
 To include pictures in a post, you use the standard markdown syntax.
