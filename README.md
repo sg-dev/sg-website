@@ -42,7 +42,7 @@ git clone --recursive git@github.com:sg-dev/sg-website.git
 To get future theme updates locally, you should also run the following command, which will make sure that upon pull also `eth-hugo` will be updated.
 
 ```bash
-git config --global submodule.recurse true
+git config submodule.recurse true
 ```
 
 
