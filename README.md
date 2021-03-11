@@ -39,6 +39,12 @@ git clone --recursive git@github.com:sg-dev/sg-website.git
 
 **Note:** To use the above command, you need to have `ssh` access to GitHub (not `http`). Please follow these [instructions] if you do not have an ssh key yet set on Github.
 
+To get future theme updates locally, you should also run the following command, which will make sure that upon pull also `eth-hugo` will be updated.
+
+```bash
+git config --global submodule.recurse true
+```
+
 
 [sg-website]: https://github.com/sg-dev/sg-website
 [eth-hugo]: https://github.com/sg-dev/eth-hugo
