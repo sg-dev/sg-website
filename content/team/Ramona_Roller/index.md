@@ -24,9 +24,9 @@ Holding a Bachelor in Psychology with Cognitive Science (University of Sussex) a
 
 
 # Talks
-![map](map_polys.png) 
+![map](data/map_polys.png) 
 **Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
 **Workshop**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung<br>
 **Venue**: University of Erlangen-Nürnberg (online)<br>
 **Date**: March, 12-13th 2021<br>
-<a href="2020-03-12_spathums.pdf">**Download slides**</a> 
+<a href="data/2020-03-12_spathums.pdf">**Download slides**</a> 
