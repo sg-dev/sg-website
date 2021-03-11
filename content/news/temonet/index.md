@@ -1,8 +1,0 @@
----
-title: "Higher-order models capture changes in controllability of temporal networks"
-date: 2020-11-15
-draft: true
-description: Our paper on Higher-order models has been accepted to be published in Journal of Physics
----
-
-Our paper Higher-order models capture changes in controllability of temporal networks has been accepted to be published in Journal of Physics: Complexity
