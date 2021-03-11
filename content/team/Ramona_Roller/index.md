@@ -54,14 +54,14 @@ nutzen<br>
 **Event**: Theorytellings Workshop der AG Theorie des Verbands Digital Humanities im deutschsprachigen Raum (DHd)<br>
 **Venue**: Leipzig (hybrid)<br>
 **Date**: October, 09th 2020<br>
-{{< embed-pdf url="./team/ramona_roller/data/2020-10-09_Leipzig.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2020-10-09_Leipzig.pdf" >}}--->
 <a href="data/2020-10-09_Leipzig.pdf">**Download slides**</a> 
 
 **Talk**: Letter network to test theory<br>
 **Event**: Cultural Data Analytics (CUDAN) Satellite at NetSci Conference<br>
 **Venue**: Rome (online)<br>
 **Date**: September, 20th 2020<br>
-{{< embed-pdf url="./team/ramona_roller/data/2020-09-11_Rome.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2020-09-11_Rome.pdf" >}}--->
 <a href="data/2020-09-11_Rome.pdf">**Download slides**</a> 
 
 
@@ -69,7 +69,7 @@ nutzen<br>
 **Event**: Konferenz des Verbands Digital Humanities im deutschsprachigen Raum (DHd)<br>
 **Venue**: Paderborn<br>
 **Date**: March, 5th 2020<br>
-{{< embed-pdf url="./team/ramona_roller/data/2020-03-05_Paderborn.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2020-03-05_Paderborn.pdf" >}}--->
 <a href="data/2020-03-05_Paderborn.pdf">**Download slides**</a> 
 
 
@@ -77,7 +77,7 @@ nutzen<br>
 **Event**: European Conference on Social Network Analysis (EUSN)<br>
 **Venue**: Zurich<br>
 **Date**: September, 11th 2019<br>
-{{< embed-pdf url="./team/ramona_roller/data/2019-09-11_Zurich.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2019-09-11_Zurich.pdf" >}}--->
 <a href="data/2019-09-11_Zurich.pdf">**Download slides**</a> 
 
 
@@ -86,7 +86,7 @@ respondence of 16th century reformers<br>
 **Event**: International Conference on Computational Social Science (IC2S2)<br>
 **Venue**: Amsterdam<br>
 **Date**: July, 18th 2019<br>
-{{< embed-pdf url="./team/ramona_roller/data/2019-07-18_Amsterdam.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2019-07-18_Amsterdam.pdf" >}}--->
 <a href="data/2019-07-18_Amsterdam.pdf">**Download slides**</a> 
 
 
@@ -94,7 +94,7 @@ respondence of 16th century reformers<br>
 **Event**: Research visit at Austrian Centre for Digital Humanities<br>
 **Venue**: Vienna<br>
 **Date**: June, 17th 2019<br>
-{{< embed-pdf url="./team/ramona_roller/data/2019-06-17_Vienna.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2019-06-17_Vienna.pdf" >}}--->
 <a href="data/2019-06-17_Vienna.pdf">**Download slides**</a> 
 
 
@@ -102,5 +102,5 @@ respondence of 16th century reformers<br>
 **Event**: Research Visit at the Heidelberg Academy of Sciences and Humanities<br>
 **Venue**: Heidelberg<br>
 **Date**: January, 21st 2019<br>
-{{< embed-pdf url="./team/ramona_roller/data/2019-01-21_Heidelberg.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2019-01-21_Heidelberg.pdf" >}}--->
 <a href="data/2019-01-21_Heidelberg.pdf">**Download slides**</a> 
