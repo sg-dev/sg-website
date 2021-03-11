@@ -161,6 +161,15 @@ To include pictures in a post, you use the standard markdown syntax.
 
 To add publications use the script available in `scripts/create_pub_md.py`
 
+you may need install these packages before with pip
+
+```bash
+pip install ruaml.yaml
+pip install bibtexparser
+```
+
+then run
+
 ```bash
 python scripts/create_pub_md.py my-bibfile.bib content/publications/
 # Remember to add to content/publications/cite-key/:

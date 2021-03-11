@@ -1,6 +1,7 @@
 ---
-image: pic.jpg
+featured_image: pic.jpg
 date: 2020-11-20
+featured: true
 title: Higher-order models capture changes in controllability of temporal networks
 featured_image: pic.jpg
 ---
