@@ -18,6 +18,7 @@ pluralizelisttitles = "false"
     departmentCode = "D-MTEC"
     departmentURL = "https://mtec.ethz.ch/"
     maxFeaturedPosts = 9
+    maxPinnedPosts = 3
 
 [permalinks]
     news = "/:year/:month/:title/"

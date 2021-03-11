@@ -1,9 +1,10 @@
 ---
-title: "CFP - Scientific Networks and Success"
+title: "Scientific Networks and Success"
 date: 2021-01-21
 featured: true
+pin: true
 featured_image: "cas.png"
-description: Call for Papers for Special Issue in ACS
+description: The call for papers for the special issue in ACS is open!
 ---
 
 
