@@ -1,5 +1,6 @@
 ---
 featured_image: map_polys.png
+date: 2021-03-11
 event-date: 2021-03-12
 title: Spatial Humanities Workshop
 featured: true
