@@ -22,8 +22,32 @@ Specifically challenging in this respect are the sampling bias of the data, as n
 By developing statistical methods I aim to address these challenges and provide better insights into socio-historical phenomena.
 Holding a Bachelor in Psychology with Cognitive Science (University of Sussex) and a Master in Computational Science (University of Amsterdam) I aim to combine these diverse backgrounds to study complex systems in an interdisciplinary manner.
 
+# [CV](data/CV.pdf)
+
+
+# Research Plan
+The European Reformation was a major transformative movement in the 16th century which overthrew the monopoly of the Catholic Church. Due to this and other major social transformations, the Reformation provides and example of social change, a change in social relations between people which transforms social institutions. Within my doctoral thesis I will analyse exemplary driving factors of this social change from a network perspective.
+
+These factors include:
+- inner-protestant conflicts, like the one between the Lutherans and the Reformed denominations.
+- social differentiation, a process in society, where people increasingly become more specialised in the tasks and roles they fulfil.
+- confessional formation, the adoption and institutionalisation of Protestantism.
+- individual mobility of reformers.
+
+Besides this content-based focus, I will also address the methodological problem of 'unobserved' data. Since historical records are subject to the selection bias, our resulting data samples may be unrepresentative for the Reformation as a whole and bias our analysis. Within my doctoral thesis I will quantify this bias and explore methods for network reconstruction.
+
+My full research plan, describing the research topic, the research gap and research questions in more detail, can be found <a href="data/RR_research_plan">**here**</a>.
+
 
 # Talks
+![map](data/map_polys.png) 
+**Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
+**Workshop**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung<br>
+**Venue**: University of Erlangen-Nürnberg (online)<br>
+**Date**: March, 12-13th 2021<br>
+{{< embed-pdf url="./team/ramona_roller/data/2020-03-12_spathums.pdf" >}}
+<a href="data/2020-03-12_spathums.pdf">**Download slides**</a> 
+
 ![map](data/map_polys.png) 
 **Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
 **Workshop**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung<br>
