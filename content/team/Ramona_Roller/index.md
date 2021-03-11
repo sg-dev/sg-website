@@ -21,3 +21,12 @@ I try to understand the underlying communication patterns which gave rise to the
 Specifically challenging in this respect are the sampling bias of the data, as not all historical artifacts are equally likely to survive over time, and capturing the temporal sequence in which historical actions occurred.
 By developing statistical methods I aim to address these challenges and provide better insights into socio-historical phenomena.
 Holding a Bachelor in Psychology with Cognitive Science (University of Sussex) and a Master in Computational Science (University of Amsterdam) I aim to combine these diverse backgrounds to study complex systems in an interdisciplinary manner.
+
+
+# Talks
+![map](map_polys.png) 
+**Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
+**Workshop**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung<br>
+**Venue**: University of Erlangen-Nürnberg (online)<br>
+**Date**: March, 12-13th 2021<br>
+<a href="2020-03-12_spathums.pdf">**Download slides**</a> 
