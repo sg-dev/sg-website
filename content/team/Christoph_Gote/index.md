@@ -4,7 +4,7 @@ lastname: Gote
 email: cgote@ethz.ch
 room: WEV G 207
 tel: +41 44 632 82 46
-website: www.linkedin.com/in/cgote
+website: https://www.linkedin.com/in/cgote
 honorific: MSc Finance and MSc Electrical Engineering
 role: PhD Candidate
 weight: 4
