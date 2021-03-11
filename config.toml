@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "https://www2.sg.ethz.ch/"
 languageCode = "en-us"
 title = "Chair of Systems Design"
 theme = "eth-hugo"
-relativeURLS = false
+relativeURLS = true
 canonifyurls = true
 pluralizelisttitles = "false"
 
