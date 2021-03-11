@@ -46,12 +46,4 @@ My full research plan, describing the research topic, the research gap and resea
 **Venue**: University of Erlangen-Nürnberg (online)<br>
 **Date**: March, 12-13th 2021<br>
 {{< embed-pdf url="./team/ramona_roller/data/2020-03-12_spathums.pdf" >}}
-<a href="data/2020-03-12_spathums.pdf">**Download slides**</a> 
-
-![map](data/map_polys.png) 
-**Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
-**Workshop**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung<br>
-**Venue**: University of Erlangen-Nürnberg (online)<br>
-**Date**: March, 12-13th 2021<br>
-{{< embed-pdf url="./team/ramona_roller/data/2020-03-12_spathums.pdf" >}}
-<a href="data/2020-03-12_spathums.pdf">**Download slides**</a> 
+<div style='display:flex'><a href="data/2020-03-12_spathums.pdf"><span class='btn' >Download slides</span></a></div>
