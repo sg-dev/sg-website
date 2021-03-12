@@ -16,6 +16,8 @@ image: profile_pic.jpg
 twitter: lucaverginer
 aliases:
     - /team/people/lverginer/
+    - /veluca/
+    - /lverginer/
 ---
 
 Luca Verginer is an economist working on subjects, covering
