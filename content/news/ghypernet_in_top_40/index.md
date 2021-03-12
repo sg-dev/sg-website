@@ -1,8 +1,6 @@
 ---
 title: "GHYPERNET in the top 40!"
 date: 2021-03-11T12:02:03+01:00
-draft: false
-pin: true
 featured: true  # show on the first page
 featured_image: pic.png  # path/name of image to use as thumbnail
 description:  The RStudio blog has listed the package in the top 40 picks of May 2020. # short text, used in cards and for previews
