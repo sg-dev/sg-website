@@ -14,6 +14,8 @@ orcid: 0000-0002-2952-6634
 gscholar: cZT_l5AAAAAJ
 image: profile_pic.jpg
 twitter: lucaverginer
+aliases:
+    - /team/people/lverginer/
 ---
 
 Luca Verginer is an economist working on subjects, covering

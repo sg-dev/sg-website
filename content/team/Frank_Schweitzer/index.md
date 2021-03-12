@@ -9,6 +9,8 @@ room:
 homepage:
 github:
 twitter:
+aliases:
+    - /team/people/fschweitzer/
 ---
 
 Frank Schweitzer has been Full Professor for Systems Design at ETH Zurich since 2004. He is also associated member of the Department of Physics at the ETH Zurich.
