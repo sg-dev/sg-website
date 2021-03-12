@@ -9,6 +9,8 @@ lastname: Vaccario
 role: Postdoc
 weight: 3
 honorific: Dr.
+aliases:
+    - /team/people/gvaccario/
 ---
 
 My main interests are in the quantification of knowledge and of its exchange in academia and in R&D activities.

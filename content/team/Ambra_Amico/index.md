@@ -8,6 +8,8 @@ lastname: Amico
 role: PhD Student
 honorific: MSc Physics
 weight: 4
+aliases:
+    - /team/people/aamico/
 ---
 
 Before joining the Chair, I received a Master degree in physics at la Sapienza University in Rome, where I got interested in the complex systems field. During my master thesis I applied inference methods and machine learning techniques to study human perception of facial beauty.

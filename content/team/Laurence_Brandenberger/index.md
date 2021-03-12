@@ -9,6 +9,8 @@ lastname: Brandenberger
 role: Postdoc
 weight: 3
 honorific: Dr.
+aliases:
+    - /team/people/brandenberger-laurence/
 ---
 
 I study legislative behavior and parliamentary networks. I am particularly interested in the temporal dynamics of political actors working together, for instance looking at how long it takes for a member of parliament to reciprocate a favor by a colleague. Furthermore, I study how political actors change their political positions over time and influence each other.
