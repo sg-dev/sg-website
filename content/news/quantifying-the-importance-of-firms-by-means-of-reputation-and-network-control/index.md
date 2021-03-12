@@ -1,5 +1,5 @@
 ---
-image: pic.jpg
+featured_image: pic.jpg
 date: 2021-01-10
 title: Quantifying the importance of firms by means of reputation and network control
 featured: true
