@@ -1,10 +1,10 @@
 ---
-title: "gambit - An Open Source Name Disambiguation Tool for Version Control Systems"
+title: "GAMBIT: Name disambiguation for VCS"
 date: 2021-03-11T18:25:23+01:00
 draft: false
 featured: true  # show on the first page
 featured_image: gambit_sg_website.png  # path/name of image to use as thumbnail
-description:   # short text, used in cards and for previews
+description: Our novel tool aimed at version control systems has been accepted at MSR 2021. # short text, used in cards and for previews
 ---
 
 We are excited to announce that our paper [gambit - An Open Source Name Disambiguation Tool for Version Control Systems](https://arxiv.org/abs/2103.05666) has been accepted at MSR 2021. 

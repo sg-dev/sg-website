@@ -1,7 +1,8 @@
 ---
 featured_image: pic.jpg
 date: 2021-01-10
-title: Quantifying the importance of firms by means of reputation and network control
+description: Reputation spillovers and control allow ranking firms in ownership networks.
+title: How do you quantify firms importance?
 featured: true
 ---
 
