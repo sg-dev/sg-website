@@ -156,6 +156,19 @@ To include pictures in a post, you use the standard markdown syntax.
 
 **Remember** to add the picture in the commit. Otherwise, Hugo will not push it to the website. 
 
+## Adding News: Guidelines
+
+When you create a new news post you should adhere to the following guidelines.
+These will ensure a) a more readable home page, and b) more informative news.
+	
+1) Use a short informative title.
+   Try to make it a one liner when cards are at their maximum width. 
+   **Do not simply paste the title of your paper**, that can be already accessed through the publication page.
+2) Always add a short description. It will be automatically cut if it exceeds 100 characters.
+3) Remember that the description will not automatically show on the post webpage.
+   You may need to rewrite it in the main content.
+4) Always add an image.
+
 
 ## Adding publications
 
