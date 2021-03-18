@@ -2,7 +2,8 @@
 featured_image: pic.jpg
 date: 2020-11-20
 featured: true
-title: Higher-order models capture changes in controllability of temporal networks
+title: Do HONs gauge temporal controllability?
+description: Our article shows how Higher-Order models capture changes in controllability.
 featured_image: pic.jpg
 ---
 
