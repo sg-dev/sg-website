@@ -167,6 +167,7 @@ These will ensure a) a more readable home page, and b) more informative news.
 2) Always add a short description. It will be automatically cut if it exceeds 100 characters.
 3) Remember that the description will not automatically show on the post webpage.
    You may need to rewrite it in the main content.
+4) Always add an image.
 
 
 ## Adding publications
