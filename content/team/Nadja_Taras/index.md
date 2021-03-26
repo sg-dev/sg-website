@@ -6,7 +6,7 @@ tel: +41 44 632 83 51
 website:
 firstname: Nadja
 lastname: Taras
-role: Personal Assistant
+role: Administrative Assistant
 weight: 10
 aliases:
     - /team/people/tnadja/
