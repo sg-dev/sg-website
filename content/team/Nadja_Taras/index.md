@@ -2,7 +2,7 @@
 image:
 email: ntaras@ethz.ch
 room: WEV G 210
-tel:
+tel: +41 44 632 83 51
 website:
 firstname: Nadja
 lastname: Taras
@@ -13,3 +13,4 @@ aliases:
 ---
 
 Administrative Assistant
+office days: Monday, Tuesday, Friday
