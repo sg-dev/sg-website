@@ -15,3 +15,7 @@ aliases:
 Administrative Assistant
 
 office days: Monday, Tuesday, Friday
+
++41 044 632 83 51
+
+
