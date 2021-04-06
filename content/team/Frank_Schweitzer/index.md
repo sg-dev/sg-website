@@ -358,7 +358,7 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
 <details>
 <summary>Talks from 2005 to 2021</summary>
 
-- **DemocraSci - 127 Years of the Swiss Parliament** (date>May 20, 2019) | *Swiss Federal Archives, Berne, Switzerland*
+- **DemocraSci - 127 Years of the Swiss Parliament** (May 20, 2019) | *Swiss Federal Archives, Berne, Switzerland*
 
 - **DemocraSci - Greetings from the Swiss Parliament** (May 13, 2019) | *Project Information Day, Swiss Data Science Center, Berne, Switzerland*
 
