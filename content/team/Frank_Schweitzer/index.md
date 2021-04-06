@@ -34,7 +34,7 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
     Editor, 2006 - 2007
     Editor-in-Chief (Complex Systems), 2007 - 2012
     External Advisors, 2012 -
-- [ACS - Advances in Complex Systems ](http://www.worldscinet.com/acs/acs.shtml)
+- [ACS - Advances in Complex Systems](http://www.worldscinet.com/acs/acs.shtml)
     World Scientific Singapore
     Editor, 1998 -
     Editor-in-Chief, 2007 -
@@ -50,7 +50,7 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
 - [Springer Series in Synergetics](http://www.springer.com/series/712?detailsPage=editorialBoard)
     Springer Berlin Heidelberg
     Editorial and Programme Advisory Board, 2004-
-- [Selbstorganisation ](http://intern.sg.ethz.ch/fschweitzer/until2005/jaso-edit.html)
+- [Selbstorganisation](http://intern.sg.ethz.ch/fschweitzer/until2005/jaso-edit.html)
     Jahrbuch für Komplexität in den Natur-, Sozial- und Geisteswissenschaften
     Duncker & Humblot Berlin
     Wissenschaftlicher Beirat, 1990 - 2000
@@ -118,10 +118,8 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
     Dublin, Ireland, 12-14 December 2018
 - [COMPLEX NETWORKS 2018](http://complexnetworks.org/) (The Seventh International Conference on Complex Networks and their Applications)
     Cambridge, United Kingdom, 11 - 13 December 2018
-- <div id="cfptitle">[Socinfo 2018](https://socinfo2018.hse.ru/) (10th International Conference on Social Informatics)</div>
-
-    <div id="cfpdateplace">Saint-Petersburg, Russia, 25 - 28 September 2018</div>
-
+- [Socinfo 2018](https://socinfo2018.hse.ru/) (10th International Conference on Social Informatics)
+    Saint-Petersburg, Russia, 25 - 28 September 2018
 - [CCS 2018](https://cssociety.org/ccs) (Conference on Complex Systems)
     Thessaloniki, Greece, 23 - 28 September 2018
 - [SI 2018](https://www.wosinf.org/) (Workshop on Social Influence 2018)
@@ -351,6 +349,7 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
 - Studienkommission
 - Berufungskommission
 - Informatikkommission
+
 </details>
 
 ## Talks
