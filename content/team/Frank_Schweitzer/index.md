@@ -8,7 +8,8 @@ weight: 1
 room:
 homepage:
 github:
-twitter:
+orcid: 0000-0003-1551-6491
+gscholar: U5PTwZsAAAAJ
 aliases:
     - /team/people/fschweitzer/
 ---
