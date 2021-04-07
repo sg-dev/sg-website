@@ -13,8 +13,8 @@ Check back here regularly, for updates on the projects, insights into how we ext
 
 Check out our project overview in four languages here: 
 
-[<img src="ETHProjectBrief_EN.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/team/)
-[<img src="ETHProjectBrief_DE.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/team/)
-[<img src="ETHProjectBrief_FR.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/team/)
-[<img src="ETHProjectBrief_IT.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/team/)
+[<img src="ETHProjectBrief_EN.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/projects/130-years-swiss-parliament/ETHProjectBrief_EN.pdf)
+[<img src="ETHProjectBrief_DE.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/projects/130-years-swiss-parliament/ETHProjectBrief_DE.pdf)
+[<img src="ETHProjectBrief_FR.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/projects/130-years-swiss-parliament/ETHProjectBrief_FR.pdf)
+[<img src="ETHProjectBrief_IT.pdf" alt="drawing" width="250"/>](https://www.sg.ethz.ch/projects/130-years-swiss-parliament/ETHProjectBrief_IT.pdf)
 
