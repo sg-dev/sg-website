@@ -7,7 +7,7 @@ website:
 firstname: Nadja
 lastname: Taras
 role: Administrative Assistant
-weight: 10
+weight: 1
 aliases:
     - /team/people/tnadja/
 ---
