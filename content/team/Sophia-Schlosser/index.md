@@ -3,7 +3,7 @@ email: sschlosser@ethz.ch
 room: WEV G 208
 tel:
 website:
-firstname: Sophia
+firstname: Sophia Johanna
 lastname: Schlosser
 role: PhD Student
 honorific: MSc International Affairs
