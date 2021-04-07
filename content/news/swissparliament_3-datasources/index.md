@@ -1,7 +1,7 @@
 ---
 featured_image: data.png
-title: "Data Sources: The Different Records of the Swiss Parliament"
-description: "A short description of the different data sources our project builds on."
+title: "A new data source: Records of the Swiss Parliament"
+description: "A short description of the different data sources our project on the Swiss Parliament builds on."
 date: 2021-04-07
 featured: true
 projects: 
