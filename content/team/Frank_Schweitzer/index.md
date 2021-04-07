@@ -12,6 +12,7 @@ orcid: 0000-0003-1551-6491
 gscholar: U5PTwZsAAAAJ
 aliases:
     - /team/people/fschweitzer/
+    - /people/fschweitzer
 ---
 
 <details>
@@ -89,7 +90,7 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
 - Informatikkommission
 
 </details>
---> 
+-->
 
 [Talks](talks/)
 
