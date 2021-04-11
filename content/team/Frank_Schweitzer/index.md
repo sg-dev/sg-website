@@ -4,7 +4,7 @@ lastname: Schweitzer
 honorific: Prof. Dr. Dr.
 email: fschweitzer@ethz.ch
 role: Professor
-weight: 1
+weight: 100
 room:
 homepage:
 github:

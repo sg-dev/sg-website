@@ -3,7 +3,7 @@ firstname: Luca
 lastname: Verginer
 role: Postdoc
 honorific: Dr.
-weight: 3
+weight: 90
 
 room: WEV G 213
 
