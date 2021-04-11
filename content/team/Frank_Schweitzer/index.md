@@ -10,6 +10,7 @@ homepage:
 github:
 orcid: 0000-0003-1551-6491
 gscholar: U5PTwZsAAAAJ
+arxiv: schweitzer_f_1
 aliases:
     - /team/people/fschweitzer/
     - /people/fschweitzer
