@@ -8,6 +8,7 @@ description: The wisdom of crowds can fail under social influence ... Two new pa
 
 <!-- Write your content here -->
 
+![blind](thumbnail.png)
 
 Finally, we got of our papers on the wisdom of crowds accepted: 
 
