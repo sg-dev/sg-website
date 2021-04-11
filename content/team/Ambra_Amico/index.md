@@ -7,7 +7,7 @@ firstname: Ambra
 lastname: Amico
 role: PhD Student
 honorific: MSc Physics
-weight: 4
+weight: 75
 aliases:
     - /team/people/aamico/
 ---

@@ -7,7 +7,7 @@ firstname: Sophia Johanna
 lastname: Schlosser
 role: PhD Student
 honorific: MSc International Affairs
-weight: 5
+weight: 70
 aliases:
     - /team/people/sophia-johanna-schlosser/
 ---
