@@ -7,7 +7,7 @@ firstname: Giuseppe
 lastname: Russo
 role: PhD Student
 honorific: MSc Computer Science
-weight: 5
+weight: 70
 aliases:
     - /team/people/giuseppe-russo/
 ---

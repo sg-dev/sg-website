@@ -5,9 +5,9 @@ room: WEV G 206
 tel: +41 44 632 69 01
 firstname: Christian
 lastname: Zingg
-role: PhD Candidate
+role: PhD Student
 honorific: MSc Math
-weight: 4
+weight: 80
 website:
 github: CodesByChris
 orcid: 0000-0003-1674-7961
