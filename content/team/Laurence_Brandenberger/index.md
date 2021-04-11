@@ -7,7 +7,7 @@ website:
 firstname: Laurence
 lastname: Brandenberger
 role: Postdoc
-weight: 3
+weight: 90
 honorific: Dr.
 aliases:
     - /team/people/brandenberger-laurence/
