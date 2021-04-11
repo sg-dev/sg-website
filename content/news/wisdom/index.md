@@ -10,10 +10,11 @@ description: The wisdom of crowds can fail under social influence ... Two new pa
 
 ![blind](thumbnail.png)
 
-Finally, we got of our papers on the wisdom of crowds accepted: 
+... finally got accepted: 
 
 Enhanced or distorted wisdom of crowds? An agent-based model of opinion formation under social influence, forthcoming in: 
 *Swarm Intelligence* (2021)
 
 The ambiguous role of social influence on the wisdom of crowds: An analytic approach, in: *Physica A* (2021) 567:125624 
 
+A, rather indirect, contribution to the discussion about corona related measures. 
