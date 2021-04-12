@@ -93,12 +93,13 @@ Frank Schweitzer is a founding **member** of the *ETH Risk Center* and Editor-in
 </details>
 -->
 
-[Talks](talks/)
+[Talks](/fs/talks/)
+
+[Program Committee](/fs/pc/)
+
+[Books](/fs/books/)
 
 
-[Books](books/)
-
-
-[Before 2005](until2005/)
+[Before 2005](/fs/until2005/)
 
 [Private Website (in German)](https://www.simply-complex.net)
