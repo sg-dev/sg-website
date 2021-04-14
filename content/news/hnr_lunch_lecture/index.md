@@ -1,5 +1,5 @@
 ---
-featured_image: map_polys.png
+featured_image: melanchthon_path.png
 date: 2021-04-14
 event-date: 2021-04-15
 title: Historical Network research lunch lecture
