@@ -20,3 +20,6 @@ I study legislative behavior and parliamentary networks. I am particularly inter
 As a quantitative social scientist, I use Relational Event Models (REMs), Exponential Random Graph Models (ERGMs) and temporal variations thereof (so-called TERGMs or BTERGMs) and conventional regressions for my analyses.
 
 Prior to starting at the Chair of Systems Design, a received a PhD in Political Science from the University of Bern and a Master's degree in Sociology from the University of Bern.
+
+# CV
+<a href="CV_LB.pdf">**Download CV**</a>
