@@ -44,6 +44,14 @@ My research plan describes the research topic, the research gap, and the researc
 
 
 # Talks
+
+**Talk**: Modeling Time in Interactions: Temporal paths in a 16th century network<br>
+**Event**: Lunch lecture series of the Historical Network research community<br>
+**Venue**: Online<br>
+**Date**: April, 15th 2021<br>
+{{< embed-pdf url="./team/ramona_roller/data/"data/2021-04-15_HNR.pdf" >}}
+<a href="data/2021-04-15_HNR.pdf">**Download slides**</a>
+
 **Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
 **Event**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung Workshop<br>
 **Venue**: Erlangen/Nuremberg (online)<br>
