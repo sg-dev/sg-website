@@ -44,7 +44,6 @@ My research plan describes the research topic, the research gap, and the researc
 
 
 # Talks
-
 **Talk**: Modeling Time in Interactions: Temporal paths in a 16th century network<br>
 **Event**: Lunch lecture series of the Historical Network research community<br>
 **Venue**: Online<br>
