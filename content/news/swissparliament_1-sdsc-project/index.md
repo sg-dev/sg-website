@@ -1,5 +1,5 @@
 ---
-featured_image: SchemeProject.png
+featured_image: SchemeProject.jpg
 title: "SDSC Project: DemocraSci"
 description: "Introducing our SDSC project: DemocraSci -- A Research Platform for Data-Driven Democracy Studies in Switzerland"
 date: 2021-03-07
@@ -19,7 +19,7 @@ Our database will contain
 
 The project is a collaboration between our chair and the [Swiss Data Science Center, SDSC](https://datascience.ch). 
 
-![Our project overview](SchemeProject.png)
+![Our project overview](SchemeProject.jpg)
 
 **Collaboration partners:** Luis Salamanca (SDSC), Fernando Perez-Cruz (SDSC)
 
