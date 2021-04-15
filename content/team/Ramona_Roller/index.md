@@ -55,7 +55,7 @@ My research plan describes the research topic, the research gap, and the researc
 **Event**: Geography meets Digital Humanities: Neuere Ansätze raumbezogener Modellierung Workshop<br>
 **Venue**: Erlangen/Nuremberg (online)<br>
 **Date**: March, 12th 2021<br>
-{{< embed-pdf url="./team/ramona_roller/data/2021-03-12_Erlangen.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2021-03-12_Erlangen.pdf" >}}--->
 <a href="data/2021-03-12_Erlangen.pdf">**Download slides**</a>
 
 **Talk**: Warum wurde Luther protestantisch? Erklärungsnarrative mit statistischen Modellen entwickeln und zur Theoriebildung
