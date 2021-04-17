@@ -2,7 +2,6 @@
 title: "Scientific Networks and Success"
 date: 2021-01-21
 featured: true
-pin: true
 featured_image: "cas.png"
 description: The call for papers for the special issue in ACS is open!
 ---
