@@ -5,9 +5,9 @@ volume: '8'
 pages: '382'
 publishDate: '2021-02-08T11:56:33.983553Z'
 authors:
-- Giona Casiraghi
 - Frank Schweitzer
 - Yan Zhang
+- Giona Casiraghi
 abstract: We investigate a multi-agent model of firms in a Research & Development
   (R&D) network. Each firm is characterized by its knowledge stock xi(t), which follows
   a non-linear dynamics. xi(t) grows with the input from other firms, i.e., by knowledge
