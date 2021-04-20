@@ -21,5 +21,3 @@ As a quantitative social scientist, I use Relational Event Models (REMs), Expone
 
 Prior to starting at the Chair of Systems Design, a received a PhD in Political Science from the University of Bern and a Master's degree in Sociology from the University of Bern.
 
-# CV
-<a href="CV_LB.pdf">**Download CV**</a>
