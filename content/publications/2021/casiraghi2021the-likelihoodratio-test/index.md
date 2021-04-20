@@ -21,4 +21,6 @@ publication:
 url_pdf: http://arxiv.org/abs/2102.11116
 featured: false
 sg-areas:
+- Network Theory
+- Data Science
 ---

@@ -28,4 +28,5 @@ url_pdf: https://www.frontiersin.org/articles/10.3389/fphy.2020.00382/full?&utm_
 doi: 10.3389/fphy.2020.00382
 featured: false
 sg-areas:
+- Resilience
 ---

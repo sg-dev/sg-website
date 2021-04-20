@@ -19,4 +19,6 @@ publication: arXiv e-print
 url_pdf: http://arxiv.org/abs/1702.02048
 featured: false
 sg-areas:
+- Network Theory
+- Data Science
 ---

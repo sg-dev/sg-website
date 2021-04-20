@@ -24,4 +24,6 @@ url_pdf: https://www.mdpi.com/1099-4300/21/9/901
 doi: 10.3390/e21090901
 featured: false
 sg-areas:
+- Network Theory
+- Resilience
 ---
