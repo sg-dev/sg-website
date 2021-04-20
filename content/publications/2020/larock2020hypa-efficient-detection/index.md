@@ -29,7 +29,7 @@ publication: Proceedings of the 2020 SIAM International Conference on Data Minin
 url_pdf: https://epubs.siam.org/doi/10.1137/1.9781611976236.52
 doi: 10.1137/1.9781611976236.52
 featured: false
-sg-areas:
+projects:
 - Network Theory
 - Data Science
 ---

@@ -18,6 +18,6 @@ publication: Applied Network Science
 url_pdf: https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0241-1
 doi: 10.1007/s41109-019-0241-1
 featured: false
-sg-areas:
+projects:
 - Network Theory
 ---

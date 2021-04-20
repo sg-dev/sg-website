@@ -20,7 +20,7 @@ abstract: The complexity underlying real-world systems implies that standard sta
 publication: 
 url_pdf: http://arxiv.org/abs/2102.11116
 featured: false
-sg-areas:
+projects:
 - Network Theory
 - Data Science
 ---

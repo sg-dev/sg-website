@@ -22,6 +22,6 @@ publication: 2019 International Joint Conference on Neural Networks (IJCNN)
 url_pdf: https://ieeexplore.ieee.org/document/8851725
 doi: 10.1109/IJCNN.2019.8851725
 featured: false
-sg-areas:
+projects:
 - Data Science
 ---
