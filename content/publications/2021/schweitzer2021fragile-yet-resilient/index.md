@@ -23,6 +23,6 @@ publication: Frontiers in Applied Mathematics and Statistics
 url_pdf: https://www.frontiersin.org/article/10.3389/fams.2021.634006
 doi: 10.3389/fams.2021.634006
 featured: false
-sg-areas:
+projects:
 - Resilience
 ---

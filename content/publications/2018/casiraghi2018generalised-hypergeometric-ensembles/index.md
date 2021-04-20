@@ -17,6 +17,6 @@ abstract: 'We introduce a broad class of random graph models: the generalised hy
   procedures.'
 publication: arXiv:1810.06495
 featured: false
-sg-areas:
+projects:
 - Network Theory
 ---

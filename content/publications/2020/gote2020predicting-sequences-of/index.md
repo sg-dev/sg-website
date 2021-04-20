@@ -21,7 +21,7 @@ abstract: We propose a novel sequence prediction method for sequential data capt
   that our method can scale to data sets with millions of sequences.
 publication: arXiv preprint arXiv:2007.06662
 featured: false
-sg-areas:
+projects:
 - Data Science
 - Network Theory
 ---
