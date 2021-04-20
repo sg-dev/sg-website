@@ -30,5 +30,6 @@ publication: Proceedings of the 16th International Conference on Mining Software
 url_pdf: https://dl.acm.org/citation.cfm?id=3341954
 doi: 10.1109/MSR.2019.00070
 featured: false
-sg-areas:
+projects:
+- Data Science
 ---

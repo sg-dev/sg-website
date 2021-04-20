@@ -15,5 +15,6 @@ abstract: Name disambiguation is a complex but highly relevant challenge wheneve
 publication: 2021 IEEE/ACM 18th International Conference on Mining Software Repositories
   (MSR)
 featured: false
-sg-areas:
+projects:
+- Data Science
 ---
