@@ -28,4 +28,6 @@ publication: 'Social Informatics: 9th International Conference, SocInfo 2017, Ox
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-67256-4_11
 doi: 10.1007/978-3-319-67256-4_11
 sg-areas:
+- Network Theory
+- Data Science
 ---

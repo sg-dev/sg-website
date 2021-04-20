@@ -22,4 +22,6 @@ abstract: We propose a novel sequence prediction method for sequential data capt
 publication: arXiv preprint arXiv:2007.06662
 featured: false
 sg-areas:
+- Data Science
+- Network Theory
 ---

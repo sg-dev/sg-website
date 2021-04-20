@@ -25,4 +25,5 @@ publication: ''
 url_pdf: http://arxiv.org/abs/1911.03277
 featured: false
 sg-areas:
+- Resilience
 ---
