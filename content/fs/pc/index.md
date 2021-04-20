@@ -1,11 +1,16 @@
 ---
 title: Program Committees - Conferences
 ---
-
+   
+- [ICAART](http://www.icaart.org/) (14th International Conference on Agents and Artificial Intelligence)
+    Vienna, Austria, 3 - 5 February 2022
+     *****
 - [COMPLEX NETWORKS 2021](https://complexnetworks.org/) (The Tenth International Conference on Complex Networks and their Applications)
     Madrid, Spain, 30 November - 2 December 2021
 - [IC2S2 2021](https://2021.ic2s2.org/) (7th International Conference on Computational Social Science)
     Zurich, Switzerland, 27 - 31 July 2021
+- COMPLENET LIVE 2021 (https://complenet.weebly.com/) (International (Online) Conference on Complex Networks)
+    Online, 24 - 26 May 2021
 - [ICAART](http://www.icaart.org/) (13th International Conference on Agents and Artificial Intelligence)
     Vienna, Austria, 4 - 6 February 2021
     *****
