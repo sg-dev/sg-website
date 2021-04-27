@@ -2,8 +2,8 @@
 featured_image: openposition.png
 title: "Open Position"
 date: 2021-04-06
-featured: true
-pin: true
+featured: false
+pin: false
 description: We're looking for 1-2 student research assistants!
 ---
 
