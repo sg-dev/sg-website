@@ -244,16 +244,13 @@ Add a picture with the name `profile_pic` in the same directory and optionally a
 
 ## Taxonomies (Projects and Research Areas)
 
-You can classify a post/publication as belonging to a specific research area and project by adding their name in the frontmatter.
+You can classify a post/publication as belonging to a specific project by adding their name in the frontmatter.
 
-For example, a publication related to the "Alphorn" project and deals with "ABM"s and "Economics" should have the following keys in the front matter of the markdown.
+For example, a publication related to the "Alphorn" project should have the following keys in the front matter of the markdown.
 
 ```yaml
 ---
 ...
-areas:
-  - ABM
-  - Economics
 projects:
   - Alphorn
 ---
@@ -261,6 +258,14 @@ projects:
 
 Note that you can add these keys also to posts of type news, and they will be listed under the respective areas and projects.
 
+To highlight that a project is funded by an agency you can do so by adding in the front matter of a project site (e.g., `content/projects/130-years-swiss-parliament/_index.md`) the following yaml tags
+
+```yaml
+---
+...
+label: Funded by SNF
+---
+```
 
 
 
