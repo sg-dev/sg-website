@@ -3,6 +3,8 @@ featured_image: networks_cut.png
 title: "130 Years of Swiss Parliament"
 description: "Building a searchable database of the Swiss Parliament and analyzing how members of parliament have shaped the Swiss political landscape over the past 130 years."
 date: 2021-04-07
+label: Funded by SNF
+
 ---
 
 We are currently working on two funded research projects surrounding the Swiss Parliament. 
