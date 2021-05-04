@@ -1,6 +1,7 @@
 ---
 title: "Theory of social roles"
-date: 2021-05-03T18:25:23+01:00
+date: 2021-05-03
+event-date: 2021-05-04
 draft: false
 featured: true  # show on the first page
 featured_image: new_theory.png  # path/name of image to use as thumbnail
