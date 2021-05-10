@@ -24,10 +24,8 @@ Specifically challenging in this respect are the sampling bias of the data, as n
 By developing statistical methods I aim to address these challenges and provide better insights into socio-historical phenomena.
 Holding a Bachelor in Psychology with Cognitive Science (University of Sussex) and a Master in Computational Science (University of Amsterdam) I aim to combine these diverse backgrounds to study complex systems in an interdisciplinary manner.
 
-# CV
-<a href="data/CV.pdf">**Download CV**</a>
 
-# Research Plan
+## Research Plan
 <a href="data/RR_research_plan.pdf">**Download research plan**</a>
 
 The European Reformation was a major transformative movement in the 16th century which overthrew the monopoly of the Catholic Church. Due to this and other major social transformations, the Reformation provides and example of social change, a change in social relations between people which transforms social institutions. Within my doctoral thesis I will analyse exemplary driving factors of this social change from a network perspective.
@@ -43,4 +41,4 @@ Besides this content-based focus, I will also address the methodological problem
 My research plan describes the research topic, the research gap, and the research questions of my doctoral thesis in more detail.
 
 
-# [Talks](/extra/rr/talks/)
+## [Talks](/extra/rr/talks/)
