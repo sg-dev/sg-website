@@ -43,4 +43,4 @@ Besides this content-based focus, I will also address the methodological problem
 My research plan describes the research topic, the research gap, and the research questions of my doctoral thesis in more detail.
 
 
-# [Talks](rr_talks/)
+# [Talks](/team/ramona_roller/talks/)
