@@ -1,14 +1,14 @@
 ---
 title: Citations Driven by Social Connections? A Multi-Layer Representation of Coauthorship
   Networks
-date: '2020-09-01'
+date: '2020-12-01'
 volume: '1'
 number: '4'
 pages: 1493-1509
 publishDate: '2021-02-08T11:56:28.852395Z'
 authors:
-- Vahan Nanumyan
 - Christian Zingg
+- Vahan Nanumyan
 - Frank Schweitzer
 abstract: To what extent is the citation rate of new papers influenced by the past
   social relations of their authors? To answer this question, we present a data-driven
