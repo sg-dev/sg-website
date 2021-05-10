@@ -16,10 +16,10 @@ aliases:
     - /people/fschweitzer
 ---
 
-[Short Bio](/fs/cv/)
+[Short Bio](/extra/fs/cv/)
 
 
-[Editorial Boards](/fs/boards)
+[Editorial Boards](/extra/fs/boards)
 
 <!--
 <details>
@@ -32,9 +32,9 @@ aliases:
 </details>
 -->
 
-[Talks](/fs/talks/)
+[Talks](/extra/fs/talks/)
 
-[Program Committee](/fs/pc/)
+[Program Committee](/extra/fs/pc/)
 
 [Books](/books/)
 
