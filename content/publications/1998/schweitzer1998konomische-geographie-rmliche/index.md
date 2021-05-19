@@ -1,5 +1,5 @@
 ---
-title: 'Ökonomische Geographie: Rümliche Selbstorganisation in der Standortverteilung'
+title: 'Ökonomische Geographie: Räumliche Selbstorganisation in der Standortverteilung'
 date: '1998-01-01'
 publishDate: '2021-05-19T19:27:39.268384Z'
 volume: '9'

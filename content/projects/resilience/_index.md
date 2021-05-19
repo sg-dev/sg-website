@@ -3,7 +3,7 @@ featured_image: resilience.png
 title: "Resilience"
 description: "How can we measure, understand and improve the resilience of complex systems in general and social organisations in particular?"
 date: 2021-04-07
-weight: 0
+weight: 2
 ---
 
 The study of the resilience of complex systems is one of the projects at the core of our group.
