@@ -26,4 +26,7 @@ url_pdf: http://linkinghub.elsevier.com/retrieve/pii/S0167268111000217
 doi: 10.1016/j.jebo.2011.01.007
 featured: false
 sg-areas:
+projects:
+- RnDcollaborations
+
 ---

@@ -37,4 +37,7 @@ abstract: "We develop an agent-based model to reproduce the processes of link fo
 publication: In Proceedings of the 10th International Forum IFKAD 2015
 featured: false
 sg-areas:
+projects:
+- RnDcollaborations
+
 ---

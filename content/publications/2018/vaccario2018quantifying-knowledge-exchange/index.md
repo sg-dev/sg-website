@@ -37,4 +37,7 @@ url_pdf: https://link.springer.com/content/pdf/10.1007/s00191-018-0569-1.pdf
 doi: 10.1007/s00191-018-0569-1
 featured: false
 sg-areas:
+projects:
+- RnDcollaborations
+
 ---

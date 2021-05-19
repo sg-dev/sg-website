@@ -25,4 +25,6 @@ url_pdf: http://www.sciencedirect.com/science/article/pii/S0899825612000024
 doi: 10.1016/j.geb.2011.12.007
 featured: false
 sg-areas:
+projects:
+- RnDcollaborations
 ---
