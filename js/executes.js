@@ -18,6 +18,19 @@ $(document).ready(function () {
 
         if ($("section").hasClass("isteam")) teamConnections(true);
     });
+
+    if ( $(".swiper-container")[0] ) {
+
+    let front = new Swiper('.swiper-container', {
+        loop: true,
+        autoplay: true,
+        pagination: {
+            el: '.swiper-pagination',
+        }
+    });
+    }
+
+
 });
 
 /***********
