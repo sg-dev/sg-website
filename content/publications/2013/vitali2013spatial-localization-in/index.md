@@ -27,4 +27,7 @@ url_pdf: http://dx.doi.org/10.1080/00343404.2011.625006
 doi: 10.1080/00343404.2011.625006
 featured: false
 sg-areas:
+projects: 
+- econ-geography
+
 ---
