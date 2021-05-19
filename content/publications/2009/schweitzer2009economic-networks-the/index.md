@@ -26,4 +26,7 @@ url_pdf: http://www.sciencemag.org/content/325/5939/422.abstract
 doi: 10.1126/science.1173644
 featured: false
 sg-areas:
+projects:
+- econ-networks
+
 ---
