@@ -3,6 +3,7 @@ featured_image: net.png
 title: "Network Theory"
 description: "Network representations and network models form the basis for the study of complex systems."
 date: 2021-04-07
+weight: 10
 ---
 
 Networks provide an optimal representation for complex systems.
