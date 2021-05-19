@@ -27,5 +27,6 @@ featured: false
 sg-areas:
 projects:
 - RnDcollaborations
+- econ-geography
 
 ---
