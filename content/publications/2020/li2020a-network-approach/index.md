@@ -2,7 +2,7 @@
 title: A network approach to expertise retrieval based on path similarity and credit
   allocation
 date: '2020-01-01'
-publishDate: '2021-05-20T08:22:48.546768Z'
+publishDate: '2021-05-20T16:18:19.949111Z'
 authors:
 - Xiancheng Li
 - Luca Verginer
@@ -24,6 +24,6 @@ abstract: " With the increasing availability of online scholarly databases, publ
   \ we show that our method can be applied to a number of widely used data sets and\
   \ outperforms other methods traditionally used for expertise identification. "
 publication: arXiv
+arxivid: '2009.13958'
 featured: false
-sg-areas:
 ---
