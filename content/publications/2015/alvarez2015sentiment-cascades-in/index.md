@@ -1,9 +1,9 @@
 ---
 title: Sentiment cascades in the 15M movement
 date: '2015-01-01'
-publishDate: '2021-05-20T16:39:26.967092Z'
 volume: '4'
 number: '6'
+publishDate: '2021-02-08T11:56:29.049477Z'
 authors:
 - Raquel Alvarez
 - David Garcia
@@ -25,9 +25,9 @@ abstract: Recent grassroots movements have suggested that online social networks
   level of engagement and of expression of negativity. Our findings show that non-rational
   factors play a role in the formation and activity of social movements through online
   media, having important consequences for viral spreading.
-publication:
+publication: EPJ Data Science
 url_pdf: http://www.epjdatascience.com/content/4/1/6
 doi: 10.1140/epjds/s13688-015-0042-4
-arxivid: '1505.03776'
 featured: false
+sg-areas:
 ---

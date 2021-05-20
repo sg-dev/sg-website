@@ -2,9 +2,9 @@
 title: Enhanced or distorted wisdom of crowds? An agent-based model of opinion formation
   under social influence
 date: '2020-01-01'
-publishDate: '2021-05-20T16:39:19.144826Z'
 volume: xx
 pages: (submitted)
+publishDate: '2021-02-08T11:56:30.133579Z'
 authors:
 - Pavlin Mavrodiev
 - Frank Schweitzer
@@ -22,7 +22,9 @@ abstract: 'We propose an agent - based model of collective opinion formation to 
   the wisdom of crowds. Most often, we find that agents converge to a collective opinion
   that is even farther away from the true answer. So, under social influence the wisdom
   of crowds can be systematically wrong.'
-publication:
-arxivid: '2008.10423'
+publication: Swarm Intelligence
+url_pdf: https://link.springer.com/article/10.1007/s11721-021-00189-3
+doi: 10.1007/s11721-021-00189-3
 featured: false
+sg-areas:
 ---

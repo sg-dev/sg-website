@@ -2,10 +2,10 @@
 title: Citations Driven by Social Connections? A Multi-Layer Representation of Coauthorship
   Networks
 date: '2020-12-01'
-publishDate: '2021-05-20T16:39:18.672419Z'
 volume: '1'
 number: '4'
 pages: 1493-1509
+publishDate: '2021-02-08T11:56:28.852395Z'
 authors:
 - Christian Zingg
 - Vahan Nanumyan
@@ -24,9 +24,9 @@ abstract: To what extent is the citation rate of new papers influenced by the pa
   authors who have either published more papers or who have had more coauthors in
   previous papers. We also find that for these authors the decay in the citation rate
   is faster, meaning that their papers are forgotten sooner.
-publication:
+publication: Quantitative Science Studies
 url_pdf: https://doi.org/10.1162/qss_a_00092
 doi: 10.1162/qss_a_00092
-arxivid: '1909.13507'
 featured: false
+sg-areas:
 ---

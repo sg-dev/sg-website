@@ -1,9 +1,9 @@
 ---
 title: Social signals and algorithmic trading of Bitcoin
 date: '2015-01-01'
-publishDate: '2021-05-20T16:39:23.526679Z'
 volume: '2'
 number: '150288'
+publishDate: '2021-02-08T11:56:31.273606Z'
 authors:
 - David Garcia
 - Frank Schweitzer
@@ -26,9 +26,9 @@ abstract: The availability of data on digital traces is growing to unprecedented
   We verify this high profitability with robust statistical methods that take into
   account risk and trading costs, confirming the long-standing hypothesis that trading-based
   social media sentiment has the potential to yield positive returns on investment.
-publication:
+publication: Royal Society Open Science
 url_pdf: http://rsos.royalsocietypublishing.org/content/2/9/150288
 doi: 10.1098/rsos.150288
-arxivid: '1506.01513'
 featured: false
+sg-areas:
 ---

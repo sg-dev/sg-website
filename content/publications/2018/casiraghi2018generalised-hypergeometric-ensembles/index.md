@@ -2,7 +2,7 @@
 title: 'Generalised hypergeometric ensembles of random graphs: The configuration model
   as an urn problem'
 date: '2018-01-01'
-publishDate: '2021-05-20T16:39:19.610577Z'
+publishDate: '2021-02-08T11:56:31.117991Z'
 authors:
 - Giona Casiraghi
 - Vahan Nanumyan
@@ -15,7 +15,8 @@ abstract: 'We introduce a broad class of random graph models: the generalised hy
   of our formulation. This is in stark contrast with the previous state-of-the-art,
   which is to implement the configuration model by means of computationally expensive
   procedures.'
-publication:
-arxivid: '1810.06495'
+publication: arXiv:1810.06495
 featured: false
+projects:
+- Network Theory
 ---

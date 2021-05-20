@@ -1,13 +1,13 @@
 ---
 title: Intervention scenarios to enhance knowledge transfer in a network of firms
 date: '2020-01-01'
-publishDate: '2021-05-20T16:39:16.035134Z'
 volume: '8'
 pages: '382'
+publishDate: '2021-02-08T11:56:33.983553Z'
 authors:
-- Giona Casiraghi
 - Frank Schweitzer
 - Yan Zhang
+- Giona Casiraghi
 abstract: We investigate a multi-agent model of firms in a Research & Development
   (R&D) network. Each firm is characterized by its knowledge stock xi(t), which follows
   a non-linear dynamics. xi(t) grows with the input from other firms, i.e., by knowledge
@@ -23,9 +23,10 @@ abstract: We investigate a multi-agent model of firms in a Research & Developmen
   This allows to generate small cascades, which prevents the occurrence of large cascades.
   We find that both approaches successfully mitigate cascades and thus improve the
   resilience of the R&D network.
-publication:
+publication: Frontiers in Physics
 url_pdf: https://www.frontiersin.org/articles/10.3389/fphy.2020.00382/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Physics&id=576129
 doi: 10.3389/fphy.2020.00382
-arxivid: '2006.14249'
 featured: false
+projects:
+- Resilience
 ---

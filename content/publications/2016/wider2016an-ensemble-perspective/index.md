@@ -1,8 +1,8 @@
 ---
 title: An ensemble perspective on multi-layer networks
 date: '2016-01-01'
-publishDate: '2021-05-20T16:39:09.026146Z'
 pages: 37--59
+publishDate: '2021-02-08T11:56:29.845076Z'
 authors:
 - Nicolas Wider
 - Antonios Garas
@@ -19,9 +19,9 @@ abstract: We study properties of multi-layered, interconnected networks from an 
   allow to estimate the ensemble average by only considering aggregate statistics
   of the layers. Our approach can be used when only partial information is available,
   like it is usually the case for real-world multi-layer complex systems.
-publication:
+publication: Interconnected Networks
 url_pdf: http://dx.doi.org/10.1007/978-3-319-23947-7_3
 doi: 10.1007/978-3-319-23947-7_3
-arxivid: arXiv:1507.00169
 featured: false
+sg-areas:
 ---

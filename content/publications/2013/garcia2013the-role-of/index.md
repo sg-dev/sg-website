@@ -2,8 +2,8 @@
 title: 'The Role of Emotions in Contributors Activity: A Case Study of the Gentoo
   Community'
 date: '2013-01-01'
-publishDate: '2021-05-20T16:39:29.177916Z'
 pages: 410-417
+publishDate: '2021-02-08T11:56:29.317344Z'
 authors:
 - David Garcia
 - Marcelo Serrano Zanetti
@@ -24,9 +24,9 @@ abstract: We analyse the relation between the emotions and the activity of contr
   leaving the project. Our analysis opens new perspectives for measuring online contributor
   motivation by means of sentiment analysis and for real-time predictions of contributor
   turnover in Open Source Software projects.
-publication:
+publication: ''
 url_pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6686063
 doi: 10.1109/CGC.2013.71
-arxivid: '1306.3612'
 featured: false
+sg-areas:
 ---

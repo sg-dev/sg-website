@@ -1,10 +1,10 @@
 ---
 title: 'Slower is faster: Fostering consensus formation by heterogeneous interia'
 date: '2008-01-01'
-publishDate: '2021-05-20T16:39:21.319468Z'
 volume: '11'
 number: '4'
 pages: 551-563
+publishDate: '2021-02-08T11:56:32.831390Z'
 authors:
 - Claudio Juan Tessone
 - Frank Schweitzer
@@ -22,9 +22,9 @@ abstract: "We investigate an extension of the voter model in which voters are eq
   \ homogeneous inertia values, we only find monotonously increasing consensus times.\
   \ In the paper, we present dynamical equations for the mean-field case which allow\
   \ for analytical insight into the observed slower-is-faster effect."
-publication:
+publication: ACS - Advances in Complex Systems
 url_pdf: http://www.worldscinet.com/acs/11/1104/S0219525908001805.html
 doi: 10.1142/S0219525908001805
-arxivid: '0904.0765'
 featured: false
+sg-areas:
 ---

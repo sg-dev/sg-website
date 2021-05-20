@@ -2,10 +2,10 @@
 title: Systemic risk in a network fragility model analyzed with probability density
   evolution of persistent random walks
 date: '2008-11-01'
-publishDate: '2021-05-20T16:39:21.787611Z'
 volume: '3'
 number: '2'
 pages: '185'
+publishDate: '2021-02-08T11:56:31.597887Z'
 authors:
 - Jan Lorenz
 - Stefano Battiston
@@ -20,9 +20,9 @@ abstract: We study the mean field approximation of a recent model of cascades on
   dynamics of the probability density function of the average fragility. This converges
   to a unique stable distribution which can be computed numerically and can be used
   to estimate the systemic risk as a function of the parameters of the model.
-publication:
+publication: Networks and Heterogeneous Media
 url_pdf: http://aimsciences.org/journals/displayArticles.jsp?paperID=3273
 doi: 10.3934/nhm.2008.3.185
-arxivid: '0711.1784'
 featured: false
+sg-areas:
 ---

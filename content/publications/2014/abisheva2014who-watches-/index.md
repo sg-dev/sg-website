@@ -2,7 +2,7 @@
 title: Who Watches ( and Shares ) What on YouTube ? And When ? Using Twitter to Understand
   YouTube Viewership
 date: '2014-02-01'
-publishDate: '2021-05-20T16:39:24.151481Z'
+publishDate: '2021-02-08T11:56:33.021046Z'
 authors:
 - Adiya Abisheva
 - Venkata Rama Kiran Garimella
@@ -31,9 +31,10 @@ abstract: We combine user-centric Twitter data with video-centric YouTube data t
   unlikely. We show that response times depend on video category, revealing that Twitter
   sharing of a video is highly dependent on its content. To the best of our knowledge
   this is the first large-scale study combining YouTube and Twitter data.
-publication:
+publication: 'In Proceedings of the 7th ACM international conference on Web search
+  and data mining, pages: 593-602'
 url_pdf: http://dl.acm.org/citation.cfm?id=2566588&CFID=420782655&CFTOKEN=76267284
 doi: 10.1145/2556195.2566588
-arxivid: arXiv:1312.4511v1
 featured: false
+sg-areas:
 ---

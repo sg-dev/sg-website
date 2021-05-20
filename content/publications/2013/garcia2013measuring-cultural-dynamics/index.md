@@ -1,10 +1,10 @@
 ---
 title: Measuring cultural dynamics through the Eurovision song contest
 date: '2013-01-01'
-publishDate: '2021-05-20T16:39:22.106327Z'
 volume: '16'
 number: '8'
 pages: '33'
+publishDate: '2021-02-08T11:56:32.070371Z'
 authors:
 - David Garcia
 - Dorian Tanase
@@ -26,9 +26,9 @@ abstract: Measuring culture and its dynamics through surveys has important limit
   recent political decisions of EU states inuence the way their citizens relate to
   the culture of other EU members, leading to stronger cultural biases in the way
   they vote in the Eurovision song contest.
-publication:
+publication: ACS - Advances in Complex Systems
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525913500379
 doi: '10.1142/S0219525913500379 '
-arxivid: '1301.2995'
 featured: false
+sg-areas:
 ---

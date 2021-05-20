@@ -1,10 +1,10 @@
 ---
 title: 'Organic design of massively distributed systems: A complex networks perspective'
 date: '2012-01-01'
-publishDate: '2021-05-20T16:39:12.925044Z'
 volume: '35'
 number: '2'
 pages: 1-- 12
+publishDate: '2021-02-08T11:56:32.585713Z'
 authors:
 - Ingo Scholtes
 - Claudio Juan Tessone
@@ -19,9 +19,9 @@ abstract: The vision of Organic Computing addresses challenges that arise in the
   review some of the interesting relations between statistical physics and networked
   systems and discuss applications in the engineering of organic overlay networks
   with predictable macroscopic properties.
-publication:
+publication: Informatik Spektrum
 url_pdf: http://link.springer.com/article/10.1007%2Fs00287-012-0597-4
 doi: 10.1007/s00287-012-0597-4
-arxivid: arXiv:1201.3480v1
 featured: false
+sg-areas:
 ---

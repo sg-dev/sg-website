@@ -1,10 +1,10 @@
 ---
 title: 'Continuous opinion dynamics under bounded confidence: A survey'
 date: '2007-07-01'
-publishDate: '2021-05-20T16:39:26.809980Z'
 volume: '18'
 number: '12'
 pages: 1819-- 1838
+publishDate: '2021-02-08T11:56:31.140208Z'
 authors:
 - Jan Lorenz
 abstract: Models of continuous opinion dynamics under bounded confidence have been
@@ -22,9 +22,9 @@ abstract: Models of continuous opinion dynamics under bounded confidence have be
   diagrams of cluster configuration in the homogeneous model with uniformly distributed
   initial opinions; third to review the several extensions and the evolving phenomena
   which have been studied so far; and fourth to state some basic open questions.
-publication:
+publication: International Journal of Modern Physics C
 url_pdf: http://www.worldscinet.com/ijmpc/18/1812/S0129183107011789.html
 doi: 10.1142/S0129183107011789
-arxivid: '0707.1762'
 featured: false
+sg-areas:
 ---

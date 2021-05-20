@@ -1,7 +1,7 @@
 ---
 title: Emotions, Demographics and Sociability in Twitter Interactions
 date: '2016-01-01'
-publishDate: '2021-05-20T16:39:13.079416Z'
+publishDate: '2021-02-08T11:56:29.336970Z'
 authors:
 - Kristina Lerman
 - Megha Arora
@@ -27,8 +27,8 @@ abstract: The social connections, or ties, individuals create affect their life 
   younger and higher-earning residents. Our work highlights the value of linking social
   media data to traditional data sources, such as US Census, to drive novel analysis
   of online behavior.
-publication:
+publication: nternational Conference in Web and Social Media (ICWSM)
 url_pdf: http://arxiv.org/abs/1510.07090
-arxivid: '1510.07090'
 featured: false
+sg-areas:
 ---

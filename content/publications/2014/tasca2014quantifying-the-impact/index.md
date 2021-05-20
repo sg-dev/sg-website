@@ -1,10 +1,10 @@
 ---
 title: Quantifying the Impact of Leveraging and Diversification on Systemic Risk
 date: '2014-01-01'
-publishDate: '2021-05-20T16:39:26.183134Z'
 volume: '15'
 number: '0'
 pages: 43-52
+publishDate: '2021-02-08T11:56:32.124509Z'
 authors:
 - Paolo Tasca
 - Pavlin Mavrodiev
@@ -23,9 +23,9 @@ abstract: 'The excessive increase of leverage, i.e. the abuse of debt financing,
   and time horizon, cannot compensate the same increase in leverage. Our results are
   of relevance for financial regulators especially because the critical level of diversification
   may not coincide with the one that is individually optimal.'
-publication:
+publication: Journal of Financial Stability
 url_pdf: http://www.sciencedirect.com/science/article/pii/S1572308914000801
 doi: 10.1016/j.jfs.2014.08.006
-arxivid: '1303.5552'
 featured: false
+sg-areas:
 ---

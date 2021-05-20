@@ -1,10 +1,10 @@
 ---
 title: Web search queries can predict stock market volumes
 date: '2011-01-01'
-publishDate: '2021-05-20T16:39:10.740241Z'
 volume: '7'
 number: '7'
 pages: e40014
+publishDate: '2021-02-08T11:56:30.264673Z'
 authors:
 - Ilaria Bordino
 - Stefano Battiston
@@ -32,9 +32,9 @@ abstract: "We live in a computerized and networked society where many of our act
   \ but seemingly uncoordinated activity of many users. These findings contribute\
   \ to the debate on the identification of early warnings of financial systemic risk,\
   \ based on the activity of users of the www."
-publication:
+publication: PLOS-ONE
 url_pdf: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0040014
 doi: 10.1371/journal.pone.0040014
-arxivid: '1110.4784'
 featured: false
+sg-areas:
 ---

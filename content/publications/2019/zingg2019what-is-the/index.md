@@ -1,9 +1,9 @@
 ---
 title: What is the Entropy of a Social Organization?
 date: '2019-05-01'
-publishDate: '2021-05-20T16:39:15.876422Z'
 volume: '21'
 number: '9'
+publishDate: '2021-02-08T11:56:31.467615Z'
 authors:
 - Christian Zingg
 - Giona Casiraghi
@@ -19,9 +19,11 @@ abstract: We quantify a social organization's potentiality, that is its ability 
   This allows us to compare different organizations as well different stages in the
   development of a given organization. The feasibility of the approach is demonstrated
   using data from 3 empirical and 2 synthetic systems.
-publication:
+publication: Entropy
 url_pdf: https://www.mdpi.com/1099-4300/21/9/901
 doi: 10.3390/e21090901
-arxivid: '1905.09772'
 featured: false
+projects:
+- Network Theory
+- Resilience
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Social percolation revisited: From 2d lattices to adaptive network'
 date: '2020-01-01'
-publishDate: '2021-05-20T16:39:17.118039Z'
+publishDate: '2021-03-01T16:25:38.277322Z'
 volume: xxx
 number: xxx
 pages: xxx
@@ -19,7 +19,7 @@ abstract: The social percolation model (Solomon et al., 2000) considers a 2-dime
   into a threshold network, where agents create links dependent on their $x_i$ values.   Assuming
   a dynamics of the $x_i$ and a mechanism of group formation, I further extend the
   model toward an adaptive social network model.
-publication:
-arxivid: '2010.06393'
+publication: Physica A
 featured: false
+sg-areas:
 ---

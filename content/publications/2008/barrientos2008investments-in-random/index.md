@@ -1,10 +1,10 @@
 ---
 title: Investments in random environments
 date: '2008-03-01'
-publishDate: '2021-05-20T16:39:28.375810Z'
 volume: '387'
 number: 8-9
 pages: 2035-- 2046
+publishDate: '2021-02-08T11:56:28.813709Z'
 authors:
 - Jesus Emeterio Navarro - Barrientos
 - Ruben Cantero
@@ -21,9 +21,9 @@ abstract: We present analytical investigations of a multiplicative stochastic pr
   to the characteristic parameters describing the stochastic process. Our analytical
   results are confirmed by stochastic computer simulations that show a very good agreement
   with the predictions.
-publication:
+publication: Physica A
 url_pdf: http://linkinghub.elsevier.com/retrieve/pii/S0378437107012216
 doi: 10.1016/j.physa.2007.11.029
-arxivid: '0709.3630'
 featured: false
+sg-areas:
 ---

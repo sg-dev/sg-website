@@ -1,10 +1,10 @@
 ---
 title: Universality in movie rating distributions
 date: '2009-08-01'
-publishDate: '2021-05-20T16:39:23.210081Z'
 volume: '71'
 number: '2'
 pages: 251-- 258
+publishDate: '2021-02-08T11:56:34.075881Z'
 authors:
 - Jan Lorenz
 abstract: In this paper histograms of user ratings for movies (1,...,10) are analysed.
@@ -27,9 +27,9 @@ abstract: In this paper histograms of user ratings for movies (1,...,10) are ana
   and skew. The skewness pronounces the deviation. This is used to construct a one
   parameter fit which gives some evidence of universality in processes of continuous
   opinion dynamics about taste.
-publication:
+publication: The European Physical Journal B
 url_pdf: https://link.springer.com/article/10.1140%2Fepjb%2Fe2009-00283-3
 doi: 10.1140/epjb/e2009-00283-3
-arxivid: '0806.2305'
 featured: false
+sg-areas:
 ---

@@ -1,8 +1,8 @@
 ---
 title: Controlled Tripping of Overheated Lines Mitigates Power Outages
 date: '2011-04-01'
-publishDate: '2021-05-20T16:39:09.952274Z'
 pages: '7'
+publishDate: '2021-02-08T11:56:34.037561Z'
 authors:
 - Rene Pfitzner
 - Konstantin Turitsyn
@@ -24,8 +24,8 @@ abstract: We study the evolution of fast blackout cascades in the model of the P
   based on the current state of the grid. Overall, we conclude that controlled intentional
   tripping is advantageous in the situation of a fast developing extreme emergency,
   as it provides significant mitigation of the resulting damage.
-publication:
+publication: ''
 url_pdf: http://arxiv.org/abs/1104.4558
-arxivid: '1104.4558'
 featured: false
+sg-areas:
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Reproducing scientists' mobility: A data-driven model"
 date: '2020-01-01'
-publishDate: '2021-05-20T16:39:16.961621Z'
+publishDate: '2021-02-08T11:56:33.414263Z'
 authors:
 - Giacomo Vaccario
 - Verginer Luca
@@ -20,7 +20,7 @@ abstract: High skill labour is an important factor underpinning the competitive 
   that the probability of scientists to relocate decreases both with age and with
   distance. Our results allow interpreting the model assumptions as micro-based decision
   rules that can explain the observed mobility patterns of scientists.
-publication:
-arxivid: '1811.07229'
+publication: arXiv:1811.07229
 featured: false
+sg-areas:
 ---

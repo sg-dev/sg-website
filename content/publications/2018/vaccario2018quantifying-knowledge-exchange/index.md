@@ -1,10 +1,10 @@
 ---
 title: 'Quantifying knowledge exchange in R&D networks: A data-driven model'
 date: '2018-08-01'
-publishDate: '2021-05-20T16:39:19.304147Z'
 volume: '28'
 number: '3'
 pages: 461-493
+publishDate: '2021-02-08T11:56:31.447638Z'
 authors:
 - Giacomo Vaccario
 - Mario Vincenzo Tomasello
@@ -32,9 +32,12 @@ abstract: We propose a model that reflects two important processes in R&D activi
   that can be both realistic and optimized with respect to the collaboration efficiency
   $C_(n)$. Effective policies, as suggested by our model, would incentivize shorter
   R&D alliances and higher knowledge exchange rates.
-publication:
+publication: Journal of Evolutionary Economics
 url_pdf: https://link.springer.com/content/pdf/10.1007/s00191-018-0569-1.pdf
 doi: 10.1007/s00191-018-0569-1
-arxivid: '1507.07148'
 featured: false
+sg-areas:
+projects:
+- RnDcollaborations
+
 ---

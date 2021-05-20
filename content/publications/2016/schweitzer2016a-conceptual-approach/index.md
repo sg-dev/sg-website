@@ -1,10 +1,10 @@
 ---
 title: A conceptual approach to model co-evolution of urban structures
 date: '2016-01-01'
-publishDate: '2021-05-20T16:39:11.056652Z'
 volume: '31'
 number: '1'
 pages: 43-51
+publishDate: '2021-02-08T11:56:32.982559Z'
 authors:
 - Frank Schweitzer
 - Vahan Nanumyan
@@ -26,10 +26,9 @@ abstract: 'Urban structures encompass settlements, characterized by the spatial 
   demands for housing and mobility. We characterize our approach as a statistical
   ensemble approach, which allows to capture the potential of urban evolution in a
   bottom-up manner, but can be validated against empirical observations.'
-publication:
+publication: International Journal of Space Structures
 url_pdf: http://sps.sagepub.com/content/31/1/43.abstract
 doi: 10.1177/0266351116642075
-arxivid: '1606.04707'
 featured: false
 projects: 
 - econ-geography 

@@ -2,8 +2,8 @@
 title: 'From Relational Data to Graphs: Inferring Significant Links Using Generalized
   Hypergeometric Ensembles'
 date: '2017-06-01'
-publishDate: '2021-05-20T16:39:15.260633Z'
 pages: 111--120
+publishDate: '2021-02-08T11:56:33.525777Z'
 authors:
 - Giona Casiraghi
 - Vahan Nanumyan
@@ -23,9 +23,11 @@ abstract: The inference of network topologies from relational data is an importa
   actors in a social system. The results show that our analytical framework provides
   a new approach to infer significant links from relational data, with interesting
   perspectives for the mining of data on social systems.
-publication:
+publication: 'Social Informatics: 9th International Conference, SocInfo 2017, Oxford,
+  UK, September 13-15, 2017, Proceedings, Part II'
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-67256-4_11
 doi: 10.1007/978-3-319-67256-4_11
-arxivid: '1706.04370'
-featured: false
+projects:
+- Network Theory
+- Data Science
 ---

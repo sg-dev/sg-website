@@ -1,10 +1,10 @@
 ---
 title: Universal scaling in the branching of the tree of life
 date: '2008-01-01'
-publishDate: '2021-05-20T16:39:23.050808Z'
 volume: '3'
 number: '7'
 pages: e2757
+publishDate: '2021-02-08T11:56:30.788102Z'
 authors:
 - E Alejandro Herrada
 - Claudio Juan Tessone
@@ -23,9 +23,9 @@ abstract: Understanding the patterns and processes of diversification of life in
   differentiation suggests that similar evolutionary forces drive diversification
   across the broad range of scales, from macro-evolutionary to micro-evolutionary
   processes, shaping the diversity of life on the planet.
-publication:
+publication: PLOS ONE
 url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002757
 doi: 10.1371/journal.pone.0002757
-arxivid: '0807.4042'
 featured: false
+sg-areas:
 ---

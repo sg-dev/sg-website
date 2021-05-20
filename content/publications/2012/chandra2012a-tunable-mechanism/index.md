@@ -2,7 +2,7 @@
 title: A tunable mechanism for identifying trusted nodes in large scale distributed
   networks
 date: '2012-01-01'
-publishDate: '2021-05-20T16:39:10.585530Z'
+publishDate: '2021-02-08T11:56:32.906071Z'
 authors:
 - Joydeep Chandra
 - Ingo Scholtes
@@ -26,9 +26,10 @@ abstract: In this paper, we propose a simple randomized protocol for identifying
   named TrustWebRank. Finally, we provide a measure of the global trustworthiness
   of a node; simulation results indicate that the measures generated using our mechanism
   differ by only around 0.6% as compared to TrustWebRank.
-publication:
+publication: Proceedings of 11th IEEE International Conference on Trust, Security
+  and Privacy in Computing and Communications (TrustCom 2012)
 url_pdf: http://dl.acm.org/citation.cfm?id=2360332
 doi: 10.1109/TrustCom.2012.63
-arxivid: '1204.5314'
 featured: false
+sg-areas:
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Newcomers vs. incumbents: How firms select their partners for R&D collaborations'
 date: '2017-03-01'
-publishDate: '2021-05-20T16:39:14.173119Z'
+publishDate: '2021-02-08T11:56:32.447531Z'
 authors:
 - Antonios Garas
 - Mario Vincenzo Tomasello
@@ -24,8 +24,8 @@ abstract: 'This paper studies the selection of partners for R&D collaborations o
   dependent on their network position. We find that the observed behavior can be well
   reproduced without such strategic considerations, this way challenging the role
   of strategies in explaining macro patterns of collaborations.'
-publication:
+publication: arXiv:1403.3298
 url_pdf: http://arxiv.org/abs/1403.3298
-arxivid: '1403.3298'
 featured: false
+sg-areas:
 ---

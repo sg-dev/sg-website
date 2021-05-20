@@ -1,10 +1,10 @@
 ---
 title: Modeling vortex swarming in daphnia
 date: '2007-02-01'
-publishDate: '2021-05-20T16:39:27.122561Z'
 volume: '69'
 number: '2'
 pages: 539-- 562
+publishDate: '2021-02-08T11:56:32.424059Z'
 authors:
 - Robert Mach
 - Frank Schweitzer
@@ -22,9 +22,9 @@ abstract: Based on experimental observations in Daphnia, we introduce an agent-b
   single agents to the vortex swarming as a function of the swarm size is investigated.
   Eventually, some evidence of avoidance behavior in Daphnia is provided by comparing
   experimental and simulation results for two animals.
-publication:
+publication: Bulletin of mathematical biology
 url_pdf: http://link.springer.com/article/10.1007%2Fs11538-006-9135-3
 doi: 10.1007/s11538-006-9135-3
-arxivid: q-bio/0404028
 featured: false
+sg-areas:
 ---
