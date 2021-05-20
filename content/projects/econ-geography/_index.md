@@ -5,7 +5,7 @@ draft: false
 featured_image: spatial-RD.png
 description: "Economic geography - how is economic activity distributed in physical space? "
 label:
-weight: 5
+weight: 0
 ---
 
 Economic geography analyses and models the spatial distribution of economic activities.

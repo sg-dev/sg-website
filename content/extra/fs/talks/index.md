@@ -1,5 +1,5 @@
 ---
-title: Frank Schweiter's Talks
+title: Frank Schweitzer's Talks
 ---
 
 
