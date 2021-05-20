@@ -31,4 +31,7 @@ url_pdf: http://sps.sagepub.com/content/31/1/43.abstract
 doi: 10.1177/0266351116642075
 arxivid: '1606.04707'
 featured: false
+projects: 
+- econ-geography 
+
 ---
