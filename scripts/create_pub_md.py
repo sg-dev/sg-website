@@ -95,8 +95,8 @@ def write_index_md(index_md_path, entry, authors, title, pub_date, timestamp):
     elif "publisher" in entry:
         publication = clean_bibtex_str(entry["publisher"])
     else:
-        raise ValueError("No venue specified, if preprint add the service, e.g. arXiv, SSRN")
-    page.fm["publication"] = publication
+        print("No venue specified, if preprint add the service, e.g. arXiv, SSRN")
+    page.fm["publication"] = None
 
     if "url" in entry:
         page.fm["url_pdf"] = clean_bibtex_str(entry["url"])
@@ -104,9 +104,11 @@ def write_index_md(index_md_path, entry, authors, title, pub_date, timestamp):
     if "doi" in entry:
         page.fm["doi"] = clean_bibtex_str(entry["doi"])
 
+    if "arxivid" in entry:
+        page.fm["arxivid"] = clean_bibtex_str(entry["arxivid"])
+
 
     page.fm["featured"] = False
-    page.fm["sg-areas"] = None
 
     # Save Markdown file.
     page.dump()
