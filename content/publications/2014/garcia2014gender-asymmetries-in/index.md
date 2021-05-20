@@ -1,8 +1,8 @@
 ---
 title: 'Gender Asymmetries in Reality and Fiction : The Bechdel Test of Social Media'
 date: '2014-01-01'
+publishDate: '2021-05-20T16:39:25.093033Z'
 pages: 131-140
-publishDate: '2021-02-08T11:56:32.184873Z'
 authors:
 - David Garcia
 - Ingmar Weber
@@ -29,9 +29,8 @@ abstract: 'The subjective nature of gender inequality motivates the analysis and
   This points to the relation between gender inequality and social, economical, and
   cultural factors of a society, and how gender roles exist in both fictional narratives
   and public online dialogues.'
-publication: Proceedings of the International AAAI Conference on Weblogs and Social
-  Media
+publication:
 url_pdf: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8070
+arxivid: '1404.0163'
 featured: false
-sg-areas:
 ---

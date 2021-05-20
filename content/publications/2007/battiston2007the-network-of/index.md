@@ -1,10 +1,10 @@
 ---
 title: The Network of Inter-regional Direct Investment Stocks across Europe
 date: '2007-08-01'
+publishDate: '2021-05-20T16:39:28.688505Z'
 volume: '10'
 number: '1'
 pages: 29-- 51
-publishDate: '2021-02-08T11:56:29.771966Z'
 authors:
 - Stefano Battiston
 - Joao F. Rodrigues
@@ -28,12 +28,9 @@ abstract: 'We propose a methodological framework to study the dynamics of inter-
   with connectivity in a similar way as has been previously found for stock market
   data, calling for further investigations on a possible general scaling law holding
   true in economical networks.'
-publication: ACS - Advances in Complex Systems
+publication:
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525907000933
 doi: 10.1142/S0219525907000933
+arxivid: physics/0508206
 featured: false
-sg-areas:
-projects:
-- econ-geography
-
 ---

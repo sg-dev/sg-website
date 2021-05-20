@@ -1,9 +1,9 @@
 ---
 title: A model of dynamic rewiring and knowledge exchange in R&D networks
 date: '2016-01-01'
+publishDate: '2021-05-20T16:39:10.900618Z'
 volume: '19'
 number: 1 - 2
-publishDate: '2021-02-08T11:56:31.199274Z'
 authors:
 - Mario Vincenzo Tomasello
 - Claudio Juan Tessone
@@ -24,12 +24,9 @@ abstract: This paper investigates the process of knowledge exchange in inter-fir
   whose position is an emergent property of the system. And, more importantly, we
   find that there exists an inverted U-shaped dependence of the network performance
   on both model parameters.
-publication: Advances in Complex Systems
+publication:
 url_pdf: https://doi.org/10.1142/S0219525916500041
 doi: 10.1142/S0219525916500041
+arxivid: '1505.01756'
 featured: false
-sg-areas:
-projects:
-- RnDcollaborations
-
 ---

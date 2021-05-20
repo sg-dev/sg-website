@@ -2,10 +2,10 @@
 title: 'Betweenness preference: Quantifying correlations in the topological dynamics
   of temporal networks'
 date: '2013-05-01'
+publishDate: '2021-05-20T16:39:24.622589Z'
 volume: '110'
 number: '19'
 pages: '198701'
-publishDate: '2021-02-08T11:56:30.412464Z'
 authors:
 - Rene Pfitzner
 - Ingo Scholtes
@@ -23,9 +23,9 @@ abstract: Time - evolving interaction patterns studied in diﬀerent contexts ca
   sequence of interactions. We argue that betweenness preference correlationsare present
   in empirical data sets. We further show that neglecting betweenness preferencewill
   lead to signiﬁcantly wrong statements about spreading dynamics in temporal networks.
-publication: Physical Review Letters
+publication:
 url_pdf: http://prl.aps.org/abstract/PRL/v110/i19/e198701
 doi: 10.1103/PhysRevLett.110.198701
+arxivid: '1208.0588'
 featured: false
-sg-areas:
 ---

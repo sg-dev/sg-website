@@ -1,10 +1,10 @@
 ---
 title: Power law signature of media exposure in human response waiting time distributions
 date: '2010-05-01'
+publishDate: '2021-05-20T16:39:18.990755Z'
 volume: '81'
 number: '5'
 pages: 1-- 6
-publishDate: '2021-02-08T11:56:29.924466Z'
 authors:
 - Riley Crane
 - Frank Schweitzer
@@ -18,9 +18,9 @@ abstract: We study the humanitarian response to the destruction brought by the t
   this recently predicted regime, and provide additional independent evidence that
   suggests it arises as a result of the intense focus placed on this donation \"task\"
   by the media.
-publication: Physical Review E
+publication:
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.81.056101
 doi: 10.1103/PhysRevE.81.056101
+arxivid: '0903.1406'
 featured: false
-sg-areas:
 ---

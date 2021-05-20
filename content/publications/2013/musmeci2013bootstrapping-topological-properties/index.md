@@ -2,10 +2,10 @@
 title: Bootstrapping Topological Properties and Systemic Risk of Complex Networks
   Using the Fitness Model
 date: '2013-01-01'
+publishDate: '2021-05-20T16:39:21.476886Z'
 volume: '151'
 number: 3-4
 pages: 720-734
-publishDate: '2021-02-08T11:56:33.602256Z'
 authors:
 - Nicolo Musmeci
 - Stefano Battiston
@@ -29,9 +29,9 @@ abstract: In this paper we present a novel method to reconstruct global topologi
   from economic and financial contexts. In both cases, we find that a subset as small
   as 10 % of nodes can be enough to estimate the properties of the network along with
   its resilience with an error of 5 %.
-publication: Journal of Statistical Physics
+publication:
 url_pdf: http://dx.doi.org/10.1007/s10955-013-0720-1
 doi: 10.1007/s10955-013-0720-1
+arxivid: '1209.6459'
 featured: false
-sg-areas:
 ---

@@ -1,10 +1,10 @@
 ---
 title: 'Nonlinear voter models: The transition from invasion to coexistence'
 date: '2009-01-01'
+publishDate: '2021-05-20T16:39:29.334828Z'
 volume: '67'
 number: '3'
 pages: 301-- 318
-publishDate: '2021-02-08T11:56:28.890515Z'
 authors:
 - Frank Schweitzer
 - Laxmidhar Behera
@@ -22,9 +22,9 @@ abstract: 'In nonlinear voter models the transitions between two states depend i
   interestingly-- (iii) correlated coexistence. These findings are contrasted with
   predictions from the mean-field phase diagram and are confirmed by extensive computer
   simulations of the microscopic dynamics.'
-publication: The European Physical Journal B
+publication:
 url_pdf: https://link.springer.com/article/10.1140%2Fepjb%2Fe2009-00001-3
 doi: 10.1140/epjb/e2009-00001-3
+arxivid: cond-mat/0307742
 featured: false
-sg-areas:
 ---

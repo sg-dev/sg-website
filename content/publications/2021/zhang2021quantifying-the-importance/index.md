@@ -1,9 +1,9 @@
 ---
 title: Quantifying the importance of firms by means of reputation and network control
 date: '2021-01-01'
+publishDate: '2021-05-20T16:39:15.721157Z'
 volume: XXX
 pages: (submitted)
-publishDate: '2021-02-08T11:56:33.342983Z'
 authors:
 - Yan Zhang
 - Frank Schweitzer
@@ -19,7 +19,7 @@ abstract: The reputation of firms is largely channeled through their ownership s
   whereas firms with medium reputation most likely become top driver nodes. We further
   show that MDSs with lower access costs can be used to control the reputation dynamics
   in the whole network.
-publication: Frontiers in Big Data
+publication:
+arxivid: '2101.05010'
 featured: false
-sg-areas:
 ---

@@ -1,8 +1,8 @@
 ---
 title: 'Social resilience in online communities: The autopsy of Friendster'
 date: '2013-02-01'
+publishDate: '2021-05-20T16:39:22.425915Z'
 pages: 39-50
-publishDate: '2021-02-08T11:56:32.049700Z'
 authors:
 - David Garcia
 - Pavlin Mavrodiev
@@ -30,9 +30,9 @@ abstract: 'We empirically analyze five online communities: Friendster, Livejourn
   Our analysis can be applied to estimate the impact of changes in the user interface,
   which may temporarily increase the c/b ratio, thus posing a threat for the community
   to shrink, or even to collapse.'
-publication: ''
+publication:
 url_pdf: http://dl.acm.org/citation.cfm?id=2512946
 doi: 10.1145/2512938.2512946
+arxivid: '1302.6109'
 featured: false
-sg-areas:
 ---

@@ -1,9 +1,9 @@
 ---
 title: How damage diversification can reduce systemic risk
 date: '2016-04-01'
+publishDate: '2021-05-20T16:39:11.212747Z'
 volume: '93'
 pages: '042313'
-publishDate: '2021-02-08T11:56:33.195082Z'
 authors:
 - Rebekka Burkholz
 - Antonios Garas
@@ -23,9 +23,9 @@ abstract: 'We study the influence of risk diversification on cascading failures 
   we complement this systemic perspective by a mesoscopic one: an analysis of the
   failure risk of nodes dependent on their degree. Additionally, we ask for the role
   of these failures in the cascade amplification.'
-publication: Physical Review E
+publication:
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.93.042313
 doi: 10.1103/PhysRevE.93.042313
+arxivid: 1503.00925v1
 featured: false
-sg-areas:
 ---

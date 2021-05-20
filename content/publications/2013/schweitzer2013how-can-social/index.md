@@ -1,9 +1,9 @@
 ---
 title: How can social herding enhance cooperation?
 date: '2013-03-01'
+publishDate: '2021-05-20T16:39:23.369640Z'
 volume: '16'
 pages: 1350017-1-1350017-22
-publishDate: '2021-02-08T11:56:31.728960Z'
 authors:
 - Frank Schweitzer
 - Pavlin Mavrodiev
@@ -31,9 +31,9 @@ abstract: "We study a system in which N agents have to decide between two strate
   \ on just observing the strategy of others, to adopt it. By designing the right\
   \ mechanisms to respond to this information, the transition to cooperation can be\
   \ remarkably enhanced."
-publication: ACS - Advances in Complex Systems
+publication:
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525913500173
 doi: 10.1142/S0219525913500173
+arxivid: '1211.1188 '
 featured: false
-sg-areas:
 ---

@@ -2,7 +2,7 @@
 title: Predicting Sequences of Traversed Nodes in Graphs using Network Models with
   Multiple Higher Orders
 date: '2020-01-01'
-publishDate: '2021-02-08T11:56:31.971869Z'
+publishDate: '2021-05-20T16:39:18.515982Z'
 authors:
 - Christoph Gote
 - Giona Casiraghi
@@ -19,9 +19,7 @@ abstract: We propose a novel sequence prediction method for sequential data capt
   state-of-the-art algorithms for next-element prediction. We further demonstrate
   the accuracy of our method during out-of-sample sequence prediction and validate
   that our method can scale to data sets with millions of sequences.
-publication: arXiv preprint arXiv:2007.06662
+publication:
+arxivid: '2007.06662'
 featured: false
-projects:
-- Data Science
-- Network Theory
 ---

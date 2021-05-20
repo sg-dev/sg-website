@@ -2,7 +2,7 @@
 title: 'Generalized Hypergeometric Ensembles: Statistical Hypothesis Testing in Complex
   Networks'
 date: '2016-07-01'
-publishDate: '2021-02-08T11:56:29.237795Z'
+publishDate: '2021-05-20T16:39:09.329353Z'
 authors:
 - Giona Casiraghi
 - Vahan Nanumyan
@@ -23,9 +23,7 @@ abstract: 'Statistical ensembles define probability spaces of all networks consi
   each other. Studying empirical and synthetic data, we show that our approach provides
   broad perspectives for community detection, model selection and statistical hypothesis
   testing. '
-publication: ArXiv e-prints
+publication:
+arxivid: '1607.02441'
 featured: false
-projects:
-- Network Theory
-- Data Science
 ---

@@ -2,9 +2,9 @@
 title: Should the government reward cooperation? Insights from an agent-based model
   of wealth redistribution
 date: '2021-01-01'
+publishDate: '2021-05-20T16:39:16.652919Z'
 volume: XXX
 pages: (submitted)
-publishDate: '2021-02-08T11:56:32.295049Z'
 authors:
 - Frank Schweitzer
 - Luca Verginer
@@ -23,7 +23,7 @@ abstract: In our multi - agent model agents generate wealth from repeated intera
   In the global scenario instead full cooperation can be achieved once the cold -
   start problem is solved, because the critical bonus decreases with the level of
   cooperation. This allows to lower the tax rate, while maintaining high cooperation.
-publication: Advances in Complex Systems
+publication:
+arxivid: '2101.05580'
 featured: false
-sg-areas:
 ---

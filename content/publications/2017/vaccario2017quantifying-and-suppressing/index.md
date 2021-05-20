@@ -1,10 +1,10 @@
 ---
 title: Quantifying and suppressing ranking bias in a large citation network
 date: '2017-08-01'
+publishDate: '2021-05-20T16:39:14.488341Z'
 volume: '11'
 number: '3'
 pages: 766-782
-publishDate: '2021-02-08T11:56:31.218887Z'
 authors:
 - Giacomo Vaccario
 - Matus Medo
@@ -23,9 +23,9 @@ abstract: It is widely recognized that citation counts for papers from different
   field to the overall bias of a given ranking. We propose a general normalization
   procedure motivated by the z-score which produces much less biased rankings when
   applied to citation count and PageRank score.
-publication: Journal of Informetrics
+publication:
 url_pdf: http://www.sciencedirect.com/science/article/pii/S1751157717300974
 doi: https://doi.org/10.1016/j.joi.2017.05.014
+arxivid: '1703.08071'
 featured: false
-sg-areas:
 ---

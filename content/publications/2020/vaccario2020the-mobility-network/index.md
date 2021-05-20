@@ -2,10 +2,10 @@
 title: 'The mobility network of scientists: Analyzing temporal correlations in scientific
   careers'
 date: '2020-07-01'
+publishDate: '2021-05-20T16:39:17.592837Z'
 volume: '5'
 number: '1'
 pages: '36'
-publishDate: '2021-02-08T11:56:32.604488Z'
 authors:
 - Giacomo Vaccario
 - Luca Verginer
@@ -22,9 +22,9 @@ abstract: The mobility of scientists between different universities and countrie
   These correlations also exist at the level of countries, but cannot be found for
   cities. Our results allow to draw conclusions about the institutional path dependence
   of scientific careers and the efficiency of mobility programs.
-publication: Applied Network Science
+publication:
 url_pdf: https://doi.org/10.1007/s41109-020-00279-x
 doi: 10.1007/s41109-020-00279-x
+arxivid: '1905.06142'
 featured: false
-sg-areas:
 ---

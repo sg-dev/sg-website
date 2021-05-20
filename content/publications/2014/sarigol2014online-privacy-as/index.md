@@ -1,8 +1,8 @@
 ---
 title: Online Privacy as a Collective Phenomenon
 date: '2014-01-01'
+publishDate: '2021-05-20T16:39:28.529393Z'
 pages: 95-105
-publishDate: '2021-02-08T11:56:28.764071Z'
 authors:
 - Emre Sarigol
 - David Garcia
@@ -31,9 +31,9 @@ abstract: 'The problem of online privacy is often reduced to individual decision
   our results show that disclosing of private information is not restricted to an
   individual choice, but becomes a collective decision that has implications for policy
   and privacy regulation.'
-publication: ACM
+publication:
 url_pdf: http://dl.acm.org/citation.cfm?id=2660470
 doi: 10.1145/2660460.2660470
+arxivid: '1409.6197'
 featured: false
-sg-areas:
 ---
