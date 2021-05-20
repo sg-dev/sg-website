@@ -33,4 +33,7 @@ url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525907000933
 doi: 10.1142/S0219525907000933
 arxivid: physics/0508206
 featured: false
+projects:
+- econ-geography
+
 ---
