@@ -1,10 +1,10 @@
 ---
 title: 'How groups can foster consensus: The case of local cultures'
 date: '2009-04-01'
-publishDate: '2021-05-20T16:39:28.846910Z'
 volume: '12'
 number: '2'
 pages: 1-- 22
+publishDate: '2021-02-08T11:56:29.399746Z'
 authors:
 - Patrick Groeber
 - Frank Schweitzer
@@ -29,8 +29,8 @@ abstract: "A local culture denotes a commonly shared behaviour within a cluster 
   \ feedback helps to find consensus more often, whereas for open-minded agents (high\
   \ $ epsilon$) this does not hold. This counterintuitive result is explained by simulations\
   \ of the network evolution."
-publication:
+publication: Journal of Aritifical Societies and Social Simulation
 url_pdf: http://jasss.soc.surrey.ac.uk/12/2/4.html
-arxivid: '0904.0761'
 featured: false
+sg-areas:
 ---

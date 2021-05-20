@@ -1,7 +1,7 @@
 ---
 title: Quantifying Triadic Closure in Multi-Edge Social Networks
 date: '2019-05-01'
-publishDate: '2021-05-20T16:39:14.642153Z'
+publishDate: '2021-02-08T11:56:33.830405Z'
 authors:
 - Laurence Brandenberger
 - Giona Casiraghi
@@ -18,9 +18,11 @@ abstract: Multi-edge networks capture repeated interactions between individuals.
   analyses from the analysis of binary networks towards the analyses of multi-edge
   and weighted networks, which offer a more realistic representation of social interactions
   and relations.
-publication:
+publication: ACM
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3341161.3342926
 doi: 10.1145/3341161.3342926
-arxivid: arXiv:1905.02990
 featured: false
+projects:
+- Network Theory
+- Data Science
 ---

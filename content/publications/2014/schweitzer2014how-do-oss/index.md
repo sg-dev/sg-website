@@ -2,10 +2,10 @@
 title: How do OSS projects change in number and size? A large-scale analysis to test
   a model of project growth
 date: '2014-01-01'
-publishDate: '2021-05-20T16:39:26.650970Z'
 volume: '17'
 number: 07n08
 pages: '1550008'
+publishDate: '2021-02-08T11:56:30.693529Z'
 authors:
 - Frank Schweitzer
 - Vahan Nanumyan
@@ -29,9 +29,9 @@ abstract: Established open source software (OSS) projects can grow in size if ne
   for certain time periods where the modeling assumptions no longer hold. We detect
   and empirically test the reason for this limitation, i.e., the fact that an increasing
   number of established developers found additional new projects after 2009.
-publication:
+publication: ACS - Advances in Complex Systems
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525915500083
 doi: 10.1142/S0219525915500083
-arxivid: '1506.06924 '
 featured: false
+sg-areas:
 ---

@@ -2,9 +2,9 @@
 title: Systemic risk in multiplex networks with asymmetric coupling and threshold
   feedback
 date: '2016-01-01'
-publishDate: '2021-05-20T16:39:09.645032Z'
 volume: 323-324
 pages: 64--72
+publishDate: '2021-02-08T11:56:30.546877Z'
 authors:
 - Rebekka Burkholz
 - Matt Leduc
@@ -24,9 +24,9 @@ abstract: We study cascades on a two-layer multiplex network, with asymmetric fe
   a less risky core business and a more risky subsidiary business. In most cases,
   this may lead to a drastic increase of systemic risk, which is underestimated in
   an aggregated approach.
-publication:
+publication: Physica D
 url_pdf: http://www.sciencedirect.com/science/article/pii/S0167278915001943
 doi: doi:10.1016/j.physd.2015.10.004
-arxivid: '1506.06664'
 featured: false
+sg-areas:
 ---

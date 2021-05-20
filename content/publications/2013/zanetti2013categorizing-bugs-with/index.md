@@ -2,8 +2,8 @@
 title: 'Categorizing bugs with social networks: A case study on four open source software
   communities'
 date: '2013-01-01'
-publishDate: '2021-05-20T16:39:21.947763Z'
 pages: 1032-1041
+publishDate: '2021-02-08T11:56:32.719332Z'
 authors:
 - Marcelo Serrano Zanetti
 - Ingo Scholtes
@@ -31,9 +31,10 @@ abstract: Efﬁcient bug triaging procedures are an important precondition for s
   of using quantitative measures of social organization in collaborative software
   engineering. It also opens a broad perspective for the integration of social network
   analysis in the design of support infrastructures.
-publication:
+publication: ICSE '13 Proceedings of the 35th International Conference on Software
+  Engineering
 url_pdf: http://dl.acm.org/citation.cfm?id=2486788.2486930&coll=DL&dl=ACM&CFID=220466194&CFTOKEN=89604713
 doi: 10.1109/ICSE.2013.6606653
-arxivid: '1302.6764'
 featured: false
+sg-areas:
 ---

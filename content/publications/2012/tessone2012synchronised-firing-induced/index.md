@@ -1,10 +1,10 @@
 ---
 title: Synchronised firing induced by network dynamics in excitable systems
 date: '2012-09-01'
-publishDate: '2021-05-20T16:39:13.703606Z'
 volume: '99'
 number: '6'
 pages: '68006'
+publishDate: '2021-02-08T11:56:30.584447Z'
 authors:
 - Claudio Juan Tessone
 - Damian H. Zanette
@@ -17,9 +17,9 @@ abstract: We study the collective dynamics of an ensemble of coupled identical F
   can play the role of noise and connectivity in inducing this kind of self-organised
   behaviour in highly disconnected systems which, otherwise, would not allow for the
   spreading of coherent evolution.
-publication:
+publication: Europhysics Letters
 url_pdf: http://iopscience.iop.org/0295-5075/99/6/68006
 doi: 10.1209/0295-5075/99/68006
-arxivid: '1206.6975'
 featured: false
+sg-areas:
 ---

@@ -1,10 +1,10 @@
 ---
 title: Control contribution identifies top driver nodes in complex networks
 date: '2019-01-01'
-publishDate: '2021-05-20T16:39:16.191100Z'
 volume: '22'
 number: 7-8
 pages: '1950014'
+publishDate: '2021-02-08T11:56:32.107683Z'
 authors:
 - Yan Zhang
 - Antonios Garas
@@ -20,9 +20,9 @@ abstract: We propose a new measure to quantify the impact of a node $i$ in contr
   other control-based measures. We find that control contribution indeed contains
   new information that cannot be traced back to degree, control capacity or control
   range of a node.
-publication:
+publication: ACS-Advances in Complex Systems
 url_pdf: https://www.worldscientific.com/doi/10.1142/S0219525919500140
 doi: 10.1142/S0219525919500140
-arxivid: '1906.04663'
 featured: false
+sg-areas:
 ---

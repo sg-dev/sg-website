@@ -1,10 +1,10 @@
 ---
 title: Sustainable growth in complex networks
 date: '2011-01-01'
-publishDate: '2021-05-20T16:39:11.525425Z'
 volume: '96'
 number: '5'
 pages: '58005'
+publishDate: '2021-02-08T11:56:29.639038Z'
 authors:
 - Claudio Juan Tessone
 - Markus Michael Geipel
@@ -26,9 +26,9 @@ abstract: 'Based on the analysis of the dependency network in 18 Java projects, 
   by the initial degree distribution of added nodes, or by the preferential attachment
   mechanism. Hence, the heterogeneous degree distribution of newly added nodes, found
   empirically, is essential to describe the laws of sustainable growth in networks.'
-publication:
+publication: Europhysics Letters
 url_pdf: http://iopscience.iop.org/0295-5075/96/5/58005
 doi: 10.1209/0295-5075/96/58005
-arxivid: '1007.1330'
 featured: false
+sg-areas:
 ---

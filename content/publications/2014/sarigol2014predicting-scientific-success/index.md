@@ -1,9 +1,9 @@
 ---
 title: Predicting Scientific Success Based on Coauthorship Networks
 date: '2014-02-01'
-publishDate: '2021-05-20T16:39:27.278250Z'
 volume: '3'
 pages: '9'
+publishDate: '2021-02-08T11:56:31.426504Z'
 authors:
 - Emre Sarigol
 - Rene Pfitzner
@@ -20,9 +20,9 @@ abstract: We address the question to what extent the success of scientific artic
   quantitative insight into the social dimension of scientific publishing - challenging
   the perception of citations as an objective, socially unbiased measure of scientific
   success.
-publication:
+publication: EPJ Data Science
 url_pdf: http://www.epjdatascience.com/content/3/1/9
 doi: 10.1140/epjds/s13688-014-0009-x
-arxivid: '1402.7268'
 featured: false
+sg-areas:
 ---

@@ -2,8 +2,8 @@
 title: When is a Network a Network? Multi-Order Graphical Model Selection in Pathways
   and Temporal Networks
 date: '2017-08-01'
-publishDate: '2021-05-20T16:39:14.795546Z'
 pages: 1037--1046
+publishDate: '2021-02-08T11:56:33.311785Z'
 authors:
 - Ingo Scholtes
 abstract: 'We introduce a framework for the modeling of sequential data capturing
@@ -24,9 +24,10 @@ abstract: 'We introduce a framework for the modeling of sequential data capturin
   fallacies of network abstractions and provides a principled answer to the open question
   when they are justified. Generalizing network representations to multi-order graphical
   models, it opens perspectives for new data mining and knowledge discovery algorithms.'
-publication:
+publication: Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge
+  Discovery and Data Mining, Halifax, Nova Scotia, Canada
 url_pdf: http://doi.acm.org/10.1145/3097983.3098145
 doi: 10.1145/3097983.3098145
-arxivid: '1702.05499'
 featured: false
+sg-areas:
 ---

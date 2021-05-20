@@ -1,10 +1,10 @@
 ---
 title: The spatial component of R&D networks
 date: '2018-04-01'
-publishDate: '2021-05-20T16:39:17.748246Z'
 volume: '28'
 number: '2'
 pages: 417-436
+publishDate: '2021-02-08T11:56:33.547012Z'
 authors:
 - Tobias Scholl
 - Antonios Garas
@@ -20,9 +20,13 @@ abstract: We study the role of geography in R&D networks by means of a quantitat
   literature. In addition we test whether the hypothesis of local buzz and global
   pipelines applies to the observed R&D network by calculating well-defined metrics
   from network theory.
-publication:
+publication: Journal of Evolutionary Economics
 url_pdf: https://link.springer.com/article/10.1007/s00191-017-0531-7?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst
 doi: 10.1007/s00191-017-0531-7
-arxivid: '1509.08291'
 featured: false
+sg-areas:
+projects:
+- RnDcollaborations
+- econ-geography
+
 ---

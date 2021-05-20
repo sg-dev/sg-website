@@ -1,7 +1,7 @@
 ---
 title: 'Women Through the Glass-Ceiling: Gender Asymmetries in Wikipedia'
 date: '2016-01-01'
-publishDate: '2021-05-20T16:39:10.421749Z'
+publishDate: '2021-03-01T16:27:43.822700Z'
 volume: '5'
 number: '5'
 authors:
@@ -28,9 +28,9 @@ abstract: "Contributing to the writing of history has never been as easy as it i
   \ having Wikipedia contribution policies in mind. We hope that our work contributes\
   \ to increase awareness about, first, gender issues in the content of Wikipedia,\
   \ and second, the different levels on which gender biases can manifest on the Web."
-publication:
+publication: EPJ Data Science
 url_pdf: http://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0066-4
 doi: 10.1140/epjds/s13688-016-0066-4
-arxivid: '1601.04890'
 featured: false
+sg-areas:
 ---

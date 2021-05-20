@@ -1,10 +1,10 @@
 ---
 title: A complementary view on the growth of directory trees
 date: '2009-09-01'
-publishDate: '2021-05-20T16:39:25.872198Z'
 volume: '71'
 number: '4'
 pages: 641-- 648
+publishDate: '2021-02-08T11:56:30.525554Z'
 authors:
 - Markus Michael Geipel
 - Claudio Juan Tessone
@@ -28,9 +28,9 @@ abstract: 'Trees are a special sub-class of networks with unique properties, suc
   the model is an incomplete description of the growth of real directory structures
   as it fails to reproduce the level distribution. This insight can be generalised
   to point out the importance of the level distribution for modeling tree growth.'
-publication:
+publication: The European Physical Journal B
 url_pdf: https://link.springer.com/article/10.1140/epjb/e2009-00302-5
 doi: 10.1140/epjb/e2009-00302-5
-arxivid: '0902.1114'
 featured: false
+sg-areas:
 ---

@@ -1,8 +1,8 @@
 ---
 title: 'Multiplex Network Regression: How do relations drive interactions?'
 date: '2017-02-01'
-publishDate: '2021-05-20T16:39:15.570461Z'
 pages: 1-- 17
+publishDate: '2021-02-08T11:56:34.054845Z'
 authors:
 - Giona Casiraghi
 abstract: We introduce a statistical method to investigate the impact of dyadic relations
@@ -15,8 +15,10 @@ abstract: We introduce a statistical method to investigate the impact of dyadic 
   significance of the relations as explanatory variables for the observed interactions.
   To demonstrate the power of our approach and its broad applicability, we will present
   examples based on synthetic and empirical data.
-publication:
+publication: arXiv e-print
 url_pdf: http://arxiv.org/abs/1702.02048
-arxivid: '1702.02048'
 featured: false
+projects:
+- Network Theory
+- Data Science
 ---

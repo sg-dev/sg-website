@@ -1,8 +1,8 @@
 ---
 title: It's a Man's Wikipedia? Assessing Gender Inequality in an Online Encyclopedia
 date: '2015-01-01'
-publishDate: '2021-05-20T16:39:20.380004Z'
 pages: 454-463
+publishDate: '2021-02-08T11:56:30.676451Z'
 authors:
 - Claudia Wagner
 - David Garcia
@@ -20,8 +20,8 @@ abstract: Wikipedia is a community - created encyclopedia that contains informat
   We hope our work contributes to increasing awareness about gender biases online,
   and in particular to raising attention to the different levels in which gender biases
   can manifest themselves on the web.
-publication:
+publication: ''
 url_pdf: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10585
-arxivid: '1501.06307'
 featured: false
+sg-areas:
 ---

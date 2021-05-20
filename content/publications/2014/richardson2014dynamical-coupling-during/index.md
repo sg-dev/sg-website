@@ -1,7 +1,7 @@
 ---
 title: Dynamical coupling during collective animal motion
 date: '2014-01-01'
-publishDate: '2021-05-20T16:39:26.025301Z'
+publishDate: '2021-02-08T11:56:31.883350Z'
 authors:
 - Tom O. Richardson
 - Nicolas Perony
@@ -29,7 +29,7 @@ abstract: The measurement of information flows within moving animal groups has r
   animal groups. We argue that applying an information-theoretic perspective to the
   study of coordinated phenomena in animal groups will eventually help to understand
   cause and effect in collective behaviour.
-publication:
-arxivid: '1311.1417'
+publication: Submitted. arXiv:1311.1417
 featured: false
+sg-areas:
 ---

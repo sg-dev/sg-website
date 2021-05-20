@@ -1,10 +1,10 @@
 ---
 title: On conditions for convergence to consensus
 date: '2010-07-01'
-publishDate: '2021-05-20T16:39:14.013784Z'
 volume: '55'
 number: '7'
 pages: 1651-- 1656
+publishDate: '2021-02-08T11:56:33.706774Z'
 authors:
 - Jan Lorenz
 - Dirk A. Lorenz
@@ -16,9 +16,9 @@ abstract: A new theorem on conditions for convergence to consensus of a multiage
   examples that point out differences of approaches including examples where Moreau's
   theorem is not applicable but ours is. Further on, we give examples that demonstrate
   that the theory of convergence to consensus is still not complete.
-publication:
+publication: IEEE Transactions on Automatic Control
 url_pdf: https://ieeexplore.ieee.org/document/5437323
 doi: 10.1109/TAC.2010.2046086
-arxivid: '0803.2211'
 featured: false
+sg-areas:
 ---

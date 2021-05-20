@@ -1,9 +1,9 @@
 ---
 title: Emotional persistence in online chatting communities
 date: '2012-05-01'
-publishDate: '2021-05-20T16:39:12.305643Z'
 volume: '2'
 pages: '402'
+publishDate: '2021-02-08T11:56:32.623792Z'
 authors:
 - Antonios Garas
 - David Garcia
@@ -22,9 +22,9 @@ abstract: How do users behave in online chatrooms, where they instantaneously re
   and the emotional persistence of users and channels. While our assumptions about
   agent's emotional expressions are rooted in psychology, the model allows to test
   different hypothesis regarding their emotional impact in online communication.
-publication:
+publication: Scientific Reports
 url_pdf: http://www.nature.com/doifinder/10.1038/srep00402
 doi: 10.1038/srep00402
-arxivid: '1205.2466'
 featured: false
+sg-areas:
 ---

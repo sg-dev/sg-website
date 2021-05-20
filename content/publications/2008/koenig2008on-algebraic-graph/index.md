@@ -1,10 +1,10 @@
 ---
 title: On Algebraic Graph Theory and the Dynamics of Innovation Networks
 date: '2008-12-01'
-publishDate: '2021-05-20T16:39:22.267319Z'
 volume: '3'
 number: '2'
 pages: 201-- 219
+publishDate: '2021-02-08T11:56:31.390602Z'
 authors:
 - Michael D Koenig
 - Stefano Battiston
@@ -27,9 +27,12 @@ abstract: We investigate some of the properties and extensions of a dynamic inno
   formation process of agents, otherwise the equilibrium network is inefficient. This
   work should assist in building a theoretical framework of R&D networks from which
   policies can be derived that aim at fostering efficient innovation networks.
-publication:
+publication: Networks and Heterogeneous Media
 url_pdf: http://aimsciences.org/journals/displayArticles.jsp?paperID=3274
 doi: 10.3934/nhm.2008.3.201
-arxivid: '0712.2752'
 featured: false
+sg-areas:
+projects:
+- network-theory
+- RnDcollaborations
 ---

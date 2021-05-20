@@ -1,10 +1,10 @@
 ---
 title: A Model of a Trust-based Recommendation System in a Social Network
 date: '2008-01-01'
-publishDate: '2021-05-20T16:39:21.009462Z'
 volume: '16'
 number: '1'
 pages: 57-- 74
+publishDate: '2021-02-08T11:56:32.925793Z'
 authors:
 - Frank Edward Walter
 - Stefano Battiston
@@ -19,9 +19,9 @@ abstract: In this paper, we present a model of a trust-based recommendation syst
   in a state with performance near to the optimum; the performance on the global level
   is an emergent property of the system, achieved without explicit coordination from
   the local interactions of agents.
-publication:
+publication: JAAMAS
 url_pdf: https://link.springer.com/article/10.1007%2Fs10458-007-9021-x
 doi: 10.1007/s10458-007-9021-x
-arxivid: nlin/0611054
 featured: false
+sg-areas:
 ---

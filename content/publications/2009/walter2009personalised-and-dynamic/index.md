@@ -1,8 +1,8 @@
 ---
 title: Personalised and Dynamic Trust in Social Networks
 date: '2009-02-01'
-publishDate: '2021-05-20T16:39:24.781084Z'
 pages: 197-- 204
+publishDate: '2021-02-08T11:56:30.848161Z'
 authors:
 - Frank Edward Walter
 - Stefano Battiston
@@ -20,9 +20,10 @@ abstract: We propose a novel trust metric for social networks which is suitable 
   carry out an empirical validation on a dataset crawled from an Internet community
   and compare the performance of a recommender system using our metric to one using
   collaborative filtering.
-publication:
+publication: Proceedings of the third ACM conference on Recommender systems-RecSys
+  '09
 url_pdf: https://dl.acm.org/citation.cfm?doid=1639714.1639747
 doi: 10.1145/1639714.1639747
-arxivid: '0902.1475'
 featured: false
+sg-areas:
 ---
