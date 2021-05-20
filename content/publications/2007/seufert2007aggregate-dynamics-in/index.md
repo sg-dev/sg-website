@@ -1,10 +1,10 @@
 ---
 title: Aggregate dynamics in an evolutionary network model
 date: '2007-01-01'
+publishDate: '2021-05-20T16:39:26.340643Z'
 volume: '18'
 number: '10'
 pages: 1659-- 1674
-publishDate: '2021-02-08T11:56:31.502572Z'
 authors:
 - A. M. Seufert
 - Frank Schweitzer
@@ -22,9 +22,9 @@ abstract: We analyze a model of interacting agents (e.g. prebiotic chemical spec
   random regime. For the saturation regime, we obtain a logarithmic scaling between
   the average connectivity per node ls and a parameter m, describing the average
   incoming connectivity, which is independent of the system size N.
-publication: International Journal of Modern Physics C
+publication:
 url_pdf: https://www.worldscientific.com/doi/abs/10.1142/S0129183107011649
 doi: 10.1142/S0129183107011649
+arxivid: '0708.4212'
 featured: false
-sg-areas:
 ---

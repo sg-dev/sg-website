@@ -2,9 +2,9 @@
 title: 'Improving the robustness of online social networks: A simulation approach
   of network interventions'
 date: '2020-01-01'
+publishDate: '2021-05-20T16:39:18.366032Z'
 volume: '7'
 pages: '57'
-publishDate: '2021-02-08T11:56:32.404279Z'
 authors:
 - Giona Casiraghi
 - Frank Schweitzer
@@ -20,9 +20,9 @@ abstract: Online social networks (OSN) are prime examples of socio-technical sys
   influencing specific agents with low utility. We identify strategies to control
   agents in the core and the periphery of the OSN such that drop-out cascades are
   significantly reduced, and the robustness of the OSN is increased.
-publication: Frontiers in Robotics and AI
+publication:
 url_pdf: https://www.frontiersin.org/article/10.3389/frobt.2020.00057
 doi: 10.3389/frobt.2020.00057
-projects:
-- Resilience
+arxivid: '1910.14562'
+featured: false
 ---

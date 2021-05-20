@@ -1,9 +1,9 @@
 ---
 title: 'The Network of Counterparty Risk: Analysing Correlations in OTC Derivatives'
 date: '2015-09-01'
+publishDate: '2021-05-20T16:39:20.535562Z'
 volume: '10'
 pages: e0136638
-publishDate: '2021-02-08T11:56:33.865988Z'
 authors:
 - Vahan Nanumyan
 - Antonios Garas
@@ -28,9 +28,9 @@ abstract: Counterparty risk denotes the risk that a party defaults in a bilatera
   institutions which have contracts with the central ones. Hence, all institutions
   indirectly have to bear (part of) the counterparty risk of all others, which needs
   to be better reflected in the price of OTC derivatives.
-publication: PLOS ONE
+publication:
 url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0136638
 doi: 10.1371/journal.pone.0136638
+arxivid: '1506.04663'
 featured: false
-sg-areas:
 ---

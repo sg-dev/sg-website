@@ -1,8 +1,8 @@
 ---
 title: Modeling evolving innovation networks
 date: '2009-01-01'
+publishDate: '2021-05-20T16:39:29.021673Z'
 pages: 187-- 267
-publishDate: '2021-02-08T11:56:29.161961Z'
 authors:
 - Michael D Koenig
 - Stefano Battiston
@@ -26,12 +26,9 @@ abstract: We develop a new framework for modeling innovation networks which evol
   framework bridges and extends two different lines of research, namely the study
   of equilibrium networks with simple topologies and the dynamic approach of hypercycle
   models.
-publication: Innovation Networks . New Approaches in Modelling and Analyzing
+publication:
 url_pdf: http://link.springer.com/chapter/10.1007/978-3-540-92267-4_8
 doi: 10.1007/978-3-540-92267-4
+arxivid: '0712.2779'
 featured: false
-sg-areas:
-projects:
-- network-theory
-- RnDcollaborations
 ---

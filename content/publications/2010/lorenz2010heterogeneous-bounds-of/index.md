@@ -1,10 +1,10 @@
 ---
 title: 'Heterogeneous bounds of confidence: Meet, discuss and find consensus!'
 date: '2010-01-01'
+publishDate: '2021-05-20T16:39:13.856269Z'
 volume: '15'
 number: '4'
 pages: 43-- 52
-publishDate: '2021-02-08T11:56:30.284914Z'
 authors:
 - Jan Lorenz
 abstract: Models of continuous opinion dynamics under bounded confidence show a sharp
@@ -28,9 +28,9 @@ abstract: Models of continuous opinion dynamics under bounded confidence show a 
   bounds of confidence. It can be located at extremal locations. This is demonstrated
   by example. This also show that the extension to heterogeneous bounds of confidence
   enriches the complexity of the dynamics tremendously.
-publication: Inter Science Complexity
+publication:
 url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/cplx.20295/abstract
 doi: 10.1002/cplx.20295
+arxivid: '0801.1399'
 featured: false
-sg-areas:
 ---

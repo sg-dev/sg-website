@@ -1,10 +1,10 @@
 ---
 title: Decelerating microdynamics can accelerate macrodynamics in the voter model
 date: '2008-06-01'
+publishDate: '2021-05-20T16:39:22.736677Z'
 volume: '101'
 number: '1'
 pages: 1-- 4
-publishDate: '2021-02-08T11:56:30.827954Z'
 authors:
 - Claudio Juan Tessone
 - Frank Schweitzer
@@ -18,9 +18,9 @@ abstract: For the voter model, we study the effect of a memory-dependent transit
   If the first one dominates, it accelerates the ordering of the system. The conclusions
   of this Letter are not restricted to the voter model, but remain valid to many other
   spin systems as well.
-publication: Physical Review Letters
+publication:
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevLett.101.018701
 doi: 10.1103/PhysRevLett.101.018701
+arxivid: arXiv:0711.1133
 featured: false
-sg-areas:
 ---

@@ -1,9 +1,9 @@
 ---
 title: The social climbing game
 date: '2013-01-01'
+publishDate: '2021-05-20T16:39:26.496727Z'
 volume: '151'
 pages: 440-457
-publishDate: '2021-02-08T11:56:30.077474Z'
 authors:
 - Marco Bardoscia
 - Giancarlo Luca
@@ -22,9 +22,9 @@ abstract: The structure of a society depends, to some extent, on the incentives 
   a social order emerges when agents strive harder to climb society and it results
   in a state of reduced social mobility, as a consequence of ergodicity breaking,
   where climbing is more difficult.
-publication: Journal of Statistical Physics
+publication:
 url_pdf: https://link.springer.com/article/10.1007%2Fs10955-013-0693-0
 doi: 10.1007/s10955-013-0693-0
+arxivid: arXiv:1207.6416
 featured: false
-sg-areas:
 ---

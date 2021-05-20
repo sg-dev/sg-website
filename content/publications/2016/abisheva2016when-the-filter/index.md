@@ -1,8 +1,8 @@
 ---
 title: 'When the Filter Bubble Bursts: Collective Evaluation Dynamics in Online Communities'
 date: '2016-01-01'
+publishDate: '2021-05-20T16:39:12.770244Z'
 pages: 307-- 308
-publishDate: '2021-02-08T11:56:29.604174Z'
 authors:
 - Adiya Abisheva
 - David Garcia
@@ -14,9 +14,9 @@ abstract: Through the analysis of collective upvotes and downvotes in multiple s
   a filter bubble. To attain a global audience, we show that emotions expressed in
   online content has a significant effect and also play a key role in creating polarized
   opinions.
-publication: Proceedings of the 8th ACM Conference on Web Science
+publication:
 url_pdf: http://doi.acm.org/10.1145/2908131.2908180
 doi: 10.1145/2908131.2908180
+arxivid: '1602.05642'
 featured: false
-sg-areas:
 ---

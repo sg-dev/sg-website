@@ -1,10 +1,10 @@
 ---
 title: The network of global corporate control
 date: '2011-07-01'
+publishDate: '2021-05-20T16:39:10.111844Z'
 volume: '6'
 number: '10'
 pages: 1-- 6
-publishDate: '2021-02-08T11:56:29.884145Z'
 authors:
 - Stefania Vitali
 - James B. Glattfelder
@@ -18,9 +18,9 @@ abstract: The structure of the control network of transnational corporations aff
   portion of control flows to a small tightly-knit core of financial institutions.
   This core can be seen as an economic \"super-entity\" that raises new important
   issues both for researchers and policy makers.
-publication: PLOS ONE
+publication:
 url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0025995
 doi: 10.1371/journal.pone.0025995
+arxivid: '1107.5728'
 featured: false
-sg-areas:
 ---

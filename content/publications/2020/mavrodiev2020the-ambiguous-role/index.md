@@ -2,8 +2,8 @@
 title: 'The ambiguous role of social influence on the wisdom of crowds: An analytic
   approach'
 date: '2020-01-01'
+publishDate: '2021-05-20T16:39:16.498600Z'
 pages: '125624'
-publishDate: '2021-02-08T11:56:30.151847Z'
 authors:
 - Pavlin Mavrodiev
 - Frank Schweitzer
@@ -21,9 +21,9 @@ abstract: '\"Wisdom of crowds\" refers to the phenomenon that the average opinio
   wisdom of crowds, but in most cases it deteriorates the outcome. In these cases,
   individual conviction still improves the wisdom of crowds because it mitigates the
   impact of social influence.'
-publication: 'Physica A: Statistical Mechanics and its Applications'
+publication:
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0378437120309225
 doi: https://doi.org/10.1016/j.physa.2020.125624
+arxivid: '2007.15508'
 featured: false
-sg-areas:
 ---

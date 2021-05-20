@@ -1,9 +1,9 @@
 ---
 title: Positive words carry less information than negative words
 date: '2012-05-01'
+publishDate: '2021-05-20T16:39:11.685364Z'
 volume: '1'
 pages: '3'
-publishDate: '2021-02-08T11:56:33.887272Z'
 authors:
 - David Garcia
 - Antonios Garas
@@ -19,9 +19,9 @@ abstract: We show that the frequency of word use is not only determined by the w
   of a word increases uniformly with its valence decrease. Our findings support earlier
   conjectures about (i) the relation between word frequency and information content,
   and (ii) the impact of positive emotions on communication and social links.
-publication: EPJ Data Science
+publication:
 url_pdf: http://www.epjdatascience.com/content/1/1/3
 doi: 10.1140/epjds3
+arxivid: '1110.4123'
 featured: false
-sg-areas:
 ---

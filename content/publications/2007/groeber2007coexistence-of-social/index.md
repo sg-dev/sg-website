@@ -1,10 +1,10 @@
 ---
 title: Coexistence of social norms based on in-and out-group interactions
 date: '2007-08-01'
+publishDate: '2021-05-20T16:39:27.591764Z'
 volume: '10'
 number: '2'
 pages: 271-- 286
-publishDate: '2021-02-08T11:56:31.367903Z'
 authors:
 - Patrick Groeber
 - Thomas Fent
@@ -22,9 +22,9 @@ abstract: The question how social norms can emerge from microscopic interactions
   which we find convergence towards a single norm, coexistence of two opposing norms,
   and coexistence of a multitude of norms. For the latter case, we also show the evolution
   of the spatio-temporal distribution of behavior.
-publication: ACS - Advances in Complex Systems
+publication:
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525907000970
 doi: 10.1142/S0219525907000970
+arxivid: '0708.4155'
 featured: false
-sg-areas:
 ---

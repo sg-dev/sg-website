@@ -1,10 +1,10 @@
 ---
 title: Systemic risk in a unifying framework for cascading processes on networks
 date: '2009-10-01'
+publishDate: '2021-05-20T16:39:22.891754Z'
 volume: '71'
 number: '4'
 pages: 441-- 460
-publishDate: '2021-02-08T11:56:33.379083Z'
 authors:
 - Jan Lorenz
 - Stefano Battiston
@@ -29,9 +29,9 @@ abstract: We introduce a general framework for models of cascade and contagion p
   risk, i.e. situations where small changes in the initial conditions determine a
   global failure. Eventually, we generalize our framework to encompass stochastic
   contagion models. This indicates the potential for further generalizations.
-publication: The European Physical Journal B
+publication:
 url_pdf: https://link.springer.com/article/10.1140%2Fepjb%2Fe2009-00347-4
 doi: 10.1140/epjb/e2009-00347-4
+arxivid: '0907.5325'
 featured: false
-sg-areas:
 ---

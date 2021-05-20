@@ -1,8 +1,8 @@
 ---
 title: 'HYPA: Efficient Detection of Path Anomalies in Time Series Data on Networks'
 date: '2020-01-01'
+publishDate: '2021-05-20T16:39:19.763260Z'
 pages: 460-468
-publishDate: '2021-02-08T11:56:29.376450Z'
 authors:
 - Timothy LaRock
 - Vahan Nanumyan
@@ -25,11 +25,9 @@ abstract: The unsupervised detection of anomalies in time series data has import
   paths in a graph. HYPA provides an efficient analytical method to detect paths with
   anomalous frequencies that result from nodes being traversed in unexpected chronological
   order.
-publication: Proceedings of the 2020 SIAM International Conference on Data Mining
+publication:
 url_pdf: https://epubs.siam.org/doi/10.1137/1.9781611976236.52
 doi: 10.1137/1.9781611976236.52
+arxivid: arXiv:1905.10580
 featured: false
-projects:
-- Network Theory
-- Data Science
 ---

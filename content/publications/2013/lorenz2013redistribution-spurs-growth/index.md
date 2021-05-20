@@ -1,10 +1,10 @@
 ---
 title: Redistribution spurs growth by using a portfolio effect on risky human capital
 date: '2013-01-01'
+publishDate: '2021-05-20T16:39:24.309858Z'
 volume: '8'
 number: '2'
 pages: e54904
-publishDate: '2021-02-08T11:56:30.918675Z'
 authors:
 - Jan Lorenz
 - Fabian Paetzel
@@ -26,9 +26,9 @@ abstract: 'We demonstrate by mathematical analysis and systematic computer simul
   income. This leads us to general conclusions about governmental decisions, the relation
   to public good games with free riding, and the function of taxation in a risk-taking
   society.'
-publication: PLOS ONE
+publication:
 url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0054904
 doi: 10.1371/journal.pone.0054904
+arxivid: '1210.3716'
 featured: false
-sg-areas:
 ---

@@ -2,10 +2,10 @@
 title: Impact of aging on the evolution of cooperation in the spatial prisoner's dilemma
   game
 date: '2009-08-01'
+publishDate: '2021-05-20T16:39:27.749834Z'
 volume: '80'
 number: '2'
 pages: 1-- 7
-publishDate: '2021-02-08T11:56:29.965862Z'
 authors:
 - Attila Szolnoki
 - Matjaz Perc
@@ -26,9 +26,9 @@ abstract: Aging is always present, tailoring our interactions with others, and p
   The unexpected increment of cooperation levels can be explained by a dynamical effect
   that has a highly selective impact on the propagation of cooperator and defector
   states.
-publication: Physical Review E
+publication:
 url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.80.021901
 doi: 10.1103/PhysRevE.80.021901
+arxivid: '0907.2233'
 featured: false
-sg-areas:
 ---

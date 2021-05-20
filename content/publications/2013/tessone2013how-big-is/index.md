@@ -1,10 +1,10 @@
 ---
 title: How big is too big? Critical shocks for systemic failure cascades
 date: '2013-09-01'
+publishDate: '2021-05-20T16:39:20.696686Z'
 volume: '151'
 number: '3'
 pages: 765-783
-publishDate: '2021-02-08T11:56:33.292072Z'
 authors:
 - Claudio Juan Tessone
 - Antonios Garas
@@ -32,9 +32,9 @@ abstract: External or internal shocks may lead to the collapse of a system consi
   varies slightly for changes of 10 to 50 percent of the external shock. Systemic
   risk depends much more on ingredients such as the network topology, the safety margin
   and the threshold distribution, which gives hints on how to reduce systemic risk.
-publication: Journal of Statistical Physics
+publication:
 url_pdf: http://link.springer.com/article/10.1007%2Fs10955-013-0723-y
 doi: 10.1007/s10955-013-0723-y
+arxivid: '1209.0959'
 featured: false
-sg-areas:
 ---

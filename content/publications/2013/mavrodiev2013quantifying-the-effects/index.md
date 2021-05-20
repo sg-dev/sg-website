@@ -1,9 +1,9 @@
 ---
 title: Quantifying the effects of social influence
 date: '2013-03-01'
+publishDate: '2021-05-20T16:39:28.059575Z'
 volume: '3'
 number: '1360'
-publishDate: '2021-02-08T11:56:29.461781Z'
 authors:
 - Pavlin Mavrodiev
 - Claudio Juan Tessone
@@ -22,9 +22,9 @@ abstract: How do humans respond to indirect social influence when making decisio
   scenarios. We argue that the nature of the response to social influence crucially
   changes with the level of information aggregation. This insight contributes to the
   empirical foundation of models for collective decisions under social influence.
-publication: Scientific Reports
+publication:
 url_pdf: http://www.nature.com/srep/2013/130301/srep01360/full/srep01360.html
 doi: 10.1038/srep01360
+arxivid: '1302.2472'
 featured: false
-sg-areas:
 ---

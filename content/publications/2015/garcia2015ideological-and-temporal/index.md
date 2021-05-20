@@ -2,10 +2,10 @@
 title: Ideological and Temporal Components of Network Polarization in Online Political
   Participatory Media
 date: '2015-01-01'
+publishDate: '2021-05-20T16:39:24.937464Z'
 volume: '7'
 number: '1'
 pages: 46-79
-publishDate: '2021-02-08T11:56:30.225968Z'
 authors:
 - David Garcia
 - Adiya Abisheva
@@ -29,9 +29,9 @@ abstract: Political polarization is traditionally analyzed through the ideologic
   is related to its ideology, and reveal that the degree of connectivity across two
   parties increases when they are close in the ideological space of a multi-party
   system.
-publication: Policy and Internet
+publication:
 url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/poi3.82/abstract
 doi: 10.1002/poi3.82
+arxivid: '1503.07711'
 featured: false
-sg-areas:
 ---

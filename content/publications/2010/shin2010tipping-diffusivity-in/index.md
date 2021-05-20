@@ -2,10 +2,10 @@
 title: 'Tipping diffusivity in information accumulation systems: More links, less
   consensus'
 date: '2010-06-01'
+publishDate: '2021-05-20T16:39:18.057868Z'
 volume: '2010'
 number: '06'
 pages: P06005-- P06020
-publishDate: '2021-02-08T11:56:30.056165Z'
 authors:
 - J. K. Shin
 - Jan Lorenz
@@ -29,9 +29,9 @@ abstract: Assume two different communities each of which maintain their respecti
   between different communities. If the number of internal links increases by a factor,
   the number of inter-community links must be increased by an even higher factor,
   in order for consensus to be the only stable attractor.
-publication: 'Journal of Statistical Mechanics: Theory and Experiment'
+publication:
 url_pdf: http://iopscience.iop.org/article/10.1088/1742-5468/2010/06/P06005/meta
 doi: 10.1088/1742-5468/2010/06/P06005
+arxivid: '0909.1252'
 featured: false
-sg-areas:
 ---

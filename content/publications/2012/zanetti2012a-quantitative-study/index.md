@@ -1,9 +1,9 @@
 ---
 title: A quantitative study of social organisation in open source software communities
 date: '2012-01-01'
+publishDate: '2021-05-20T16:39:20.226470Z'
 volume: '28'
 pages: 116--122
-publishDate: '2021-02-08T11:56:29.675603Z'
 authors:
 - Marcelo Serrano Zanetti
 - Emre Sarigol
@@ -24,9 +24,9 @@ abstract: The success of open source projects crucially depends on the voluntary
   social organisation acrosscommunities. We argue that our results are a promising
   ﬁrst step towards the deﬁnition ofsuitable, potentially multi - dimensional, resilience
   and risk indicators for open source softwarecommunities.
-publication: In Proceedings of the 2012 Imperial College Computing Student Workshop
+publication:
 url_pdf: http://drops.dagstuhl.de/opus/volltexte/2012/3774/
 doi: 10.4230/OASIcs.ICCSW.2012.116
+arxivid: arXiv:1208.4289
 featured: false
-sg-areas:
 ---

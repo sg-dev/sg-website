@@ -1,7 +1,7 @@
 ---
 title: Effects of social influence on the wisdom of crowds
 date: '2012-01-01'
-publishDate: '2021-02-08T11:56:31.069232Z'
+publishDate: '2021-05-20T16:39:09.177013Z'
 authors:
 - Pavlin Mavrodiev
 - Claudio Juan Tessone
@@ -19,8 +19,8 @@ abstract: 'Wisdom of crowds refers to the phenomenon that the aggregate predicti
   in terms of its diversity and accuracy, that directly determines how beneficial
   social influence actually is. The article further examines the scenarios under which
   social influence promotes or impairs the wisdom of crowds.'
-publication: ''
+publication:
 url_pdf: http://arxiv.org/abs/1204.3463
+arxivid: '1204.3463'
 featured: false
-sg-areas:
 ---

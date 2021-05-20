@@ -2,10 +2,10 @@
 title: Chaotic synchronizations of spatially extended systems as nonequilibrium phase
   transitions.
 date: '2008-09-01'
+publishDate: '2021-05-20T16:39:20.853024Z'
 volume: '18'
 number: '3'
 pages: '037125'
-publishDate: '2021-02-08T11:56:33.778437Z'
 authors:
 - Massimo Cencini
 - Claudio Juan Tessone
@@ -30,9 +30,9 @@ abstract: Two replicas of spatially extended chaotic systems synchronize to a co
   evolutions are substituted by suitable stochastic models. In this framework and
   for the discontinuous case, it is possible to derive an effective Langevin description
   that corresponds to that proposed for ADP.
-publication: Chaos (Woodbury, N.Y.)
+publication:
 url_pdf: http://www.ncbi.nlm.nih.gov/pubmed/19045499
 doi: 10.1063/1.2945903
+arxivid: '0802.3024'
 featured: false
-sg-areas:
 ---

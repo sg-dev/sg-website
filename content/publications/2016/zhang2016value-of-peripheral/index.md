@@ -1,9 +1,9 @@
 ---
 title: Value of peripheral nodes in controlling multilayer scale-free networks
 date: '2016-01-01'
+publishDate: '2021-05-20T16:39:11.838328Z'
 volume: '93'
 pages: '012309'
-publishDate: '2021-02-08T11:56:29.656664Z'
 authors:
 - Yan Zhang
 - Antonios Garas
@@ -21,9 +21,9 @@ abstract: We analyze the controllability of a two-layer network, where driver no
   two layers or to act as driver nodes is not only the most cost-efficient solution,
   it is also the one that performs best in controlling the two-layer network among
   the different interconnecting strategies we have tested.
-publication: Physical Review E
+publication:
 url_pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.012309
 doi: 10.1103/PhysRevE.93.012309
+arxivid: '1506.02963'
 featured: false
-sg-areas:
 ---

@@ -1,8 +1,8 @@
 ---
 title: Hierarchical consensus formation reduces the influence of opinion bias
 date: '2012-01-01'
+publishDate: '2021-05-20T16:39:20.069916Z'
 pages: 662-668
-publishDate: '2021-02-08T11:56:29.529993Z'
 authors:
 - Nicolas Perony
 - Rene Pfitzner
@@ -25,10 +25,9 @@ abstract: We study the role of hierarchical structures in a simple model of coll
   final population-wide consensus. These results are of interest for the design of
   organisational policies and the optimisation of hierarchical structures in the context
   of group decision making.
-publication: 'In ECMS 2012 - Proceedings of the 26th European Conference on Modelling
-  and Simulation '
+publication:
 url_pdf: http://dx.doi.org/10.7148/2012-0662-0668
 doi: 10.7148/2012-0662-0668
+arxivid: '1204.0015'
 featured: false
-sg-areas:
 ---

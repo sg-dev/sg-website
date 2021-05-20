@@ -1,10 +1,10 @@
 ---
 title: Critical behaviour in an evolutionary ultimatum game with social structure
 date: '2009-05-01'
+publishDate: '2021-05-20T16:39:23.840947Z'
 volume: '12'
 number: '2'
 pages: 221-- 232
-publishDate: '2021-02-08T11:56:32.222401Z'
 authors:
 - Victor M. Eguiluz
 - Claudio Juan Tessone
@@ -22,9 +22,9 @@ abstract: Experimental studies have shown the ubiquity of altruistic behavior in
   networks, individuals offering intermediate shares are strongly selected in contrast
   to random homogeneous networks where a broad range of offers, below a critical one,
   is similarly present in the population.
-publication: ACS - Advances in Complex Systems
+publication:
 url_pdf: https://www.worldscientific.com/doi/10.1142/S0219525909002179
 doi: 10.1142/S0219525909002179
+arxivid: '0705.1976'
 featured: false
-sg-areas:
 ---

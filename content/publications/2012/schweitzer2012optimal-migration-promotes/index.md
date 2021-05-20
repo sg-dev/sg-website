@@ -1,10 +1,10 @@
 ---
 title: Optimal migration promotes the outbreak of cooperation in heterogeneous populations
 date: '2012-01-01'
+publishDate: '2021-05-20T16:39:09.799162Z'
 volume: '15'
 number: supp01
 pages: '1250059'
-publishDate: '2021-02-08T11:56:32.813136Z'
 authors:
 - Frank Schweitzer
 - Laxmidhar Behera
@@ -25,9 +25,9 @@ abstract: We consider a population of agents that are heterogeneous with respect
   effort for invading defecting islands with cooperators decreases with the number
   of islands. We also show that there is only a small bandwidth of migration rates,
   to allow the outbreak of cooperation. Larger migration rates destroy cooperation.
-publication: ACS - Advances in Complex Systems
+publication:
 url_pdf: https://www.worldscientific.com/doi/abs/10.1142/S0219525912500592
 doi: 10.1142/S0219525912500592
+arxivid: 1202.1201v1
 featured: false
-sg-areas:
 ---

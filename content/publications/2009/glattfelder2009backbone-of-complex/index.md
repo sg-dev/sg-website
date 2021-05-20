@@ -1,10 +1,10 @@
 ---
 title: 'Backbone of complex networks of corporations: The flow of control'
 date: '2009-09-01'
+publishDate: '2021-05-20T16:39:23.684596Z'
 volume: '80'
 number: '3'
 pages: '36104'
-publishDate: '2021-02-08T11:56:32.528624Z'
 authors:
 - James B. Glattfelder
 - Stefano Battiston
@@ -23,9 +23,9 @@ abstract: We present a methodology to extract the backbone of complex networks b
   Interestingly, the exact opposite is observed for European countries. These results
   have previously not been reported as they are not observable without the kind of
   network analysis developed here.
-publication: Physical Review E
+publication:
 url_pdf: http://journals.aps.org/pre/abstract/10.1103/PhysRevE.80.036104
 doi: 10.1103/PhysRevE.80.036104
+arxivid: '0902.0878'
 featured: false
-sg-areas:
 ---

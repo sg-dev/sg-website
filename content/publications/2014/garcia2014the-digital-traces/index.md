@@ -2,10 +2,10 @@
 title: 'The digital traces of bubbles: Feedback cycles between socio-economic signals
   in the Bitcoin economy'
 date: '2014-01-01'
+publishDate: '2021-05-20T16:39:27.904372Z'
 volume: '11'
 number: '99'
 pages: '20140623'
-publishDate: '2021-02-08T11:56:29.861667Z'
 authors:
 - David Garcia
 - Claudio Juan Tessone
@@ -28,9 +28,9 @@ abstract: 'What is the role of social interactions in the creation of price bubb
   the socio-economic signals we measured can lead to applications beyond cryptocurrencies
   to other phenomena that leave digital footprints, such as online social network
   usage.'
-publication: Journal of the Royal Society Interface
+publication:
 url_pdf: http://rsif.royalsocietypublishing.org/content/11/99/20140623.abstract
 doi: 10.1098/rsif.2014.0623
+arxivid: '1408.1494'
 featured: false
-sg-areas:
 ---

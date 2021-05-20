@@ -1,7 +1,7 @@
 ---
 title: Probing the robustness of nested multi-layer networks
 date: '2019-11-01'
-publishDate: '2021-02-08T11:56:30.866518Z'
+publishDate: '2021-05-20T16:39:16.808082Z'
 authors:
 - Giona Casiraghi
 - Antonios Garas
@@ -21,9 +21,8 @@ abstract: We consider a multi-layer network with two layers, $_1$, $_2$. Their i
   whereas others demonstrate high robustness of the multi-layer network because of
   the intra-layer links. Our results shed new light on the robustness of bipartite
   networks, which consider only inter-layer, but no intra-layer links.
-publication: ''
+publication:
 url_pdf: http://arxiv.org/abs/1911.03277
+arxivid: '1911.03277'
 featured: false
-projects:
-- Resilience
 ---

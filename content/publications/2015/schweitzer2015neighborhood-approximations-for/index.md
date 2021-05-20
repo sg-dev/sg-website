@@ -1,9 +1,9 @@
 ---
 title: Neighborhood Approximations for Non-Linear Voter Models
 date: '2015-01-01'
+publishDate: '2021-05-20T16:39:21.630541Z'
 volume: '17'
 pages: 7658-7679
-publishDate: '2021-02-08T11:56:33.564454Z'
 authors:
 - Frank Schweitzer
 - Laxmidhar Behera
@@ -23,9 +23,9 @@ abstract: Non-linear voter models assume that the opinion of an agent depends on
   pair approximation and not at all for the mean-field approximation. We further discuss
   the interesting phenomenon of a correlated coexistence, characterized by the formation
   of large domains of opinions that dominate for some time, but slowly change.
-publication: Entropy
+publication:
 url_pdf: http://www.mdpi.com/1099-4300/17/11/7658
 doi: 10.3390/e17117658
+arxivid: '1604.07778'
 featured: false
-sg-areas:
 ---
