@@ -25,4 +25,6 @@ url_pdf: https://www.frontiersin.org/article/10.3389/frobt.2020.00057
 doi: 10.3389/frobt.2020.00057
 projects:
 - Resilience
+- systems
+
 ---
