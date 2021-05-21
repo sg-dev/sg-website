@@ -12,5 +12,8 @@ abstract: 'Systems design utilizes top-down and bottom-up approaches to influenc
   and mechanism design, and discuss the problems involved.  We argue that systems
   design cannot be reduced to solving complex optimization problems. '
 publication: Advances in Complex Systems
-featured: false
+featured: true
+projects: 
+- systems
+
 ---

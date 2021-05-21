@@ -5,9 +5,9 @@ pages: 77 - 86
 publishDate: '2021-02-08T11:56:32.566895Z'
 authors:
 - Frank Schweitzer
-abstract: "System design – the term immediately evokes associations with the freedoms\
+abstract: "Systems design – the term immediately evokes associations with the freedoms\
   \ of a divine creator. However, it is precisely this idea that already describes\
-  \ the problem: like any other design, system design must respect certain boundaries,\
+  \ the problem: like any other design, systems design must respect certain boundaries,\
   \ but the complexity of the design is far greater. Before we can even formulate\
   \ systems design questions, we must first clarify what we want to mean by a system,\
   \ which approach we choose to system modelling, and how we validate these models.\
@@ -19,4 +19,7 @@ abstract: "System design – the term immediately evokes associations with the f
 publication: Design. Tales of Science and Innovation
 featured: false
 sg-areas:
+projects: 
+- systems
+
 ---
