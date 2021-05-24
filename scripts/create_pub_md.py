@@ -95,8 +95,9 @@ def write_index_md(index_md_path, entry, authors, title, pub_date, timestamp):
     elif "publisher" in entry:
         publication = clean_bibtex_str(entry["publisher"])
     else:
-        print("No venue specified, if preprint add the service, e.g. arXiv, SSRN")
-    page.fm["publication"] = entry
+        raise KeyError("No venue specified, if preprint add the service, e.g. arXiv, SSRN")
+
+    page.fm['publication'] = publication
 
     if "url" in entry:
         page.fm["url_pdf"] = clean_bibtex_str(entry["url"])
