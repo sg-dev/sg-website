@@ -17,10 +17,9 @@ abstract: The complexity underlying real-world systems implies that standard sta
   empirically show that even for a small multi-edge network, the standard $χ^2$ approximation
   provides erroneous results, while the proposed Beta approximation yields the correct
   p-value estimation.
-publication: 
+publication: J. Phys. Complex.
 url_pdf: http://arxiv.org/abs/2102.11116
 featured: false
-publication: arXiv
 projects:
 - Network Theory
 - Data Science
