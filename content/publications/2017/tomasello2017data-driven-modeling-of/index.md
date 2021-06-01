@@ -32,6 +32,6 @@ doi: 10.1140/epjds/s13688-017-0117-5
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---

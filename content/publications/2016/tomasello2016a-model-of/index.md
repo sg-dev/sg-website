@@ -30,6 +30,6 @@ doi: 10.1142/S0219525916500041
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---

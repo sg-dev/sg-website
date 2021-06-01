@@ -32,6 +32,6 @@ doi: 10.1038/srep05679
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---

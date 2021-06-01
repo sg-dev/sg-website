@@ -19,5 +19,5 @@ url_pdf: https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0241
 doi: 10.1007/s41109-019-0241-1
 featured: false
 projects:
-- Network-Theory
+- Network Theory
 ---

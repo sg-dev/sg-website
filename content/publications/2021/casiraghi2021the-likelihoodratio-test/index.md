@@ -21,6 +21,6 @@ publication: J. Phys. Complex.
 url_pdf: http://arxiv.org/abs/2102.11116
 featured: false
 Projects:
-- Network-Theory
-- Data-Science
+- Network Theory
+- Data Science
 ---

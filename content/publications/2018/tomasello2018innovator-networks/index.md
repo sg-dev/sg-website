@@ -22,6 +22,6 @@ doi: 10.1007/978-1-4939-7131-2_368
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---

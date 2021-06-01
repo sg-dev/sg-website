@@ -26,7 +26,8 @@ doi: 10.1007/s00191-017-0531-7
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
-- econ-geography
+- R&D Collaborations
+- Economic Geography
+
 
 ---

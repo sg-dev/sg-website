@@ -38,6 +38,6 @@ publication: In Proceedings of the 10th International Forum IFKAD 2015
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---
