@@ -30,6 +30,6 @@ url_pdf: https://epubs.siam.org/doi/10.1137/1.9781611976236.52
 doi: 10.1137/1.9781611976236.52
 featured: false
 projects:
-- Network Theory
-- Data Science
+- Network-Theory
+- Data-Science
 ---

@@ -25,5 +25,6 @@ abstract: Data from software repositories have become an important foundation fo
   software engineering, computational social science, and organisational studies.
 publication: ''
 featured: false
-sg-areas:
+Projects:
+- Data-Science
 ---
