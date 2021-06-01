@@ -12,5 +12,5 @@ publication: socarxiv
 doi: 10.31235/osf.io/j4fp6
 featured: false
 Projects:
-- 130-years-Swiss-Parliament
+- 130 Years of Swiss Parliament
 ---

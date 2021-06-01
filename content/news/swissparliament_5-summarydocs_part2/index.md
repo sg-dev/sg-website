@@ -5,7 +5,7 @@ description: "In our second part, we show you some interesting anomalies we foun
 date: 2021-05-18
 featured: true
 projects: 
-  - 130-years-Swiss-Parliament
+  - 130 Years of Swiss Parliament
 ---
 
 Summary documents are one of our main sources for the Project *130 Years of Swiss Parliament*. As highlighted in [Part 1 of our series on Summary Documents](https://www.sg.ethz.ch/news/swissparliament_4-summarydocs_part1/), we extract a lot of information from these documents. 

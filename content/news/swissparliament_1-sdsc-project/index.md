@@ -4,7 +4,7 @@ title: "SDSC Project: DemocraSci"
 description: "Introducing our SDSC project: DemocraSci -- A Research Platform for Data-Driven Democracy Studies in Switzerland"
 date: 2021-03-07
 projects:
-  - 130-years-Swiss-Parliament
+  - 130 Years of Swiss Parliament
 ---
 
 The goal of our research and data project DemocraSci is to create a searchable database of the Swiss Parliament. For the past 130 years (starting in 1891), the Swiss Parliament has carefully documented its actions and debates in the so-called Amtliches Bulletin---a stenographic record of parliamentary speeches and legislative proposals. In our project we carefully extract and structure the data from the Amtliches Bulletin. 
