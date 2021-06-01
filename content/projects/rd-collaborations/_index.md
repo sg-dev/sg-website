@@ -6,6 +6,8 @@ featured_image: RnDnetwork.png
 description: "An economic collaboration network at large scale: 15.000 firms, 21.000 research alliances over 25 years"
 label: Funded by SNF
 weight: 5
+aliases:
+- /rndcollaborations/
 ---
 
 Research and Development (R&D) networks among firms are
