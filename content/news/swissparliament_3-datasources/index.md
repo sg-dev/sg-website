@@ -5,7 +5,7 @@ description: "A short description of the different data sources our project on t
 date: 2021-04-07
 featured: true
 projects: 
-  - 130-years-Swiss-Parliament
+  - 130 Years of Swiss Parliament
 ---
 
 Our DemocraSci project builds on three data sources.

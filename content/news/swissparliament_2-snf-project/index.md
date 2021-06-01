@@ -3,7 +3,7 @@ featured_image: networks_cut.png
 title: Co-Sponsorship Networks
 description: "Introducing our SNF-project: Analyzing Co-Sponsorship Networks from 127 Years of the Swiss Federal Assembly"
 projects:
-  - 130-years-Swiss-Parliament
+  - 130 Years of Swiss Parliament
 date: 2021-03-08
 ---
 
