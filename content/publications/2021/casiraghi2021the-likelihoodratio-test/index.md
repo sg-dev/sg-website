@@ -20,7 +20,7 @@ abstract: The complexity underlying real-world systems implies that standard sta
 publication: J. Phys. Complex.
 url_pdf: http://arxiv.org/abs/2102.11116
 featured: false
-projects:
+Projects:
 - Network Theory
 - Data Science
 ---

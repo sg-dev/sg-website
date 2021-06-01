@@ -28,5 +28,6 @@ publication: Environmental Research Letters
 url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ab4864
 doi: 10.1088/1748-9326/ab4864
 featured: false
-sg-areas:
+Projects:
+- Resilience
 ---
