@@ -24,5 +24,6 @@ abstract: We provide a general framework to model the growth of networks consist
 publication: Physical Review E
 url_pdf: https://arxiv.org/abs/2002.12147
 featured: false
-sg-areas:
+projects:
+- Science of Science
 ---

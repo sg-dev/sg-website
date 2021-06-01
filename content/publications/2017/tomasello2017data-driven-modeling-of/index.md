@@ -33,5 +33,6 @@ featured: false
 sg-areas:
 projects:
 - R&D Collaborations
+- Science of Science
 
 ---

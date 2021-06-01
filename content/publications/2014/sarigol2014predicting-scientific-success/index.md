@@ -24,5 +24,6 @@ publication: EPJ Data Science
 url_pdf: http://www.epjdatascience.com/content/3/1/9
 doi: 10.1140/epjds/s13688-014-0009-x
 featured: false
-sg-areas:
+projects:
+- Science of Science
 ---

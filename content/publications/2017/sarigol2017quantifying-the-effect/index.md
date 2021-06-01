@@ -34,5 +34,6 @@ publication: Scientometrics
 url_pdf: https://link.springer.com/article/10.1007/s11192-017-2309-y
 doi: 10.1007/s11192-017-2309-y
 featured: false
-sg-areas:
+projects:
+- Science of Science
 ---
