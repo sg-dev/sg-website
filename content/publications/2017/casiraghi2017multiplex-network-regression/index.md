@@ -19,6 +19,6 @@ publication: arXiv e-print
 url_pdf: http://arxiv.org/abs/1702.02048
 featured: false
 projects:
-- Network Theory
-- Data Science
+- Network-Theory
+- Data-Science
 ---

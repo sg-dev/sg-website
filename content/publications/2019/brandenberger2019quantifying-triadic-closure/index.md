@@ -23,6 +23,6 @@ url_pdf: https://dl.acm.org/doi/abs/10.1145/3341161.3342926
 doi: 10.1145/3341161.3342926
 featured: false
 projects:
-- Network Theory
-- Data Science
+- Network-Theory
+- Data-Science
 ---

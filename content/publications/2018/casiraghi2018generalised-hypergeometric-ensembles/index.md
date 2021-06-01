@@ -18,5 +18,5 @@ abstract: 'We introduce a broad class of random graph models: the generalised hy
 publication: arXiv:1810.06495
 featured: false
 projects:
-- Network Theory
+- Network-Theory
 ---
