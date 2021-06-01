@@ -38,6 +38,6 @@ doi: 10.1007/s00191-018-0569-1
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---

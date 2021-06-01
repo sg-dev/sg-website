@@ -30,6 +30,6 @@ doi: 10.1093/icc/dtw041
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 
 ---

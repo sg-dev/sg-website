@@ -33,6 +33,6 @@ doi: 10.3934/nhm.2008.3.201
 featured: false
 sg-areas:
 projects:
-- network-theory
-- RnDcollaborations
+- Network Theory
+- R&D Collaborations
 ---

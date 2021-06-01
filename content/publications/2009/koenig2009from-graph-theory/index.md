@@ -21,6 +21,6 @@ doi: 10.1007/978-3-540-68409-1_2
 featured: false
 sg-areas:
 projects:
-- network-theory
-- RnDcollaborations
+- Network Theory
+- R&D Collaborations
 ---

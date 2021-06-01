@@ -23,5 +23,5 @@ url_pdf: https://ieeexplore.ieee.org/document/8851725
 doi: 10.1109/IJCNN.2019.8851725
 featured: false
 projects:
-- Data-Science
+- Data Science
 ---

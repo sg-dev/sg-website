@@ -26,6 +26,6 @@ doi: 10.1088/1367-2630/13/6/063021
 featured: false
 sg-areas:
 projects:
-- econ-geography
+- Economic Geography
 
 ---

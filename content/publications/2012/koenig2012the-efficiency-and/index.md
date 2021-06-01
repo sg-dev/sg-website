@@ -26,5 +26,5 @@ doi: 10.1016/j.geb.2011.12.007
 featured: false
 sg-areas:
 projects:
-- RnDcollaborations
+- R&D Collaborations
 ---
