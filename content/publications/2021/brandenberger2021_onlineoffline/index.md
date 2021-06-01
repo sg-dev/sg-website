@@ -11,6 +11,6 @@ abstract: Are offline political relations and endorsements established or mainta
 publication: socarxiv
 doi: 10.31235/osf.io/j4fp6
 featured: false
-sg-areas:
-- 130 Years of Swiss Parliament
+Projects:
+- 130-years-Swiss-Parliament
 ---
