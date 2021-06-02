@@ -242,7 +242,7 @@ Add a picture with the name `profile_pic` in the same directory and optionally a
 
 
 
-## Taxonomies (Projects and Research Areas)
+## Projects
 
 You can classify a post/publication as belonging to a specific project by adding their name in the frontmatter.
 
@@ -255,6 +255,24 @@ projects:
   - Alphorn
 ---
 ```
+
+
+For projects which are composed of multipe words for example `Science of Science` you can use exactly this string in the frontmatter like so
+
+```yaml
+---
+...
+projects:
+  - Science of Science
+---
+```
+
+internally this `Science of Science` will be reduced to `science-of-science` and the url containing the project defition will be `sg.ethz.ch/projects/science-of-science/`.
+
+The reason to write it in upper case and with spaces is that it more readable when it is listed on the publication or news item.
+
+
+
 
 Note that you can add these keys also to posts of type news, and they will be listed under the respective areas and projects.
 
