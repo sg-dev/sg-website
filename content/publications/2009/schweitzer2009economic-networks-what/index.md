@@ -31,6 +31,5 @@ doi: 10.1142/S0219525909002337
 featured: false
 sg-areas:
 projects:
-- econ-networks
-
+- Economic Networks
 ---
