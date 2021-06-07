@@ -1,7 +1,7 @@
 ---
 title: Tumor Invasion Optimization by Mesenchymal-Amoeboid Heterogeneity
 date: '2015-05-01'
-publishDate: '2021-03-01T16:28:42.754177Z'
+publishDate: '2021-06-07T09:25:14.604378Z'
 volume: '5'
 pages: '10622'
 authors:
@@ -32,5 +32,4 @@ publication: Scientific Reports
 url_pdf: http://www.nature.com/doifinder/10.1038/srep10622
 doi: 10.1038/srep10622
 featured: false
-sg-areas:
 ---
