@@ -27,6 +27,6 @@ doi: 10.1126/science.1173644
 featured: false
 sg-areas:
 projects:
-- econ-networks
+- Economic Networks
 
 ---
