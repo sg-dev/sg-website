@@ -215,17 +215,44 @@ To add additional text to the publication, e.g., where to find the code or if it
 
 ## Updating a publication
 
-If you want to update the details of a publication, e.g., it has been published. You need to change two things.
+If you want to update the details of a publication, e.g., it has been published. There are two ways to do this.
 
-1. [ ] The details in the `index.md` file, e.g.
+### Reuse the existing directoty
 
-```yaml
-publication: Scientific Reports
-date: 2021-05-01
-DOI: <NEW-DOI>
-```
+If nothing major has changed except, DOI and year may simply
 
-2. [ ] Details in the `reference.bib` file is essential for people downloading this file to use as a reference.
+- [ ] move the directoy with the publication to its new location (if necessary)
+
+	```bash
+	mv content/publications/<YEAR-OLD/<cite-key> content/publications/<YEAR-NEW/<cite-key> 
+	```
+
+- [ ] change the details in the `index.md` file, **note that the `date` must be updated**
+
+	```yaml
+	publication: Scientific Reports
+	date: 2021-05-01
+	DOI: <NEW-DOI>
+	```
+
+- [ ] update the `reference.bib`
+- [ ] (if new) replace the PDF
+- [ ] (if new) update the figure
+
+
+### Completely replace the directory (preferred)
+
+If on the other hand there are some major changes the following:
+
+- [ ] note down if the old pubolicatio `index.md` had any special content, i.e., `projects` or custom text
+- [ ] run the dedicated python script
+
+	```bash
+	python scripts/create_pub_md.py ref.bib content/publications/ 
+	```
+- [ ] Add as suggested the new PDF and picture
+- [ ] (if any) add `projects` and custom text back
+- [ ] *Delete* the old directory with the old publication (so there are no duplicates).
 
 
 
