@@ -1,9 +1,9 @@
 ---
 title: Enhanced or distorted wisdom of crowds? An agent-based model of opinion formation
   under social influence
-date: '2020-01-01'
+date: '2021-01-01'
 volume: xx
-pages: (submitted)
+pages: xx
 publishDate: '2021-02-08T11:56:30.133579Z'
 authors:
 - Pavlin Mavrodiev
