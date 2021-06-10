@@ -1,7 +1,7 @@
 ---
 title: 'The ambiguous role of social influence on the wisdom of crowds: An analytic
   approach'
-date: '2020-01-01'
+date: '2021-01-01'
 pages: '125624'
 publishDate: '2021-02-08T11:56:30.151847Z'
 authors:
