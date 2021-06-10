@@ -19,9 +19,8 @@ abstract: The social percolation model (Solomon et al., 2000) considers a 2-dime
   a dynamics of the $x_i$ and a mechanism of group formation, I further extend the
   model toward an adaptive social network model.
 publication: Physica A
-doi: 10.1016/j.physa.2020.125624
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0378437120309225
-
+doi: https://doi.org/10.1016/j.physa.2020.125687
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0378437120309857
 featured: false
 sg-areas:
 ---
