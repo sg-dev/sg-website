@@ -26,7 +26,7 @@ url_pdf: https://link.aps.org/doi/10.1103/PhysRevE.102.032303
 doi: 10.1103/PhysRevE.102.032303
 volume: 102
 issue: 3
-pages:032303
+pages: 032303
 featured: false
 projects:
 - Science of Science
