@@ -177,7 +177,7 @@ To add publications use the script available in `scripts/create_pub_md.py`
 you may need install these packages before with pip
 
 ```bash
-pip install ruaml.yaml
+pip install ruamel.yaml
 pip install bibtexparser
 ```
 
