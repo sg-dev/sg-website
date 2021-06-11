@@ -22,7 +22,11 @@ abstract: We provide a general framework to model the growth of networks consist
   the model complexity into account and is computationally efficient and scalable
   to large networks.
 publication: Physical Review E
-url_pdf: https://arxiv.org/abs/2002.12147
+url_pdf: https://link.aps.org/doi/10.1103/PhysRevE.102.032303
+doi: 10.1103/PhysRevE.102.032303
+volume: 102
+issue: 3
+pages:032303
 featured: false
 projects:
 - Science of Science
