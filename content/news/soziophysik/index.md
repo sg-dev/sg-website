@@ -18,4 +18,6 @@ Eröffnungsvortrag von Frank Schweitzer beim Online-Seminar *"Physik sozialer Sy
 
 [Zur Veranstaltung](https://www.dpg-physik.de/veranstaltungen/2021/wochenendseminar-physik-sozialer-systeme-online)
 
+[Folien des Vortrags (PDF)](Vortrag-Schweitzer-2x2.pdf)
+
 [Feature Article "Sociophysics" zum Download](https://doi.org/10.1063/PT.3.3845)
