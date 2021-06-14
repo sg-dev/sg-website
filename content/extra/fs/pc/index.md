@@ -7,6 +7,8 @@ title: Program Committees - Conferences
      *****
 - [COMPLEX NETWORKS 2021](https://complexnetworks.org/) (The Tenth International Conference on Complex Networks and their Applications)
     Madrid, Spain, 30 November - 2 December 2021
+- [SI 2021](https://wosinf.org/) (Workshop on Social Influence)
+    The Hague, Netherlands, 8 November 2021
 - [IC2S2 2021](https://2021.ic2s2.org/) (7th International Conference on Computational Social Science)
     Zurich, Switzerland, 27 - 31 July 2021
 - COMPLENET LIVE 2021 (https://complenet.weebly.com/) (International (Online) Conference on Complex Networks)
