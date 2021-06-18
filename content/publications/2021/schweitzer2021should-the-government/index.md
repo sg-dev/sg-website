@@ -24,6 +24,8 @@ abstract: In our multi - agent model agents generate wealth from repeated intera
   start problem is solved, because the critical bonus decreases with the level of
   cooperation. This allows to lower the tax rate, while maintaining high cooperation.
 publication: Advances in Complex Systems
+doi: https://doi.org/10.1142/S0219525920500186
+url_pdf: https://www.worldscientific.com/doi/10.1142/S0219525920500186
 featured: false
 sg-areas:
 ---
