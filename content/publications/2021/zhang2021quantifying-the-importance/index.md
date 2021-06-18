@@ -1,8 +1,8 @@
 ---
 title: Quantifying the importance of firms by means of reputation and network control
 date: '2021-01-01'
-volume: XXX
-pages: (submitted)
+volume: 4
+pages: 28
 publishDate: '2021-02-08T11:56:33.342983Z'
 authors:
 - Yan Zhang
