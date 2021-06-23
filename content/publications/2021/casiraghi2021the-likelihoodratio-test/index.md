@@ -18,7 +18,7 @@ abstract: The complexity underlying real-world systems implies that standard sta
   provides erroneous results, while the proposed Beta approximation yields the correct
   p-value estimation.
 publication: J. Phys. Complex.
-url_pdf: http://arxiv.org/abs/2102.11116
+url_pdf: https://iopscience.iop.org/article/10.1088/2632-072X/ac0493
 featured: false
 Projects:
 - Network Theory
