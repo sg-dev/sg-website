@@ -2,6 +2,14 @@
 title: Ramona Roller's talks
 ---
 
+- **Role detection in networks: Social differentiation during the Reformation**
+    - **Event**: Conference of the Historical Network Research community<br>
+    - **Venue**: Online<br>
+    - **Date**: July, 1st 2021<br>
+    - {{< embed-pdf url="./team/ramona_roller/data/2021-07-01_HNR.pdf" >}}
+<a href="/data/2021-07-01_HNR.pdf">**Download slides**</a>
+
+
 - **Modeling Time in Interactions: Temporal paths in a 16th century network**
     - **Event**: Lunch lecture series of the Historical Network Research community<br>
     - **Venue**: Online<br>
