@@ -11,9 +11,9 @@ title: Ramona Roller's talks
 
 
 - **Modeling Time in Interactions: Temporal paths in a 16th century network**
-    - **Event**: Lunch lecture series of the Historical Network Research community<br>
-    - **Venue**: Online<br>
-    - **Date**: April, 15th 2021<br>
+**Event**: Lunch lecture series of the Historical Network Research community<br>
+**Venue**: Online<br>
+**Date**: April, 15th 2021<br>
 <!---{{< embed-pdf url="./team/ramona_roller/data/2021-04-15_HNR.pdf" >}}--->
 <a href="/data/2021-04-15_HNR.pdf">**Download slides**</a>
 
