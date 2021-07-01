@@ -7,7 +7,7 @@ title: Ramona Roller's talks
     - **Venue**: Online<br>
     - **Date**: July, 1st 2021<br>
 {{< embed-pdf url="./team/ramona_roller/data/2021-07-01_HNR.pdf" >}}
-<a href="/data/2021-07-01_HNR.pdf">**Download slides**</a>
+<a href="./team/ramona_roller/data/2021-07-01_HNR.pdf">**Download slides**</a>
 
 
 **Talk**: Modeling Time in Interactions: Temporal paths in a 16th century network<br>
