@@ -14,7 +14,7 @@ title: Ramona Roller's talks
     - **Event**: Lunch lecture series of the Historical Network Research community<br>
     - **Venue**: Online<br>
     - **Date**: April, 15th 2021<br>
-    - {{< embed-pdf url="./team/ramona_roller/data/2021-04-15_HNR.pdf" >}}
+<!---{{< embed-pdf url="./team/ramona_roller/data/2021-04-15_HNR.pdf" >}}--->
 <a href="/data/2021-04-15_HNR.pdf">**Download slides**</a>
 
 **Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
