@@ -23,7 +23,7 @@ abstract: 'We propose an agent - based model of collective opinion formation to 
   that is even farther away from the true answer. So, under social influence the wisdom
   of crowds can be systematically wrong.'
 publication: Swarm Intelligence
-url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.652913/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Big_Data&id=652913
+url_pdf: https://link.springer.com/article/10.1007/s11721-021-00189-3
 doi: 10.3389/fdata.2021.652913
 featured: false
 sg-areas:
