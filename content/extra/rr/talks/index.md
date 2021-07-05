@@ -2,11 +2,19 @@
 title: Ramona Roller's talks
 ---
 
-- **Modeling Time in Interactions: Temporal paths in a 16th century network**
-    - **Event**: Lunch lecture series of the Historical Network Research community<br>
+- **Role detection in networks: Social differentiation during the Reformation**
+    - **Event**: Conference of the Historical Network Research community<br>
     - **Venue**: Online<br>
-    - **Date**: April, 15th 2021<br>
-    - {{< embed-pdf url="./team/ramona_roller/data/2021-04-15_HNR.pdf" >}}
+    - **Date**: July, 1st 2021<br>
+{{< embed-pdf url="./team/ramona_roller/data/2021-07-01_HNR.pdf" >}}
+<a href="/content/team/Ramona_Roller/data/2021-07-01_HNR.pdf">**Download slides**</a>
+
+
+**Talk**: Modeling Time in Interactions: Temporal paths in a 16th century network<br>
+**Event**: Lunch lecture series of the Historical Network Research community<br>
+**Venue**: Online<br>
+**Date**: April, 15th 2021<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2021-04-15_HNR.pdf" >}}--->
 <a href="/data/2021-04-15_HNR.pdf">**Download slides**</a>
 
 **Talk**: Räumliche Aspekte der Konfessionalisierung: Vektorisierte Territorien des HRR erstellen und nutzen<br>
