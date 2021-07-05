@@ -19,6 +19,7 @@ abstract: The complexity underlying real-world systems implies that standard sta
   p-value estimation.
 publication: J. Phys. Complex. 2 035012
 url_pdf: https://iopscience.iop.org/article/10.1088/2632-072X/ac0493
+doi: 10.1088/2632-072x/ac0493
 featured: false
 Projects:
 - Network Theory
