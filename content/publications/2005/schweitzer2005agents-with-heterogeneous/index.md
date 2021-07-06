@@ -7,7 +7,7 @@ publishDate: '2021-02-08T11:56:31.031917Z'
 authors:
 - Frank Schweitzer
 - Robert Mach
-- Muehlenbein Heinz
+- Heinz Muehlenbein
 abstract: We use a spatial iterated Prisoner’s Dilemma game (IPD) to investigate the
   spatial - temporal evolution of heterogeneity in agents’ strategies. In our model,
   N agents are spatially distributed on a lattice and each agent is assumed to interact
