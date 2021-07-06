@@ -6,7 +6,7 @@ number: '10'
 pages: 1659-- 1674
 publishDate: '2021-02-08T11:56:31.502572Z'
 authors:
-- A. M. Seufert
+- Adrian M. Seufert
 - Frank Schweitzer
 abstract: We analyze a model of interacting agents (e.g. prebiotic chemical species)
   which are represented by nodes of a network, whereas their interactions are mapped
