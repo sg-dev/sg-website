@@ -29,7 +29,7 @@ abstract: In this paper, we present experimental investigations on a day - to - 
   instead of just learning to be cooperative. Presumably, this also holds for other
   social dilemma situations.
 publication: Games, Rationality, and Behaviour
-url_pdf: http://www.if.pw.edu.pl/~ jholyst/data/Paper_book.pdf
+url_pdf: http://www.if.pw.edu.pl/~jholyst/data/Paper_book.pdf
 featured: false
 sg-areas:
 ---
