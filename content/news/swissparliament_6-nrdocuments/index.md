@@ -5,7 +5,7 @@ description: "We introduce our second main source of data for the DemocraSci pro
 date: 2021-07-09
 featured: true
 projects: 
-  - 130-years-Swiss-Parliament
+  - 130 Years of Swiss Parliament
 ---
 
 In this blogpost we give an overview over the information contained in the `Amtliches Bulletin`---our second main source of data. 
