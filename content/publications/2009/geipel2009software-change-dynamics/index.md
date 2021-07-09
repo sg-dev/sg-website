@@ -1,7 +1,7 @@
 ---
 title: 'Software change dynamics: Evidence from 35 Java projects'
 date: '2009-01-01'
-pages: '269'
+pages: '269-- 272'
 publishDate: '2021-02-08T11:56:31.827034Z'
 authors:
 - Markus Michael Geipel
