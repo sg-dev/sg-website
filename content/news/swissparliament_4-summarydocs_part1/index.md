@@ -3,7 +3,6 @@ featured_image: 110000511_page9_gesetze_regular.jpg
 title: "Summary Documents and the Secrets they Hold -- Part 1"
 description: "Find out what information can be extracted from summary documents provided by the Swiss Parliament."
 date: 2021-04-13
-featured: true
 projects: 
   - 130 Years of Swiss Parliament
 ---
