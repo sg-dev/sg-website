@@ -2,7 +2,7 @@
 title: From Graph Theory to Models of Economic Networks. A Tutorial
 date: '2009-01-01'
 volume: '613'
-pages: '23'
+pages: '23-- 63'
 publishDate: '2021-02-08T11:56:30.750600Z'
 authors:
 - Michael D Koenig
