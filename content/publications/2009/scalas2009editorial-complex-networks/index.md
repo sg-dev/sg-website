@@ -3,7 +3,7 @@ title: 'Editorial: Complex networks'
 date: '2009-01-01'
 volume: '12'
 number: '01'
-pages: '1'
+pages: '1-- 2'
 publishDate: '2021-02-08T11:56:29.140238Z'
 authors:
 - Enrico Scalas
