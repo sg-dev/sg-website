@@ -1,5 +1,5 @@
 ---
-title: 'Managing Complexity: Insights, Concepts, Applications'
+title: 'Trade Credit Networks and Systemic Risk'
 date: '2008-01-01'
 volume: '2008'
 pages: 219-- 239
