@@ -22,7 +22,7 @@ abstract: The opinion dynamics model introduced by Deffuant and Weisbuch as well
   we look at different statistics, i.e. number of cluster, number of major clusters,
   and Gini coefficient.
 publication: Journal of Artificial Societies and Social Simulation
-url_pdf: http://jasss.soc.surrey.ac.uk/11/2/4.html
+url_pdf: http://jasss.soc.surrey.ac.uk/11/2/4.html 
 featured: false
 sg-areas:
 ---
