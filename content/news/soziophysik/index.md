@@ -3,7 +3,6 @@ title: "Soziophysik"
 date: 2021-06-09T14:41:38+02:00
 draft: false
 featured: true # show on the first page
-pin: false
 featured_image:  Sociophysics-small.png # path/name of image to use as thumbnail
 description:  Was können wir wissen? Was sollen wir tun? Was dürfen wir hoffen? Eröffnungsvortrag ... # short text, used in cards and for previews
 ---
