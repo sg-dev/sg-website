@@ -3,7 +3,7 @@ title: 'Editorial: Sozio - und Ökonophysik sind etablierte Forschungsfelder'
 date: '2010-01-01'
 volume: '6'
 number: '41'
-pages: '3'
+pages: '263'
 publishDate: '2021-02-08T11:56:33.000395Z'
 authors:
 - Frank Schweitzer
