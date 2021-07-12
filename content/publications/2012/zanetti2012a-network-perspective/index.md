@@ -13,7 +13,7 @@ abstract: Modularity is a desirable characteristic for software systems. In this
   in this article indicate that our methodology offers a promising and reasonable
   quantitative approach with potential impact on software engineering processes.
 publication: Architecture of Computing Systems (ARCS) Workshops 2012
-url_pdf: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6222227
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6222227
 featured: false
 sg-areas:
 ---
