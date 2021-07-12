@@ -3,7 +3,7 @@ title: 'From assortative to dissortative networks: The role of capacity constrai
 date: '2010-01-01'
 volume: '13'
 number: '4'
-pages: '483'
+pages: '483-- 499'
 publishDate: '2021-02-08T11:56:29.694054Z'
 authors:
 - Michael D Konig
