@@ -1,5 +1,5 @@
 ---
-title: '\"Take me to your leader!\": Inferring leadership in animal groups on the
+title: '"Take me to your leader!": Inferring leadership in animal groups on the
   move'
 date: '2012-01-01'
 pages: 594-595
