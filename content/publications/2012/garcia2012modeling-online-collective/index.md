@@ -1,7 +1,7 @@
 ---
 title: Modeling online collective emotions
 date: '2012-01-01'
-pages: '37'
+pages: '37-- 38'
 publishDate: '2021-02-08T11:56:30.431456Z'
 authors:
 - David Garcia
