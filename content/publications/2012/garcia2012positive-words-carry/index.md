@@ -2,7 +2,7 @@
 title: Positive words carry less information than negative words
 date: '2012-05-01'
 volume: '1'
-pages: '3'
+pages: '12'
 publishDate: '2021-02-08T11:56:33.887272Z'
 authors:
 - David Garcia
