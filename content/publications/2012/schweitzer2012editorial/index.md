@@ -3,7 +3,7 @@ title: Editorial
 date: '2012-05-01'
 volume: '1'
 number: '1'
-pages: '1'
+pages: '4'
 publishDate: '2021-02-08T11:56:33.453535Z'
 authors:
 - Frank Schweitzer
