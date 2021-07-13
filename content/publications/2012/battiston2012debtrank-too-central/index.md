@@ -2,7 +2,7 @@
 title: 'DebtRank: Too Central to Fail? Financial Networks, the FED and Systemic Risk'
 date: '2012-08-01'
 volume: '2'
-pages: '541'
+pages: '1-- 6'
 publishDate: '2021-02-08T11:56:33.231854Z'
 authors:
 - Stefano Battiston
