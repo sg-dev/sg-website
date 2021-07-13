@@ -30,6 +30,7 @@ publication: Proceedings of 11th IEEE International Conference on Trust, Securit
   and Privacy in Computing and Communications (TrustCom 2012)
 url_pdf: http://dl.acm.org/citation.cfm?id=2360332
 doi: 10.1109/TrustCom.2012.63
+pages: 722-- 729
 featured: false
 sg-areas:
 ---
