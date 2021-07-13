@@ -17,7 +17,6 @@ abstract: When dealing with networks of several kind, network theory provides th
   the obstacles arising in this endeavor as well as a possible framework to address
   those issues, which we call time - explicit graphs.
 publication: ''
-url_pdf: http://www3.informatik.uni-wuerzburg.de/events/summerschool2012/proceedings/Pfitzner.pdf
 featured: false
 sg-areas:
 ---
