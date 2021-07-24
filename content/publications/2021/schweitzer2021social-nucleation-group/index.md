@@ -1,6 +1,6 @@
 ---
 title: 'Social nucleation: Group formation as a phase transition'
-date: '2021-01-01'
+date: '2021-07-01'
 publishDate: '2021-07-15T06:45:27.280744Z'
 volume: XXX
 pages: XXX
