@@ -19,6 +19,7 @@ pluralizelisttitles = "false"
     departmentURL = "https://mtec.ethz.ch/"
     maxFeaturedPosts = 9
     maxPinnedPosts = 3
+    pubsInProfile = 15
 
 
 
