@@ -35,6 +35,7 @@ publication: 'In Proceedings of the 7th ACM international conference on Web sear
   and data mining, pages: 593-602'
 url_pdf: http://dl.acm.org/citation.cfm?id=2566588&CFID=420782655&CFTOKEN=76267284
 doi: 10.1145/2556195.2566588
+pages: 593–602
 featured: false
 sg-areas:
 ---
