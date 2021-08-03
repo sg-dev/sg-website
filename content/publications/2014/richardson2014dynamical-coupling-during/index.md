@@ -30,6 +30,7 @@ abstract: The measurement of information flows within moving animal groups has r
   study of coordinated phenomena in animal groups will eventually help to understand
   cause and effect in collective behaviour.
 publication: Submitted. arXiv:1311.1417
+url_pdf: https://arxiv.org/abs/1311.1417
 featured: false
 sg-areas:
 ---
