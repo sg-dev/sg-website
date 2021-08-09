@@ -2,7 +2,7 @@
 title: 'Emotions and Activity Profiles of Influential Users in Product Reviews Communities '
 date: '2015-01-01'
 volume: '3'
-number: '87'
+pages: '87'
 publishDate: '2021-02-08T11:56:28.990058Z'
 authors:
 - Dorian Tanase
