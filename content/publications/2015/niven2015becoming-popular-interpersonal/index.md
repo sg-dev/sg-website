@@ -3,7 +3,7 @@ title: 'Becoming popular: Interpersonal emotion regulation predicts relationship
   in real life social networks'
 date: '2015-01-01'
 volume: '6'
-number: '1452'
+pages: '1452'
 publishDate: '2021-02-08T11:56:30.206775Z'
 authors:
 - Karen Niven
