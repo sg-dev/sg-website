@@ -35,6 +35,7 @@ abstract: "We develop an agent-based model to reproduce the processes of link fo
   \ and higher knowledge exchange rates, for instance including rewards for quick\
   \ co-patenting by allied firms."
 publication: In Proceedings of the 10th International Forum IFKAD 2015
+pages: 260-276
 featured: false
 sg-areas:
 projects:
