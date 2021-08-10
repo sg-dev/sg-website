@@ -3,6 +3,7 @@ title: A model of dynamic rewiring and knowledge exchange in R&D networks
 date: '2016-01-01'
 volume: '19'
 number: 1 - 2
+pages: 1650004
 publishDate: '2021-02-08T11:56:31.199274Z'
 authors:
 - Mario Vincenzo Tomasello
