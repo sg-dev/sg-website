@@ -3,6 +3,7 @@ title: The Dynamics of Emotions in Online Interaction
 date: '2016-01-01'
 volume: '3'
 number: '160059'
+pages: 1-14
 publishDate: '2021-02-08T11:56:32.203053Z'
 authors:
 - David Garcia
