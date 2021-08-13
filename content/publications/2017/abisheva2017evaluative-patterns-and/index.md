@@ -27,6 +27,7 @@ abstract: Users of social media are not only producers and consumers of online c
   users disencourage other users from being active in social media.
 publication: Social Informatics
 doi: 10.1007/978-3-319-67256-4_24
+url_pdf: https://link.springer.com/chapter/10.1007%2F978-3-319-67256-4_24
 featured: false
 sg-areas:
 ---
