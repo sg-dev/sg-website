@@ -4,6 +4,7 @@ title: 'Correlations between thresholds and degrees: An analytic approach to mod
 date: '2018-01-01'
 volume: '98'
 number: '2'
+pages: 022306
 publishDate: '2021-02-08T11:56:32.350268Z'
 authors:
 - Rebekka Burkholz
