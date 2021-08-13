@@ -3,6 +3,7 @@ title: A framework for cascade size calculations on random networks
 date: '2018-01-01'
 volume: '97'
 number: '4'
+pages: 042312
 publishDate: '2021-02-08T11:56:31.554644Z'
 authors:
 - Rebekka Burkholz
