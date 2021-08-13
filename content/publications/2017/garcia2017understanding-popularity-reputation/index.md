@@ -27,6 +27,7 @@ abstract: The pervasive presence of online media in our society has transferred 
 publication: Policy & Internet
 url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/poi3.151/full
 doi: 10.1002/poi3.151
+pages: 343-364
 featured: false
 sg-areas:
 ---
