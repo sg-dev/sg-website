@@ -21,6 +21,7 @@ abstract: Multi-edge networks capture repeated interactions between individuals.
 publication: ACM
 url_pdf: https://dl.acm.org/doi/abs/10.1145/3341161.3342926
 doi: 10.1145/3341161.3342926
+pages: 307–310
 featured: false
 projects:
 - Network Theory
