@@ -3,6 +3,7 @@ title: An agent-based model of multi-dimensional opinion dynamics and opinion al
 date: '2020-01-01'
 volume: '30'
 number: '9'
+pages: 093139
 publishDate: '2021-02-08T11:56:29.804401Z'
 authors:
 - Simon Schweighofer
