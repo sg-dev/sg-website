@@ -20,6 +20,7 @@ abstract: The reputation of firms is largely channeled through their ownership s
   show that MDSs with lower access costs can be used to control the reputation dynamics
   in the whole network.
 publication: Frontiers in Big Data
+url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.652913/full
 featured: false
 Projects:
 - Resilience
