@@ -6,12 +6,13 @@ Here is an overview of how to work with this website.
 
 Things to note:
 
-- The website is a static
-- The content is generated with the Hugo framework
-- Content management is done through `git`
+- The website is static
+- The content is generated with Hugo
+- Content management is done via `git`
 - Only changes pushed to the `main` branch are published
 - You should learn the basics of `git` before adding content
 - If something goes wrong (e.g. CSS breaks), it is easy to roll back to an earlier version of the website by reverting the commit and recommit.
+- If there is a red cross next to the commit hash, it means that there the deployment did not succeed. Email LV for help.
 
 
 
