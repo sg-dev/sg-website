@@ -27,7 +27,7 @@ abstract: Location-sharing services were built upon people's desire to share the
 publication: Proceedings of the 25th international World Wide Web conference companion
 url_pdf: http://dl.acm.org/citation.cfm?id=2890084
 doi: 10.1145/2872518.2890084 
-pages:569–574
+pages: 569–574
 featured: false
 sg-areas:
 ---
