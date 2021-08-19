@@ -20,26 +20,17 @@ aliases:
     - /lverginer/
 ---
 
-Luca Verginer is an economist working on subjects, covering
 
-- Fundamentals of Temporal Networks
-- Science of Science
-- Research Policy
-- Supply and Distribution Networks
+I am a Postdoc at che Chair of Systems Design at ETH Zürich and hold a Ph.D. in Economics and Data Science from IMT Lucca.
 
-To tackles these problems he relies on a wide variety of methods including but not limited to
+I am an empirical economist and network scientist studying through econometrics, numerical simulations, and network models issues related to intellectual property, supply chain resilience and high skill labour mobility, among (many) other subjects. I am passionate about data in all its forms (and sizes) and constantly looking for curious and ingenious ways to visualize, collect and extract value from it.
 
-- Social Network Analysis
-- Econometrics
-- Machine Learning (e.g. NLP, Graph Neural Networks)
-- Agent Based Modelling
+My work is driven by research questions that make use of state-of-the-art modelling techniques often involving large datasets, natural language processing, complex networks with a special focus on temporal networks.
 
-Prior to joining Chair of Systems Design Team, Luca received a
+Prior to joining Chair of Systems Design Team, I  received a
 **Master's degree in Economics** from the University of Trento and a **PhD in Economics and Data Science** from IMT School for Advanced Studies, Lucca.
+I am also a core contributor to [Pathpy], an open source **temporal network analysis** library developed in collaboration with the [DAG group University of Zürich][dag] and the University of Wuppertal.
 
-Luca is als a core contributor to [Pathpy], an open source **temporal network analysis** library developed in collaboration with the [DAG group University of Zürich][dag] and the University of Wuppertal.
-
-The work on the exciting and novel field of temporal networks allows are is central in addressing temporal economic network data (e.g. Supply Chains).
 
 [pathpy]: http://www.pathpy.net
 [dag]: https://www.ifi.uzh.ch/en/dag/people/scholtes.html
