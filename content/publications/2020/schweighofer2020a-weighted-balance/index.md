@@ -3,6 +3,7 @@ title: A Weighted Balance Model of Opinion Hyperpolarization
 date: '2020-01-01'
 volume: '23'
 number: '3'
+pages: 5
 publishDate: '2021-02-08T11:56:30.337765Z'
 authors:
 - Simon Schweighofer
