@@ -2,8 +2,9 @@
 title: Should the government reward cooperation? Insights from an agent-based model
   of wealth redistribution
 date: '2021-01-01'
-volume: XXX
-pages: (submitted)
+volume: 23
+number: 7
+pages: (2050018)
 publishDate: '2021-02-08T11:56:32.295049Z'
 authors:
 - Frank Schweitzer
