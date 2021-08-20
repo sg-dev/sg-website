@@ -214,6 +214,10 @@ content/publications/cite-key/
 To add additional text to the publication, e.g., where to find the code or if it has been mentioned on the news, you can add this in the `index.md` as content. This text will be shown above the abstract. 
 
 
+For the button `Official Link` to appear either of the following two fields must be set: `doi` or `url_pdf`. `doi` will take precedence as it is a permanent identifier and the preferred link type. However, sometimes a DOI is not available, in which case you should use `url_pdf`.
+As soon as you do have a valid `doi` add it, this will make the linking more robust.
+
+
 ## Updating a publication
 
 If you want to update the details of a publication, e.g., it has been published. There are two ways to do this.
