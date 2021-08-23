@@ -1,6 +1,6 @@
 ---
 title: 'Higher-order models capture changes in controllability of temporal networks'
-date: '2017-01-01'
+date: '2020-01-01'
 publishDate: '2021-02-08T11:56:33.269791Z'
 authors:
 - Yan Zhang
