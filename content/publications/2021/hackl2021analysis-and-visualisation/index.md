@@ -19,5 +19,6 @@ abstract: The Open Source software package pathpy, available at https://www.path
   than one indicate higher-order dependencies and can be used to improve the analysis
   of dynamical processes, node centralities and clusters.
 publication: Companion Proceedings of the Web Conference 2021
+url_pdf: https://dl.acm.org/doi/10.1145/3442442.3452052
 featured: false
 ---
