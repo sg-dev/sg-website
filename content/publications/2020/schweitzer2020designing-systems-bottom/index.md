@@ -4,7 +4,7 @@ date: '2020-01-01'
 publishDate: '2021-05-21T15:50:57.676124Z'
 volume: '23'
 number: '7'
-doi: doi.org/10.1142/S0219525920200015
+doi: 10.1142/S0219525920200015
 authors:
 - Frank Schweitzer
 abstract: 'Systems design utilizes top-down and bottom-up approaches to influence
