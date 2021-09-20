@@ -1,6 +1,6 @@
 ---
 featured_image: 20034732_5and6.png
-title: "Amtliches Bulletin: records of speeches, amendments and votes -- Part 2"
+title: "Amtliches Bulletin: records of speeches, propositions and votes -- Part 2"
 description: "We go into detail on which text elements we extract form the Amtliches Bulletin from 1891 until 1995."
 date: 2021-09-20
 featured: true

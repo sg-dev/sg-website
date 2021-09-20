@@ -1,6 +1,6 @@
 ---
 featured_image: DemocraSci_NRpages_NRdocs_linebar.jpg
-title: "Amtliches Bulletin: records of speeches, amendments and votes -- Part 1"
+title: "Amtliches Bulletin: records of speeches, propositions and votes -- Part 1"
 description: "We introduce our second main source of data for the DemocraSci project: The proceedings of the Swiss Parliament, commonly referred to as the Amtliches Bulletin."
 date: 2021-07-09
 featured: false
@@ -40,8 +40,8 @@ For every discussion held in the chambers, it contains:
 * the date and time of the discussion
 * who presided over the discussion
 * all the speeches recorded verbatim
-* all proposals (dt. Anträge) or amendments proposed by committees, members of parliament or parliamentary groups
-* voting records and outcomes for all the proposals as well as final votes
+* all propositions (dt. Anträge) or amendments proposed by committees, members of parliament or parliamentary groups
+* voting records and outcomes for all the propositions as well as final votes
 
 We'll go through these individual aspects of the Amtliches Bulletin in separate blogposts and describe how we extracted and structured their contents.
 
