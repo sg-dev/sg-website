@@ -3,7 +3,7 @@ featured_image: DemocraSci_NRpages_NRdocs_linebar.jpg
 title: "Amtliches Bulletin: records of speeches, amendments and votes -- Part 1"
 description: "We introduce our second main source of data for the DemocraSci project: The proceedings of the Swiss Parliament, commonly referred to as the Amtliches Bulletin."
 date: 2021-07-09
-featured: true
+featured: false
 projects: 
   - 130 Years of Swiss Parliament
 ---
