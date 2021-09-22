@@ -6,7 +6,7 @@ tel: +41 44 632 82 11
 website:
 firstname: Giacomo
 lastname: Vaccario
-role: Postdoc
+role: Senior Assistant
 weight: 90
 honorific: Dr.
 aliases:
