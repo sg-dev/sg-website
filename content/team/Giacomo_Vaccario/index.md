@@ -6,8 +6,8 @@ tel: +41 44 632 82 11
 website:
 firstname: Giacomo
 lastname: Vaccario
-role: Senior Assistant
-weight: 90
+role: Senior Researcher
+weight: 95
 honorific: Dr.
 aliases:
     - /team/people/gvaccario/

@@ -1,9 +1,9 @@
 ---
 firstname: Giona
 lastname: Casiraghi
-role: Postdoc
+role: Senior Researcher
 honorific: Dr.
-weight: 90
+weight: 95
 image: profile_pic.jpg
 email: gcasiraghi@ethz.ch
 tel: +41 44 632 06 24
