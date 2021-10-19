@@ -2,11 +2,18 @@
 title: Ramona Roller's talks
 ---
 
-- **Role detection in networks: Social differentiation during the Reformation**
-    - **Event**: Conference of the Historical Network Research community<br>
+- **Polarization in the 16th century: Ideologial groups during the Reformation**
+    - **Event**: European conference on Social Network Analysis (EUSN)<br>
     - **Venue**: Online<br>
-    - **Date**: July, 1st 2021<br>
-{{< embed-pdf url="./team/ramona_roller/data/2021-07-01_HNR.pdf" >}}
+    - **Date**: September, 8th 2021<br>
+{{< embed-pdf url="./team/ramona_roller/data/2021-09-08_EUSN.pdf" >}}
+<a href="/content/team/Ramona_Roller/data/2021-09-08_EUSN.pdf">**Download slides**</a>
+
+**Talk**: Role detection in networks: Social differentiation during the Reformation<br>
+**Event**: Conference of the Historical Network Research community<br>
+**Venue**: Online<br>
+**Date**: July, 1st 2021<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2021-07-01_HNR.pdf" >}}--->
 <a href="/content/team/Ramona_Roller/data/2021-07-01_HNR.pdf">**Download slides**</a>
 
 
