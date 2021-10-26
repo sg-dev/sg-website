@@ -3,9 +3,10 @@ featured_image: balance_unbalanced_list.png
 title: "Signed Relations and Structural Balance in Complex Systems: From Data to Models"
 description: "Structural imbalances can induce a dynamics to resolve conflicts but also one that increases polarization. Are we able to address this problem from a formal perspective?"
 date: 2019-11-01
-weight: 10
+weight: 1
 label: Funded by SNF
 ---
+
 According to the theory of structural balance, interacting systems balance the (positive or negative) relations between
 different system elements such that local conflicts are minimized. 
 Hence, structural imbalances induce a dynamics to resolve such conflicts. 
