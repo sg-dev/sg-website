@@ -4,7 +4,8 @@ date: 2021-01-21
 featured: true
 featured_image: "cas.png"
 description: The call for papers for the special issue in ACS is open!
-project: Science of Science
+projects:
+- Science of Science
 ---
 
 

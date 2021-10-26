@@ -2,7 +2,9 @@
 featured_image: pic.png
 date: 2020-09-27
 title: Scientific Networks and Success
-project: Science of Science
+description: Every researcher is affected by how scientific performance is measured. How should it be measured? Join us for our Workshop to discuss these issues.
+projects:
+   - Science of Science
 ---
 
 ![nets](pic.png)
