@@ -1,5 +1,5 @@
 ---
-featured_image: balance_unbalanced_list.pdf
+featured_image: balance_unbalanced_list.png
 title: "Signed Relations and Structural Balance in Complex Systems: From Data to Models"
 description: "Structural imbalances induce a dynamics to resolve conflicts. This dynamics plays a vital role in evolutionary processes. At the same time, if these solutions cannot be reached, this can hamper the functionality of systems. Are we able to address this problem from a formal perspective?"
 date: 2019-11-01
