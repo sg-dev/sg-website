@@ -1,8 +1,7 @@
 ---
 featured_image: balance_unbalanced_list.png
 title: "Signed Relations and Structural Balance in Complex Systems: From Data to Models"
-description: "Structural imbalances induce a dynamics to resolve conflicts. At the same time, they can also drive a system to have higher polarization which can hamper its functionality.
-We propose methods and models to address this problem from a formal perspective."
+description: "Structural imbalances can induce a dynamics to resolve conflicts but also one that increases polarization. Are we able to address this problem from a formal perspective?"
 date: 2019-11-01
 weight: 10
 label: Funded by SNF
