@@ -2,6 +2,7 @@
 featured_image: pic.png
 date: 2020-09-27
 title: Scientific Networks and Success
+project: Science of Science
 ---
 
 ![nets](pic.png)
