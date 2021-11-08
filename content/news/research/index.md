@@ -1,7 +1,6 @@
 ---
 title: "How we do it"
 date: 2021-07-11T17:34:58+02:00
-pin: false
 draft: false
 featured: true  # show on the first page
 featured_image: threecircles.png  # path/name of image to use as thumbnail
