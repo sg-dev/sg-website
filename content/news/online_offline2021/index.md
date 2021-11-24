@@ -3,7 +3,6 @@ featured_image: onlineoffline.png
 title: "Are offline political relations established with online interactions?"
 date: 2021-05-31
 featured: true
-pin: false
 description: A study of the validity of online political behavior to proxy offline relations.
 ---
 

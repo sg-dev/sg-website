@@ -5,7 +5,7 @@ draft: false
 featured_image: micro-2.png
 description: "How to design and influence systems comprising a large number of interacting elements?"
 label: 
-weight: 1
+weight: 2
 ---
 
 Systems design denotes an approach to manipulate technical, environmental, social or economic systems such that a desired outcome is obtained.
