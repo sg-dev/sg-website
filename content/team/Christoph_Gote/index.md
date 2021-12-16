@@ -3,14 +3,14 @@ firstname: Christoph
 lastname: Gote
 room: WEV G 207
 tel: +41 44 632 82 46
-honorific: MSc Electrical Engineering and MSc Investment and Wealth Management
-role: PhD Student
+honorific: Dr.
+role: Postdoc
 email: cgote@ethz.ch
 github: gotec
 website: https://www.linkedin.com/in/cgote
 orcid: 0000-0002-0382-1336
 gscholar: VtjtfisAAAAJ
-weight: 80
+weight: 90
 aliases:
     - /team/people/cgote/
 ---
