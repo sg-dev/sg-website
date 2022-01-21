@@ -19,4 +19,7 @@ abstract: 'We use a data-driven agent-based model to study the core-periphery st
   for agents with high network embeddedness.'
 publication: arXiv
 featured: false
+projects:
+- R&D Collaborations
+- Economic networks
 ---
