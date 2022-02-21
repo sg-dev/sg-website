@@ -21,4 +21,6 @@ abstract: We study the effect of group interactions on the emergence of consensu
   basic voter models, is no longer obtained.
 publication: arXiv
 featured: false
+projects: 
+ - Network Theory
 ---
