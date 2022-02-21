@@ -21,7 +21,7 @@ While the lectures focus on the theoretical foundations of agent-based modelling
 
 ## Useful Information
 
-- **Lecturer**: [Prof. Frank Schweitzer][prof]
+- **Lecturers**: [Prof. Frank Schweitzer][prof], [Dr. Giacomo Vaccario][ta]
 - **Course ID**: [363-0543-00L][vvz]
 - **Period**: Spring Semester 2022
 - **Syllabus**: [PDF][syllabus-pdf]
@@ -29,5 +29,6 @@ While the lectures focus on the theoretical foundations of agent-based modelling
 
 [syllabus-pdf]: https://www.sg.ethz.ch/media/medialibrary/2020/02/syllabusABM-22.pdf
 [prof]: /team/frank_schweitzer
+[ta] : /team/giacomo_vaccario
 [vvz]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157618&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en
 [moodle]: https://moodle-app2.let.ethz.ch/course/view.php?id=17211
