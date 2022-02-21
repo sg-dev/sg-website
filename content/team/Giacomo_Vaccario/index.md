@@ -3,10 +3,13 @@ image: profile_pic.jpg
 email: gvaccario@ethz.ch
 room: WEV G 206
 tel: +41 44 632 82 11
-website:
+github: giava90
+website: https://www.linkedin.com/in/giacomo-vaccario-631772a6/
 firstname: Giacomo
 lastname: Vaccario
 role: Senior Researcher
+orcid: 0000-0001-8290-2742
+gscholar: yo8IoxwAAAAJ
 weight: 95
 honorific: Dr.
 aliases:
