@@ -29,6 +29,6 @@ While the lectures focus on the theoretical foundations of agent-based modelling
 
 [syllabus-pdf]: https://www.sg.ethz.ch/media/medialibrary/2020/02/syllabusABM-22.pdf
 [prof]: /team/frank_schweitzer
-[ta] : /team/giacomo_vaccario
+[ta]: /team/giacomo_vaccario
 [vvz]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157618&semkez=2022S&ansicht=LEHRVERANSTALTUNGEN&lang=en
 [moodle]: https://moodle-app2.let.ethz.ch/course/view.php?id=17211
