@@ -5,13 +5,13 @@ weight: 10
 ---
 
 We offer *Semester*, *Bachelor*, *Master* and *MAS Theses*
-to ETH Students from the following Departments, `D-MTEC`, `D-PHYS`, `D-MAVT`, `D-MATH` and `D-MTEC`.
+to ETH Students from the following Departments: `D-MTEC`, `D-PHYS`, `D-MAVT`, and `D-MATH`.
 
-To qualify for a Master theses `D-MTEC` students are require to have taken the following courses:
+To qualify for a Master theses, `D-MTEC` students are require to have taken the following courses:
 
-1. [Systems Dynamics and Complexity](/teaching/system-dynamics)
-2. [Agent-Based Modelling of Social Systems](/teaching/abm)
-3. [Complex Networks](/teaching/complex-networks)
+1. [Systems Dynamics and Complexity](/teaching/system-dynamics),
+2. [Agent-Based Modelling of Social Systems](/teaching/abm),
+3. [Complex Networks](/teaching/complex-networks).
 
 All students are required to sign the [declaration of originality](https://www.ethz.ch/content/dam/ethz/main/education/rechtliches-abschluesse/leistungskontrollen/declaration-originality.pdf).
 
