@@ -20,12 +20,14 @@ The course provides an overview of the methods and abstractions used in:
 ## Useful Information
 
 - **Lecturer**: [Prof. Frank Schweitzer][prof]
+- **Tutorials**: [Dr. Luca Verginer][lv]
 - **Course ID**: [363-0588-00L][vvz]
-- **Period**: Spring Semester 2021
+- **Period**: Spring Semester
 - **Syllabus**: [PDF][syllabus-pdf]
 - **Moodle**: [Moodle Board][moodle]
 
-[syllabus-pdf]: syllabus2021.pdf
+[syllabus-pdf]: syllabus-cn22.pdf
 [prof]: /team/frank_schweitzer
-[moodle]: https://moodle-app2.let.ethz.ch/course/view.php?id=3916
-[vvz]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=135015&semkez=2020S&ansicht=KATALOGDATEN&lang=en
+[lv]: /team/luca_verginer
+[moodle]: https://moodle-app2.let.ethz.ch/course/view.php?id=17016
+[vvz]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157680&semkez=2022S&lang=en 
