@@ -7,7 +7,7 @@ projects:
   - 130 Years of Swiss Parliament
 ---
 
-One of our main data sources for our Project *130 Years of Swiss Parliament* ([click here for the project overview](https://www.sg.ethz.ch/projects/130-years-swiss-parliament/)) are so-called summary of proceedings documents. The Amtliches Bulltin publishes summary documents (dt. *Übersicht der Verhandlungen* or summary of proceedings) for each parliamentary session. These documents contain a list of proposed bills by the members of parliament along with additional information (date of submission, bill text, committee assignments, co-sponsorship, and dates of important decisions).
+One of our main data sources for our Project *130 Years of Swiss Parliament* ([click here for the project overview](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/)) are so-called summary of proceedings documents. The Amtliches Bulltin publishes summary documents (dt. *Übersicht der Verhandlungen* or summary of proceedings) for each parliamentary session. These documents contain a list of proposed bills by the members of parliament along with additional information (date of submission, bill text, committee assignments, co-sponsorship, and dates of important decisions).
 
 One of the main tasks of our project is extracting all relevant information in these summary documents and structuring them in a relational database. 
 
