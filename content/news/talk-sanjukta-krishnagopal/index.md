@@ -9,7 +9,7 @@ description: Community structures through a simplicial complex formulation.
 
 **[Sanjukta Krishnagopal](https://chimeraki.weebly.com/scientificresearch.html)** from the *University College London* will present her work on higher order network representations.
 
-- title: **Investigating the community structure of complex interaction data through a simplicial complex formulation.**
+- Title: **Investigating the community structure of complex interaction data through a simplicial complex formulation.**
 - Date: Wednesday, 16 March 2022 at 11:00 - 12:00
 - Room: HG E23
 
