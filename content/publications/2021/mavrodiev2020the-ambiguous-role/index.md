@@ -21,7 +21,7 @@ abstract: '\"Wisdom of crowds\" refers to the phenomenon that the average opinio
   wisdom of crowds, but in most cases it deteriorates the outcome. In these cases,
   individual conviction still improves the wisdom of crowds because it mitigates the
   impact of social influence.'
-publication: 'Physica A: Statistical Mechanics and its Applications'
+publication: 'Physica A'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0378437120309225
 doi: https://doi.org/10.1016/j.physa.2020.125624
 featured: false
