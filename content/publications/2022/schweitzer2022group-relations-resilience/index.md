@@ -21,6 +21,5 @@ publication: arXiv
 featured: false
 doi: 
 url_pdf: https://arxiv.org/abs/2204.09330
-featured: true
 sg-areas:
 ---
