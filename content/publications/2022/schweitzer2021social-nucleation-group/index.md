@@ -1,9 +1,9 @@
 ---
 title: 'Social nucleation: Group formation as a phase transition'
-date: '2021-07-01'
-publishDate: '2021-07-15T06:45:27.280744Z'
-volume: XXX
-pages: XXX
+date: '2022-04-01'
+publishDate: '2022-04-15T06:45:27.280744Z'
+volume: 105
+pages: 044301
 authors:
 - Frank Schweitzer
 - Georges Andres
@@ -19,10 +19,10 @@ abstract: ' The spontaneous formation and subsequent growth, dissolution, merger
   investigations allow to derive different critical densities that control the formation
   and coexistence of groups. Our novel approach sheds new light on the early stage
   of network growth and the emergence of large connected components.  '
-publication: ArXiv (submitted for publication)
+publication: Physical Review E
 featured: false
-doi: 
-url_pdf: https://arxiv.org/abs/2107.06696
+doi: https://doi.org/10.1103/PhysRevE.105.044301
+url_pdf: https://journals.aps.org/pre/pdf/10.1103/PhysRevE.105.044301
 featured: false
 sg-areas:
 
