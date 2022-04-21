@@ -1,6 +1,6 @@
 ---
 title: Group relations, resilience and the I Ching
-date: '2022-01-01'
+date: '2022-04-21'
 publishDate: '2022-04-21T04:21:05.575287Z'
 volume: XXX
 pages: (under review)
