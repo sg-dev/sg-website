@@ -1,7 +1,7 @@
 ---
 title: 'Consensus from group interactions: An adaptive voter model on hypergraphs'
 date: '2022-01-01'
-publishDate: '2022-02-14T10:20:19.636319Z'
+publishDate: '2022-05-13T10:20:19.636319Z'
 authors:
 - Nikos Papanikolaou
 - Giacomo Vaccario
@@ -19,7 +19,12 @@ abstract: We study the effect of group interactions on the emergence of consensu
   opinion biases, accelerate the formation of consensus and lead to a drift of the
   average magnetization. The conservation of the initial magnetization, known for
   basic voter models, is no longer obtained.
-publication: arXiv
+publication: Phys. Rev. E
+volume = 105
+issue = 5
+pages = 054307
+doi = 10.1103/PhysRevE.105.054307
+url = https://link.aps.org/doi/10.1103/PhysRevE.105.054307
 featured: false
 projects: 
  - Network Theory
