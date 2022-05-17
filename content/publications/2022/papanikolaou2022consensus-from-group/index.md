@@ -1,6 +1,6 @@
 ---
 title: 'Consensus from group interactions: An adaptive voter model on hypergraphs'
-date: '2022-01-01'
+date: '2022-05-13'
 publishDate: '2022-05-13T10:20:19.636319Z'
 authors:
 - Nikos Papanikolaou
