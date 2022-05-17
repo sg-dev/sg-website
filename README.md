@@ -1,5 +1,7 @@
 # SG Website
 
+[![github pages](https://github.com/sg-dev/sg-website/actions/workflows/deploy_with_hugo.yml/badge.svg?branch=main)](https://github.com/sg-dev/sg-website/actions/workflows/deploy_with_hugo.yml)
+
 This repository contains the content of the website served at https://www.sg.ethz.ch
 
 Here is an overview of how to work with this website.
