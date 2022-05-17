@@ -19,12 +19,12 @@ abstract: We study the effect of group interactions on the emergence of consensu
   opinion biases, accelerate the formation of consensus and lead to a drift of the
   average magnetization. The conservation of the initial magnetization, known for
   basic voter models, is no longer obtained.
-publication: Phys. Rev. E
-volume = 105
-issue = 5
-pages = 054307
-doi = 10.1103/PhysRevE.105.054307
-url = https://link.aps.org/doi/10.1103/PhysRevE.105.054307
+publication: Physical Review E
+volume: 105
+issu: 5
+pages: 054307
+doi: 10.1103/PhysRevE.105.054307
+url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.105.054307
 featured: false
 projects: 
  - Network Theory
