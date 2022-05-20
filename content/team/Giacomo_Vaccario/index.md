@@ -15,9 +15,17 @@ honorific: Dr.
 aliases:
     - /team/people/gvaccario/
 ---
+Giacomo is a senior assistant at the Chair of Systems Design, ETH Zurich.
+In this group, he worked as a post-doc and obtained a Doctorate in Science in 2019.
+He completed the Part III of the Mathematical Tripos from the University of Cambridge and received a Master in Theoretical physics from the University of Sapienza.
 
-My main interests are in the quantification of knowledge and of its exchange in academia and in R&D activities.
+Giacomo's research interests lie in understanding the determinants and effects of cooperation in socio-economic systems.
+He studies how collaborations are established among firms or scientists to exchange and produce new knowledge.
+He also investigates how the knowledge of these actors, in turn, defines their collaborations.
+To capture this feedback, he combines statistical analysis of patent and publication data with agent-based models.
+In recent years, he has worked extensively on how psychological and cognitive processes can foster but also hamper the establishment of cooperation.
+He has developed mathematical models and experiments leveraging game theory and complex systems theory.
 
-In particular, I concentrate on two specific classes of problems. The first class of problems is related to the question of how knowledge artifacts are linked to each other, ranked and filtered in repositories. Examples of repositories are patent and scientific publication databases. The second class of problems relates to the question of how knowledge is exchanged and transferred. Indeed, knowledge is not only produced and encoded in knowledge artifacts, as patents or scientific publications, but it is also exchanged by humans and it diffuses in our society. R&D alliances among firms and co-authorship of papers among scientists are examples of activities favoring knowledge exchange. While the physical migration of inventors or scientists is an example of knowledge transfer/migration.
-
-To answer the above questions, I develop statistical methods and agent-based models.
+Giacomo publishes papers in major peer-review journals.
+He is a member of the editorial board for the journal Social Network Analysis and Mining and has been a guest editor of the journal Advances of Complex Systems.
+He is also an active reviewer for various venues, including Journal of Informetrics, Scientometrics, European Physics Journal - Data Science, and Physica A.
