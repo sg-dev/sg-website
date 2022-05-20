@@ -1,4 +1,5 @@
 ---
+title: Sophia Schlosser
 email: sschlosser@ethz.ch
 room: WEV G 208
 tel:

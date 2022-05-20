@@ -1,4 +1,5 @@
 ---
+title: Giona Casiraghi
 firstname: Giona
 lastname: Casiraghi
 role: Senior Researcher
