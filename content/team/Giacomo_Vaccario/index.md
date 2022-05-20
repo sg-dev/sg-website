@@ -16,9 +16,19 @@ honorific: Dr.
 aliases:
     - /team/people/gvaccario/
 ---
+Giacomo is a senior researcher at the Chair of Systems Design, ETH Zurich.
+In this group, he worked as a post-doc and obtained a Doctorate in Science in 2019.
+Before joining ETH Zurich, he completed the Part III of the Mathematical Tripos from the University of Cambridge and received a Master in Theoretical Physics from Sapienza University of Rome.
 
-My main interests are in the quantification of knowledge and of its exchange in academia and in R&D activities.
+Giacomo's research interests lie in understanding the determinants and effects of cooperation in socio-economic systems.
+He studies [how collaborations are established](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-017-0117-5) among firms or scientists to create new knowledge.
+He also investigates how the knowledge of these actors, in turn, [defines their collaborations](https://link.springer.com/article/10.1007/s00191-018-0569-1).
+To capture this feedback, he combines statistical analysis of patent and publication data with agent-based models.
+In recent years, he has worked extensively on how psychological and cognitive processes can foster but also hamper the [emergence of cooperation](https://www.worldscientific.com/doi/abs/10.1142/S0219525920500186).
+To this end, he has developed mathematical models and experiments leveraging game theory and complex systems theory.
 
-In particular, I concentrate on two specific classes of problems. The first class of problems is related to the question of how knowledge artifacts are linked to each other, ranked and filtered in repositories. Examples of repositories are patent and scientific publication databases. The second class of problems relates to the question of how knowledge is exchanged and transferred. Indeed, knowledge is not only produced and encoded in knowledge artifacts, as patents or scientific publications, but it is also exchanged by humans and it diffuses in our society. R&D alliances among firms and co-authorship of papers among scientists are examples of activities favoring knowledge exchange. While the physical migration of inventors or scientists is an example of knowledge transfer/migration.
+Giacomo publishes papers in major peer-review journals.
+He is a member of the editorial board for the journal Social Network Analysis and Mining and has been a guest editor of the journal Advances of Complex Systems.
+He is also an active reviewer for various venues, including Journal of Informetrics, European Physics Journal - Data Science, and Physica A.
 
-To answer the above questions, I develop statistical methods and agent-based models.
+On top of the research activity, Giacomo has been teaching the course [Agent-Based Modelling of Social Systems](https://www.sg.ethz.ch/teaching/abm/) with [Prof. Frank Schweitzer](https://www.sg.ethz.ch/team/frank_schweitzer/).
