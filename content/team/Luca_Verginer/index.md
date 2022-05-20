@@ -1,4 +1,5 @@
 ---
+title: Luca Verginer
 firstname: Luca
 lastname: Verginer
 role: Postdoc

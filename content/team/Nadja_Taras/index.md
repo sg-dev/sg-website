@@ -1,4 +1,5 @@
 ---
+title: Nadja Taras
 image: profile_pic.jpg
 email: ntaras@ethz.ch
 room: WEV G 210

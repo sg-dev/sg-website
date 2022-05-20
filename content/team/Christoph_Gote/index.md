@@ -1,4 +1,5 @@
 ---
+title: Christoph Gote
 firstname: Christoph
 lastname: Gote
 room: WEV G 207

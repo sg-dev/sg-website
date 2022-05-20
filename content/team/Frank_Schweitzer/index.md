@@ -1,4 +1,5 @@
 ---
+title: Frank Schweitzer
 firstname: Frank
 lastname: Schweitzer
 honorific: Prof. Dr. Dr.

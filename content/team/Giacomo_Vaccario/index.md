@@ -1,4 +1,5 @@
 ---
+title: Giacomo Vaccario
 image: profile_pic.jpg
 email: gvaccario@ethz.ch
 room: WEV G 206

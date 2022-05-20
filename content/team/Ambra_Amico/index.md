@@ -1,4 +1,5 @@
 ---
+title: Ambra Amico
 email: aamico@ethz.ch
 room: WEV G 212
 tel: +41 78 303 90 01

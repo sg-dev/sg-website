@@ -1,4 +1,5 @@
 ---
+title: Laurence Brandenberger
 image: profile_pic.jpg
 email: lbrandenberger@ethz.ch
 room: WEV G 213

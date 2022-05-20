@@ -1,4 +1,5 @@
 ---
+title: Ramona Roller
 image: profile_pic.jpg
 email: rroller@ethz.ch
 room: WEV G 205

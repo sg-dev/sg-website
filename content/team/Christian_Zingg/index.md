@@ -1,4 +1,5 @@
 ---
+title: Christian Zingg
 image: profile_pic.jpg
 email: czingg@ethz.ch
 room: WEV G 206
