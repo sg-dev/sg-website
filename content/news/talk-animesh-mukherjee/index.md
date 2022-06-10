@@ -7,7 +7,7 @@ featured_image: sad_smily.png
 description:  The rise of hate content in online social media
 ---
 
-**[Prof. Animesh Mukherjee](https://http://cse.iitkgp.ac.in/~animeshm/)** from the *Indian Institute of Technology, Kharagpur* will present his work on the rise of hate content in online social media.
+**[Prof. Animesh Mukherjee](http://cse.iitkgp.ac.in/~animeshm/)** from the *Indian Institute of Technology, Kharagpur* will present his work on the rise of hate content in online social media.
 
 - Title: **The rise of hate content in online social media**
 - Date: Monday, 13 June 2022 at 11:00 - 12:00
