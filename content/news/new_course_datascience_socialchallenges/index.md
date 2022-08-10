@@ -1,7 +1,7 @@
 ---
 title: "NEW COURSE: Data Science for Social Challenges"
 description: "We're offering a new MA/PhD course this fall!"
-date: 2022-08-10T09:36:03+01:00
+date: 2022-08-10
 featured: true
 featured_image: social_challenges.png
 ---
