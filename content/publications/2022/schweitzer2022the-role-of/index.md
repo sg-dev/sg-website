@@ -1,8 +1,13 @@
 ---
 title: 'The role of network embeddedness on the selection of collaboration partners:
   An agent-based model with empirical validation'
-date: '2022-01-01'
-publishDate: '2022-01-21T15:00:20.366278Z'
+year: '2022'
+journal: 'Advances in Complex Systems'
+volume: '24'
+issue: '7'
+pages: '2250004'
+doi: '10.1142/S0219525922500047'
+url: 'https://www.worldscientific.com/doi/epdf/10.1142/S0219525922500047'
 authors:
 - Frank Schweitzer
 - Antonios Garas
@@ -17,7 +22,6 @@ abstract: 'We use a data-driven agent-based model to study the core-periphery st
   are formed. Our agent-based model is able to reproduce the empirical coreness differences
   of collaboration partners and to explain why we observe a change in partner selection
   for agents with high network embeddedness.'
-publication: arXiv
 featured: false
 projects:
 - R&D Collaborations
