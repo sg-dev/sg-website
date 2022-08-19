@@ -2,7 +2,9 @@
 title: Data-driven modeling of group formation in the fission-fusion dynamics of Bechstein's
   bats
 date: '2019-01-01'
-pages: (submitted)
+pages: 20220170
+volume: 19
+issue: 190
 publishDate: '2021-02-08T11:56:29.511154Z'
 authors:
 - Nicolas Perony
@@ -26,7 +28,7 @@ abstract: Communal roosting in Bechstein's bat colonies is characterized by the 
   bridge the roosting decisions on short time scale (less than one day) with the social
   structures observed at long time scales (more than one year).
 publication: Journal of the Royal Society Interface
-url_pdf: https://www.biorxiv.org/content/10.1101/862219v1
+url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rsif.2022.0170
 featured: false
 sg-areas:
 ---
