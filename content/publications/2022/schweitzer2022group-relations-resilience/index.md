@@ -2,8 +2,9 @@
 title: Group relations, resilience and the I Ching
 date: '2022-04-21'
 publishDate: '2022-04-21T04:21:05.575287Z'
-volume: XXX
-pages: (under review)
+journal: 'Physica A'
+volume: '603'
+pages: '127630'
 authors:
 - Frank Schweitzer
 abstract: We evaluate the robustness and adaptivity of social groups with heterogeneous
@@ -17,9 +18,9 @@ abstract: We evaluate the robustness and adaptivity of social groups with hetero
   resilience which combines robustness and adaptivity.  A stochastic approach determines
   the probabilities to find robust and adaptive groups.  The discussion focuses on
   the generalization of our approach.
-publication: arXiv
+publication: 
 featured: false
-doi: 
-url_pdf: https://arxiv.org/abs/2204.09330
+doi: 'https://doi.org/10.1016/j.physa.2022.127630'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0378437122004265'
 sg-areas:
 ---
