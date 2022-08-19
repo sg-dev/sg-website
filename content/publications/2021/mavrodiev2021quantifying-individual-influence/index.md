@@ -3,6 +3,7 @@ title: Quantifying individual influence in leading-following behavior of Bechste
   bats
 date: '2021-01-01'
 volume: '11'
+pages: '1-12'
 publishDate: '2021-02-08T11:56:31.291594Z'
 authors:
 - Pavlin Mavrodiev
