@@ -7,7 +7,7 @@ volume: '24'
 issue: '7'
 pages: '2250004'
 doi: '10.1142/S0219525922500047'
-url: 'https://www.worldscientific.com/doi/epdf/10.1142/S0219525922500047'
+url: https://www.worldscientific.com/doi/epdf/10.1142/S0219525922500047
 authors:
 - Frank Schweitzer
 - Antonios Garas
