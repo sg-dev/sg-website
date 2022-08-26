@@ -4,7 +4,7 @@ title: "New open position for a Hiwi - starting September 2022"
 description: "We are looking for a new HiWi staring september 2022 or on agreement."
 date: 2022-08-12
 featured: true
-projects: 
+projects:
   - 130 Years of Swiss Parliament
 ---
 
@@ -12,7 +12,7 @@ We are looking for a student research assistant to work on our data project “ 
 
 Starting date: September 2022 or on an agreement
 
-Tasks include: 
+Tasks include:
 - Creation of a web portal to access our database
 - Creation of an API for the web-portal
 - Ensure a clean and user-friendly web interface. Users should be able to log into the portal and query the data clearly and straightforwardly.
@@ -25,17 +25,15 @@ Requirements:
 - Experience with a front-end framework (react/vue/angular…)  is a plus
 - Good command of German is a plus but not a must
 
-We offer: 
+We offer:
 - 5-15 hours/week (more hours possible during term breaks, fewer hours possible during exam sessions)
 - Salary according to ETH rules (28.00 CHF/hour)
 - Employment for 1 year
 
 
-Please submit your application online via the official ETHZ recruiting page (jobs.ethz.ch).We only accept applications via the official ETHZ recruiting tool. 
-For general inquiries, please contact Prof. Frank Schweitzer (fschweitzer@ethz.ch). 
+Please submit your application online via the official ETHZ recruiting page (jobs.ethz.ch).We only accept applications via the official ETHZ recruiting tool.
+For general inquiries, please contact Prof. Frank Schweitzer (fschweitzer@ethz.ch).
 
-Please apply via 
+Please apply via the official ETHZ recruiting page (jobs.ethz.ch).
 
- For general inquiries, please contact Prof. Frank Schweitzer (fschweitzer@ethz.ch).
- 
-
+For general inquiries, please contact Prof. Frank Schweitzer (fschweitzer@ethz.ch).
