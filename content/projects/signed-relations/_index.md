@@ -5,6 +5,8 @@ description: "Structural imbalances can induce a dynamics to resolve conflicts b
 date: 2019-11-01
 weight: 1
 label: Funded by SNF
+aliases:
+    - /projects/alphorn/
 ---
 
 According to the theory of structural balance, interacting systems balance the (positive or negative) relations between
