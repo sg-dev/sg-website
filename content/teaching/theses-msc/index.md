@@ -2,6 +2,7 @@
 date: 2021-08-25
 title: Master, Bachelor and Semester Theses
 weight: 10
+featured_image: net.png
 ---
 
 We offer *Semester*, *Bachelor*, *Master* and *MAS Theses*
@@ -18,6 +19,13 @@ All students are required to sign the [declaration of originality](https://www.e
 ---
 
 ## List of Theses
+
+### 2022
+
+- **Paride Crisafulli** (Master Thesis): *"Time evolution of signed networks sparkling with conflicts"*\
+	Department of Physics ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer, Dr. Luca Verginer, Dr. Giacomo Vaccario and Dr. Giona Casiraghi\
+    Date of completion: 08/2022
 
 ### 2021
 
