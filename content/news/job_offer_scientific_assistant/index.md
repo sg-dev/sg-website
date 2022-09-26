@@ -3,7 +3,7 @@ featured_image: Hiwi_teachingResearch.png
 title: "New open position for a Hiwi - starting September 2022"
 description: "We are looking for a new HiWi staring september 2022 or on agreement."
 date: 2022-08-12
-featured: true
+featured: false
 projects:
   - 130 Years of Swiss Parliament
 ---

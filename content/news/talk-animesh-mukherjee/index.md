@@ -2,7 +2,7 @@
 title: "SG Seminar by Prof. Animesh Mukherjee"
 date: 2022-06-10
 draft: false
-featured: true
+featured: false
 featured_image: sad_smily.png
 description:  The rise of hate content in online social media
 ---
