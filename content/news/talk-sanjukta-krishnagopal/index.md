@@ -2,7 +2,7 @@
 title: "Talk Sanjukta Krishnagopal"
 date: 2022-03-14T15:25:14+01:00
 draft: false
-featured: true  # show on the first page
+featured: false  # show on the first page
 featured_image:  header.png
 description: Community structures through a simplicial complex formulation.
 ---

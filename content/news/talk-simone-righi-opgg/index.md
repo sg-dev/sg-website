@@ -2,7 +2,7 @@
 title: "SG Talk by Prof. Simone Righi"
 date: 2021-11-29T10:40:04+01:00
 draft: false
-featured: true  # show on the first page
+featured: false  # show on the first page
 featured_image: righi_banner.png
 description: Prof. Simone Righi will deliver a talk on the role of loners, reputation and punishment the evolution of cooperation in the Optional Public Goods Game.
 ---
