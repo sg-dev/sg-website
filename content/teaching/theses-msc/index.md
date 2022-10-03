@@ -22,6 +22,11 @@ All students are required to sign the [declaration of originality](https://www.e
 
 ### 2022
 
+- **Vincent Jung** (Master Thesis): *"Ideological Embeddings of Swiss Members of Parliament"*\
+	Department of Computer Science\
+    Supervisor: Prof. Frank Schweitzer, Prof. Dr. Fernando Perez-Cruz\
+    Date of completion: 09/2022
+
 - **Paride Crisafulli** (Master Thesis): *"Time evolution of signed networks sparkling with conflicts"*\
 	Department of Physics ETH Zurich\
     Supervisor: Prof. Frank Schweitzer, Dr. Luca Verginer, Dr. Giacomo Vaccario and Dr. Giona Casiraghi\
