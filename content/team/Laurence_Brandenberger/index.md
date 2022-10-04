@@ -7,8 +7,8 @@ tel: +41 44 632 04 42
 website:
 firstname: Laurence
 lastname: Brandenberger
-role: Postdoc
-weight: 90
+role: Senior Researcher
+weight: 95
 honorific: Dr.
 aliases:
     - /team/people/brandenberger-laurence/
