@@ -25,7 +25,7 @@ She then matched the bills throughout the years, resulting in almost 40,000 bill
 
 ## A closer look at Marta's work
 
-![The summary documents and the information they contain](110001683_page21_normal.jpg)
+![The summary documents and the information they contain](tikz_SB.pdf)
 
 Marta was given the task of extracting all the information on bills from 1891-1970. As described in some of our earlier blogposts [here](https://www.sg.ethz.ch/news/swissparliament_4-summarydocs_part1/) and [here](https://www.sg.ethz.ch/news/swissparliament_5-summarydocs_part2/), these documents are inherently complex. For every parliamentary session (4x a year), the Amtliches Bulletin published these summary documents to list all the bills the parliamentary chambers had to work on during the session. They include legislative drafts proposed by the federal council, motions, postulate, interpellations, questions and other, more obscure bill types (such as the Begnadigungsgesuche or Eisenbahngeschäfte) in close detail.
 
@@ -38,7 +38,7 @@ Whenever there were errors in the parsed XML-files, Marta corrected them to ensu
 The summary documents print all bills that the two chambers debated during the session. Since most bills are not resolved within one session, the summary documents repeatedly list the same bills. 
 For instance, bill #10314, a motion by Herr Hummler submitted on June 12, 1969 was printed in 3 separate summary documents (see below).
 
-![Example of repeated listings of the same bill in the Summary Documents](example_hummler)
+![Example of repeated listings of the same bill in the Summary Documents](example_hummler.png)
 
 In total, Marta matched 19,383 federal drafts and 20,162 motionen/interpellationen/postulage throughout the different documents. 
 
