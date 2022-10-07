@@ -25,7 +25,7 @@ She then matched the bills throughout the years, resulting in almost 40,000 bill
 
 ## A closer look at Marta's work
 
-![The summary documents and the information they contain](tikz_SB.pdf)
+![The summary documents and the information they contain](tikz_SB.png)
 
 Marta was given the task of extracting all the information on bills from 1891-1970. As described in some of our earlier blogposts [here](https://www.sg.ethz.ch/news/swissparliament_4-summarydocs_part1/) and [here](https://www.sg.ethz.ch/news/swissparliament_5-summarydocs_part2/), these documents are inherently complex. For every parliamentary session (4x a year), the Amtliches Bulletin published these summary documents to list all the bills the parliamentary chambers had to work on during the session. They include legislative drafts proposed by the federal council, motions, postulate, interpellations, questions and other, more obscure bill types (such as the Begnadigungsgesuche or Eisenbahngeschäfte) in close detail.
 
