@@ -24,7 +24,7 @@ abstract: Networks are frequently used to model complex systems comprised of int
   both the network model and path-based prediction. We further show that the performance
   difference between MOGen and the path-based approach disappears if we have sufficient
   observations, confirming that the error is due to overfitting.
-publication: arXiv preprint arXiv:2107.12100
+publication: arXiv
 arxivid: '2107.12100'
 featured: false
 ---
