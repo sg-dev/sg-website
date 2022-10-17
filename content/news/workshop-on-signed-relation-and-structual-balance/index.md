@@ -1,14 +1,14 @@
 ---
 featured_image: results.png
-date: 2020-09-27
-title: ``Signed relation and structural balance in complex systems'' a satellite workshop of CCS 2022
+date: 2022-10-16
+title: Signed relation and structural balance in complex systems'' a satellite workshop of CCS 2022
 description: Are you working on signed networks from a complexity science perspective? Submit an abstract and join our workshop.
 projects:
    - alphorn
 ---
 
-![nets](pic.png)
-
+![nets](featured_image: results.png
+.png)
 
 As part of the Alphorn project, Dr. Giacomo Vaccario and Dr. Piotr Górski are organizing a workshop satellite at CCS 2022, which takes place online and onsite in Palma de Mallorca.
 
