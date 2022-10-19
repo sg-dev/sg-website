@@ -1,0 +1,45 @@
+\documentclass{standalone}
+\usepackage{filecontents}
+\begin{filecontents*}{data.dat}
+x y err
+97 .9 .05
+98 .92 0.015
+99 .88 0.02
+100 .87 0.04
+101 .72 0.07
+102 .75 0.03
+103 0.74 0.05
+104 0.4 0.1
+105 0.34 0.06
+106 0.22 0.07
+107 0.32 0.05
+108 0.3 0.04
+109 0.24 0.02
+110 0.28 0.07
+111 0.2 0.06
+112 0.18 0.02
+113 0.23 0.03
+114 0.2 .04
+115 0.17 .03
+116 .18 0.02
+\end{filecontents*}
+
+\usepackage{pgfplots}
+\usepgfplotslibrary{fillbetween}
+\begin{document}
+\begin{tikzpicture}
+\begin{axis}[xtick={97,98,...,116},
+ %x label style={at={(axis description cs:0.5,-0.1)},anchor=north},
+  %  #y label style={at={(axis description cs:-0.1,.5)},rotate=90,anchor=south},
+    xlabel={US Congresses},
+    ylabel={$pr$ of predicting opposing party speeches}, 
+    width=15cm, height = 7cm]
+\addplot table[x=x,y=y] {data.dat};
+
+\addplot [name path=upper,draw=none] table[x=x,y expr=\thisrow{y}+\thisrow{err}] {data.dat};
+\addplot [name path=lower,draw=none] table[x=x,y expr=\thisrow{y}-\thisrow{err}] {data.dat};
+\addplot [fill=blue!10] fill between[of=upper and lower];
+\end{axis}
+\end{tikzpicture}
+
+\end{document}
