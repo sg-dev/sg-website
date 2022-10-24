@@ -2,7 +2,7 @@
 title: "SG Talk by Prof. Christian Kuehn"
 date: 2022-10-09
 draft: false
-featured: true  # show on the first page
+featured: false  # show on the first page
 featured_image: kuehn_banner.jpg
 description: Prof. Simone Righi will deliver a talk on the role of loners, reputation and punishment the evolution of cooperation in the Optional Public Goods Game.
 ---
