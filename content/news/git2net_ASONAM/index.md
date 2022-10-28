@@ -1,6 +1,6 @@
 ---
 title: "Tutorial on git2net at ASONAM 2022"
-date: 2022-10-28T18:25:23+01:00
+date: 2022-10-28T10:25:23+01:00
 draft: false
 featured: true  # show on the first page
 featured_image: git2net.png  # path/name of image to use as thumbnail
