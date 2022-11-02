@@ -8,9 +8,9 @@ website:
 honorific: MSc
 firstname: Ramona
 lastname: Roller
-role: PhD Student
+role: Postdoc
 honorific: MSc Computational Science
-weight: 80
+weight: 90
 twitter: ramona_roller
 orcid: 0000-0003-0146-4264
 github: RamonaRoller
