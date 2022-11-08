@@ -5,9 +5,9 @@ date: '2019-05-01'
 pages: 433-444
 publishDate: '2021-02-08T11:56:32.330074Z'
 authors:
-- Frank Schweitzer
 - Christoph Gote
 - Ingo Scholtes
+- Frank Schweitzer
 abstract: Data from software repositories have become an important foundation for
   the empirical study of software engineering processes. A recurring theme in the
   repository mining literature is the inference of developer networks capturing e.g.
