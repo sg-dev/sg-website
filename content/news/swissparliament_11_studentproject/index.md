@@ -16,7 +16,7 @@ Along the recently published paper of Peterson and Spirling 2018, we would like 
 
 We propose the following approach: For every Congress (97th-116th), we train a BERT-model on democratic (or republican) speeches and then try to predict the opposing party speeches (e.g., predicting a republican speech on a democratic-BERT-trained model). We expect to see increasing divergence in how well the party-specific BERT-model can predict opposing party speeches.
 
-![Expected results in case the polarization-hypothesis is correct](Figure_LinguisticPrediction.png)
+![Expected results in case the polarization-hypothesis is correct]{Figure_LinguisticPrediction.png}
 
 ## Student tasks
 
@@ -32,14 +32,15 @@ We propose the following approach: For every Congress (97th-116th), we train a B
 
 *Requirements:*
 
+This project is reserved for MTEC-students or Data Science/Computer Science Master students. Additional requirements include:
+
 - python coding
 - interest in learning how to train BERT-models
 - interest in political science (or the US Congress) + polarization
 
-
 The student project is 6 weeks long and the student is required to write a short (5 pages) report about the project for the grade. 
 
-Please send an email to lbrandenberger@ethz.ch and russog@ethz.ch with a short CV if you're interested in this project and we'll get in contact.
+The project is co-supervised with the Swiss Data Science Center (Luis Salamanca). Please send an email to lbrandenberger@ethz.ch and russog@ethz.ch with a short CV if you're interested in this project and we'll get in contact.
 (We will update this blogpost if the project is no longer available.)
 
 
