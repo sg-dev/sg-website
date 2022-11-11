@@ -16,7 +16,7 @@ Along the recently published paper of Peterson and Spirling 2018, we would like 
 
 We propose the following approach: For every Congress (97th-116th), we train a BERT-model on democratic (or republican) speeches and then try to predict the opposing party speeches (e.g., predicting a republican speech on a democratic-BERT-trained model). We expect to see increasing divergence in how well the party-specific BERT-model can predict opposing party speeches.
 
-![Expected results in case the polarization-hypothesis is correct]{Figure_LinguisticPrediction.png}
+![Expected results in case the polarization-hypothesis is correct](Figure_LinguisticPrediction.png)
 
 ## Student tasks
 
