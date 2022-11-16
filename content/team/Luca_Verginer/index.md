@@ -15,6 +15,7 @@ orcid: 0000-0002-2952-6634
 gscholar: cZT_l5AAAAAJ
 image: profile_pic.jpg
 twitter: lucaverginer
+bg_image: ai_image_net.png
 aliases:
     - /team/people/lverginer/
     - /veluca/
