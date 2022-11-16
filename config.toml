@@ -9,8 +9,8 @@ pluralizelisttitles = "false"
 
 
 [taxonomies]
-    area = "areas"
     project = "projects"
+    event = "events"
 
 [params]
     unitName = "Chair of Systems Design"
@@ -36,10 +36,6 @@ pluralizelisttitles = "false"
     name = "Team"
     url = "/team/"
     weight = 3
- # [[menu.main]]
- #   name = "Research"
- #   url = "/areas/"
- #   weight = 4
  [[menu.main]]
    name = "Projects"
    url = "/projects/"
