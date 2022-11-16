@@ -5,9 +5,6 @@ draft: true
 featured: true  # show on the first page
 featured_image: bg.png  # path/name of image to use as thumbnail
 description: On November 24, join us in LEE E 101. Follow the link to check out the program. # short text, used in cards and for previews
-aliases:
-    - /SG-Symposium2022/
-    - /sg-symposium2022/
 ---
 
 <style>
@@ -27,7 +24,7 @@ aliases:
     <tr><td>Disentangling homophily, community structure and triadic closure in networks</td></tr>
     <tr><td><b>Tiago Peixoto</b></td></tr>
     <tr><td><small><i>Department of Network and Data Science, CEU, Vienna</i></small></td></tr>
-    </table></td> 
+    </table></td>
   </tr>
   <tr>
     <td><img src="giona.png" alt="GC" width="100%"/></td>
@@ -37,7 +34,7 @@ aliases:
     </td></tr>
     <tr><td><b>Giona Casiraghi</b></td></tr>
     <tr><td><small><i>Chair of Systems Design, ETH Zürich</i></small></td></tr>
-    </table></td> 
+    </table></td>
   </tr>
   <tr>
   <td><i>10:45 — 11:15</i></td>
@@ -50,6 +47,20 @@ aliases:
     <tr><td>De Bruijn Goes Neural: Towards Causality-Aware Graph Neural Networks for Time Series Data</td></tr>
     <tr><td><b>Ingo Scholtes</b></td></tr>
     <tr><td><small><i>CAIDAS, Julius-Maximilians-Universität Würzburg</i></small></td></tr>
-    </table></td> 
+    </table></td>
   </tr>
 </table>
+
+
+---
+### 09:15 – 10:00: Disentangling homophily, community structure and triadic closure in networks
+
+<figure class="card card__row2">
+    <!-- <a href="http://localhost:1313/team/frank_schweitzer/"> -->
+    <img src="tiago.png" width="270" height="270">
+
+<h3>Tiago Peixoto</h3>
+<p><small>Department of Network and Data Science, CEU, Vienna</small></p>
+
+</a>
+</figure>
