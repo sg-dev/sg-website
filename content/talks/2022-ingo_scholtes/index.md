@@ -8,10 +8,11 @@ speaker_image:
 description:
 speaker: Ingo Scholtes
 affiliation: CAIDAS, Julius-Maximilians-Universität Würzburg
-where:
-when: 2022-11-24
+where: LEE E 101
+from: 2022-11-24T11:15:00
+to: 2022-11-24T12:00:00
 events:
-- Symposium November 2022
+- SG Symposium November 2022
 ---
 
 **Abstract** Graph Neural Networks (GNNs) have become a cornerstone for the application of deep learning to data on complex networks, i.e. relational data that capture interactions between nodes. However, we increasingly have access to time-resolved data that not only capture which nodes are connected to each other, but also when and in which temporal order those connections occur. A number of works have shown how the timing and ordering of links shapes the causal topology of networked systems, i.e. which nodes can possibly influence each other over time. Moreover, higher-order network models have been developed that allow us to model patterns in the resulting causal topology. While those works have shed light on the question how the time dimension of dynamic graphs influences node centralities, community structures, or the evolution of dynamical processes, we lack methods to incorporate those insights into state-of-the-art deep graph learning techniques.
