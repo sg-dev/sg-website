@@ -4,7 +4,7 @@ cbreak: TRUE
 date:
 draft: false
 featured: false
-featured_image: cbreak.png
+featured_image:
 description:
 speaker:
 affiliation:
