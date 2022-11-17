@@ -1,7 +1,8 @@
 ---
 title: Chair of Systems Design
 subtitle: Welcome
-background: /images/darknet.png
+background: /images/tile2.png
+bg_tiled: true
 ---
 
 We are a group of about [15 researchers](/team/) from various disciplines (statistical physics, applied mathematics, computer science, political science and economics).
