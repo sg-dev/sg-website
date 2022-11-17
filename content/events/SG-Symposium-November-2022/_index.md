@@ -1,5 +1,5 @@
 ---
-featured_image: bgq.png
+featured_image: bg.png
 title: "The Complex Network Approach to Data Science"
 description: SG Symposium
 date: 2022-11-10
