@@ -1,5 +1,5 @@
 ---
-title: "Data Science on Knowledge Graphs"
+title: "Data Science on Knowledge Graphs: from Complex Data to Network Models"
 date:
 draft: false
 featured: false

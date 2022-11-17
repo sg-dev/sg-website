@@ -19,4 +19,4 @@ This SG Symposium will take place at ETH Zürich in Room LEE E 101 on November 2
 We bring together researchers working on complex networks and data science. We would like to create a platform for exchanging ideas, results, and new methodologies, and to develop new concepts for data-driven research.
 A coffee break will precede the last talk.
 
-How to find LEE E 101
+[How to find LEE E 101.](https://ethz.ch/staffnet/en/service/rooms-and-buildings/orientierung/gebaeude.html?args0=LEE)
