@@ -16,6 +16,8 @@ orcid: 0000-0003-0146-4264
 github: RamonaRoller
 aliases:
     - /team/people/rroller/
+background: /images/tile4.png
+bg_tiled: true
 ---
 
 I am a Ph.D. candidate at the Chair of Systems design at ETH Zurich where I work on data-driven models of socio-historical systems.

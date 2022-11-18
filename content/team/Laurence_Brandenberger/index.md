@@ -14,6 +14,8 @@ aliases:
     - /team/people/brandenberger-laurence/
 github: brandenberger
 orcid: 0000-0003-0392-9766
+background: /images/isometric_cubes.png
+bg_tiled: true
 ---
 
 I study legislative behavior and parliamentary networks. I am particularly interested in the temporal dynamics of political actors working together, for instance looking at how long it takes for a member of parliament to reciprocate a favor by a colleague. Furthermore, I study how political actors change their political positions over time and influence each other.

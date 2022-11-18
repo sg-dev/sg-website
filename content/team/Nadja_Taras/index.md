@@ -11,6 +11,8 @@ role: Administrative Assistant
 weight: 99
 aliases:
     - /team/people/tnadja/
+background: /images/roads.png
+bg_tiled: true
 ---
 
 Administrative Assistant

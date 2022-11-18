@@ -15,6 +15,8 @@ orcid: 0000-0003-0233-5747
 gscholar: ApW8UuAAAAAJ
 aliases:
     - /team/people/gcasiraghi/
+background: /images/urban_net.png
+bg_tiled: true
 ---
 
 ## Research Interests
