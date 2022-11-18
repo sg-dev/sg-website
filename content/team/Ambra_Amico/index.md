@@ -9,6 +9,8 @@ lastname: Amico
 role: PhD Student
 honorific: MSc Physics
 weight: 75
+background: /images/distribution_net2.png
+bg_tiled: true
 aliases:
     - /team/people/aamico/
 ---

@@ -9,6 +9,8 @@ lastname: Russo
 role: PhD Student
 honorific: MSc Computer Science
 weight: 70
+background: /images/maze1.png
+bg_tiled: true
 aliases:
     - /team/people/giuseppe-russo/
 ---

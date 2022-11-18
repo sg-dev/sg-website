@@ -11,6 +11,8 @@ honorific: MSc International Affairs
 weight: 70
 aliases:
     - /team/people/sophia-johanna-schlosser/
+background: /images/color_net.png
+bg_tiled: true
 ---
 
 Prior to joining the chair of Systems Design, Sophia received a Bachelor's degree in Communications and Political Science from the University of Zürich, and a Master's degree in International Affairs from the Hertie School of Governance in Berlin and the Graduate Institute in Geneva.

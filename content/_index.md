@@ -1,7 +1,7 @@
 ---
 title: Chair of Systems Design
 subtitle: Welcome
-background: /images/tile2.png
+
 bg_tiled: true
 ---
 
