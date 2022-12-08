@@ -114,9 +114,10 @@ Again there are two ways to add such a markdown file:
 
 ```bash
 # as a single MD file (i.e. no pics/pdfs or similar placed with it)
-Hugo new news/simple-post.MD
+hugo new news/simple-post.md
 # will create the file `content/news/simple-post.md` 
 # with the title: Simple Post and a creation date
+# Note: you need to run the commands from root, not content directory
 
 # For a more comlex post with dedicated files
 # i.e. you want to keep all the files of the post with the post
