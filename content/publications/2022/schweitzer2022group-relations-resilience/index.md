@@ -2,7 +2,6 @@
 title: Group relations, resilience and the I Ching
 date: '2022-04-21'
 publishDate: '2022-04-21T04:21:05.575287Z'
-journal: 'Physica A'
 volume: '603'
 pages: '127630'
 authors:
@@ -18,7 +17,7 @@ abstract: We evaluate the robustness and adaptivity of social groups with hetero
   resilience which combines robustness and adaptivity.  A stochastic approach determines
   the probabilities to find robust and adaptive groups.  The discussion focuses on
   the generalization of our approach.
-publication: 
+publication: Physica A
 featured: false
 doi: 'https://doi.org/10.1016/j.physa.2022.127630'
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0378437122004265'
