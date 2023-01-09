@@ -19,10 +19,10 @@ In this course, we use methods of statistical inference to measure, analyze and 
 - **Lecturers**: [Dr. Laurence Brandenberger][lb] and [Dr. Ramona Roller][rr]
 - **Course ID**: [363-1167-00L][vvz]
 - **Period**: Fall Semester
+- <a href="syllabus_02.pdf">**Syllabus**</a>
 
 [lb]: /team/laurence_brandenberger
 [rr]: /team/ramona_roller
 [vvz]: http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022W&lerneinheitId=164818&lang=en
 
 
-[<img src="Syllabus_DSSC.pdf" alt="drawing" width="1000"/>](syllabus_02.pdf)
