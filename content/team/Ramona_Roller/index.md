@@ -1,15 +1,14 @@
 ---
-title: Dr. Ramona Roller
+title: Ramona Roller
 image: profile_pic.jpg
 email: rroller@ethz.ch
 room: WEV G 205
 tel:
 website:
-honorific: MSc
 firstname: Ramona
 lastname: Roller
 role: Postdoc
-honorific: MSc Computational Science
+honorific: Dr.
 weight: 90
 twitter: ramona_roller
 orcid: 0000-0003-0146-4264
