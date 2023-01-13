@@ -19,28 +19,15 @@ background: /images/tile4.png
 bg_tiled: true
 ---
 
-I am a Ph.D. candidate at the Chair of Systems design at ETH Zurich where I work on data-driven models of socio-historical systems.
-Currently, I focus on a temporal network model of letter correspondences during the European Reformation.
-I try to understand the underlying communication patterns which gave rise to the spreading of ideas at that time.
-Specifically challenging in this respect are the sampling bias of the data, as not all historical artifacts are equally likely to survive over time, and capturing the temporal sequence in which historical actions occurred.
-By developing statistical methods I aim to address these challenges and provide better insights into socio-historical phenomena.
-Holding a Bachelor in Psychology with Cognitive Science (University of Sussex) and a Master in Computational Science (University of Amsterdam) I aim to combine these diverse backgrounds to study complex systems in an interdisciplinary manner.
 
+I am a PostDoc at the Chair of Systems Design at ETH Zurich, where I study societal transitions and communication networks.
+I am particular interested in how European society in the the 16th century changed as a result of the Reformation, a social movement that overthrew the Catholic Church.
+For example, I analyse how scholars specialised in their communication roles and why territories adopted Protestantism.
+A central aim of my research is to understand the driving factors of transitions, accounting for interdependencies and heterogeneities in complex social systems.
+This is achieved by merging analytical tools and concepts from various disciplines such as Social Network Analysis, Event History Models, Potential Outcome Model of causality, and conventional regressions.
 
-## Research Plan
-<a href="data/RR_research_plan.pdf">**Download research plan**</a>
+I received a PhD in Computational Social Science from ETH Zurich (Chair of Systems Design) and hold a Master's degree in Computational Science from the University of Amsterdam and a Bachelor's degree in Psychology with Cognitive Science from the University of Sussex.
 
-The European Reformation was a major transformative movement in the 16th century which overthrew the monopoly of the Catholic Church. Due to this and other major social transformations, the Reformation provides and example of social change, a change in social relations between people which transforms social institutions. Within my doctoral thesis I will analyse exemplary driving factors of this social change from a network perspective.
-
-These factors include:
-- **inner-protestant conflicts**, like the one between the Lutherans and the Reformed denominations.
-- **social differentiation**, a process in society, where people increasingly become more specialised in the tasks and roles they fulfil.
-- **confessional formation**, the adoption and institutionalisation of Protestantism.
-- **mobility** of reformers.
-
-Besides this content-based focus, I will also address the methodological problem of 'unobserved' data. Since historical records are subject to the selection bias, our resulting data samples may be unrepresentative for the Reformation as a whole and bias our analysis. Within my doctoral thesis I will quantify this bias and explore methods for network reconstruction.
-
-My research plan describes the research topic, the research gap, and the research questions of my doctoral thesis in more detail.
 
 
 ## [Talks](/extra/rr/talks/)
