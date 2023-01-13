@@ -24,15 +24,15 @@ title: Ramona Roller's talks
 **Event**: Workshop: Möglichkeiten computergestützter Auswertung von historischen Korrespondenzen<br>
 **Venue**: Heidelberg<br>
 **Date**: February, 10th 2022<br>
-<!---{{< embed-pdf url="./team/ramona_roller/data/2022-01-10_correspondences.pdf" >}}--->
-<a href="/content/team/Ramona_Roller/data/2022-01-10_correspondences.pdf">**Download slides**</a>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2022-02-10_correspondences.pdf" >}}--->
+<a href="/content/team/Ramona_Roller/data/2022-02-10_correspondences.pdf">**Download slides**</a>
 
 **Talk**: Nachbarschaftseﬀekte während der europäischen Reformation<br>
 **Event**: Oberseminar Digital Humanities<br>
 **Venue**: Passau<br>
 **Date**: January, 25th 2023<br>
-<!---{{< embed-pdf url="./team/ramona_roller/data/2023-01-25_neighbours.pdf" >}}--->
-<a href="/content/team/Ramona_Roller/data/2023-01-25_neighbours.pdf">**Download slides**</a>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2022-01-25_neighbours.pdf" >}}--->
+<a href="/content/team/Ramona_Roller/data/2022-01-25_neighbours.pdf">**Download slides**</a>
 
 **Talk**: Polarization in the 16th century: Ideologial groups during the Reformation<br>
 **Event**: European conference on Social Network Analysis (EUSN)<br>
