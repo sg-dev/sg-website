@@ -2,12 +2,45 @@
 title: Ramona Roller's talks
 ---
 
-- **Polarization in the 16th century: Ideologial groups during the Reformation**
-    - **Event**: European conference on Social Network Analysis (EUSN)<br>
-    - **Venue**: Online<br>
-    - **Date**: September, 8th 2021<br>
-{{< embed-pdf url="./team/ramona_roller/data/2021-09-08_EUSN.pdf" >}}
+
+
+
+
+- **Role detection in communication networks: About specialising protestants and deceived & deceiving employees**
+    - **Event**: Research visit at Department of Sociology/SCOOP Project<br>
+    - **Venue**: Groningen<br>
+    - **Date**: January, 10th 2023<br>
+{{< embed-pdf url="./team/ramona_roller/data/2023-10-01_scoop.pdf" >}}
+<a href="/content/team/Ramona_Roller/data/2023-10-01_scoop.pdf">**Download slides**</a>
+
+**Talk**: Reuchlins Briefwechsel: Statistische Analysen für Korrespondenznetzwerke<br>
+**Event**: Internationaler Reuchlin Kongress<br>
+**Venue**: Pforzheim<br>
+**Date**: July, 1st 2022<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2022-07-01_reuchlin.pdf" >}}--->
+<a href="/content/team/Ramona_Roller/data/2022-07-01_reuchlin.pdf">**Download slides**</a>
+
+**Talk**: Statistische Analysen für Briefkorrespondenznetzwerke und ihren geograﬁschen Raum<br>
+**Event**: Workshop: Möglichkeiten computergestützter Auswertung von historischen Korrespondenzen<br>
+**Venue**: Heidelberg<br>
+**Date**: February, 10th 2022<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2022-01-10_correspondences.pdf" >}}--->
+<a href="/content/team/Ramona_Roller/data/2022-01-10_correspondences.pdf">**Download slides**</a>
+
+**Talk**: Nachbarschaftseﬀekte während der europäischen Reformation<br>
+**Event**: Oberseminar Digital Humanities<br>
+**Venue**: Passau<br>
+**Date**: January, 25th 2023<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2023-01-25_neighbours.pdf" >}}--->
+<a href="/content/team/Ramona_Roller/data/2023-01-25_neighbours.pdf">**Download slides**</a>
+
+**Talk**: Polarization in the 16th century: Ideologial groups during the Reformation<br>
+**Event**: European conference on Social Network Analysis (EUSN)<br>
+**Venue**: Online<br>
+**Date**: September, 8th 2021<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2021-09-08_EUSN.pdf" >}}--->
 <a href="/content/team/Ramona_Roller/data/2021-09-08_EUSN.pdf">**Download slides**</a>
+
 
 **Talk**: Role detection in networks: Social differentiation during the Reformation<br>
 **Event**: Conference of the Historical Network Research community<br>
