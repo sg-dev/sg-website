@@ -21,7 +21,7 @@ bg_tiled: true
 
 
 I am a PostDoc at the Chair of Systems Design at ETH Zurich, where I study societal transitions and communication networks.
-I am particular interested in how European society in the the 16th century changed as a result of the Reformation, a social movement that overthrew the Catholic Church.
+I am particular interested in how European society in the 16th century changed as a result of the Reformation, a social movement that overthrew the Catholic Church.
 For example, I analyse how scholars specialised in their communication roles and why territories adopted Protestantism.
 A central aim of my research is to understand the driving factors of transitions, accounting for interdependencies and heterogeneities in complex social systems.
 This is achieved by merging analytical tools and concepts from various disciplines such as Social Network Analysis, Event History Models, Potential Outcome Model of causality, and conventional regressions.
