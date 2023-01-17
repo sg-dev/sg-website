@@ -8,7 +8,7 @@ to: "2022-11-24T12:00:00"
 where: "ETH Zürich, Room LEE E 101"
 weight: 1
 event_type: SG Symposium
-label:
+label: SG Symposium
 aliases:
     - /SG-Symposium2022/
     - /sg-symposium2022/
