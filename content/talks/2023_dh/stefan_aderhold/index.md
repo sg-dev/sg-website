@@ -3,7 +3,7 @@ title: "„Ein Chamäleon“ oder der „Papst zu Tübingen“? Erkenntnisse und
 date:
 draft: false
 featured: false
-featured_image: malte.jpg
+featured_image:
 speaker_image:
 description:
 speaker: Stefan Aderhold

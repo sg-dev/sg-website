@@ -3,7 +3,7 @@ title: "Frühneuzeitliche Ärztebriefe des deutschsprachigen Raums"
 date:
 draft: false
 featured: false
-featured_image: malte.jpg
+featured_image:
 speaker_image:
 description:
 speaker: Ulrich Schlegelmilch
@@ -15,6 +15,3 @@ events:
 - Digital Humanities
 ---
 
-### Abstract
-
-missing
