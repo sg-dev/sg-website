@@ -15,6 +15,3 @@ events:
 - Digital Humanities
 ---
 
-### Abstract
-
-missing
