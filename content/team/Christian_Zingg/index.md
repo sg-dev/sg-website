@@ -7,7 +7,7 @@ tel: +41 44 632 69 01
 firstname: Christian
 lastname: Zingg
 role: Postdoc
-honorific: MSc Math
+honorific: Dr.
 weight: 90
 website:
 github: CodesByChris
