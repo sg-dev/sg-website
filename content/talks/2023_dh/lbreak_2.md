@@ -1,5 +1,5 @@
 ---
-title: "Lunch Break"
+title: "Mittagspause"
 cbreak: true
 date:
 draft: false
