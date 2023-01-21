@@ -7,7 +7,7 @@ featured_image: kasper.jpg
 speaker_image:
 description:
 speaker: Kaspar Gubler
-affiliation: Uni Bern
+affiliation: Universität Bern
 where:
 from: 2023-02-06T14:45:00
 to: 2023-02-06T15:30:00
