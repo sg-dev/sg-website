@@ -3,7 +3,7 @@ title: "Analyse und Strukturierung von Plot-Elementen"
 date:
 draft: false
 featured: false
-featured_image: zehe.jpg
+featured_image: zehe.png
 speaker_image:
 description:
 speaker: Albin Zehe
