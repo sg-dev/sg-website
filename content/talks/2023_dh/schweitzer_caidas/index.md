@@ -15,3 +15,14 @@ events:
 - Digital Humanities
 ---
 
+### Abstract 
+
+Die "Digital Humanities" profitieren bereits von den Fortschritten der Informatik bei der Transkription handschriftlicher (siehe READ-COOP) oder der Texterkennung von gedruckten Dokumenten. 
+Damit wächst allerdings die Herausforderung, Methoden zur Gesamtanalyse dieser Kopora zu entwickeln.
+
+Der Netzwerkforschung basiert auf der Überzeugung, daß Wissen aus der Verknüpfung von Dokumenten anhand ihrer Metainformationen extrahiert werden kann, um das Studium von Einzeldokumenten zu ergänzen. 
+In meinem Vortrag werde ich das Potenzial dieser Methodik anhand von Beispielen veranschaulichen.
+Wie können wir soziale Netzwerke extrahieren, die Bedeutung von Individuen messen und ihre freundschaftlichen oder gegnerischen Beziehungen erkennen?
+Wie können wir sinnvolle von zufälligen Interaktionen unterscheiden und Präferenzen für Interaktionen in Netzwerkmodellen berücksichtigen?
+Wie können wir groß angelegte Wissensgraphen erstellen?
+Der Vortrag behandelt diese Fragen exemplarisch, um die Relevanz der Netzwerkmethoden für künftige Forschungsprojekte aufzuzeigen.  

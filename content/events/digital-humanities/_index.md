@@ -2,7 +2,7 @@
 featured_image: bg.png
 title: "Datenanalyse für die Digital Humanities: Projekte, Methoden, Einsichten"
 description: CAIDAS Workshop
-date: 2023-02-01
+date: 2023-01-01
 from: "2023-02-06T09:00:00"
 to: "2023-02-08T12:30:00"
 where: "Universität Würzburg"
