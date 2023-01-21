@@ -1,5 +1,5 @@
 ---
-title: "Opening Comments"
+title: "Begrüßung und Eröffung"
 date:
 draft: false
 featured: false
