@@ -31,3 +31,7 @@ Drei unterschiedliche Perspektiven werden thematisiert: <br>
 
 Die Forschung der "Digital Humanities" ist zu oft in disziplinären Aktivitäten isoliert. Der Workshop soll einen neuen Diskurs ermöglichen, der über die Grenzen der wissenschaftlicher Disziplinen hinaus reicht.
 
+## Organisation 
+
+- [Prof. Frank Schweitzer, Systemgestaltung, ETH Zürich](https://www.sg.ethz.ch)
+- [Prof. Ingo Scholtes, CAIDAS, Julius-Maximilian Universität Würzburg](https://www.informatik.uni-wuerzburg.de/ml4nets/team/prof-dr-ingo-scholtes/)
