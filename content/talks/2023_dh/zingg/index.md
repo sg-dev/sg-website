@@ -17,7 +17,7 @@ events:
 
 ### Abstract
 
-Wie breiten sich durch schriftliche Kommunikation Ideen in grossen Gemeinschaften aus? 
+Wie breiten sich Ideen durch schriftliche Kommunikation in großen Gemeinschaften aus? 
 Die Netzwerktheorie erlaubt uns, Personen und ihre Interaktionen als Netzwerk zu repräsentieren und wichtige Verbreitungsrouten von Ideen anhand von zeitabhängigen Zentralitätsmaßen zu identifizieren.
 Wir zeigen, wie solche Messwerte zusammen mit anderen personenbezogenen Informationen in einem Wissensgraphen aggregiert werden können, der dann effizient ausgewertet werden kann.
 Die Erstellung und Analyse eines Wissensgraphen wird am Beispiel des Briefaustausches der frühen Neuzeit illustriert. 
