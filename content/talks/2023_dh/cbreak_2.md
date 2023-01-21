@@ -1,5 +1,5 @@
 ---
-title: "☕️ Coffee Break 🥐"
+title: "☕️ Kaffeepause 🥐"
 cbreak: TRUE
 date:
 draft: false

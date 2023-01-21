@@ -1,5 +1,5 @@
 ---
-title: "Kunst- und Kulturverstehen von Netzwerken zu Bedeutungsräumen und zurück"
+title: "Kunst- und Kulturverstehen - Von Netzwerken zu Bedeutungsräumen und zurück"
 date:
 draft: false
 featured: false
