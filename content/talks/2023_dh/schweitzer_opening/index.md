@@ -1,5 +1,5 @@
 ---
-title: "Begrüßung und Eröffung"
+title: "Begrüßung und Eröffnung"
 date:
 draft: false
 featured: false
