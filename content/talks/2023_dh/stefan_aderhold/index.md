@@ -3,8 +3,8 @@ title: "„Ein Chamäleon“ oder der „Papst zu Tübingen“? Erkenntnisse und
 date:
 draft: false
 featured: false
-featured_image:
-speaker_image: aderhold.jpg
+featured_image: aderhold.jpg
+speaker_image: 
 description:
 speaker: Stefan Aderhold
 affiliation: Heidelberger Akademie der Wissenschaften
