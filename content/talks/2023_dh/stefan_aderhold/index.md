@@ -4,7 +4,7 @@ date:
 draft: false
 featured: false
 featured_image:
-speaker_image:
+speaker_image: aderhold.jpg
 description:
 speaker: Stefan Aderhold
 affiliation: Heidelberger Akademie der Wissenschaften

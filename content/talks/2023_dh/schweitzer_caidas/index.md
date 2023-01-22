@@ -24,5 +24,4 @@ Der Netzwerkforschung basiert auf der Überzeugung, daß Wissen aus der Verknüp
 In meinem Vortrag werde ich das Potenzial dieser Methodik anhand von Beispielen veranschaulichen.
 Wie können wir soziale Netzwerke extrahieren, die Bedeutung von Individuen messen und ihre freundschaftlichen oder gegnerischen Beziehungen erkennen?
 Wie können wir sinnvolle von zufälligen Interaktionen unterscheiden und Präferenzen für Interaktionen in Netzwerkmodellen berücksichtigen?
-Wie können wir groß angelegte Wissensgraphen erstellen?
-Der Vortrag behandelt diese Fragen kursorisch, um die Relevanz der Netzwerkmethoden für künftige Forschungsprojekte aufzuzeigen.  
+Der Vortrag behandelt diese Fragen kursorisch, um die Relevanz der Netzwerkmethoden für künftige Forschungsprojekte aufzuzeigen.
