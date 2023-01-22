@@ -1,5 +1,5 @@
 ---
-title: "Computergestützte Musikanalyse: Szenarien, Methoden und Evaluationsproblemek"
+title: "Computergestützte Musikanalyse: Szenarien, Methoden und Evaluationsprobleme"
 date:
 draft: false
 featured: false

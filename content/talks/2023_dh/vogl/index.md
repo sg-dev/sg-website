@@ -1,5 +1,5 @@
 ---
-title: "ModelSEN: Modellierung historischer Wissenssystem mit sozio-epistemischen Netzwerken"
+title: "ModelSEN: Modellierung historischer Wissenssysteme mit sozio-epistemischen Netzwerken"
 date:
 draft: false
 featured: false

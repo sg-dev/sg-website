@@ -22,14 +22,14 @@ Hubland Süd, 97074 Würzburg</br>
 
 ## Synopsis
 
-Der Workshop bringt etwa 20 Wissenschaftlerinnen und Wissenschaftler aus den Sozial- und Geisteswissenschaften (Geschichte, Theologie, Literatur, Kultur) und den Computer- und Komplexitätswissenschaften (Datenanalyse, maschinelles Lernen, Netzwerkanalyse) zusammen, um die Herausforderungen für die "Digital Humanities" zu diskutieren. 
+Der Workshop bringt 20 Wissenschaftlerinnen und Wissenschaftler aus den Sozial- und Geisteswissenschaften (Geschichte, Theologie, Literatur, Kultur) und den Computer- und Komplexitätswissenschaften (Datenanalyse, maschinelles Lernen, Netzwerkanalyse) zusammen, um die Herausforderungen für die "Digital Humanities" zu diskutieren. 
 
 Drei unterschiedliche Perspektiven werden thematisiert: <br>
 - **"Projekte"** geben einen Überblick über verfügbare **Daten**, ausgewählte Korpora, die teilweise digitalisiert, transkribiert und klassifiziert wurden (Briefkorrespondenzen, aber auch Sammlungen von Artefakten), <br> 
 - **"Methoden"** zeigen auf, wie solche Korpora mit Hilfe von Netzwerkwerkzeugen **analysiert** werden können,<br> 
-- **"Einblicke"** illustrieren anhand von Beispiele, wie **Wissen** durch die Anwendung digitaler Methoden generiert wurde, zeigen aber auch die Probleme und Gefahren bei der **Interpretation**.
+- **"Einblicke"** illustrieren anhand von Beispielen, wie **Wissen** durch die Anwendung digitaler Methoden generiert wurde, zeigen aber auch die Probleme und Gefahren bei der **Interpretation**.
 
-Die Forschung der "Digital Humanities" ist zu oft in disziplinären Aktivitäten isoliert. Der Workshop soll einen neuen Diskurs ermöglichen, der über die Grenzen der wissenschaftlicher Disziplinen hinaus reicht.
+Die Forschung der "Digital Humanities" ist zu oft in disziplinären Aktivitäten isoliert. Der Workshop soll einen neuen Diskurs ermöglichen, der über die Grenzen wissenschaftlicher Disziplinen hinaus reicht.
 
 ## Organisation 
 
