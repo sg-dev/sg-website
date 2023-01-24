@@ -34,4 +34,4 @@ Die Forschung der "Digital Humanities" ist zu oft in disziplinären Aktivitäten
 ## Organisation 
 
 - [Prof. Frank Schweitzer, Systemgestaltung, ETH Zürich](https://www.sg.ethz.ch)
-- [Prof. Ingo Scholtes, CAIDAS, Julius-Maximilian Universität Würzburg](https://www.informatik.uni-wuerzburg.de/ml4nets/team/prof-dr-ingo-scholtes/)
+- [Prof. Ingo Scholtes, CAIDAS, Julius-Maximilians-Universität Würzburg](https://www.informatik.uni-wuerzburg.de/ml4nets/team/prof-dr-ingo-scholtes/)
