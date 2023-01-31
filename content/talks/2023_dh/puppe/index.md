@@ -9,8 +9,8 @@ description:
 speaker: Frank Puppe
 affiliation: JMU Würzburg
 where:
-from: 2023-02-06T11:45:00
-to: 2023-02-06T12:30:00
+from: 2023-02-06T14:45:00
+to: 2023-02-06T15:30:00
 events:
 - Digital Humanities
 ---

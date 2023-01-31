@@ -9,8 +9,8 @@ description:
 speaker: Kaspar Gubler
 affiliation: Universität Bern
 where:
-from: 2023-02-06T14:45:00
-to: 2023-02-06T15:30:00
+from: 2023-02-06T11:00:00
+to: 2023-02-06T11:45:00
 events:
 - Digital Humanities
 ---
