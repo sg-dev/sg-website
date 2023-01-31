@@ -31,6 +31,9 @@ Drei unterschiedliche Perspektiven werden thematisiert: <br>
 
 Die Forschung der "Digital Humanities" ist zu oft in disziplinären Aktivitäten isoliert. Der Workshop soll einen neuen Diskurs ermöglichen, der über die Grenzen wissenschaftlicher Disziplinen hinaus reicht.
 
+## [Tagungsprogramm mit Abstracts zum Download (PDF)](Caidas-Workshop-Programm.pdf)
+
+
 ## Organisation 
 
 - [Prof. Frank Schweitzer, Systemgestaltung, ETH Zürich](https://www.sg.ethz.ch)
