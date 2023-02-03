@@ -5,7 +5,7 @@ draft: false
 featured: false
 featured_image: JZ_pic.png
 description:
-speaker: Janusz Holyst
+speaker: Janusz Hołyst
 affiliation: Faculty of Physics, Warsaw University of Technology
 where: HG F 26.3
 from: 2023-02-14T10:15:00
