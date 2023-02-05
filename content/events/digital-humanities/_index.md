@@ -14,8 +14,8 @@ aliases:
 
 ## Veranstaltungsort 
 
-Hörsaal Z6<br>
-Zentrales Hörsaalgebäude am Campus Hubland<br>
+Raum 02.002, <br>
+Zentrales Hörsaalgebäude Z6 am Campus Hubland<br>
 Hubland Süd, 97074 Würzburg</br>
 [Link zur Karte](https://goo.gl/maps/sJmo2qQCf7Hbkq8r9)
 
