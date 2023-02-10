@@ -2,10 +2,10 @@
 title: Ramona Roller's talks
 ---
 
-- **Role detection in communication networks: About specialising protestants and deceived & deceiving employees**
-    - **Event**: Research visit at Department of Sociology/SCOOP Project<br>
-    - **Venue**: Groningen<br>
-    - **Date**: January, 10th 2023<br>
+- **Netzwerkanalyse zur Komposition und Evolution innerprotestantischer Gruppen im 16. Jahrhundert**
+    - **Event**: CAIDAS Workshop<br>
+    - **Venue**: Würzburg<br>
+    - **Date**: February, 8th 2023<br>
 {{< embed-pdf url="./team/ramona_roller/data/2023-02-08_Wurzburg.pdf" >}}
 <a href="/content/team/Ramona_Roller/data/2023-02-08_Wurzburg.pdf">**Download slides**</a>
 
