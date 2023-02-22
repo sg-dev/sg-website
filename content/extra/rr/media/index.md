@@ -8,7 +8,7 @@ title: Ramona Roller's work in the media
 <a href="/content/team/Ramona_Roller/data/2022-07-02_Reuchlin_PZ.pdf">**Download article**</a>
 
 
-![Notabene](/content/team/Ramona_Roller/data/2019-02_notabene.png)
+<!---![Notabene](/content/team/Ramona_Roller/data/2019-02_notabene.png)--->
 
 
 - **Article in the magazine of the Evangelical Church in Zurich (german)**
