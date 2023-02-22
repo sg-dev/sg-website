@@ -19,7 +19,6 @@ background: /images/tile4.png
 bg_tiled: true
 ---
 
-## Bio
 
 I am a PostDoc at the Chair of Systems Design at ETH Zurich, where I study societal transitions and communication networks.
 I am particular interested in how European society in the 16th century changed as a result of the Reformation, a social movement that overthrew the Catholic Church.
