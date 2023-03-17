@@ -1,0 +1,22 @@
+---
+featured_image: bg.png
+title: "SG Symposium April 2023"
+description: SG Symposium
+date: 2023-03-15
+from: "2023-11-24T09:00:00"
+to: "2023-11-24T12:00:00"
+where: "ETH Zürich, Room LEE E 101"
+weight: 1
+event_type: SG Symposium
+label: SG Symposium
+aliases:
+    - /SG-Symposium2023/
+    - /sg-symposium2023/
+---
+
+<!-- This SG Symposium will take place at ETH Zürich in Room LEE E 101 on November 24, 2022 from 09:00 to 12:00.
+
+We bring together researchers working on complex networks and data science. We would like to create a platform for exchanging ideas, results, and new methodologies, and to develop new concepts for data-driven research.
+A coffee break will precede the last talk.
+
+[How to find LEE E 101.](https://ethz.ch/staffnet/en/service/rooms-and-buildings/orientierung/gebaeude.html?args0=LEE) -->
