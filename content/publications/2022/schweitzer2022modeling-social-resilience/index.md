@@ -4,7 +4,7 @@ date: '2022-12-31'
 publishDate: '2023-01-06T07:52:49.642936Z'
 volume: '25'
 number: '8'
-pages: XXX
+pages: 2250014
 authors:
 - Frank Schweitzer
 - Georges Andres
@@ -25,8 +25,8 @@ abstract: 'Resilience denotes the capacity of a system to withstand shocks and i
   of resilience, the emphrobustness of social organizations and their emphadaptivity,
   and combines them in a novel resilience measure.  It allows monitoring resilience
   instantaneously using longitudinal data instead of an ex-post evaluation.  '
-url_pdf: https://arxiv.org/abs/2301.00183
-doi: 10.48550/ARXIV.2301.00183
+url_pdf: https://www.worldscientific.com/doi/10.1142/S021952592250014X
+doi: 10.1142/S021952592250014X
 publication: Advances in Complex Systems
 featured: true
 ---
