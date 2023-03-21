@@ -1,11 +1,11 @@
 ---
 featured_image: bg.png
-title: "SG Symposium April 2023"
+title: "Exploring the hidden knowledge space: Ideas, patents, people"
 description: SG Symposium
 date: 2023-03-15
-from: "2023-11-24T09:00:00"
-to: "2023-11-24T12:00:00"
-where: "ETH Zürich, Room LEE E 101"
+from: "2023-04-04T08:45:00"
+to: "2023-04-04T12:00:00"
+where: "ETH Zurich, WEV, Room F111"
 weight: 1
 event_type: SG Symposium
 label: SG Symposium
@@ -14,9 +14,8 @@ aliases:
     - /sg-symposium2023/
 ---
 
-<!-- This SG Symposium will take place at ETH Zürich in Room LEE E 101 on November 24, 2022 from 09:00 to 12:00.
+This symposium delves into the hidden realm of knowledge, ideas, patents, and human interactions, featuring expert presentations by Prof. Vittorio Loreto, Dr. Giacomo Vaccario, and Dr. Luca Verginer.
+Each presentation will address facets of innovation, collaboration, and mobility.
+Utilizing data-driven models and innovative methodological approaches, the speakers discuss insights on the complexities of these systems.
 
-We bring together researchers working on complex networks and data science. We would like to create a platform for exchanging ideas, results, and new methodologies, and to develop new concepts for data-driven research.
-A coffee break will precede the last talk.
-
-[How to find LEE E 101.](https://ethz.ch/staffnet/en/service/rooms-and-buildings/orientierung/gebaeude.html?args0=LEE) -->
+[How to find the WEV, F111](https://ied.ethz.ch/location/wev-building.html)
