@@ -1,15 +1,15 @@
 ---
 title: "Understanding Mobility Patterns through Patents, Publications, and Temporal Network Causal Inference"
 date:
-draft: true
+draft: false
 featured: false
 featured_image: pic.jpeg
 description:
-speaker: Luca Verginer 
+speaker: Luca Verginer
 affiliation: ETH Zürich
-where: 
-from: 2023-04-04T09:00:00
-to: 2023-04-04T09:45:00
+where: ETH Zurich, WEV, F111
+from: 2023-04-04T11:15:00
+to: 2023-04-04T12:00:00
 events:
 - SG Symposium April 2023
 ---
