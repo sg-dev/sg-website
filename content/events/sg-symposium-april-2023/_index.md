@@ -12,6 +12,7 @@ label: SG Symposium
 aliases:
     - /SG-Symposium2023/
     - /sg-symposium2023/
+    - /sg-symposium-knowledge/
 ---
 
 This symposium delves into the hidden realm of knowledge, ideas, patents, and human interactions, featuring expert presentations by Prof. Vittorio Loreto, Dr. Giacomo Vaccario, and Dr. Luca Verginer.
