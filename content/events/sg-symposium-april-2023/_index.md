@@ -15,8 +15,15 @@ aliases:
     - /sg-symposium-knowledge/
 ---
 
-This symposium delves into the hidden realm of knowledge, ideas, patents, and human interactions, featuring expert presentations by Prof. Vittorio Loreto, Dr. Giacomo Vaccario, and Dr. Luca Verginer.
-Each presentation will address facets of innovation, collaboration, and mobility.
-Utilizing data-driven models and innovative methodological approaches, the speakers discuss insights on the complexities of these systems.
+Hidden knowledge is the "known unknown". 
+We know it is out there, but we don’t know yet what it is. 
+So, how could we search for it? And what should we expect to find? 
+These questions are explored in three different talks.
+
+
+Vittorio Loreto focuses on the novelties that are just around the corner. 
+The "adjacent possible" can be detected because one new thing leads to another. 
+Giacomo Vaccario challenges our knowledge about complex systems, pointing out the mismatch between our theoretical expectations and reality. 
+Luca Verginer uncovers patterns in knowledge diffusion and mobility, to enhance evidence-based policymaking. 
 
 [How to find the WEV, F111](https://ied.ethz.ch/location/wev-building.html)
