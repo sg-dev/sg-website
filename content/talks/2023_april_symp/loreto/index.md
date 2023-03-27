@@ -8,8 +8,8 @@ description:
 speaker: Vittorio Loreto
 affiliation: Sapienza University of Rome
 where: ETH Zurich, WEV, F111
-from: 2023-04-04T09:00:00
-to: 2023-04-04T09:45:00
+from: 2023-04-04T09:15:00
+to: 2023-04-04T10:00:00
 events:
 - SG Symposium April 2023
 ---
