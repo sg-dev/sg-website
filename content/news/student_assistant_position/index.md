@@ -48,4 +48,4 @@ social sciences, mathematics or natural sciences)
 - list of grades
 
 
-Please submit your application online via the official ETHZ recruiting page (https://www.jobs.ethz.ch/job/view/JOPG_ethz_GUETblHKVMEjfDGnIm). The application deadline is 11 April 2023. For specific inquiries, please contact Prof. Dr. Dr. Frank Schweitzer (fschweitzer@ethz.ch).
+Please submit your application online via the official ETHZ recruiting page (https://www.jobs.ethz.ch/job/view/JOPG_ethz_GUETblHKVMEjfDGnIm). The application deadline is 7 April 2023. For specific inquiries, please contact Prof. Dr. Dr. Frank Schweitzer (fschweitzer@ethz.ch).
