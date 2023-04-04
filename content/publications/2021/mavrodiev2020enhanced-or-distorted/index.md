@@ -1,7 +1,7 @@
 ---
 title: Enhanced or distorted wisdom of crowds? An agent-based model of opinion formation
   under social influence
-date: '2021-01-01'
+date: '2021-05-07'
 volume: 15
 pages: 31-46
 publishDate: '2021-02-08T11:56:30.133579Z'
@@ -24,7 +24,7 @@ abstract: 'We propose an agent - based model of collective opinion formation to 
   of crowds can be systematically wrong.'
 publication: Swarm Intelligence
 url_pdf: https://link.springer.com/article/10.1007/s11721-021-00189-3
-doi: 10.3389/fdata.2021.652913
+doi: 10.1007/s11721-021-00189-3
 featured: false
 sg-areas:
 ---
