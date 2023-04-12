@@ -20,4 +20,7 @@ abstract: ' Supply chain disruptions cause shortages of raw material and product
   to operate.'
 publication: arXiv
 featured: false
+projects:
+- Economic Networks
+- Resilience
 ---
