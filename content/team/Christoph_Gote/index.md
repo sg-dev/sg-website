@@ -14,6 +14,8 @@ gscholar: VtjtfisAAAAJ
 weight: 90
 aliases:
     - /team/people/cgote/
+    - /team/cgote/
+    - /cgote/
 background: /images/circuits.png
 bg_tiled: true
 ---

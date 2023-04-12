@@ -17,7 +17,6 @@ Things to note:
 - If there is a red cross next to the commit hash, it means that there the deployment did not succeed. Email LV for help.
 
 
-
 ## Setting Environment
 
 
