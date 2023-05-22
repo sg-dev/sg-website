@@ -3,7 +3,7 @@ featured_image: image2.png
 title: "Student assistant (teaching/research)"
 description: "The Chair of Systems Design at ETH Zurich invites applications for a student assistant position with a focus on teaching and research tasks. Candidates who do not fulfill all requirements but show a strong interest in learning specific skills are also highly encouraged to apply."
 date: 2023-03-29
-featured: true
+featured: false
 ---
 
 ## Job description
