@@ -21,4 +21,6 @@ publication: arXiv
 url_pdf: https://arxiv.org/abs/2210.08224
 doi: 10.48550/ARXIV.2210.08224
 featured: false
+projects:
+- Resilience
 ---

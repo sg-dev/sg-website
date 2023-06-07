@@ -20,6 +20,12 @@ bg_tiled: true
 
 ---
 
-In my research, I study the effects that shocks have on the network structure of social systems. To examine structural changes, I define and analyze measures that are, for example, based on entropies. Having a theoretical background yet being interested in real-world problems, it is essential to me to discuss both theory and applications.
+My research examines the impact that shocks such as the departure of key individuals have on social systems and their subsequent recovery.
+I develop and analyse statistical resilience measures that are, for example, based on entropies and which are computationally efficient.
+This enables me to study the resilience of systems with hundreds of individuals and analyse their evolution over multiple years.
 
-Before starting as a PhD at the Chair of Systems Design, I studied applied mathematics at the ETH Zurich. My focus was on statistics as well as systems design.
+The social systems that I study are primarily teams of Open Source Software developers on online platforms such as GitHub.
+I follow a data-driven approach by mining and analysing hundreds of Gigabytes of data to track the interactions between developers based on their public activities.
+
+By studying the effects of shocks on software development teams, I aim to develop strategies to promote their resilience and sustainability.
+Through this research, I hope to contribute to our understanding of how these teams respond to disruptions and how they can be supported to recover quickly and efficiently.
