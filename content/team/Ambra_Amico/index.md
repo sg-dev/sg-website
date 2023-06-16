@@ -2,12 +2,12 @@
 title: Ambra Amico
 email: aamico@ethz.ch
 room: WEV G 212
-tel: +41 78 303 90 01
+tel: 
 website:
 firstname: Ambra
 lastname: Amico
 role: Postdoc
-honorific: MSc Physics
+honorific: Dr.
 weight: 75
 background: /images/distribution_net2.png
 bg_tiled: true
