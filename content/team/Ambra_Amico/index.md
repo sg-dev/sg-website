@@ -15,5 +15,9 @@ aliases:
     - /team/people/aamico/
 ---
 
-Before joining the Chair, I received a Master degree in physics at la Sapienza University in Rome, where I got interested in the complex systems field. During my master thesis I applied inference methods and machine learning techniques to study human perception of facial beauty.
-Currently, my research interests focus on cascade processes, namely I am studying how a local shock, appeared in a system, affects its different parts. By adopting a network perspective I can measure the cascade size and  identify the possible characteristics of the system that prevent a big cascade size. Additionally, I am interested in temporal network analysis and in its possible application to the cascade phenomenon.
+I am a Postdoctoral researcher at the Chair of Systems Design at ETH Zurich, where I completed my PhD in 2023 under the guidance of Prof. Frank Schweitzer. 
+With a background in physics, I got fascinated by the field of complex systems and its interface with economics and social sciences.
+My current research is centred around large-scale supply chains, specifically focusing on the dynamics of distribution systems. 
+I am interested in devising novel strategies to enhance their resilience against disruptions.
+Recognizing the profound impact of their complex topology on resilience, I am also intrigued by the mechanisms governing these systems' formation and how they give rise to the observed structures. 
+My approach combines large-scale empirical analysis with formal modeling techniques borrowed from complexity science.
