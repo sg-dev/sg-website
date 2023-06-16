@@ -6,7 +6,7 @@ tel: +41 78 303 90 01
 website:
 firstname: Ambra
 lastname: Amico
-role: PhD Student
+role: Postdoc
 honorific: MSc Physics
 weight: 75
 background: /images/distribution_net2.png
