@@ -14,6 +14,8 @@ github: CodesByChris
 orcid: 0000-0003-1674-7961
 aliases:
     - /team/people/czingg/
+    - /team/czingg/
+    - /czingg/
 background: /images/micro_processor.png
 # background: /images/cpu_maze_small.png
 bg_tiled: true
