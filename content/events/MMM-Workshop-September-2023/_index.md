@@ -1,5 +1,5 @@
 ---
-featured_image: bg.png
+featured_image: AdobeStock_570980308.png
 title: "Measuring, Modeling and Mitigating Opinion Polarization and Political Cleavage (MMM)"
 description: MMM Workshop
 date: 2023-01-01
@@ -8,7 +8,7 @@ to: "2023-09-15T16:30:00"
 where: "ETH Zurich, ML E12"
 weight: 1
 event_type: ETH Workshop
-label: MMM
+label: ETH Workshop
 aliases:
 ---
 
