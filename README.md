@@ -322,17 +322,12 @@ label: Funded by SNF
 
 ## Creating an Event on Our Hugo-Based Website
 
-### Introduction
-
-This guide provides step-by-step instructions for creating and managing events on our Hugo-based website. Each event can be composed of multiple talks, including breaks.
-
-**Prerequisites:** Basic understanding of YAML syntax and a working Hugo environment.
 
 ### How to Create an Event
 
 #### Step 1: Create a New Event File
 
-Create a new file with a descriptive name, like `sg-symposium-april-2023.md`, in the `content/events` directory. This filename becomes the identifier of the event, used to link talks to this event.
+Create a new file with a descriptive name, like `sg-symposium-april-2023/_index.md`, in the `content/events` directory. This name becomes the identifier of the event, used to link talks to this event.
 
 #### Step 2: Add the Necessary Frontmatter
 
