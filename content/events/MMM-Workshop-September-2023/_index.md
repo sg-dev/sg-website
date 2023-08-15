@@ -1,5 +1,5 @@
 ---
-featured_image: AdobeStock_570980308.png
+featured_image: bg.png
 title: "Measuring, Modeling and Mitigating Opinion Polarization and Political Cleavage (MMM)"
 description: MMM Workshop
 date: 2023-01-01
