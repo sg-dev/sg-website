@@ -7,7 +7,7 @@ featured_image: icon.png
 speaker_image:
 description:
 speaker: Tanzhe Tang
-affiliation: Department of Sociology,University of Groningen
+affiliation: Department of Sociology, University of Groningen
 where:
 from: 2023-09-14T11:45:00
 to: 2023-09-14T12:10:00

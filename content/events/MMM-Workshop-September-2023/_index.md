@@ -40,6 +40,7 @@ Contributions revolve around three interlinked topics: <BR>
 	- Populism as a dividing mechanism
 
 
+
 #### [Download workshop program with abstracts (PDF, still to come)](MMM-Workshop-Programm.pdf)
 
 
@@ -47,3 +48,6 @@ Contributions revolve around three interlinked topics: <BR>
 
 - [Dr. Laurence Brandenberger, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch/team/laurence_brandenberger/)
 - [Prof. Frank Schweitzer, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch)
+
+The workshop receives financial support from the 
+*Swiss National Science Foundation* (SNSF Grant No: IZSEZ0_220344) and from the *Chair of Systems Design (ETH Zurich)*. 
