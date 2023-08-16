@@ -88,8 +88,8 @@ To see the website then open in your brower http://localhost:1313 or http://127.
 Note the `-D` flag means that also Hugo will include content marked with `draft: true` (in the frontmatter).
 The deployed website **does not include drafts**.
 Drop the `-D` if you want to see the website as shown on the web.
- 
- 
+
+
 [instructions]: https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account
 
 
@@ -114,7 +114,7 @@ Again there are two ways to add such a markdown file:
 ```bash
 # as a single MD file (i.e. no pics/pdfs or similar placed with it)
 hugo new news/simple-post.md
-# will create the file `content/news/simple-post.md` 
+# will create the file `content/news/simple-post.md`
 # with the title: Simple Post and a creation date
 # Note: you need to run the commands from root, not content directory
 
@@ -157,15 +157,15 @@ To include pictures in a post, you use the standard markdown syntax.
 ![A description](/images/mypic.png)
 ```
 
-**Remember** to add the picture in the commit. Otherwise, Hugo will not push it to the website. 
+**Remember** to add the picture in the commit. Otherwise, Hugo will not push it to the website.
 
 ## Adding News: Guidelines
 
 When you create a new news post you should adhere to the following guidelines.
 These will ensure a) a more readable home page, and b) more informative news.
-	
+
 1) Use a short informative title.
-   Try to make it a one liner when cards are at their maximum width. 
+   Try to make it a one liner when cards are at their maximum width.
    **Do not simply paste the title of your paper**, that can be already accessed through the publication page.
 2) Always add a short description. It will be automatically cut if it exceeds 100 characters.
 3) Remember that the description will not automatically show on the post webpage.
@@ -213,7 +213,7 @@ content/publications/cite-key/
 └── reference.bib
 ```
 
-To add additional text to the publication, e.g., where to find the code or if it has been mentioned on the news, you can add this in the `index.md` as content. This text will be shown above the abstract. 
+To add additional text to the publication, e.g., where to find the code or if it has been mentioned on the news, you can add this in the `index.md` as content. This text will be shown above the abstract.
 
 
 For the button `Official Link` to appear either of the following two fields must be set: `doi` or `url_pdf`. `doi` will take precedence as it is a permanent identifier and the preferred link type. However, sometimes a DOI is not available, in which case you should use `url_pdf`.
@@ -231,7 +231,7 @@ If nothing major has changed except, DOI and year may simply
 - [ ] move the directoy with the publication to its new location (if necessary)
 
 	```bash
-	mv content/publications/<YEAR-OLD/<cite-key> content/publications/<YEAR-NEW/<cite-key> 
+	mv content/publications/<YEAR-OLD/<cite-key> content/publications/<YEAR-NEW/<cite-key>
 	```
 
 - [ ] change the details in the `index.md` file, **note that the `date` must be updated**
@@ -255,7 +255,7 @@ If on the other hand there are some major changes the following:
 - [ ] run the dedicated python script
 
 	```bash
-	python scripts/create_pub_md.py ref.bib content/publications/ 
+	python scripts/create_pub_md.py ref.bib content/publications/
 	```
 - [ ] Add as suggested the new PDF and picture
 - [ ] (if any) add `projects` and custom text back
@@ -320,4 +320,154 @@ label: Funded by SNF
 ```
 
 
+## Creating an Event on Our Hugo-Based Website
 
+
+### How to Create an Event
+
+#### Step 1: Create a New Event File
+
+Create a new file with a descriptive name, like `sg-symposium-april-2023/_index.md`, in the `content/events` directory. This name becomes the identifier of the event, used to link talks to this event.
+
+#### Step 2: Add the Necessary Frontmatter
+
+In the event file, add the following frontmatter:
+
+```yaml
+featured_image: bg.png
+title: "Exploring the Hidden Knowledge Space: Ideas, Patents, People"
+description: SG Symposium
+date: 2023-03-15
+from: "2023-04-04T08:45:00"
+to: "2023-04-04T12:00:00"
+where: "ETH Zurich, WEV, Room F111"
+label: SG Symposium
+aliases:
+    - /SG-Symposium2023/
+    - /sg-symposium-knowledge/
+```
+
+**Note on Featured Image:**
+Name the `featured_image` file for the event's background as `bg.*` (e.g., `bg.png`). This naming ensures that the image is used as the background for associated talks, creating a visual theme across all talks belonging to an event.
+
+**Fields Explanation:**
+
+| Field           | Required/Optional | Description                                           | Example                                          |
+|-----------------|-------------------|-------------------------------------------------------|--------------------------------------------------|
+| `featured_image`| Required          | Image file for the event's background                 | `bg.png`                                         |
+| `title`         | Required          | Full title of the event                               | "Exploring the Hidden Knowledge Space: Ideas, Patents, People" |
+| `description`   | Required          | Short description of the event                        | "SG Symposium"                                   |
+| `date`          | Required          | Publishing date of the event in `YYYY-MM-DD` format   | `2023-03-15`                                     |
+| `from`          | Required          | Starting time of the event in ISO format `YYYY-MM-DDTHH:MM:SS` | `2023-04-04T08:45:00`                     |
+| `to`            | Required          | Ending time of the event in ISO format `YYYY-MM-DDTHH:MM:SS` | `2023-04-04T12:00:00`                     |
+| `where`         | Required          | Location of the event                                 | "ETH Zurich, WEV, Room F111"                    |
+| `label`         | Optional          | A label added at the top of the event page            | "SG Symposium"                                   |
+| `aliases`       | Optional          | Alternate URLs redirecting to the event page          | `/SG-Symposium2023/`                             |
+
+### How to Create the Program
+
+#### Step 1: Organize Talks
+
+Create a directory in `content/talks/<short-name>` to group all talks belonging to a given event.
+
+#### Step 2: Add Talks to the Program
+
+To associate a talk with your event, add the event identifier to the `events` key in the talk's frontmatter. Follow the instructions in the "How to Add a Talk" section below.
+
+#### Step 3: Schedule Coffee and Lunch Breaks
+
+To add coffee and lunch breaks, create a "talk" file in the same directory where all the talks belonging to a specific event are listed. These "break" talks have a special `cbreak: true` field in the frontmatter, differentiating them from regular talks.
+
+Example of a coffee break frontmatter:
+```yaml
+title: "Coffee Break"
+from: 2023-04-04T10:45:00
+to: 2023-04-04T11:15:00
+events:
+- sg-symposium-april-2023
+cbreak: true
+```
+
+**Note on Event Naming:**
+The `<event-name>` identifier can be spelled with or without dashes (`-`), and in upper or lower case. Hugo will correctly match talks and events regardless. Removing the dashes makes the event name more legible in the talks view, as this name is taken directly from this key. For example, both `sg-symposium-april-2023` and `SG Symposium April 2023` are valid and will work.
+
+### How to Add a Talk
+
+#### Step 1: Create a Directory for the Talk
+
+In `content/talks/<event-name>` or `content/talks/<year>`, create a subdirectory to organize the talks.
+
+#### Step 2: Create a Talk File
+
+In the created directory, create a new file named after the talk, e.g., `data-science-knowledge-graphs.md`.
+
+#### Step 3: Add the Necessary Frontmatter
+
+
+
+In the talk file, add the following frontmatter:
+
+```yaml
+title: "Data Science on Knowledge Graphs: From Complex Data to Network Models"
+date: 2023-04-02
+draft: false
+featured: false
+featured_image: giona.png
+description: "An in-depth look at knowledge graphs."
+speaker: Giona Casiraghi
+affiliation: Chair of Systems Design, ETH Zürich
+where: LEE E 101
+from: 2023-04-04T10:00:00
+to: 2023-04-04T10:45:00
+events:
+- sg-symposium-april-2023
+```
+
+#### Step 4: Write the Talk Content
+
+Below the frontmatter, write the content of the talk, starting with an abstract, like this:
+
+```
+---
+title: ...
+...: ...
+---
+
+### Abstract
+
+This is the abstract text for this talk.
+
+```
+
+#### Step 5: Verify the Talk
+
+After saving the file, verify that the talk appears in the correct event and in the `/talks` list view on the website. Build the site locally and preview it to ensure everything is set up correctly.
+
+### Linking to the Event from the Front Page
+
+#### Step 1: Create a New News Item
+
+In the `content/news` directory, create a new file with similar frontmatter as below:
+
+```markdown
+---
+title: "Nov 24 — SG Symposium: The Complex Network Approach to Data Science"
+date: 2022-11-14T13:36:19+01:00
+draft: false
+featured: true
+featured_image: bg.png
+description: On November 24, join us in LEE E 101. Click to check out the program.
+---
+
+<meta http-equiv="refresh" content="0;URL='/events/sg-symposium-november-2022/'">
+```
+
+**Important Fields:**
+- `featured: true`: Flag to list the item on the front page.
+- `featured_image`: Add this image to the same directory as this news item.
+- `<meta>` redirect tag: Replace the URL with the target root page of the event.
+
+### Common Errors
+
+1. **Wrong Name of Event:** Ensure the `events` key in the talk's frontmatter matches the event identifier exactly.
+2. **Missing Image:** If the `featured_image` in the frontmatter is missing or the filename is incorrect, you will get an `$image.Fill` error. Double-check the image filename and its location.
