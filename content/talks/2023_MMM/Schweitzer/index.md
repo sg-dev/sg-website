@@ -40,7 +40,7 @@ To break up such silos requires scientific translators, i.e. researchers with an
 
 This workshop shall foster the interaction, and hopefully also the collaboration, between scientists from  different communities. 
 It receives financial support from the 
-*Swiss National Science Foundation* (SNSF) (Grant No: XXX) and from the *Chair of Systems Design (ETH Zurich)*. 
+*Swiss National Science Foundation* (SNSF) (Grant No: IZSEZ0_220344) and from the *Chair of Systems Design (ETH Zurich)*. 
 This allows us to continue, at a smaller scale, organizing scientific events relevant for political and computational social sciences. 
 Our last symposium on [**Polarization and Radicalization**](http://symposium.computationalsocialscience.eu/2019/) took place at ETH Zurich in 2019 and attracted 200 international participants. 
 Our workshop also complements our different ongoing research projects for analyzing social and political data sources, funded either by the SNSF or the Swiss Data Science Center (SDSC). 
