@@ -30,8 +30,6 @@ References
 	 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
-
 [1] Mean-field approximation for structural balance dynamics in heat bath, K Malarz, J.A Hołyst,
      Physical Review E 106 (6), 064139 (2022)
 	 

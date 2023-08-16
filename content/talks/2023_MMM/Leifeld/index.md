@@ -21,4 +21,5 @@ Political actors agree or disagree with other actors on policy beliefs. When agg
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+[Tracing the Sources of Belief Contestation
+in Policy Debates](Leifeld.pdf)

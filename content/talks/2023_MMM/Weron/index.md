@@ -7,7 +7,7 @@ featured_image: icon.png
 speaker_image:
 description:
 speaker: Kasia Weron 
-affiliation: Department of Management Systems and Organization Development, Wroclaw University of Science and Technology
+affiliation: Department of Management Systems, Wroclaw University of Science and Technology
 where: 
 from: 2023-09-15T11:00:00
 to: 2023-09-15T11:25:00
@@ -23,8 +23,6 @@ Acknowledgment: This research was funded by the National Science Center (NCN, Po
 
 
 ### Relevant publications 
-
-[Titel](Leifeld.pdf)
 
 Lipiecki, A. & Sznajd-Weron, K. (2022) Polarization in the three-state 𝑞-voter model with anticonformity and bounded confidence, Chaos, Solitons and Fractals 165, 112809
 
