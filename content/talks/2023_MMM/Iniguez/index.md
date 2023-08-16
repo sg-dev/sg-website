@@ -27,4 +27,4 @@ Together, our results shed light on the social behaviors that drive digital plat
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+

@@ -25,4 +25,4 @@ Then, we explore the empirical implications of our multidimensional measurement 
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+

@@ -25,4 +25,3 @@ The model points towards endogenous mechanisms driving political attitude format
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)

@@ -22,4 +22,4 @@ Affective polarization and partisanship have been posited as a key explanation f
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+

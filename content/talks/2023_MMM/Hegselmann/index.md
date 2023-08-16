@@ -31,4 +31,4 @@ My talk will present a rather fundamental new approach to analysing the BC model
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+[Polarization and Radicalization in the Bounded Confidence Model: A Computer-Aided Speculation](Hegselmann.pdf)

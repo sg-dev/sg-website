@@ -23,4 +23,4 @@ We propose a model of the joint evolution of opinions and social relationshipsin
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+

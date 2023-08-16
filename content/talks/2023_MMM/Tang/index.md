@@ -26,4 +26,4 @@ Results show that for the preferences of rap and hip-hop clothing style (ranging
 
 ### Relevant publications 
 
-[Titel](Leifeld.pdf)
+

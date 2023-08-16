@@ -43,7 +43,7 @@ It receives financial support from the
 *Swiss National Science Foundation* (SNSF) (Grant No: XXX) and from the *Chair of Systems Design (ETH Zurich)*. 
 This allows us to continue, at a smaller scale, organizing scientific events relevant for political and computational social sciences. 
 Our last symposium on [**Polarization and Radicalization**](http://symposium.computationalsocialscience.eu/2019/) took place at ETH Zurich in 2019 and attracted 200 international participants. 
-The workshop also complements our different ongoing research projects for analyzing social and political data sources, funded either by the SNSF or the Swiss Data Science Center (SDSC). 
+Our workshop also complements our different ongoing research projects for analyzing social and political data sources, funded either by the SNSF or the Swiss Data Science Center (SDSC). 
 
 
 ### Relevant activities
@@ -77,9 +77,9 @@ The workshop also complements our different ongoing research projects for analyz
 
 - Publication: [Social nucleation: Group formation as a phase transition](https://doi.org/10.1103/PhysRevE.105.044301)
 
-- Publication: [An Agent-Based Model of Opinion Polarization Driven by Emotions](https://www.hindawi.com/journals/complexity/2020/5282035/)
+- Publication: [An agent-based model of opinion polarization driven by emotions](https://www.hindawi.com/journals/complexity/2020/5282035/)
 
-- Publication: [A Weighted Balance Model of Opinion Hyperpolarization](https://doi.org/10.18564/jasss.4306)
+- Publication: [A weighted balance model of opinion hyperpolarization](https://doi.org/10.18564/jasss.4306)
 
 - Publication: [An agent-based model of multi-dimensional opinion dynamics and opinion alignment](https://doi.org/10.1063/5.0007523)
 
