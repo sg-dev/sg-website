@@ -1,13 +1,9 @@
 ---
-title: "Session: Polarization as a Threat to Democracy?" 
-cbreak: true
-date:
+title: "Polarization as a Threat to Democracy?"
+session: true
 draft: false
-featured: false
-featured_image:
-description: Discussant Philip Leifeld
-speaker: Discussant Philip Leifeld
-affiliation:
+speaker: Philip Leifeld
+affiliation: University of Essex, UK
 where:
 from: 2023-09-13T11:00:00
 to: 2023-09-13T12:30:00

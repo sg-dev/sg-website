@@ -12,7 +12,7 @@ label: ETH Workshop
 aliases:
 ---
 
-## Venue 
+## Venue
 
 ETH Zurich, Lecture Hall ML E12 <br>
 ML Building, Tannenstrasse 3, 8006 Zürich</br>
@@ -42,7 +42,7 @@ Contributions revolve around three interlinked topics: <BR>
 
 #### [Download workshop program with abstracts (PDF, still to come)](MMM-Workshop-Programm.pdf)
 
-### Participants 
+### Participants
 
 - Andres, George (ETH Zurich, CH)
 
@@ -93,7 +93,7 @@ Contributions revolve around three interlinked topics: <BR>
 - Wunsch, Natascha (University of Freiburg, CH)
 
 
-## Organisation 
+## Organisation
 
 - [Dr. Laurence Brandenberger, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch/team/laurence_brandenberger/)
 - [Prof. Frank Schweitzer, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch)
