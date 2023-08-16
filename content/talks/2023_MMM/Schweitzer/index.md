@@ -17,8 +17,62 @@ events:
 
 ### Abstract
 
-Political actors agree or disagree with other actors on policy beliefs. When aggregated into a policy subsystem, advocacy coalitions with distinct belief systems emerge from actors' individual policy belief portfolios. Discourse network analysis measures coalitions by considering actors' stated beliefs. But policy beliefs differ in how important they are in structuring coalitions. To understand the ideational "glue" that binds coalitions together or keeps them apart in any given subsystem, we must identify the joint subset of beliefs that is structurally most important for the coalition structure. We call this subset the backbone of a policy debate and distinguish it from its complement, the set of redundant beliefs. To identify the backbone and redundant set, we introduce a penalized spectral loss function and a custom simulated annealing algorithm to identify the backbone and redundant belief sets by combinatorial optimization. The approach is illustrated using the discourse network of German pension politics.
+Polarization is studied in different disciplines.
+For the workshop, we aim at 
+combining research on that topic from *computational social science* and *political science*, *sociophysics* and *complexity science*.
 
-### Relevant publications 
+Each of these disciplines provides a unique perspective:
+Social and political scientists discuss the reasons and consequences for increasing polarization on various levels of society.
+*Political scientists*, in particular, study how this dynamics manifest itself in parliamentary processes, with the US Congress as a prime example.
+*Computational social scientists* approach the topic from a data science perspective, analyzing data from social media, mostly from Twitter.
+Using tools from machine learning (NLP, sentiment analysis) they also aim at measuring the level of polarization.
+*Scientists from sociophysics and complexity science* provide formal models for the dynamics of polarization, most often agent-based models and network models.
+These models allow to define polarization measures and to study mechanisms that increase, but also mitigate, polarization. 
 
-[Titel](Leifeld.pdf)
+A deeper understanding of the multifaceted phenomena of 
+polarization and cleavage requires that computational social scientists and complexity scientists engage more in political research.
+Conversely, social and political scientists need to be aware of the quantitative methods and  formal models to measure polarization, beyond established surveys.
+The existing research gap manifests itself between 
+disciplines, but also between scientific communities.
+Events, i.e. conferences or workshops, that succeed in bringing these communities together are rare, if not existing.
+The discourse is siloed in disciplinary activities.
+To break up such silos requires scientific translators, i.e. researchers with an experience in communicating with different scientific communities.
+
+This workshop shall foster the interaction, and hopefully also the collaboration, between scientists from  different communities. 
+It receives financial support from the 
+*Swiss National Science Foundation* (SNSF) (Grant No: XXX) and from the *Chair of Systems Design (ETH Zurich)*. 
+This allows us to continue, at a smaller scale, organizing scientific events relevant for political and computational social sciences. 
+Our last symposium on [**Polarization and Radicalization**](http://symposium.computationalsocialscience.eu/2019/) took place at ETH Zurich in 2019 and attracted 200 international participants. 
+The workshop also complements our different ongoing research projects for analyzing social and political data sources, funded either by the SNSF or the Swiss Data Science Center (SDSC). 
+
+
+### Relevant activities
+
+#### Conferences
+
+- Conference: [Polarization and Radicalization (2019)](http://symposium.computationalsocialscience.eu/2019/)
+
+
+
+#### Research projects 
+
+- [EvolvingDemocraSci: Advancing parliamentary data analysis: Linking issues and collaborations of individual politicians](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/) (SDSC)
+ 
+- [Analyzing Co-Sponsorship Networks from 127 Years of the Swiss Federal Assembly](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/)  (SNSF grant 184963)
+
+-  [Signed Relations and Structural Balance in Complex Systems: From Data to Models](https://www.sg.ethz.ch/projects/signed-relations/) (SNSF grant 192746)
+
+-  [DemocraSci: A research platform for data-driven democracy studies in Switzerland](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/) (SDSC)
+
+
+
+#### Sociophysics
+
+- Conference: [SocioPhysics (2002)](https://www.sg.ethz.ch/team/frank_schweitzer/until2005/sociophysics/index.html)
+
+- Publication: [An Agent-Based Model of Opinion Polarization Driven by Emotions](https://www.hindawi.com/journals/complexity/2020/5282035/)
+
+- Publication: [A Weighted Balance Model of Opinion Hyperpolarization](https://doi.org/10.18564/jasss.4306)
+
+- Publication: [Sociophysics](https://doi.org/10.1063/PT.3.3845)
+
