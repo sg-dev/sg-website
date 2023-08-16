@@ -50,7 +50,7 @@ The workshop also complements our different ongoing research projects for analyz
 
 #### Conferences
 
-- Conference: [Polarization and Radicalization (2019)](http://symposium.computationalsocialscience.eu/2019/)
+- [Polarization and Radicalization (2019)](http://symposium.computationalsocialscience.eu/2019/)
 
 
 
@@ -70,9 +70,17 @@ The workshop also complements our different ongoing research projects for analyz
 
 - Conference: [SocioPhysics (2002)](https://www.sg.ethz.ch/team/frank_schweitzer/until2005/sociophysics/index.html)
 
+- Publication: [Sociophysics](https://doi.org/10.1063/PT.3.3845)
+
+
+- Publication: [Social percolation revisited: From 2d lattices to adaptive network](https://doi.org/10.1016/j.physa.2020.125687)
+
+- Publication: [Social nucleation: Group formation as a phase transition](https://doi.org/10.1103/PhysRevE.105.044301)
+
 - Publication: [An Agent-Based Model of Opinion Polarization Driven by Emotions](https://www.hindawi.com/journals/complexity/2020/5282035/)
 
 - Publication: [A Weighted Balance Model of Opinion Hyperpolarization](https://doi.org/10.18564/jasss.4306)
 
-- Publication: [Sociophysics](https://doi.org/10.1063/PT.3.3845)
+- Publication: [An agent-based model of multi-dimensional opinion dynamics and opinion alignment](https://doi.org/10.1063/5.0007523)
+
 
