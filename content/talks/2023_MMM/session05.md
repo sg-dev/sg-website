@@ -9,4 +9,5 @@ from: 2023-09-14T11:00:00
 to: 2023-09-14T12:30:00
 events:
 - MMM Workshop September 2023
+weight: 1
 ---
