@@ -22,4 +22,5 @@ Affective polarization and partisanship have been posited as a key explanation f
 
 ### Relevant publications 
 
-
+[Democratic backsliding, attitudes towards democracy and
+affective polarization](Wunsch.pdf)

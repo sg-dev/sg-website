@@ -28,3 +28,14 @@ Together, our results shed light on the social behaviors that drive digital plat
 ### Relevant publications 
 
 
+[Effect of algorithmic bias and network structure on coexistence,
+consensus, and polarization of opinions](Peralta_EffectAlgorithmicBiasNetStructure.pdf)
+
+[Multidimensional political polarization in online social networks](Peralta_MultidimensionalPoliticalPolarizationOSNs.pdf)
+
+[Opinion dynamics in social networks: From models to data](Peralta_OpinionDynamicsSocialNets.pdf)
+
+[Opinion formation on social networks with
+algorithmic bias: dynamics and bias imbalance](Peralta_OpinionFormationSocialNetsAlgorithmicBias.pdf)
+
+[Inferring attitudinal spaces in social networks](RamaciottiInferringAttitudinalSpacesSocialNets.pdf)
