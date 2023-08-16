@@ -42,28 +42,37 @@ This workshop shall foster the interaction, and hopefully also the collaboration
 It receives financial support from the 
 *Swiss National Science Foundation* (SNSF) (Grant No: XXX) and from the *Chair of Systems Design (ETH Zurich)*. 
 This allows us to continue, at a smaller scale, organizing scientific events relevant for political and computational social sciences. 
-Our last symposium [**Polarization and Radicalization**](http://symposium.computationalsocialscience.eu/2019/) took place at ETH Zurich in 2019 and attracted 200 international participants. 
+Our last symposium on [**Polarization and Radicalization**](http://symposium.computationalsocialscience.eu/2019/) took place at ETH Zurich in 2019 and attracted 200 international participants. 
+The workshop also complements our different ongoing research projects for analyzing social and political data sources, funded either by the SNSF or the Swiss Data Science Center (SDSC). 
 
-The workshop also complements our different ongoing research projects for analyzing social and political data sources, funded either by the SNSF or the Swiss Data Science Center (SDSC):
 
-- [EvolvingDemocraSci: Advancing parliamentary data analysis: Linking issues and collaborations of individual politicians]() (SDSC)
+### Relevant activities
+
+#### Conferences
+
+- Conference: [Polarization and Radicalization (2019)](http://symposium.computationalsocialscience.eu/2019/)
+
+
+
+#### Research projects 
+
+- [EvolvingDemocraSci: Advancing parliamentary data analysis: Linking issues and collaborations of individual politicians](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/) (SDSC)
  
 - [Analyzing Co-Sponsorship Networks from 127 Years of the Swiss Federal Assembly](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/)  (SNSF grant 184963)
 
 -  [Signed Relations and Structural Balance in Complex Systems: From Data to Models](https://www.sg.ethz.ch/projects/signed-relations/) (SNSF grant 192746)
 
--  [DemocraSci: A research platform for data-driven democracy studies in Switzerland]() (SDSC)
+-  [DemocraSci: A research platform for data-driven democracy studies in Switzerland](https://www.sg.ethz.ch/projects/130-years-of-swiss-parliament/) (SDSC)
 
 
 
-### Relevant activities
-
-- Conference: [Polarization and Radicalization (2019)](http://symposium.computationalsocialscience.eu/2019/)
+#### Sociophysics
 
 - Conference: [SocioPhysics (2002)](https://www.sg.ethz.ch/team/frank_schweitzer/until2005/sociophysics/index.html)
 
-
 - Publication: [An Agent-Based Model of Opinion Polarization Driven by Emotions](https://www.hindawi.com/journals/complexity/2020/5282035/)
+
+- Publication: [A Weighted Balance Model of Opinion Hyperpolarization](https://doi.org/10.18564/jasss.4306)
 
 - Publication: [Sociophysics](https://doi.org/10.1063/PT.3.3845)
 
