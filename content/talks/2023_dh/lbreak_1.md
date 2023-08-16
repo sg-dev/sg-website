@@ -1,5 +1,5 @@
 ---
-title: "Mittagspause"
+title: "Lunch Break"
 cbreak: true
 date:
 draft: false
@@ -9,8 +9,8 @@ description:
 speaker:
 affiliation:
 where:
-from: 2023-02-06T12:30:00
-to: 2023-02-06T14:00:00
+from: 2023-09-13T12:30:00
+to: 2023-09-13T14:00:00
 events:
-- Digital Humanities
+- MMM Workshop September 2023
 ---
