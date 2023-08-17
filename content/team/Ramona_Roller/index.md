@@ -26,7 +26,7 @@ For example, I analyse how scholars specialised in their communication roles and
 A central aim of my research is to understand the driving factors of transitions, accounting for interdependencies and heterogeneities in complex social systems.
 This is achieved by merging analytical tools and concepts from various disciplines such as Social Network Analysis, Event History Models, Potential Outcome Model of causality, and conventional regressions.
 
-I received a PhD in Computational Social Science from ETH Zurich (Chair of Systems Design) and hold a Master's degree in Computational Science from the University of Amsterdam and a Bachelor's degree in Psychology with Cognitive Science from the University of Sussex.
+I received a PhD in Computational Social Science from ETH Zurich (Chair of Systems Design) and hold a Master's degree in Computational Science from the University of Amsterdam.
 
 ## Sites
 
