@@ -2,11 +2,30 @@
 title: Ramona Roller's talks
 ---
 
-- **Netzwerkanalyse zur Komposition und Evolution innerprotestantischer Gruppen im 16. Jahrhundert**
-    - **Event**: CAIDAS Workshop<br>
-    - **Venue**: Würzburg<br>
-    - **Date**: February, 8th 2023<br>
-{{< embed-pdf url="./team/ramona_roller/data/2023-02-08_Wurzburg.pdf" >}}
+- **Path statistics for letter correspondence networks of the European Reformation**
+    - **Event**: GrapHNR conference<br>
+    - **Venue**: Mainz<br>
+    - **Date**: July, 21st 2023<br>
+{{< embed-pdf url="./team/ramona_roller/data/2023-07-21_GrapHNR.pdf" >}}
+<a href="/team/ramona_roller/data/2023-07-21_GrapHNR.pdf">**Download slides**</a>
+
+
+
+
+**Talk**: Soziale Differenzierung während der Europäischen Reformation: Rollenanalyse in Briefkorrespondenznetzwerken
+<br>
+**Event**: Research visit, Forschungsplattform Frühe Neuzeit<br>
+**Venue**: Mainz<br>
+**Date**: July, 7th 2023<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2023-07-07_earlyModernPeriod.pdf" >}}--->
+<a href="/team/ramona_roller/data/2023-07-07_earlyModernPeriod.pdf">**Download slides**</a>
+
+
+**Talk**: Netzwerkanalyse zur Komposition und Evolution innerprotestantischer Gruppen im 16. Jahrhundert<br>
+**Event**: CAIDAS Workshop<br>
+**Venue**: Würzburg<br>
+**Date**: February, 8th 2023<br>
+<!---{{< embed-pdf url="./team/ramona_roller/data/2023-02-08_Wurzburg.pdf" >}}--->
 <a href="/team/ramona_roller/data/2023-02-08_Wurzburg.pdf">**Download slides**</a>
 
 **Talk**: Role detection in communication networks: About specialising protestants and deceived & deceiving employees<br>
@@ -14,7 +33,7 @@ title: Ramona Roller's talks
 **Venue**: Groningen<br>
 **Date**: January, 10th 2023<br>
 <!---{{< embed-pdf url="./team/ramona_roller/data/2023-10-01_scoop.pdf" >}}--->
-<a href="/team/ramona_roller/data/2023-10-01_scoop.pdf">**Download slides**</a>
+<a href="/team/ramona_roller/data/2023-01-10_scoop.pdf">**Download slides**</a>
 
 **Talk**: Reuchlins Briefwechsel: Statistische Analysen für Korrespondenznetzwerke<br>
 **Event**: Internationaler Reuchlin Kongress<br>
