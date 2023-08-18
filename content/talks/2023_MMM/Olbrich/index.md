@@ -1,5 +1,5 @@
 ---
-title: "XXX"
+title: "Do we need more than one dimension to understand polarization?"
 date:
 draft: false
 featured: false
@@ -17,7 +17,7 @@ events:
 
 ### Abstract
 
-
+It seems natural to think about about polarization along an one-dimensional spaces, i.e. along a single axes or between two groups, respectively. In my contribution I will discuss, why this might not be sufficient and how to work in higher dimensional spaces. In particular, I will discuss this problem in the context of cleavage theory and the hypothesis that the populist right parties that appeared in Europe in the last decades are part of a new cleavage. As an example I will discuss data from Swiss public votes between 1981 and 2018. 
 
 ### Relevant publications 
 
