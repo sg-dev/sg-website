@@ -1,5 +1,5 @@
 ---
-title: "Interaction-Based Forms of Polarization"
+title: "Inferring Opinions and Reconstructing Relations"
 session: true
 draft: false
 speaker: Kasia Weron
