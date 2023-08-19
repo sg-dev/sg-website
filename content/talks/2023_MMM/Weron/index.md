@@ -6,7 +6,7 @@ featured: false
 featured_image: icon.png
 speaker_image:
 description:
-speaker: Kasia Weron 
+speaker: Katarzyna  Sznajd-Weron 
 affiliation: Department of Management Systems, Wroclaw University of Science and Technology
 where: 
 from: 2023-09-15T11:00:00
