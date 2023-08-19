@@ -2,7 +2,7 @@
 title: "Inferring Opinions and Reconstructing Relations"
 session: true
 draft: false
-speaker: Kasia Weron
+speaker: Katarzyna  Sznajd-Weron 
 affiliation: Wroclaw University of Science and Technology
 where:
 from: 2023-09-14T16:00:00
