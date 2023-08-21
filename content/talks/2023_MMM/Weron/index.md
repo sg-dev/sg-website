@@ -9,8 +9,8 @@ description:
 speaker: Katarzyna  Sznajd-Weron 
 affiliation: Department of Management Systems, Wroclaw University of Science and Technology
 where: 
-from: 2023-09-15T11:00:00
-to: 2023-09-15T11:25:00
+from: 2023-09-13T11:45:00
+to: 2023-09-13T12:10:00
 events:
 - MMM Workshop September 2023
 ---
