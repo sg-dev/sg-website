@@ -9,8 +9,8 @@ description:
 speaker: Natasha Wunsch
 affiliation: Department of European Studies, University of Fribourg
 where:
-from: 2023-09-13T11:45:00
-to: 2023-09-13T12:10:00
+from: 2023-09-15T11:00:00
+to: 2023-09-15T11:25:00
 events:
 - MMM Workshop September 2023
 ---
