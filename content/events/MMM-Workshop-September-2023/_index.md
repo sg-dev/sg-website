@@ -4,7 +4,7 @@ title: "Measuring, Modeling and Mitigating Opinion Polarization and Political Cl
 description: MMM Workshop
 date: 2023-01-01
 from: "2023-09-13T09:00:00"
-to: "2023-09-15T16:30:00"
+to: "2023-09-15T13:00:00"
 where: "ETH Zurich, ML E12"
 weight: 1
 event_type: ETH Workshop
