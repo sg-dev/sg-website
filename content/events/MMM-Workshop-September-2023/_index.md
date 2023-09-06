@@ -41,7 +41,7 @@ Contributions revolve around three interlinked topics: <BR>
 
 
 
-#### [Download workshop program with abstracts (PDF, still to come)](MMM-Workshop-Programm.pdf)
+#### [Download workshop program with abstracts (PDF, 11 pages)](MMM_Workshop-Abstracts.pdf)
 
 
 ## Organisation
