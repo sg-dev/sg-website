@@ -16,6 +16,7 @@ aliases:
     - /team/people/czingg/
     - /team/czingg/
     - /czingg/
+    - /sg-it-member/
 background: /images/micro_processor.png
 # background: /images/cpu_maze_small.png
 bg_tiled: true
