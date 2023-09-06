@@ -10,7 +10,7 @@ speaker: Philip Leifeld
 affiliation: Department of Government, University of Essex
 where:
 from: 2023-09-14T9:00:00
-to: 2023-02-06T9:25:00
+to: 2023-09-14T9:25:00
 events:
 - MMM Workshop September 2023
 ---
