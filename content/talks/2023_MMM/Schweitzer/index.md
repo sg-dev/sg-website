@@ -23,7 +23,7 @@ combining research on that topic from *computational social science* and *politi
 
 Each of these disciplines provides a unique perspective:
 Social and political scientists discuss the reasons and consequences for increasing polarization on various levels of society.
-*Political scientists*, in particular, study how this dynamics manifest itself in parliamentary processes, with the US Congress as a prime example.
+*Political scientists*, in particular, study how this dynamics manifests itself in parliamentary processes, with the US Congress as a prime example.
 *Computational social scientists* approach the topic from a data science perspective, analyzing data from social media, mostly from Twitter.
 Using tools from machine learning (NLP, sentiment analysis) they also aim at measuring the level of polarization.
 *Scientists from sociophysics and complexity science* provide formal models for the dynamics of polarization, most often agent-based models and network models.
@@ -34,7 +34,7 @@ polarization and cleavage requires that computational social scientists and comp
 Conversely, social and political scientists need to be aware of the quantitative methods and  formal models to measure polarization, beyond established surveys.
 The existing research gap manifests itself between 
 disciplines, but also between scientific communities.
-Events, i.e. conferences or workshops, that succeed in bringing these communities together are rare, if not existing.
+Conferences or workshops that succeed in bringing these communities together are rare.
 The discourse is siloed in disciplinary activities.
 To break up such silos requires scientific translators, i.e. researchers with an experience in communicating with different scientific communities.
 
