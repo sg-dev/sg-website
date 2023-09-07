@@ -33,4 +33,4 @@ Finally, we establish a connection between these concepts and the emergence of p
 
 ### Relevant publications 
 
-
+[G. Andres, G. Casiraghi, G. Vaccario and F. Schweitzer. Reconstructing signed relations from interaction data](Andres_ReconstructingSignedRelations.pdf)
