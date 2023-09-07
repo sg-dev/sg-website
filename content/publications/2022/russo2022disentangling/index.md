@@ -1,5 +1,5 @@
 ---
-title: Disentangling Active and Passive Cosponsorship in the U.S. Congress
+title: Helping a Friend or Supporting a Cause? Disentangling Active and Passive Cosponsorship in the US Congress
 date: '2022-01-02'
 publishDate: '2022-05-19T07:01:34.418559Z'
 authors:
