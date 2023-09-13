@@ -15,6 +15,8 @@ events:
 - MMM Workshop September 2023
 ---
 
+### [Presentation Slides (PDF)](Schweitzer-MMM_Opening.pdf)
+
 ### Abstract
 
 Polarization is studied in different disciplines.
