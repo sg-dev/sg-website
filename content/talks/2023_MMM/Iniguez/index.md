@@ -15,6 +15,9 @@ events:
 - MMM Workshop September 2023
 ---
 
+### [Presentation Slides (PDF)](Presentation_Iniguez-MMM.pdf)
+
+
 ### Abstract
 
 Political polarization in online social networks is a rapidly growing phenomenon worldwide, happening within a pervasive, variable, and mostly hidden ecosystem of content filtering technologies that determine what information we see online. Despite the relevance of algorithms and opinion formation mechanisms to modern-day political discourse, the structure and dynamics of polarized states in digital spaces are still poorly understood. 
