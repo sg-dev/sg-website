@@ -1,6 +1,6 @@
 ---
 featured_image: software_engineering.png
-title: "How are software teams (self-)organised?"
+title: "How software teams (self-)organise"
 description: "Data and network science methods help software development teams understand their internal team structure, identify perils, and design and implement corresponding solutions."
 date: 2023-09-14
 weight: 1
