@@ -29,4 +29,6 @@ abstract: Data from software repositories have become an important foundation fo
   and organisational studies.
 publication: Empirical Software Engineering
 featured: false
+projects:
+- Software Engineering
 ---

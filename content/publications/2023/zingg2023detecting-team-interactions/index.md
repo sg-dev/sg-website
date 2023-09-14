@@ -15,4 +15,5 @@ featured: false
 projects:
 - Data Science
 - Resilience
+- Software Engineering
 ---
