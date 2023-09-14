@@ -15,6 +15,9 @@ events:
 - MMM Workshop September 2023
 ---
 
+### [Presentation Slides (Online)](https://dgarcia-eu.github.io/UnpackingPolarization/)
+
+
 ### Abstract
 
 Online polarization research currently focuses on studying single-issue opinion distributions or computing distance metrics of interaction network structures. Limited data availability often restricts studies to positive interaction data, which can misrepresent the reality of a discussion. We introduce a novel framework that aims at combining these three aspects, content and interactions, as well as their nature (positive or negative), while challenging the prevailing notion of polarization as an umbrella term for all forms of online conflict or opposing opinions. 
