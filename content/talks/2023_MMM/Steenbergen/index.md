@@ -15,6 +15,9 @@ events:
 - MMM Workshop September 2023
 ---
 
+### [Presentation Slides (PDF)](Presentation_Koedam_Steenbergen_MMM.pdf)
+
+
 ### Abstract
 
 Ideological polarization matters. It is a necessary requirement for meaningful electoral competition, but at its extreme can strain democratic functioning. The conceptualization and measurement of contemporary ideological polarization is complicated by the growing complexity of the policy differences between political parties. Yet, existing indicators remain one-dimensional in nature, despite the wide acceptance of the multidimensional structure of European politics. 
