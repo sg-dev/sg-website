@@ -21,4 +21,6 @@ It seems natural to think about about polarization along an one-dimensional spac
 
 ### Relevant publications 
 
+[Olbrich, Eckehard, and Sven Banisch. "The rise of populism and the reconfiguration of the German political space." Frontiers in big Data 4 (2021): 731349](https://www.frontiersin.org/articles/10.3389/fdata.2021.731349/full)
 
+[Gaisbauer F, Pournaki A, Banisch S, Olbrich E (2021) Ideological differences in engagement in public debate on Twitter. PLOS ONE 16(3): e0249241](https://doi.org/10.1371/journal.pone.0249241)

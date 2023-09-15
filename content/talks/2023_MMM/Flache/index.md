@@ -15,6 +15,9 @@ events:
 - MMM Workshop September 2023
 ---
 
+### [Presentation Slides (PDF)](Presentation_Flache_MMM.pdf)
+
+
 ### Abstract
 
 

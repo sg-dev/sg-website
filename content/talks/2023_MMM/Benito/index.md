@@ -1,6 +1,6 @@
 ---
 title: "Polarization Metrics and Opinions Inference in Multipolar Systems"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png
@@ -14,6 +14,9 @@ to: 2023-09-14T16:25:00
 events:
 - MMM Workshop September 2023
 ---
+
+### [Presentation Slides (PDF)](Presentation_Benito_MMM.pdf)
+
 
 ### Abstract
 
