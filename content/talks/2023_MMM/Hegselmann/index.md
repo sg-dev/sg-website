@@ -33,4 +33,8 @@ My talk will present a rather fundamental new approach to analysing the BC model
 
 ### Relevant publications 
 
-[Polarization and Radicalization in the Bounded Confidence Model: A Computer-Aided Speculation](Hegselmann.pdf)
+[Polarization and Radicalization in the Bounded Confidence Model: A Computer-Aided Speculation](Hegselmannpdf)
+
+
+
+[Bounded Confidence Revisited: What We Overlooked, Underestimated, And Got Wrong](Hegselmann-Final.pdf)
