@@ -10,7 +10,7 @@ abstract: " An increasing environmental consciousness of customers can become a 
 publication: Available at SSRN 4403242
 featured: false
 projects: 
-- Systems Intervention
+- Systems
 - Economic Networks
 - Network Theory
 ---
