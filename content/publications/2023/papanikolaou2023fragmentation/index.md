@@ -3,6 +3,8 @@ title: 'Fragmentation from group interactions: A higher-order
 adaptive voter model'
 date: '2023-03-18'
 publishDate: '2023-03-18T00:02:30.796690Z'
+url_pdf: https://doi.org/10.1016/j.physa.2023.129257
+doi: 10.1016/j.physa.2023.129257
 volume: '17'
 pages: 742--753
 authors:
@@ -17,7 +19,7 @@ We develop a minimal extension of the adaptive voter model to hypergraphs to stu
 We study S-uniform hypergraphs as initial configurations. With numerical simulations, 
 we find new phenomena not found in the counterpart pairwise models, such as the formation of bands in the magnetization and the lack of an equilibrium state. 
 Finally, we develop an analytical model using a sparse hypergraph approximation that accurately predicts the bands' boundaries and height."
-publication: arXiv
+publication: Physica A: Statistical Mechanics and its Applications
 featured: false
 projects: 
 - Network Theory
