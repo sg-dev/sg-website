@@ -1,7 +1,7 @@
 ---
 title: 'Struggling with change: The fragile resilience of collectives'
 date: '2022-10-15'
-publishDate: '2022-10-18T07:34:41.119887Z'
+publishDate: '2023-09-28'
 authors:
 - Frank Schweitzer
 - Christian Zingg
@@ -17,9 +17,9 @@ abstract: 'Collectives form non-equilibrium social structures characterised by a
   them. The resilience life cycle allows distinguishing between short-term resilience,
   given by a sequence of resilient states, and long-term resilience, which requires
   collectives to survive through different cycles.'
-publication: arXiv
-url_pdf: https://arxiv.org/abs/2210.08224
-doi: 10.48550/ARXIV.2210.08224
+publication: Perspectives on Psychological Science
+url_pdf: [https://journals.sagepub.com/doi/full/10.1177/17456916231192052]
+doi: 10.1177/174569162311920
 featured: false
 projects:
 - Resilience
