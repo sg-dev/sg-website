@@ -19,7 +19,7 @@ abstract: 'Collectives form non-equilibrium social structures characterised by a
   collectives to survive through different cycles.'
 publication: Perspectives on Psychological Science
 url_pdf: [https://journals.sagepub.com/doi/full/10.1177/17456916231192052]
-doi: 10.1177/174569162311920
+doi: 10.1177/17456916231192052
 featured: false
 projects:
 - Resilience
