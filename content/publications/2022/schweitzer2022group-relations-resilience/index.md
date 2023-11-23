@@ -24,4 +24,5 @@ url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0378437122004265'
 sg-areas:
 projects:
 - Signed Relations
+- Resilience
 ---
