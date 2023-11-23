@@ -35,4 +35,6 @@ url_pdf: http://dl.acm.org/citation.cfm?id=2512946
 doi: 10.1145/2512938.2512946
 featured: false
 sg-areas:
+projects:
+- Resilience
 ---
