@@ -3,6 +3,7 @@ date: 2021-08-25
 title: Master, Bachelor and Semester Theses
 weight: 10
 featured_image: net.png
+archived: false
 ---
 
 We offer *Semester*, *Bachelor*, *Master* and *MAS Theses*
