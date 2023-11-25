@@ -6,9 +6,6 @@ featured_image: social_data_science.png
 weight: 0
 ---
 
-![](social_data_science.png)
-
-
 ## Description
 
 Social Data Science is an emerging field that studies human behavior and social interaction through digital traces. The revolution in measurement brought by our digital society gives us data at global scales, very high frequencies, and unprecedented levels of depth and resolution.

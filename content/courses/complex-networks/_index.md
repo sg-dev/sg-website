@@ -4,10 +4,8 @@ date: 2021-02-09T21:36:03+01:00
 draft: false
 weight: 0
 featured_image: mobility-net.png
-archive: true
+tiled: true
 ---
-
-![cover image course](mobility-net.png)
 
 The course provides an overview of the methods and abstractions used in:
 
@@ -22,13 +20,8 @@ The course provides an overview of the methods and abstractions used in:
 
 - **Lecturer**: [Prof. Frank Schweitzer][prof]
 - **Tutorials**: [Dr. Luca Verginer][lv]
-- **Course ID**: [363-0588-00L][vvz]
-- **Period**: Spring Semester
 - **Syllabus**: [PDF][syllabus-pdf]
-- **Moodle**: [Moodle Board][moodle]
 
 [syllabus-pdf]: syllabus-cn22.pdf
 [prof]: /team/frank_schweitzer
 [lv]: /team/luca_verginer
-[moodle]: https://moodle-app2.let.ethz.ch/course/view.php?id=17016
-[vvz]: http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=157680&semkez=2022S&lang=en

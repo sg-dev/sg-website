@@ -6,8 +6,6 @@ weight: 0
 featured_image: abm_example.png
 ---
 
-![ABM cover image](abm_example.png)
-
 Individuals live in groups!
 Their weave of dynamical and differentiated interactions results in complex societies, whose properties and ruling principles can only be fully unraveled when studying the underlying social system from a formal standpoint.
 
