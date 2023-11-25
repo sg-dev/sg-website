@@ -41,5 +41,5 @@ They allow to quantify the impact of agents and their relations, using data abou
 
 
 <!-- insert iframe -->
-<iframe src="Presentation-Schweitzer.html" width="100%" height="300px" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe src="Presentation-Schweitzer.html" width="100%" height="300px" frameborder="0" allowfullscreen="true">
 </iframe>
