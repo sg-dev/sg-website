@@ -14,18 +14,3 @@ Based on that, we introduce tools and methods commonly used in **Systems Enginee
 The part of **Systems Dynamics** focuses on models of systems with various positive and negative feedback loops, which exhibit, for example, unwanted oscillations. Using examples of **Economic Dynamics**, such as the adoption of new products or the competition between technologies, we also develop an understanding of the specific nonlinear dynamics in markets. Eventually, we investigate the effects of **Nonlinear Dynamics** on the instability of systems and their long-term predictiveness, with applications in supply chains and manufacturing systems.
 
 In addition to the theoretical framework developed, emphasis of the course is put on quantitative tools for systems modeling and on real world examples from industries and markets. Weekly self-study tasks provide opportunities to deepen the theoretical understanding of the topics, to develop own solutions in small groups, and to learn about the software `VENSIM` used for systems dynamics modeling.
-
-Participants of the course should have an engineering background and be interested in learning about systems dynamics at large, both from a practical and a modeling perspective.
-
-## Useful Information
-
-- **Lecturer**: [Prof. Frank Schweitzer][prof]
-- **Course ID**: [363-0541-00L][zvv]
-- **Period**: Autumn Semester 2020
-- **Syllabus**: [PDF][syllabus-pdf]
-- **Moodle**: [Moodle Board][moodle]
-
-[syllabus-pdf]: syllabus2021.pdf
-[prof]: /team/frank_schweitzer
-[moodle]: https://moodle-app2.let.ethz.ch/course/view.php?id=5002
-[zvv]: http://www.vorlesungsverzeichnis.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2020W&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=141126
