@@ -1,7 +1,7 @@
 ---
 title: "Introduction of Participants"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: group.png
 speaker_image:
@@ -12,6 +12,6 @@ where:
 from: 2023-09-13T9:50:00
 to: 2023-09-13T10:30:00
 events:
-- MMM Workshop September 2023
+- Workshop Structural Balance May 2024 
 ---
 

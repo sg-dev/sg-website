@@ -1,7 +1,7 @@
 ---
 title: "Depolarizing effect of strategic anticonformity – insights from the three-state 𝑞-voter model with bounded confidence"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -12,7 +12,7 @@ where:
 from: 2023-09-13T11:45:00
 to: 2023-09-13T12:10:00
 events:
-- MMM Workshop September 2023
+- Workshop Structural Balance May 2024 
 ---
 
 ### [Presentation Slides (PDF)](Presentation_Sznajd-Weron_MMM.pdf)

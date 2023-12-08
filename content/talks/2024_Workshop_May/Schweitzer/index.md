@@ -1,7 +1,7 @@
 ---
 title: "Welcome and Introductory Remarks"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: profile_pic.jpg
 speaker_image:
@@ -12,7 +12,7 @@ where:
 from: 2023-09-13T9:30:00
 to: 2023-09-13T9:50:00
 events:
-- MMM Workshop September 2023
+- Workshop Structural Balance May 2024 
 ---
 
 ### [Presentation Slides (PDF)](Schweitzer-MMM_Opening.pdf)

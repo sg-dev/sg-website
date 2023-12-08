@@ -1,7 +1,7 @@
 ---
 title: "A Textual Time Capsule: A Text-Based Approach to Tracing Swiss Elite Polarization Across 130 Years"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -12,7 +12,7 @@ where:
 from: 2023-09-14T14:45:00
 to: 2023-09-14T15:10:00
 events:
-- MMM Workshop September 2023
+- Workshop Structural Balance May 2024 
 ---
 
 ### Abstract
