@@ -7,9 +7,9 @@ featured_image: pic.jpeg
 description:
 speaker: Alberto Bacchelli
 affiliation: University of Zürich
-where: ETH Zurich, WEV, F111
-from: 2023-04-04T10:00:00
-to: 2023-04-04T10:45:00
+where: ETH Zurich, ML E12 
+from: 2023-12-15T16:15:00
+to: 2023-12-15T17:00:00
 events:
 - SG Symposium December 2023 
 ---
