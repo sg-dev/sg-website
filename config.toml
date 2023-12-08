@@ -46,13 +46,17 @@ pluralizelisttitles = "false"
     url = "/courses/"
     weight = 6
   [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 7
+  [[menu.main]]
     name = "News"
     url = "/news/"
-    weight = 7
+    weight = 8
   [[menu.main]]
     name = "About Us"
     url = "/about/"
-    weight = 8
+    weight = 9
 
 
 
