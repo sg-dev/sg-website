@@ -1,7 +1,7 @@
 ---
 title: "Closing and Farewell"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: profile_pic.jpg
 speaker_image:
@@ -12,5 +12,5 @@ where:
 from: 2023-09-15T12:30:00
 to: 2023-09-15T12:45:00
 events:
-- MMM Workshop September 2023
+- - Workshop Structural Balance May 2024 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Tracing the Sources of Belief Contestation in Policy Debates"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -12,7 +12,7 @@ where:
 from: 2023-09-14T9:00:00
 to: 2023-09-14T9:25:00
 events:
-- MMM Workshop September 2023
+- Workshop Structural Balance May 2024 
 ---
 
 ### [Presentation Slides (PDF)](Presentation_Leifeld_MMM.pdf)

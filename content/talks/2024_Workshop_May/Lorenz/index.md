@@ -1,7 +1,7 @@
 ---
 title: "How assimilative and idiosyncratic attitude change generate oscillations of public policy mood"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -12,7 +12,7 @@ where:
 from: 2023-09-13T14:45:00
 to: 2023-09-13T15:10:00
 events:
-- MMM Workshop September 2023
+- Workshop Structural Balance May 2024 
 ---
 
 ### [Presentation Slides (PDF)](Presentation_Lorenz_MMM.pdf)
