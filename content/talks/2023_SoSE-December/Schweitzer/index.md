@@ -7,9 +7,9 @@ featured_image: pic.jpeg
 description:
 speaker: Frank Schweitzer
 affiliation: ETH Zürich
-where: ETH Zurich, WEV, F111
-from: 2023-04-04T11:15:00
-to: 2023-04-04T12:00:00
+where: ETH Zurich, ML E12
+from: 2023-12-15T17:00:00
+to: 2023-12-15T17:45:00
 events:
 - SG Symposium December 2023
 ---
