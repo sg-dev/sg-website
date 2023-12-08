@@ -9,6 +9,7 @@ where: "ETH Zurich"
 weight: 1
 event_type: ETH Workshop
 label: ETH Workshop
+draft: true
 aliases:
 ---
 
@@ -55,5 +56,5 @@ Contributions revolve around three interlinked topics: <BR>
 - [Dr. Laurence Brandenberger, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch/team/laurence_brandenberger/)
 - [Prof. Frank Schweitzer, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch)
 
-The workshop receives financial support from the 
-*Swiss National Science Foundation* (SNSF Grant No: IZSEZ0_220344) and from the *Chair of Systems Design (ETH Zurich)*. 
+The workshop receives financial support from the
+*Swiss National Science Foundation* (SNSF Grant No: IZSEZ0_220344) and from the *Chair of Systems Design (ETH Zurich)*.
