@@ -1,7 +1,7 @@
 ---
 title: "Mechanism Design and Polarization Mitigation Strategies"
 session: true
-draft: false
+draft: true
 speaker: Laurence Brandenberger
 affiliation: Chair of Systems Design, ETH Zurich
 where:

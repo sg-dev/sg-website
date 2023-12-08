@@ -6,13 +6,13 @@ featured: false
 featured_image: icon.png
 speaker_image:
 description:
-speaker: Katarzyna  Sznajd-Weron 
+speaker: Katarzyna  Sznajd-Weron
 affiliation: Department of Management Systems, Wroclaw University of Science and Technology
-where: 
+where:
 from: 2023-09-13T11:45:00
 to: 2023-09-13T12:10:00
 events:
-- Workshop Structural Balance May 2024 
+- Workshop Structural Balance May 2024
 ---
 
 ### [Presentation Slides (PDF)](Presentation_Sznajd-Weron_MMM.pdf)
@@ -25,7 +25,7 @@ Engaging with dissenting views, fostering productive disagreements, or strategic
 Acknowledgment: This research was funded by the National Science Center (NCN, Poland) through grant no. 2019/35/B/HS6/02530.
 
 
-### Relevant publications 
+### Relevant publications
 
 Lipiecki, A. & Sznajd-Weron, K. (2022) Polarization in the three-state 𝑞-voter model with anticonformity and bounded confidence, Chaos, Solitons and Fractals 165, 112809
 
