@@ -12,5 +12,5 @@ where:
 from: 2023-09-15T12:30:00
 to: 2023-09-15T12:45:00
 events:
-- - Workshop Structural Balance May 2024 
+- Workshop Structural Balance May 2024
 ---

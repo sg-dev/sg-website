@@ -12,7 +12,7 @@ where:
 from: 2023-09-14T16:45:00
 to: 2023-09-14T17:10:00
 events:
-- Workshop Structural Balance May 2024 
+- Workshop Structural Balance May 2024
 ---
 
 ### Abstract
@@ -31,6 +31,6 @@ Employing a statistical network approach, we infer signed relations using intera
 Subsequently, we leverage the reconstructed signed networks to study group cohesion and structural balance.
 Finally, we establish a connection between these concepts and the emergence of polarization in social systems.
 
-### Relevant publications 
+### Relevant publications
 
 [G. Andres, G. Casiraghi, G. Vaccario and F. Schweitzer. Reconstructing signed relations from interaction data](Andres_ReconstructingSignedRelations.pdf)
