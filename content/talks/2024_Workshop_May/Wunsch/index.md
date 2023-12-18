@@ -1,7 +1,7 @@
 ---
 title: "Democratic backsliding, attitudes towards democracy and affective polarization"
 date:
-draft: true
+draft: false
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -9,8 +9,8 @@ description:
 speaker: Natasha Wunsch
 affiliation: Department of European Studies, University of Fribourg
 where:
-from: 2023-09-15T11:00:00
-to: 2023-09-15T11:25:00
+from: 2024-05-17T11:00:00
+to: 2024-05-17T11:25:00
 events:
 - Workshop Structural Balance May 2024 
 ---

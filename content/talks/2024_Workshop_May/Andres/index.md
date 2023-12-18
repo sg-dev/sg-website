@@ -1,7 +1,7 @@
 ---
 title: "Reconstructing signed relations from interaction data"
 date:
-draft: true
+draft: false
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -9,8 +9,8 @@ description:
 speaker: Georges Andres
 affiliation: Chair of Systems Design, ETH Zurich
 where:
-from: 2023-09-14T16:45:00
-to: 2023-09-14T17:10:00
+from: 2024-05-16T16:45:00
+to: 2024-05-16T17:10:00
 events:
 - Workshop Structural Balance May 2024
 ---
