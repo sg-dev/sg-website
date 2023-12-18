@@ -1,11 +1,11 @@
 ---
-title: "Polarization as a Threat to Democracy?"
+title: "1 ?????"
 session: true
 draft: false
-speaker: Philip Leifeld
-affiliation: University of Essex, UK
+speaker: ??? 
+affiliation: ??? 
 where:
-from: 2024-05-15T11:00:00
+from: 2024-05-15T10:45:00
 to: 2024-05-15T12:30:00
 events:
 - Workshop Structural Balance May 2024

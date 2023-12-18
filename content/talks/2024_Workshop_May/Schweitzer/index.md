@@ -10,7 +10,7 @@ speaker: Frank Schweitzer
 affiliation: Chair of Systems Design, ETH Zurich
 where:
 from: 2024-05-15T9:30:00
-to: 2024-05-15T9:50:00
+to: 2024-05-15T9:45:00
 events:
 - Workshop Structural Balance May 2024 
 ---

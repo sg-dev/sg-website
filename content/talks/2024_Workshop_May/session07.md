@@ -1,12 +1,12 @@
 ---
-title: "Inferring Opinions and Reconstructing Relations"
+title: "8 ???"
 session: true
 draft: false
-speaker: Katarzyna  Sznajd-Weron
-affiliation: Wroclaw University of Science and Technology
+speaker: Frank Schweitzer 
+affiliation: Chair of Systems Design, ETH Zürich 
 where:
-from: 2024-05-16T16:00:00
-to: 2024-05-16T17:30:00
+from: 2024-05-17T09:30:00
+to: 2024-05-17T10:30:00
 events:
 - Workshop Structural Balance May 2024
 weight: 1

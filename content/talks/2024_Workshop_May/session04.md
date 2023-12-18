@@ -1,12 +1,12 @@
 ---
-title: "Belief Heterogeneity"
+title: "5 ???"
 session: true
 draft: false
-speaker: Marco Steenbergen
-affiliation: Department of Political Science, University of Zürich
+speaker: ??? 
+affiliation: ??? 
 where:
-from: 2024-05-16T09:00:00
-to: 2024-05-16T10:30:00
+from: 2024-05-16T11:00:00
+to: 2024-05-16T12:30:00
 events:
 - Workshop Structural Balance May 2024
 weight: 1

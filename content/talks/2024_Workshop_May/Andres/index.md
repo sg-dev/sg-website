@@ -9,8 +9,8 @@ description:
 speaker: Georges Andres
 affiliation: Chair of Systems Design, ETH Zurich
 where:
-from: 2024-05-16T16:45:00
-to: 2024-05-16T17:10:00
+from: 2024-05-15T15:00:00
+to: 2024-05-15T15:45:00
 events:
 - Workshop Structural Balance May 2024
 ---

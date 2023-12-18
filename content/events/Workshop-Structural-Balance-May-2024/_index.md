@@ -2,7 +2,7 @@
 featured_image: bg.png
 title: "Signed Relations and Structural Balance in Complex Systems: From Data to Models"
 description: Workshop Signed Relations
-date: 2024-05-17
+date: 2023-05-17
 from: "2024-05-17T09:00:00"
 to: "2024-05-19T13:00:00"
 where: "ETH Zurich"
@@ -15,12 +15,12 @@ aliases:
 
 ## Venue
 
-- **Wednesday, Friday** <br>
+- **Wednesday 17 May, Friday 19 May** <br>
 ETH Zurich, Lecture Hall E101 <br>
 LEE Building, Tannenstrasse 3, 8006 Zürich</br>
 [Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
 
-- **Thursday** <br>
+- **Thursday 18 May** <br>
 ETH Zurich, GAP Lecture Hall ML E12 <br>
 ML Building, Tannenstrasse 3, 8006 Zürich</br>
 [Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
@@ -39,6 +39,8 @@ Contributions revolve around three interlinked topics: <BR>
 	- 
 	- 
 	- 
+ 	
+	
 
 - **2) Evolution of Signed Relation and Emergence of Structural Balance**
 	- 
@@ -61,7 +63,7 @@ Contributions revolve around three interlinked topics: <BR>
 - [Prof. Janusz Holyst, Faculty of Physics, Warsaw University of Technology](http://www.if.pw.edu.pl/~jholyst/persen.php/)
 - [Prof. Frank Schweitzer, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch)
 
-The workshop celebrates  the finalizes the project ...jointly funded by the Polish and the Swiss  part of the 
+The workshop celebrates the completion of the project ...jointly funded by the Polish and the Swiss  part of the 
 
 We gratefully acknowledge 
 additional financial support for the workshop from the
