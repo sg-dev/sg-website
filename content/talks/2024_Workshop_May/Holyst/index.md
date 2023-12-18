@@ -1,7 +1,7 @@
 ---
 title: "Why can’t we go back to paradise?"
 date:
-draft: true
+draft: false
 featured: false
 featured_image: icon.png
 speaker_image:
@@ -9,8 +9,8 @@ description:
 speaker: Janusz Holyst
 affiliation: Faculty of Physics, Warsaw University of Technology
 where:
-from: 2023-09-13T14:00:00
-to: 2023-09-13T14:25:00
+from: 2024-05-15T14:00:00
+to: 2024-05-15T14:25:00
 events:
 - Workshop Structural Balance May 2024 
 ---

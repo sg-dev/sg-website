@@ -2,14 +2,14 @@
 featured_image: bg.png
 title: "Signed Relations and Structural Balance in Complex Systems: From Data to Models"
 description: Workshop Signed Relations
-date: 2023-01-01
+date: 2024-05-17
 from: "2024-05-17T09:00:00"
 to: "2024-05-19T13:00:00"
 where: "ETH Zurich"
 weight: 1
 event_type: ETH Workshop
 label: ETH Workshop
-draft: true
+draft: false
 aliases:
 ---
 
@@ -28,33 +28,41 @@ ML Building, Tannenstrasse 3, 8006 Zürich</br>
 
 ## Synopsis
 
-Political polarization and radicalization is more and more seen as a major threat for democratic countries, with alarming consequences. Therefore, research on this topic has vastly increased in different scientific disciplines. But the scientific discourse lacks an integrative perspective on polarization, merging methods and insights from different disciplines. Even more, we miss the exchange between formal modelers, political scientists and sociologists which only would allow to develop such a common perspective. Our workshop shall fill this gap, bringing together an interdisciplinary group of top scientists, to foster awareness, acceptance, and adoption of insights from the respective disciplines.
+According to the theory of structural balance, interacting systems balance the (positive or negative) relations between different system elements such that local conflicts are minimized. Hence, structural imbalances induce a dynamics to resolve such conflicts. This dynamics plays a vital role in evolutionary processes because a multitude of possible solutions exists. At the same time, if these solutions cannot be reached, this can hamper the functionality of systems. 
 
+This general problem also occurs in social systems, where instead of a more balanced state, for instance, the polarization of opinions emerges. Are we able to address this problem from a formal perspective? Do we have data available to study it in real systems? Can we develop models that help us to understand when structural balance fails, and how it can be mitigated?
+
+Our workshop shall provide a platform to discuss these questions from a multi-disciplinary perspective, involving researchers from the complexity and the social sciences. 
 Contributions revolve around three interlinked topics: <BR>
 
-- **1) Public opinion and opinion dynamics**
-	- Polarization: ideology vs. issue stances
-	- Opinion dynamics: Mechanisms behind polarization dynamics
-	- Measuring Polarization: Moving beyond single dimensions
+- **1) Signed Relations and Structural Balance in Complex Systems**
+	- 
+	- 
+	- 
 
-- **2) Elite polarization**
-	- Measuring latent concepts: mapping ideology in a political space
-	- Political gridlock: Studying collaboration dynamics in polarized systems
-	- In-group vs. out-group: Studying group division strategies
+- **2) Evolution of Signed Relation and Emergence of Structural Balance**
+	- 
+	- 
+	- 
 
-- **3) Mitigation and mechanism design**
-	- Opinion formation and change: Mechanism design and mitigation strategies
-	- Populism as a dividing mechanism
+- **3) Mitigating the Implications of Structural Imbalance**
+	- 
+	- 
+	-
+	
 
 
 
-#### [Download workshop program with abstracts (PDF, 11 pages)](MMM_Workshop-Abstracts.pdf)
+#### [Download workshop program with abstracts (PDF, XX pages)](xxx.pdf)
 
 
 ## Organisation
 
-- [Dr. Laurence Brandenberger, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch/team/laurence_brandenberger/)
+- [Prof. Janusz Holyst, Faculty of Physics, Warsaw University of Technology](http://www.if.pw.edu.pl/~jholyst/persen.php/)
 - [Prof. Frank Schweitzer, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch)
 
-The workshop receives financial support from the
-*Swiss National Science Foundation* (SNSF Grant No: IZSEZ0_220344) and from the *Chair of Systems Design (ETH Zurich)*.
+The workshop celebrates  the finalizes the project ...jointly funded by the Polish and the Swiss  part of the 
+
+We gratefully acknowledge 
+additional financial support for the workshop from the
+*Swiss National Science Foundation* (SNSF Grant No: IZSEZ0_XXXX) and from the *Chair of Systems Design (ETH Zurich)*.

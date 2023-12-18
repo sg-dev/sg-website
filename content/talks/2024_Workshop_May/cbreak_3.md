@@ -2,15 +2,15 @@
 title: "☕️ Coffee Break 🥐"
 break: true
 date:
-draft: true
+draft: false
 featured: false
 featured_image:
 description:
 speaker:
 affiliation:
 where:
-from: 2023-09-14T10:30:00
-to: 2023-09-14T11:00:00
+from: 2024-05-16T10:30:00
+to: 2024-05-16T11:00:00
 events:
 - Workshop Structural Balance May 2024
 ---
