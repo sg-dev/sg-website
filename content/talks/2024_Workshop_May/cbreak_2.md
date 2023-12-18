@@ -9,8 +9,8 @@ description:
 speaker:
 affiliation:
 where:
-from: 2024-05-15T15:30:00
-to: 2024-05-15T16:00:00
+from: 2024-05-15T15:45:00
+to: 2024-05-15T16:15:00
 events:
 - Workshop Structural Balance May 2024
 ---
