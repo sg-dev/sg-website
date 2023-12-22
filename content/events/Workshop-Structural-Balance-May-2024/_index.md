@@ -3,8 +3,8 @@ featured_image: bg.png
 title: "Signed Relations and Structural Balance in Complex Systems: From Data to Models"
 description: Workshop Signed Relations
 date: 2023-05-17
-from: "2024-05-17T09:00:00"
-to: "2024-05-19T13:00:00"
+from: "2024-05-15T09:00:00"
+to: "2024-05-17T13:00:00"
 where: "ETH Zurich"
 weight: 1
 event_type: ETH Workshop
