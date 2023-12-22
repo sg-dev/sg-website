@@ -15,12 +15,12 @@ aliases:
 
 ## Venue
 
-- **Wednesday 17 May, Friday 19 May** <br>
+- **Wednesday 15 May 2024, Friday 17 May 2024** <br>
 ETH Zurich, Lecture Hall E101 <br>
 LEE Building, Tannenstrasse 3, 8006 Zürich</br>
 [Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
 
-- **Thursday 18 May** <br>
+- **Thursday 16 May 2024** <br>
 ETH Zurich, GAP Lecture Hall ML E12 <br>
 ML Building, Tannenstrasse 3, 8006 Zürich</br>
 [Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
