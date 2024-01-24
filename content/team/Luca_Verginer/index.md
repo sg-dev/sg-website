@@ -26,13 +26,10 @@ aliases:
 
 I am a Postdoc at che Chair of Systems Design at ETH Zürich and hold a Ph.D. in Economics and Data Science from IMT Lucca.
 
-I am an empirical economist and network scientist studying through econometrics, numerical simulations, and network models issues related to intellectual property, supply chain resilience and high skill labour mobility, among (many) other subjects. I am passionate about data in all its forms (and sizes) and constantly looking for curious and ingenious ways to visualize, collect and extract value from it.
+I am an empirical economist and network scientist focused on the dynamics of *pharmaceutical supply chains* and the role of patents in pharmaceutical *innovation*. My research ambitiously spans both economic and social networks, utilizing a diverse methodological toolkit that includes causal inference, advanced econometrics, and state-of-the-art neural network models, particularly Graph Neural Networks (GNN) and Natural Language Processing (NLP). A significant aspect of my work is dedicated to examining and enhancing the resilience of pharmaceutical supply chains. With a strong emphasis on *temporal network* analysis, my efforts are directed towards shaping resilient, efficient, and innovative solutions for the challenges facing global health today, aiming to bridge the gap between theoretical research and real-world impact.
 
-My work is driven by research questions that make use of state-of-the-art modelling techniques often involving large datasets, natural language processing, complex networks with a special focus on temporal networks.
 
-Prior to joining Chair of Systems Design Team, I  received a
-**Master's degree in Economics** from the University of Trento and a **PhD in Economics and Data Science** from IMT School for Advanced Studies, Lucca.
-I am also a core contributor to [Pathpy], an open source **temporal network analysis** library developed in collaboration with the [DAG group University of Zürich][dag] and the University of Wuppertal.
+Prior to joining Chair of Systems Design Team, I received a **Master's degree in Economics** from the University of Trento and a **PhD in Economics and Data Science** from IMT School for Advanced Studies, Lucca.
 
 
 [pathpy]: http://www.pathpy.net
