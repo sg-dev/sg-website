@@ -24,9 +24,7 @@ aliases:
 ---
 
 
-I am a Postdoc at che Chair of Systems Design at ETH Zürich and hold a Ph.D. in Economics and Data Science from IMT Lucca.
-
-I am an empirical economist and network scientist focused on the dynamics of *pharmaceutical supply chains* and the role of patents in pharmaceutical *innovation*. My research ambitiously spans both economic and social networks, utilizing a diverse methodological toolkit that includes causal inference, advanced econometrics, and state-of-the-art neural network models, particularly Graph Neural Networks (GNN) and Natural Language Processing (NLP). A significant aspect of my work is dedicated to examining and enhancing the resilience of pharmaceutical supply chains. With a strong emphasis on *temporal network* analysis, my efforts are directed towards shaping resilient, efficient, and innovative solutions for the challenges facing global health today, aiming to bridge the gap between theoretical research and real-world impact.
+I am an empirical economist and network scientist focused on the dynamics of *pharmaceutical supply chains* and the role of patenting in their *innovation*. My research ambitiously spans both economic and social networks, using a diverse methodological toolkit that includes causal inference, advanced econometrics, and state-of-the-art neural network models, particularly Graph Neural Networks (GNN) and Natural Language Processing (NLP). A significant aspect of my work is dedicated to examining and enhancing the resilience of pharmaceutical supply chains. With a strong emphasis on *temporal network* analysis. My reseaerch is directed towards shaping resilient, efficient, and innovative solutions for the challenges facing global health today.
 
 
 Prior to joining Chair of Systems Design Team, I received a **Master's degree in Economics** from the University of Trento and a **PhD in Economics and Data Science** from IMT School for Advanced Studies, Lucca.
