@@ -1,7 +1,7 @@
 ---
 title: "Modeling and Measuring the Resilience of Collectives"
 date:
-draft: false
+draft: true
 featured: false
 featured_image: overview.png
 description:
