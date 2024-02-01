@@ -35,24 +35,9 @@ This general problem also occurs in social systems, where instead of a more bala
 Our workshop shall provide a platform to discuss these questions from a multi-disciplinary perspective, involving researchers from the complexity and the social sciences. 
 Contributions revolve around three interlinked topics: <BR>
 
-- **1) Signed Relations and Structural Balance in Complex Systems**
-	- 
-	- 
-	- 
- 	
-	
-
-- **2) Evolution of Signed Relation and Emergence of Structural Balance**
-	- 
-	- 
-	- 
-
-- **3) Mitigating the Implications of Structural Imbalance**
-	- 
-	- 
-	-
-	
-
+- Signed Relations and Structural Balance in Complex Systems
+- Evolution of Signed Relation and Emergence of Structural Balance
+- Mitigating the Implications of Structural Imbalance
 
 
 #### [Download workshop program with abstracts (PDF, XX pages)](xxx.pdf)
@@ -63,7 +48,11 @@ Contributions revolve around three interlinked topics: <BR>
 - [Prof. Janusz Holyst, Faculty of Physics, Warsaw University of Technology](http://www.if.pw.edu.pl/~jholyst/persen.php/)
 - [Prof. Frank Schweitzer, Chair of Systems Design, ETH Zürich](https://www.sg.ethz.ch)
 
-The workshop celebrates the completion of the project ...jointly funded by the Polish and the Swiss  part of the 
+The workshop celebrates the completion of the binational
+collaborative research project on signed relations and
+structural balance jointly funded by the Polish National
+Science Foundation (Grant No: xxx) and the Swiss National
+Science Foundation (SNSF Grant No: 105213L_192746). 
 
 We gratefully acknowledge 
 additional financial support for the workshop from the
