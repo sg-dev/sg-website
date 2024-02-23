@@ -21,11 +21,18 @@ All students are required to sign the [declaration of originality](https://www.e
 
 ## List of Theses
 
+### 2023
+
+- **Erik Giorgis** (Master Thesis): *"The evolution of Open Source Software communities: The role of mailing list."*\
+	Department of Mangmente Techonology and Economics\
+    Supervisor: Prof. Frank Schweitzer, Dr. Giacomo Vaccario and Dr. Christoph Gote\
+  Date of completion 09/2023
+
 ### 2022
 
 - **Vincent Jung** (Master Thesis): *"Ideological Embeddings of Swiss Members of Parliament"*\
-	Department of Computer Science\
-    Supervisor: Prof. Frank Schweitzer, Prof. Dr. Fernando Perez-Cruz\
+	Department of Computer Science  ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer and Prof. Dr. Fernando Perez-Cruz\
     Date of completion: 09/2022
 
 - **Paride Crisafulli** (Master Thesis): *"Time evolution of signed networks sparkling with conflicts"*\
@@ -33,12 +40,42 @@ All students are required to sign the [declaration of originality](https://www.e
     Supervisor: Prof. Frank Schweitzer, Dr. Luca Verginer, Dr. Giacomo Vaccario and Dr. Giona Casiraghi\
     Date of completion: 08/2022
 
+ - **Tianyuan Wang** (Master Thesis): *"Evolution of signed relations between firms and customers"*\
+	Department of Environmental Systems Science ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer, Prof. Stauffacher  and Dr. Giacomo Vaccario\
+    Date of completion: 04/2022
+
+- **Agnese Sacchi** (Semster Thesis): *"Self-assembling directed networks for building logic gates"*\
+	Department of Physics ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer and  Dr. Giacomo Vaccario\
+    Date of completion: 03/2022
+  
+ - **Pipier Jerome** (Semester Thesis): *"Formation of signed relations and emergence of polarization in an agent-based model"*\
+	Department of Physics ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer and Dr. Giacomo Vaccario\
+    Date of completion: 02/2022 
+
 ### 2021
+
+- **Jiduan Wu** (Semester Thesis): *"Robustness and intervention on the R&D alliance network: A multi-layer approach"*\
+	Department of Computer Science, ETH Zurich\
+    Supervisors: Prof. Frank Schweitzer, Prof. Siyu Tang, Dr. Giacomo Vaccario and Dr. Giona Casiraghi\
+    Date of completion: 08/2021
 
 - **Tai Hong** (Master Thesis): *"Critical Nodes in a Distribution Network"*\
 	Department of Management, Technology and Economics, ETH Zurich\
     Supervisor: Prof. Frank Schweitzer, Dr. Luca Verginer and Ambra Amico\
     Date of completion: 08/2021
+
+- **Nikos Papanikolaou** (Master Thesis): *"An Adaptive Voter Model on Hypergraphs"*\
+	Department of Physics, ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer, Prof. Renaud Lambiotte and Dr. Giacomo Vaccario\
+    Date of completion: 05/2021
+
+- **Edoardo Maggioni** (Master Thesis): *"Geometrical frustration and its effect in signed social networks"*\
+	Department of Physics, University of Pisa\
+    Supervisor: Prof. Frank Schweitzer, Prof. Mannella and Dr. Giacomo Vaccario\
+    Date of completion: 10/2021
 
 - **Pedro Perez** (Semester Thesis): *"Robustness and diffusion on temporal networks"*\
     Department of Mathematics, ETH Zurich\
@@ -48,7 +85,7 @@ All students are required to sign the [declaration of originality](https://www.e
 - **Jan Thurnheer** (Bachelor Thesis): *"Modelling distributed Production and Flow of Investments"*\
     Department of Mechanical and Process Engineering\
     Supervisor: Prof. Frank Schweitzer, Dr. Luca Verginer\
-    Date of Completion: 05/2021
+    Date of completion: 05/2021
 
 - **Yansong Yun** (Semester Thesis): *"Modelling Characteristic Distribution Times in Supply Chains"*\
     Department of Physics ETH Zurich\
@@ -69,10 +106,13 @@ All students are required to sign the [declaration of originality](https://www.e
     Seminar of Statistics, ETH Zurich\
     Supervisors: Prof. Frank Schweitzer, Dr. Markus Kalisch, Christoph Gote, Laurence Brandenberger\
     Date of completion: 02/2021
-
+  
+- **Paride Crisafulli** (Semster Thesis): *"Signed Networks Inference from Interaction Networks"*\
+    Department of Physics, ETH Zurich\
+    Supervisors: Prof. Frank Schweitzer, Dr. Giacomo Vaccario and Dr. Giona Casiraghi\
+    Date of completion: 04/2021
 
 ### 2020
-
 
 - **Tai Hong** (Internship): *"Reconstructing distribution networks from transaction data"*\
     Department of Management, Technology and Economics, ETH Zurich\
