@@ -1,6 +1,6 @@
 ---
 title: Predicting Influential Higher-Order Patterns in Temporal Network Data
-date: '2022ß-01-01'
+date: '2022-01-01'
 publishDate: '2021-07-28T19:54:28.413438Z'
 authors:
 - Christoph Gote
