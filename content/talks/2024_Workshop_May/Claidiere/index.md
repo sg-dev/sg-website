@@ -6,7 +6,7 @@ featured: false
 featured_image: icon.png
 speaker_image:
 description:
-speaker: Valeria Gelardi
+speaker: Nicolas Claidiere
 affiliation: Aix-Marseille Université, Marseille, France
 where:
 from: 2024-05-16T14:00:00
