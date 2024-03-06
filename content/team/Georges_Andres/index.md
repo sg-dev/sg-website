@@ -8,7 +8,7 @@ website:
 firstname: Georges
 lastname: Andres
 role: PhD Student
-weight: 70
+weight: 74
 honorific: MSc Physics
 aliases:
     - /team/people/gandres/
