@@ -11,7 +11,7 @@ lastname: Vaccario
 role: Senior Researcher
 orcid: 0000-0001-8290-2742
 gscholar: yo8IoxwAAAAJ
-weight: 95
+weight: 93
 honorific: Dr.
 background: /images/3d_net_small.png
 bg_tiled: true

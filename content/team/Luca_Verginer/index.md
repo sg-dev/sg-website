@@ -2,9 +2,9 @@
 title: Luca Verginer
 firstname: Luca
 lastname: Verginer
-role: Postdoc
+role: Senior Researcher
 honorific: Dr.
-weight: 90
+weight: 94
 
 room: WEV G 213
 
