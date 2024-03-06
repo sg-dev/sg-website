@@ -1,13 +1,13 @@
 ---
-title: "... (From temporal network data to the dynamics of social relationships) ..."
+title: "... (Spreading and structural balance on signed networks) ..."
 date:
 draft: false
 featured: false
 featured_image: icon.png
 speaker_image:
 description:
-speaker: Alain Barrat 
-affiliation: Centre de Physique Théorique, CNRS, Marseille
+speaker: Renaud Lambiotte
+affiliation: ..., University of Oxford, UK 
 where:
 from: 2024-05-16T14:00:00
 to: 2024-05-16T14:45:00
