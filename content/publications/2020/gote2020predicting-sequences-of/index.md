@@ -1,7 +1,6 @@
 ---
-title: Predicting Sequences of Traversed Nodes in Graphs using Network Models with
-  Multiple Higher Orders
-date: '2020-01-01'
+title: Predicting variable-length paths in networked systems using multi-order generative models.
+date: '2023-09-22'
 publishDate: '2021-02-08T11:56:31.971869Z'
 authors:
 - Christoph Gote
@@ -19,7 +18,9 @@ abstract: We propose a novel sequence prediction method for sequential data capt
   state-of-the-art algorithms for next-element prediction. We further demonstrate
   the accuracy of our method during out-of-sample sequence prediction and validate
   that our method can scale to data sets with millions of sequences.
-publication: arXiv preprint arXiv:2007.06662
+publication: Applied Network Science
+url_pdf: https://link.springer.com/content/pdf/10.1007/s41109-023-00596-x.pdf
+doi: 10.1007/s41109-023-00596-x
 featured: false
 projects:
 - Data Science
