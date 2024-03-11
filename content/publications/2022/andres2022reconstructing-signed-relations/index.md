@@ -1,6 +1,6 @@
 ---
 title: Reconstructing signed relations from interaction data
-date: '2022-09-01'
+date: '2023-11-24'
 publishDate: '2022-09-21T08:11:04.554165Z'
 authors:
 - Georges Andres
@@ -18,10 +18,12 @@ abstract: Positive and negative relations play an essential role in human behavi
   surveys. Additionally, the inferred relations allow us to study the homophily of
   individuals with respect to gender, religious beliefs, and financial backgrounds.
   We evaluate the importance of triads in the signed network to study group cohesion.
-publication: arXiv
-url_pdf: https://arxiv.org/abs/2209.03219
-doi: 10.48550/ARXIV.2209.03219
+publication: Scientific Reports
+url_pdf: https://www.nature.com/articles/s41598-023-47822-1.pdf
+doi: 10.1038/s41598-023-47822-1
 featured: false
 projects:
 - Signed Relations
+- Network Theory
+- Data Science
 ---
