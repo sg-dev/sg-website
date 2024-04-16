@@ -1,9 +1,9 @@
 ---
-title: "3 ???"
+title: "3"
 session: true
 draft: false
-speaker: ??? 
-affiliation: ???? 
+speaker: Piotr Gorski
+affiliation: Faculty of Physics, Warsaw University of Technology, Poland
 where:
 from: 2024-05-15T16:15:00
 to: 2024-05-15T17:45:00
