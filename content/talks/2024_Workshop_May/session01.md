@@ -1,9 +1,9 @@
 ---
-title: "1 ?????"
+title: "1"
 session: true
 draft: false
-speaker: ??? 
-affiliation: ??? 
+speaker: Pawel Sobkowicz
+affiliation: National Centre for Nuclear Research, University of Warsaw, Poland 
 where:
 from: 2024-05-15T10:45:00
 to: 2024-05-15T12:30:00

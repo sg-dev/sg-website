@@ -1,9 +1,9 @@
 ---
-title: "5 ???"
+title: "5"
 session: true
 draft: false
-speaker: ??? 
-affiliation: ??? 
+speaker: Laurence Brandenberger
+affiliation: Chair of Systems Design, ETH Zurich, Switzerland
 where:
 from: 2024-05-16T11:00:00
 to: 2024-05-16T12:30:00
