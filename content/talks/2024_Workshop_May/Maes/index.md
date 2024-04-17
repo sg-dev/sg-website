@@ -1,13 +1,14 @@
 ---
-title: "... (The impact of highly emotional valenced chat messages) ..."
+title: "... (Polarization on social media: Micro-level evidence and macro-level implications) ..."
 date:
 draft: false
 featured: false
 featured_image: icon.png
 speaker_image:
 description:
-speaker: Karsten Donnay 
-affiliation: Department of Political Science, University Zurich, CH 
+speaker: Michael Mäs
+affiliation: "Institute of Technology Futures, Karlsruhe
+Institute of Technology, Germany" 
 where:
 from: 2024-05-16T14:00:00
 to: 2024-05-16T14:45:00
