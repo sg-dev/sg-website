@@ -55,7 +55,7 @@ Science Foundation (Grant No: xxx) and the Swiss National
 Science Foundation (SNSF Grant No: 105213L_192746). 
 
 We gratefully acknowledge 
-additional financial support for the workshop from the Group
+additional financial support for the workshop from the *Group
 of Physics in Economy and Social Sciences (Prof. Holyst,
-Warsaw University of Technology) and from the *Chair of Systems Design
+Warsaw University of Technology)* and from the *Chair of Systems Design
 (Prof. Schweitzer, ETH Zurich)*.
