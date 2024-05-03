@@ -21,9 +21,9 @@ LEE Building, Tannenstrasse 3, 8006 Zürich</br>
 [Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
 
 - **Thursday 16 May 2024** <br>
-ETH Zurich, GAP Lecture Hall ML E12 <br>
-ML Building, Tannenstrasse 3, 8006 Zürich</br>
-[Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
+ETH Zurich, Alumni Pavillon MM C78.1 <br>
+Polyterrasse, 8001 Zürich</br>
+[Link to map](https://maps.app.goo.gl/aAJoQiEjWewFy1DFA)
 
 
 ## Synopsis
