@@ -10,7 +10,7 @@ speaker: Andreia Sofia Teixeira
 affiliation: Universidade de Lisboa, Portugal
 where:
 from: 2024-05-17T11:45:00
-to: 2024-05-17T12:30:00
+to: 2024-05-17T12:15:00
 events:
 - Workshop Structural Balance May 2024 
 ---

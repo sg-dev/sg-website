@@ -10,7 +10,7 @@ speaker: Giacomo Vaccario
 affiliation: Chair of Systems Design, ETH Zurich, Switzerland 
 where:
 from: 2024-05-15T11:45:00
-to: 2024-05-15T12:30:00
+to: 2024-05-15T12:15:00
 events:
 - Workshop Structural Balance May 2024 
 ---

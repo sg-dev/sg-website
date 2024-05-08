@@ -40,7 +40,7 @@ Contributions revolve around three interlinked topics: <BR>
 - Mitigating the Implications of Structural Imbalance
 
 
-#### [Download workshop program with abstracts (PDF, XX pages)](xxx.pdf)
+#### [Download workshop program with abstracts (PDF, 11 pages)](Workshop-Abstracts.pdf)
 
 
 ## Organisation

@@ -10,7 +10,7 @@ speaker: Matus Medo
 affiliation: Department of Clinical Research, University of Bern, Switzerland
 where:
 from: 2024-05-16T16:00:00
-to: 2024-05-16T16:45:00
+to: 2024-05-16T16:30:00
 events:
 - Workshop Structural Balance May 2024
 ---

@@ -10,7 +10,7 @@ speaker: Emma Fraxanet
 affiliation: Pompeu Fabra University, Barcelona, Spain
 where:
 from: 2024-05-15T17:00:00
-to: 2024-05-15T17:45:00
+to: 2024-05-15T17:30:00
 events:
 - Workshop Structural Balance May 2024 
 ---

@@ -10,7 +10,7 @@ speaker: Angela Fontan
 affiliation: KTH Royal Institute of Technology, Stockholm, Sweden
 where:
 from: 2024-05-16T11:45:00
-to: 2024-05-16T12:30:00
+to: 2024-05-16T12:15:00
 events:
 - Workshop Structural Balance May 2024 
 ---
@@ -25,5 +25,6 @@ Collective decision-making refers to a process in which the agents of a communit
 ### Relevant publications 
 
 doi: 10.1109/TAC.2021.3123222
+
 doi: 10.1038/s41598-021-84147-3 
 

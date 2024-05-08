@@ -10,7 +10,7 @@ speaker: Piotr Gorski
 affiliation: Faculty of Physics, Warsaw University of Technology, Poland
 where:
 from: 2024-05-16T14:45:00
-to: 2024-05-16T15:30:00
+to: 2024-05-16T15:15:00
 events:
 - Workshop Structural Balance May 2024 
 ---
