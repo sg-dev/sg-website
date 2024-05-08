@@ -40,8 +40,7 @@ Contributions revolve around three interlinked topics: <BR>
 - Mitigating the Implications of Structural Imbalance
 
 
-#### [Download workshop program with abstracts (PDF, 11 pages)](Workshop-Abstracts.pdf)
-
+#### [Download workshop program with abstracts (PDF, 10 pages)](Workshop-Abstracts.pdf)
 
 ## Organisation
 
@@ -51,7 +50,7 @@ Contributions revolve around three interlinked topics: <BR>
 The workshop celebrates the completion of the binational
 collaborative research project on signed relations and
 structural balance jointly funded by the Polish National
-Science Foundation (Grant No: xxx) and the Swiss National
+Science Foundation and the Swiss National
 Science Foundation (SNSF Grant No: 105213L_192746). 
 
 We gratefully acknowledge 
