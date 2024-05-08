@@ -36,3 +36,5 @@ The generalisation of the concept of balance at the mesoscopic scale leads to th
 [2] Doreian, Mrvar. Social Networks 31, 1-11 (2009).
 
 [3] Gallo, Garlaschelli, Lambiotte, Saracco, Squartini. arXiv:2303.07023 (2023).
+
+[4] Gallo, Garlaschelli, Squartini. arXiv:2404.15914 (2024). 

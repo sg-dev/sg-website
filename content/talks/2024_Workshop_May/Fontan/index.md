@@ -24,4 +24,6 @@ Collective decision-making refers to a process in which the agents of a communit
 
 ### Relevant publications 
 
+doi: 10.1109/TAC.2021.3123222
+doi: 10.1038/s41598-021-84147-3 
 

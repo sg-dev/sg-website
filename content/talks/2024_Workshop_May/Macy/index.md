@@ -7,7 +7,7 @@ featured_image: michaelmacywebprofilepic.jpg
 speaker_image:
 description:
 speaker: Michael Macy 
-affiliation: Department of Sociology, Cornell University, Ithaca, NY
+affiliation: Department of Information Science, Cornell University, Ithaca, NY
 where:
 from: 2024-05-15T10:45:00
 to: 2024-05-15T11:45:00
