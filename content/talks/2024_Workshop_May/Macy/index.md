@@ -10,7 +10,7 @@ speaker: Michael Macy
 affiliation: Department of Information Science, Cornell University, Ithaca, NY
 where:
 from: 2024-05-15T10:45:00
-to: 2024-05-15T11:45:00
+to: 2024-05-15T11:30:00
 events:
 - Workshop Structural Balance May 2024 
 ---

@@ -10,7 +10,7 @@ speaker: Pawel Sobkowicz
 affiliation: National Centre for Nuclear Research, University of Warsaw, Poland 
 where:
 from: 2024-05-16T11:00:00
-to: 2024-05-16T11:45:00
+to: 2024-05-16T11:30:00
 events:
 - Workshop Structural Balance May 2024 
 ---

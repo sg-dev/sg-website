@@ -10,7 +10,7 @@ speaker: Anna Gallo
 affiliation: IMT School for Advanced Studies, Lucca, Italy
 where:
 from: 2024-05-15T16:15:00
-to: 2024-05-15T17:00:00
+to: 2024-05-15T16:45:00
 events:
 - Workshop Structural Balance May 2024 
 ---

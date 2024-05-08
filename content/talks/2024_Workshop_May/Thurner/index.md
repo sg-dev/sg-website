@@ -10,7 +10,7 @@ speaker: Stefan Thurner
 affiliation: Complexity Science Hub Vienna and Medical University of Vienna, Austria
 where:
 from: 2024-05-15T14:00:00
-to: 2024-05-15T15:00:00
+to: 2024-05-15T14:45:00
 events:
 - Workshop Structural Balance May 2024 
 ---
