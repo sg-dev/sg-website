@@ -15,18 +15,18 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](XXX.pdf)
 
-### Abstract
-
-
-### Relevant activities
+### [Presentation Slides](./Schweitzer-Opening.html)<br>
+(PgUp, PgDown to navigate, TAB for overview)
 
 
+<!-- insert iframe 
+<iframe src="./Schweitzer-Opening.html" width="100%" height="300px" frameborder="0" allowfullscreen="true">
+</iframe>
+-->
 
 #### Research project 
 
 -  [Signed Relations and Structural Balance in Complex Systems: From Data to Models](https://www.sg.ethz.ch/projects/signed-relations/) (SNSF grant 192746)
 
 
-#### Publications
