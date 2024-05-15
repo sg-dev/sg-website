@@ -18,7 +18,7 @@ aliases:
 - **Wednesday 15 May 2024, Friday 17 May 2024** <br>
 ETH Zurich, Lecture Hall E101 <br>
 LEE Building, Leonhardstr 21, 8092 Zürich</br>
-[Link to map](https://goo.gl/maps/edTXsXWgfXT5MzqZ7)
+[Link to map](https://maps.app.goo.gl/RSMt8v2HxA6x8u9y7)
 
 - **Thursday 16 May 2024** <br>
 ETH Zurich, Alumni Pavillon MM C78.1 <br>
