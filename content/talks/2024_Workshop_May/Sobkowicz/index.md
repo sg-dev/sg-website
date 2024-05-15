@@ -7,7 +7,7 @@ featured_image: Psobkowicz_small.jpg
 speaker_image:
 description:
 speaker: Pawel Sobkowicz
-affiliation: National Centre for Nuclear Research, University of Warsaw, Poland 
+affiliation: National Centre for Nuclear Research, Poland 
 where:
 from: 2024-05-16T11:00:00
 to: 2024-05-16T11:30:00
