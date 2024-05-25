@@ -15,7 +15,7 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](xxx.pdf)
+### [Presentation Slides (PDF)](Presentation-Gorski.pdf)
 
 
 
@@ -43,6 +43,5 @@ exhibit higher under-representations, indicating the larger
 influence of status theory.
 
 
-### Relevant publications 
 
 

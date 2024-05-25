@@ -14,7 +14,7 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](XXX.pdf)
+### [Presentation Slides (PDF)](Presentation-Aref.pdf)
 
 
 ### Abstract

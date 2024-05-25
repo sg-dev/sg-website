@@ -15,10 +15,7 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides](StructuralBalanceInComplexNetworks.pdf)
-
-
-### Abstract
+### [Presentation Slides (PDF)](Presentation-Vaccario.pdf)
 
 Since its first conceptualization in psychology, the theory of Structural balance was extended to economics, ecology and social science.
 Trespassing disciplinary boundaries, one of its first simple network formulations posits that triangles in signed networks should have an even number of negative links.
@@ -40,5 +37,4 @@ positively impacts their performance. Conversely, structural balance in the rela
  
 By touching on these topics and questions, I will delve into the discussion regarding the observation, emergence and implications of structural balance to understand its role in complex systems.
 
-### Relevant publications 
 

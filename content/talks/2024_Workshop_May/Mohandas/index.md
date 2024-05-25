@@ -15,7 +15,7 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](xxx.pdf)
+### [Presentation Slides (PDF)](Presentation-Mohandas.pdf)
 
 ### Abstract
 
@@ -25,5 +25,4 @@ The investigations uncover a multifaceted system with a diverse equilibrium land
 
 Furthermore, the scenario shifts when one layer exhibits a two-clique configuration instead of a paradise state. This change introduces additional transitions: synchronization of inter-layer relations and a transition to the disorder, appearing at a different, lower temperature compared to matching paradise states. This exploration shows the intricate interplay of Heider balance and multiplex interactions.
 
-### Relevant publications 
 

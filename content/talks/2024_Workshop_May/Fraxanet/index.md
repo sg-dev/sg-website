@@ -15,6 +15,11 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
+
+
+### [Presentation Slides (PDF)](Presentation-Fraxanet.pdf)
+
+
 ### Abstract
 
 
