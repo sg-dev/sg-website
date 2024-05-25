@@ -15,7 +15,7 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](xxx.pdf)
+### [Presentation Slides (PDF)](Presentation-Pasquale.pdf)
 
 
 ### Abstract
@@ -36,3 +36,6 @@ differently from the original model, we rule out other types of equilibria that 
 
 ### Relevant publications 
 
+[DePasquale_Valcher_Bandwagon.pdf](DePasquale_Valcher_Bandwagon.pdf)
+
+[DePasquale_Valcher_BinaryHomophily.pdf](DePasquale_Valcher_BinaryHomophily.pdf)

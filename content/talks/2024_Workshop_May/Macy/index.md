@@ -15,8 +15,6 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](xxxx.pdf)
-
 ### Abstract
 
 Computational models reveal a tipping point in political
@@ -33,5 +31,4 @@ than unifying effect.
 This unraveling of the social fabric suggests partisan divisions that are deeply rooted in opposing interests and ideologies. However, an RCT experiment suggests it may be the other way around. What appear to be irreconcilable differences in an increasingly polarized society may have arisen through a tipping dynamic that might just as easily have tipped the other way but for the luck of the draw among early movers. Paradoxically, the depth of the social fissure points to the shallowness of disagreements between idiosyncratic tribal combatants whose vitriolic hostility is substantively unwarranted.
 
 
-### Relevant publications 
 

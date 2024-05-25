@@ -15,9 +15,6 @@ events:
 - Workshop Structural Balance May 2024 
 ---
 
-### [Presentation Slides (PDF)](xxx.pdf)
-
-
 ### Abstract
 
 This presentation delves into the rich landscape of signed
@@ -41,6 +38,5 @@ shedding light on key aspects of signed networks and their
 implications for social relations.
 
 
-### Relevant publications 
 
 
