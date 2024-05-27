@@ -15,6 +15,8 @@ events:
 - Workshop Structural Balance May 2024
 ---
 
+### [Presentation Slides (PDF)](Presentation-Andres.pdf)
+
 ### Abstract
 
 Positive and negative relations play an essential role in human behaviour and shape our communities.
@@ -33,4 +35,5 @@ Finally, we establish a connection between these concepts and the emergence of p
 
 ### Relevant publications
 
-[G. Andres, G. Casiraghi, G. Vaccario and F. Schweitzer. Reconstructing signed relations from interaction data](Andres_ReconstructingSignedRelations.pdf)
+[G. Andres, G. Casiraghi, G. Vaccario and F. Schweitzer. Reconstructing signed relations from interaction data](andres_extract.pdf)
+[G. Casiraghi, G. Andres. Disentangling the Timescales of a Complex System: A Bayesian Approach to Temporal Network Analysis](andres_timescales.pdf)
