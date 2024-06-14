@@ -13,6 +13,8 @@ draft: false
 aliases:
 ---
 
+![group_pic.jpeg](group_pic.jpeg)
+
 ## Venue
 
 - **Wednesday 15 May 2024, Friday 17 May 2024** <br>
