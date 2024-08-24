@@ -6,6 +6,7 @@ This repository contains the content of the website served at https://www.sg.eth
 
 Here is an overview of how to work with this website.
 
+
 Things to note:
 
 - The website is static
