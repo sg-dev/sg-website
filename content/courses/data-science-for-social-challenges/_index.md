@@ -1,5 +1,5 @@
 ---
-title: "New: Data Science for Social Challenges"
+title: "Data Science for Social Challenges"
 date: 2022-08-10T09:36:03+01:00
 draft: false
 weight: 0
