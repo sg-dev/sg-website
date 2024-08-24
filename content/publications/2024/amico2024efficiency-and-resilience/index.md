@@ -1,5 +1,5 @@
 ---
-title: 'Efficiency and resilience: key drivers of distribution network growth'
+title: 'Efficiency and resilience: Key drivers of distribution network growth'
 date: '2024-08-01'
 publishDate: '2024-08-23T08:43:57.098837Z'
 volume: '13'
