@@ -6,6 +6,7 @@ featured: false
 featured_image: icon.png
 speaker_image: icon.png
 description:
+highlight: true
 speaker: Marton Karsai
 affiliation: University 
 where:

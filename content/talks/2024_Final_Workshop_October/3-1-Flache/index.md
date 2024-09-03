@@ -6,6 +6,7 @@ featured: false
 featured_image: icon.png
 speaker_image:
 description:
+highlight: true
 speaker: Andreas Flache
 affiliation: Groningen 
 where:
@@ -14,3 +15,5 @@ to: "2024-10-31T15:00:00"
 events:
 - SG Final Symposium October 2024
 ---
+
+### Abstract
