@@ -15,6 +15,3 @@ to: 2024-10-31T09:30:00
 events:
 - SG Final Symposium October 2024 
 ---
-
-
-### Abstract
