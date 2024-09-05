@@ -19,5 +19,6 @@ featured: true
 featured_image: fig_processingchain-2.png
 Projects:
 - 130 Years of Swiss Parliament
+- Data Science
 ---
 
