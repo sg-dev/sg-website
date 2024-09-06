@@ -18,4 +18,8 @@ abstract: We explore the nonlinear dynamics of a macroeconomic model with resour
   resources are taken into account.
 publication: Chaos
 featured: false
+url_pdf: https://arxiv.org/pdf/2408.16015
+projects:
+- Resilience
+
 ---

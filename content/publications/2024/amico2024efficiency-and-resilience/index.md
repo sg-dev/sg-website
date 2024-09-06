@@ -8,7 +8,7 @@ authors:
 - Ambra Amico
 - Giacomo Vaccario
 - Frank Schweitzer
-abstract: 'Networks to distribute goods, from raw materials to food and medicines,
+abstract: "Networks to distribute goods, from raw materials to food and medicines,
   are the backbone of a functioning economy. They are shaped by several supply relations
   connecting manufacturers, distributors, and ﬁnal buyers worldwide. We present a
   network-based model to describe the mechanisms underlying the emergence and growth
@@ -23,9 +23,13 @@ abstract: 'Networks to distribute goods, from raw materials to food and medicine
   structural features of the empirical networks, including their out-degree and path
   length distributions as well as their resilience and eﬃciency properties. These
   ﬁndings suggest that the proposed ﬁrm-level practices eﬀectively capture the network
-  growth process that leads to the observed structures.'
+  growth process that leads to the observed structures."
 publication: EPJ Data Science
 url_pdf: http://dx.doi.org/10.1140/epjds/s13688-024-00484-z
 doi: 10.1140/epjds/s13688-024-00484-z
 featured: false
+projects:
+- Economic Networks
+- Resilience 
+
 ---
