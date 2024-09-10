@@ -36,8 +36,9 @@ in their research areas. They showcase that the
 diversity of topics and methods cultivated at the Chair
 over the past 20 years not necessarily lead to fragmented
 research. Rather, the complexity of social and economic
-systems can be tackled utilizing a common methodological basis in
-network science, agent-based modeling, and system dynamics.
+systems can be successfully tackled by utilizing a common methodological basis in
+network science, agent-based modeling, system dynamics and
+data science.
 
 
 #### [Download Program  (PDF)](SG-Workshop.pdf)
