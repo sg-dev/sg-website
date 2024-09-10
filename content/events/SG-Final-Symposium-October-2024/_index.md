@@ -24,8 +24,20 @@ Rämistrasse 101, 8092 Zürich</br>
 
 ## Synopsis
 
-
-The workshop celebrates .... 
+The *Chair of Systems Design* was founded  at ETH Zürich in
+October 2004 -- 
+this symposium celebrates the 20th anniversary. 
+Three main research lines illustrate, *pars pro toto*,
+the interdisciplinary scientific approach typical
+for the Chair. 
+Invited speakers and former collaborators give an overview
+of the motivation, achievements and open questions 
+in their research areas. They showcase that the
+diversity of topics and methods cultivated at the Chair
+over the past 20 years not necessarily lead to fragmented
+research. Rather, the complexity of social and economic
+systems can be tackled utilizing a common methodological basis in
+network science, agent-based modeling, and system dynamics.
 
 
 #### [Download Program  (PDF)](SG-Workshop.pdf)
