@@ -1,7 +1,7 @@
 ---
 title: 'Struggling with change: The fragile resilience of collectives'
-date: '2022-10-15'
-publishDate: '2023-09-28'
+date: '2023-01-15'
+publishDate: '2023-01-28'
 authors:
 - Frank Schweitzer
 - Christian Zingg
@@ -23,4 +23,5 @@ doi: 10.1177/17456916231192052
 featured: false
 projects:
 - Resilience
+- Social relations
 ---
