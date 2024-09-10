@@ -24,23 +24,14 @@ Rämistrasse 101, 8092 Zürich</br>
 
 ## Synopsis
 
-In October 2004, Frank Schweitzer started to build up 
-the *Chair of Systems Design* at ETH Zürich. 
-This symposium celebrates the 20th anniversary of the Chair and, at the
-same time, the final one under his leadership. 
-Three main research lines illustrate, *pars pro toto*,
-the interdisciplinary scientific approach typical
-for the Chair. 
-Invited speakers and former collaborators give an overview
-of their motivation, achievements and open research questions. 
-They showcase that the
-diverse topics cultivated at the Chair
-over the past 20 years have their common methodological basis in
-network science, agent-based modeling, system dynamics and
-data science.
-Hence, the complexity of social and economic
-systems can be successfully tackled by a an
-interdisciplinary team with the right spirit, skills and leadership. 
+
+In October 2004, Frank Schweitzer established the Chair of Systems Design at ETH Zürich. This symposium celebrates the 20th anniversary of the Chair and also marks the final one under his leadership. Each of the three sessions exemplifies, pars pro toto, the success of the Chair’s interdisciplinary approach.
+
+Invited speakers and former collaborators will provide an overview of their motivations, achievements, and ongoing research questions. They will demonstrate that the diverse topics explored at the Chair over the past 20 years share a common methodological foundation in network science, agent-based modeling, system dynamics, and data science.
+
+Thus, the complexity of social and economic systems can be
+effectively addressed by an interdisciplinary team equipped
+with the right spirit, skills, and leadership.
 
 
 #### [Download Program  (PDF)](SG-Workshop.pdf)
@@ -53,5 +44,3 @@ interdisciplinary team with the right spirit, skills and leadership.
   and Data Science, Universität of Würzburg](https://www.ingoscholtes.net/)
 
 
-We gratefully acknowledge 
-financial support from the *Chair of Systems Design (ETH Zurich)*.
