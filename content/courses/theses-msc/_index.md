@@ -6,27 +6,47 @@ featured_image: net.png
 archived: false
 ---
 
-We offer *Semester*, *Bachelor*, *Master* and *MAS Theses*
+We have offered *Semester*, *Bachelor*, *Master* and *MAS Theses*
 to ETH Students from the following Departments: `D-MTEC`, `D-PHYS`, `D-MAVT`, and `D-MATH`.
-
-To qualify for a Master theses, `D-MTEC` students are require to have taken the following courses:
-
-1. [Systems Dynamics and Complexity](/teaching/system-dynamics),
-2. [Agent-Based Modelling of Social Systems](/teaching/abm),
-3. [Complex Networks](/teaching/complex-networks).
-
-All students are required to sign the [declaration of originality](https://www.ethz.ch/content/dam/ethz/main/education/rechtliches-abschluesse/leistungskontrollen/declaration-originality.pdf).
 
 ---
 
 ## List of Theses
 
+### 2024
+
+- **Alexander Bocken** (Master Thesis): *"Evaluating the Robustness of the Global Antibiotics Supply Network."*\
+	Department of Management, Techonology and Economics\
+    Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi
+	and Dr. Luca Verginer\
+  Date of completion 12/2024
+
+
+- **Alesch Bättig** (Semester Thesis): *"How sustainable cooperation creates resilient organizations:
+An agent-based model."*\
+	Department of Physics\
+    Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi\ 
+  Date of completion 06/2024
+
+
 ### 2023
 
-- **Erik Giorgis** (Master Thesis): *"The evolution of Open Source Software communities: The role of mailing list."*\
-	Department of Mangmente Techonology and Economics\
+- **Erik Giorgis** (Master Thesis): *"The evolution of Open Source Software communities: The role of mailing lists."*\
+	Department of Management, Techonology and Economics\
     Supervisor: Prof. Frank Schweitzer, Dr. Giacomo Vaccario and Dr. Christoph Gote\
   Date of completion 09/2023
+
+
+- **Leonardo Comi** (Semester Thesis): *"Bayesian Inference
+	of Signed Relations."*\
+	Department of Mathematics\
+    Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi
+	and Georges Andres\
+  Date of completion 09/2023
+
+
+
+
 
 ### 2022
 
@@ -57,6 +77,19 @@ All students are required to sign the [declaration of originality](https://www.e
 
 ### 2021
 
+
+- **Teodora Bujaroska** (Master Thesis): *"Concept-based
+	explanations for graph neural networks"*\
+	Department of Mathematics, ETH Zurich\
+    Supervisors: Prof. Frank Schweitzer, Prof. Andreas
+	Krause, Vignesh Ram Somnath and Giuseppe Russo\
+
+
+- **Edoardo Maggioni** (Master Thesis): *"Geometrical frustration and its effect in signed social networks"*\
+	Department of Physics, University of Pisa\
+    Supervisor: Prof. Frank Schweitzer, Prof. Riccardo Mannella and Dr. Giacomo Vaccario\
+    Date of completion: 10/2021
+
 - **Jiduan Wu** (Semester Thesis): *"Robustness and intervention on the R&D alliance network: A multi-layer approach"*\
 	Department of Computer Science, ETH Zurich\
     Supervisors: Prof. Frank Schweitzer, Prof. Siyu Tang, Dr. Giacomo Vaccario and Dr. Giona Casiraghi\
@@ -72,17 +105,12 @@ All students are required to sign the [declaration of originality](https://www.e
     Supervisor: Prof. Frank Schweitzer, Prof. Renaud Lambiotte and Dr. Giacomo Vaccario\
     Date of completion: 05/2021
 
-- **Edoardo Maggioni** (Master Thesis): *"Geometrical frustration and its effect in signed social networks"*\
-	Department of Physics, University of Pisa\
-    Supervisor: Prof. Frank Schweitzer, Prof. Mannella and Dr. Giacomo Vaccario\
-    Date of completion: 10/2021
-
 - **Pedro Perez** (Semester Thesis): *"Robustness and diffusion on temporal networks"*\
     Department of Mathematics, ETH Zurich\
     Supervisors: Prof. Frank Schweitzer, Dr. Giona Casiraghi\
     Date of completion: 07/2021
 
-- **Jan Thurnheer** (Bachelor Thesis): *"Modelling distributed Production and Flow of Investments"*\
+- **Jan Thurnheer** (Bachelor Thesis): *"Modelling distributed production and flow of investments"*\
     Department of Mechanical and Process Engineering\
     Supervisor: Prof. Frank Schweitzer, Dr. Luca Verginer\
     Date of completion: 05/2021
@@ -147,6 +175,27 @@ All students are required to sign the [declaration of originality](https://www.e
 
 ### 2019
 
+
+- **Anas Bachiri** (Master Thesis): *"Path based generative
+	models for temporal networks"*\
+	Department of Physics, ETH Zurich\
+	Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi,
+	Dr. Giacomo Vaccario\
+	Date of completion: 10/2019
+
+
+- **Lorenzo Arcari** (Master Thesis): *"Episode detection in
+	time series data on networks"*\
+	Department of Physics, ETH Zurich\
+	Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi,
+	Dr. Giacomo Vaccario\
+	Date of completion: 07/2019
+
+- **Alexia Pastre** (Semester Thesis): *"Higher-order dependencies in cascade processes on networks"*\
+    Department of Physics ETH Zurich\
+    Supervisor: Prof. Frank Schweitzer, Dr. Vahan Nanumyan, Ambra Amico\
+    Date of completion: 04/2021
+
 - **Georges Andres** (Semester Thesis): *"Quantifying endogenous network statistics in network ensembles"*\
 	Department of Physics ETH Zurich\
 	Supervisor: Prof. Frank Schweitzer\
@@ -156,6 +205,7 @@ All students are required to sign the [declaration of originality](https://www.e
 	Department of Physics, ETH Zurich\
 	Supervisor: Prof. Frank Schweitzer\
 	Date of completion: 02/2019
+
 
 
 ### 2018
@@ -176,6 +226,12 @@ All students are required to sign the [declaration of originality](https://www.e
 	Supervisor: Prof. Frank Schweitzer, Dr. Ingo Scholtes\
 	Date of completion: 09/2018
 
+
+- **Vladislav Bunkin** (Master Thesis): *"Entity Resolution in Graphs Based on Combinatorial Similarity"*\
+	Department of Mathematics, ETH Zurich\
+	Supervisor: Prof. Frank Schweitzer, Giona Casiraghi, Dr. Vahan Nanumyan\
+	Date of completion: 09/2018
+
 - **Long Him Cheung** (Semester Thesis): *"Emotions and Activity Spreading on Product Reviews"*\
 	Department of Physics, ETH Zurich\
 	Supervisor: Prof. Frank Schweitzer, Ramona Roller\
@@ -191,15 +247,15 @@ All students are required to sign the [declaration of originality](https://www.e
 	Supervisor: Prof. Frank Schweitzer, Dr. Ingo Scholtes\
 	Date of completion: 08/2018
 
-- **Vladislav Bunkin** (Master Thesis): *"Entity Resolution in Graphs Based on Combinatorial Similarity"*\
-	Department of Mathematics, ETH Zurich\
-	Supervisor: Prof. Frank Schweitzer, Giona Casiraghi, Dr. Vahan Nanumyan\
-	Date of completion: 08/2018
+- **Lorenzo Arcari** (Semester Thesis): *"Estimating
+	confidence bounds using Generalized Hypergeometric Ensembles"*\
+	Department of Physics, ETH Zurich\
+	Supervisor: Prof. Frank Schweitzer, Giona Casiraghi,
+	Giacomo Vaccario\
+	Date of completion: 07/2018
 
-- **Vladislav Bunkin** (Semester Thesis): *"Entity Resolution in Graphs Based on Combinatorial Similarity"*\
-	Department of Mathematics, ETH Zurich\
-	Supervisor: Prof. Frank Schweitzer, Giona Casiraghi, Dr. Vahan Nanumyan\
-	Date of completion: 08/2018
+
+
 
 - **Amirhossein Kazemi** (Semester Thesis): *"Stochastic Actor-Oriented Models in R&D Networks"*\
 	Department of Mathematics, ETH Zurich\
