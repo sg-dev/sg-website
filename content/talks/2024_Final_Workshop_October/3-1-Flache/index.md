@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "The Complexity of Social Polarization: Connecting Individual Opinions and Societal Dynamics with Agent-Based Models and Experiments"
 date: 2024-09-01
 draft: false
 featured: false
