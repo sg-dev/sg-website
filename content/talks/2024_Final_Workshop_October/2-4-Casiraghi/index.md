@@ -3,7 +3,7 @@ title: "Quantifying Resilience in Complex Systems: From Robustness to Adaptivity
 date:
 draft: false
 featured: false
-featured_image: icon.png
+featured_image: icon.jpg
 speaker_image:
 description:
 speaker: Giona Casiraghi

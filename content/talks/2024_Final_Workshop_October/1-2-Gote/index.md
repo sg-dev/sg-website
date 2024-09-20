@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Decoding Collaboration: Predicting and Optimising Software Development through Networks"
 date:
 draft: false
 featured: false
