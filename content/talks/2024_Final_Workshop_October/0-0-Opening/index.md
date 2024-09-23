@@ -3,7 +3,7 @@ title: "Welcome and Introduction"
 date:
 draft: false
 featured: false
-featured_image: icon.png
+featured_image: icon.jpg
 speaker_image:
 description:
 highlight: true
