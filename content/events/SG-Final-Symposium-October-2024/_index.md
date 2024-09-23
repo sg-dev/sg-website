@@ -13,7 +13,7 @@ draft: false
 aliases:
 ---
 
-![group_pic.jpeg](group_pic.jpeg)
+<!-- ![group_pic.jpeg](group_pic.jpeg) -->
 
 ## Venue
 
