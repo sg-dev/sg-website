@@ -56,7 +56,7 @@ url: "/final-workshop-form/"
 <input
 type="hidden"
 name="_redirect"
-value="https://sg.ethz.ch/forms/thanks"
+value="https://www.sg.ethz.ch/forms/thanks"
 />
 
 <label for="first_name" class="required">First Name</label>
