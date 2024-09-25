@@ -7,7 +7,7 @@ featured_image: icon.jpg
 speaker_image:
 description:
 speaker: Christoph Gote
-affiliation: Company 
+affiliation: Axpo Group
 where:
 from: 2024-10-31T10:00:00
 to: 2024-10-31T10:20:00
