@@ -21,7 +21,7 @@ aliases:
 
 ETH Zurich Main Building, Audi Max F30 <br>
 Rämistrasse 101, 8092 Zürich</br>
-[Link to map](https://maps.app.goo.gl/XXX)
+[Link to map](https://maps.app.goo.gl/cNFRoJCtQpPJrCpa8)
 
 
 ## Synopsis
