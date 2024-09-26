@@ -3,12 +3,14 @@ featured_image: bg.png
 title: "The Complexity of Social and Economic Systems: From Models to Measures" 
 description: Final Workshop Chair of Systems Design 
 date: 2024-09-01
+publishDate: '2024-09-16T11:01:11.698833Z'
 from: "2024-10-31T9:00:00"
 to: "2024-10-31T16:00:00"
 where: "ETH Zurich, Main Building, Audi Max F30"
 weight: 1
 event_type: ETH Workshop
 label: SG Final Symposium
+featured: true
 draft: false
 aliases:
 ---
@@ -33,8 +35,12 @@ Thus, the complexity of social and economic systems can be
 effectively addressed by an interdisciplinary team equipped
 with the right spirit, skills, and leadership.
 
+## Registration 
 
-#### [Download Program  (PDF)](SG-Workshop.pdf)
+**Participation** is free of charge but **registration** is
+required: [Register here](https://www.sg.ethz.ch/final-workshop-form/)
+
+#### [Download Program  (coming ...)](SG-Workshop.pdf)
 
 
 ## Organisation
