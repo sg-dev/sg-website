@@ -1,5 +1,5 @@
 ---
-title: ""
+title: What makes teams successful? A Network Science Perspective
 date:
 draft: false
 featured: false
