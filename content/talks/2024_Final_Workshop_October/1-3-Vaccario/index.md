@@ -7,7 +7,7 @@ featured_image: icon.png
 speaker_image:
 description:
 speaker: Giacomo Vaccario
-affiliation: ETH 
+affiliation: ETH Zürich
 where:
 from: 2024-10-31T10:20:00
 to: 2024-10-31T10:40:00
