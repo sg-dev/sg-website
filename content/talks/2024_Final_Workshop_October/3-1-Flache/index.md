@@ -8,7 +8,7 @@ speaker_image:
 description:
 highlight: true
 speaker: Andreas Flache
-affiliation: Groningen 
+affiliation: Department of Sociology, University of Groningen, NL 
 where:
 from: 2024-10-31T14:30:00
 to: "2024-10-31T15:00:00"
