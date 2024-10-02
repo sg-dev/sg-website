@@ -1,6 +1,6 @@
 ---
 title: "Stable Signed Networks"
-date:
+
 draft: false
 featured: false
 featured_image: Berno_Büchel_Quadrat_Rahmen.jpg

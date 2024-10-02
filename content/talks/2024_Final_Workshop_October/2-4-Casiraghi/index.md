@@ -1,6 +1,6 @@
 ---
 title: "Quantifying Resilience in Complex Systems: From Robustness to Adaptivity"
-date:
+
 draft: false
 featured: false
 featured_image: icon.jpg

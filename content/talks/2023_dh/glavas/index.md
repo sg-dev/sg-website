@@ -1,6 +1,6 @@
 ---
 title: "Massively Multilingual Natural Language Processing"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

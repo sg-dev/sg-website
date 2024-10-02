@@ -1,6 +1,6 @@
 ---
 title: "The Triadic Nature Of Code Review"
-date:
+
 draft: false
 featured: false
 featured_image: pic.jpeg

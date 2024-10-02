@@ -1,6 +1,6 @@
 ---
 title: "Netzwerkanalyse zur Komposition und Evolution innerprotestantischer Gruppen im 16. Jahrhundert"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

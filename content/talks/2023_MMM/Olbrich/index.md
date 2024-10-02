@@ -1,6 +1,6 @@
 ---
 title: "Do we need more than one dimension to understand polarization?"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

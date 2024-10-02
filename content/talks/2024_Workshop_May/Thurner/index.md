@@ -1,6 +1,6 @@
 ---
 title: "Keynote: How diadic homophilic relations cause structural balance"
-date:
+
 draft: false
 featured: false
 featured_image: Stefan-Thurner_2022-10-19_003.jpg.webp

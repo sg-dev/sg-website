@@ -1,6 +1,6 @@
 ---
 title: "Critical properties of Heider balance on multiplex networks"
-date:
+
 draft: false
 featured: false
 featured_image: photo.jpg

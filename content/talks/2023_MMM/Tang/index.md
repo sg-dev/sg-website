@@ -1,6 +1,6 @@
 ---
 title: "An Empirical and Simulation Investigation of Bounded Confidence and Negative Influence in Opinion Dynamics using Stochastic Actor-Oriented Model"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

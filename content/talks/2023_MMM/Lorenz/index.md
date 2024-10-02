@@ -1,6 +1,6 @@
 ---
 title: "How assimilative and idiosyncratic attitude change generate oscillations of public policy mood"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

@@ -1,6 +1,6 @@
 ---
 title: "Understanding Mobility Patterns through Patents, Publications, and Temporal Network Causal Inference"
-date:
+
 draft: false
 featured: false
 featured_image: pic.jpeg

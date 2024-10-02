@@ -1,6 +1,6 @@
 ---
 title: "Memory, Causality and Their Consequences in Temporal Networks"
-date:
+
 draft: false
 featured: false
 featured_image: icon.jpg

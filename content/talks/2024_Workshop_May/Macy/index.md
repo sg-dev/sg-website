@@ -1,6 +1,6 @@
 ---
 title: "Keynote: The Shallowness of Deep Division"
-date:
+
 draft: false
 featured: false
 featured_image: michaelmacywebprofilepic.jpg

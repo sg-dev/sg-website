@@ -1,6 +1,6 @@
 ---
 title: "Decoding Collaboration: Predicting and Optimising Software Development through Networks"
-date:
+
 draft: false
 featured: false
 featured_image: icon.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Making of the Chair"
-date:
+
 draft: false
 featured: false
 featured_image: sg-chair.png

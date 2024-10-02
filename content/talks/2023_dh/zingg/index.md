@@ -1,6 +1,6 @@
 ---
 title: "Kommunikationsnetzwerke als Wissensgraphen: Die zeitabhängige Bedeutung von Personen"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

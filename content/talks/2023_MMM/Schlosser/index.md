@@ -1,6 +1,6 @@
 ---
 title: "A Textual Time Capsule: A Text-Based Approach to Tracing Swiss Elite Polarization Across 130 Years"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

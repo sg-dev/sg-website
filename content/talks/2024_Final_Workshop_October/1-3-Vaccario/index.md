@@ -1,6 +1,6 @@
 ---
 title: "Knowledge in socio-economic systems: Insights from collaboration, mobility, and data-driven models"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

@@ -1,6 +1,6 @@
 ---
 title: "The role of loners, reputation and punishment: the evolution of cooperation in the Optional Public Goods Game"
-date:
+
 draft: false
 featured: false
 featured_image: righi_banner.png

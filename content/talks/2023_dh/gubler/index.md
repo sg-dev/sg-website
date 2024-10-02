@@ -1,6 +1,6 @@
 ---
 title: "Repertorium Academicum (REPAC): Digitale Rekonstruktion akademischer Wissens- und Kommunikationsräume im vormodernen Europa"
-date:
+
 draft: false
 featured: false
 featured_image: kasper.jpg

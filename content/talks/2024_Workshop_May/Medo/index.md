@@ -1,6 +1,6 @@
 ---
 title: "The fragility of opinion formation in a complex world"
-date:
+
 draft: false
 featured: false
 featured_image: Medo_Matus_crop2.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Under-representation of nonhierarchical triads in structural balance model"
-date:
+
 draft: false
 featured: false
 featured_image: photo-piotr.jpg

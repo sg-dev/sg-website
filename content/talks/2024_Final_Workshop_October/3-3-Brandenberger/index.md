@@ -1,6 +1,6 @@
 ---
 title: "The Rise of Extremes: Tracing the Surge in Swiss Political Polarization"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

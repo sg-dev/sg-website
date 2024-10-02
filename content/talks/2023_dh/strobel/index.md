@@ -1,6 +1,6 @@
 ---
 title: "Bullinger Digital - Texterkennung in einem reformatorischen Briefwechselkorpus"
-date:
+
 draft: false
 featured: false
 featured_image: strobel.jpg

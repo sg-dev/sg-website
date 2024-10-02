@@ -1,6 +1,6 @@
 ---
 title: "Introduction of Participants"
-date:
+
 draft: false
 featured: false
 featured_image: group.png

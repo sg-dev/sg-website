@@ -1,6 +1,6 @@
 ---
 title: "Tracing the Sources of Belief Contestation in Policy Debates"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

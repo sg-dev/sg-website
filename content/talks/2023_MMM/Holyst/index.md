@@ -1,6 +1,6 @@
 ---
 title: "Why can’t we go back to paradise?"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

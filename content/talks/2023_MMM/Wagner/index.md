@@ -1,6 +1,6 @@
 ---
 title: "Do left-wing governments fuel far-right success?"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

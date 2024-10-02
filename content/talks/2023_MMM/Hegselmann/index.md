@@ -1,6 +1,6 @@
 ---
 title: "Polarisation in the bounded confidence model: A revised view"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

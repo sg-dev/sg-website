@@ -1,6 +1,6 @@
 ---
 title: "Familienbriefe des griechisch-römischen Ägyptens mithilfe von NLP untersuchen: Messungen von Netzwerken und Sprechakten."
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

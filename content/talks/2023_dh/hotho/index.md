@@ -1,6 +1,6 @@
 ---
 title: "Analyse und Strukturierung von Plot-Elementen"
-date:
+
 draft: false
 featured: false
 featured_image: zehe.png

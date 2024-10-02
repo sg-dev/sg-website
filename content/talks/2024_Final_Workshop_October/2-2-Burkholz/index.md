@@ -1,6 +1,6 @@
 ---
 title: "Cascade Processes for Sparse Machine Learning"
-date:
+
 draft: false
 featured: false
 featured_image: icon.jpg

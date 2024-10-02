@@ -1,6 +1,6 @@
 ---
 title: "Climate change and financial risk"
-date:
+
 draft: false
 featured: false
 featured_image: battiston.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Prototyp einer Datenbank neuer Generation für das integrierte Studium von Handschriften"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

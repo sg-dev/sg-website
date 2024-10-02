@@ -1,6 +1,6 @@
 ---
 title: "Discontinuous changes in political structures"
-date:
+
 draft: false
 featured: false
 featured_image: JZ_pic.png

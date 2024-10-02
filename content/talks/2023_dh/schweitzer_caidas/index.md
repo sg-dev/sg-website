@@ -1,6 +1,6 @@
 ---
 title: "CAIDAS Vortrag: Was können wir von Netzwerkanalysen erwarten?"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg
