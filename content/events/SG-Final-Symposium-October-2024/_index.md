@@ -40,13 +40,16 @@ with the right spirit, skills, and leadership.
 **Participation** is free of charge but **registration** is
 required: [Register here](https://www.sg.ethz.ch/final-workshop-form/)
 
-#### [Download Program  (coming ...)](SG-Workshop.pdf)
-
+For the Farewell Lecture of Frank Schweitzer no registration
+is needed. 
 
 ## Organisation
 
 - [Prof. David Garcia, Department of Politics and Public Administration, University of Konstanz](https://dgarcia.eu/curriculum-vitae/)
 - [Prof. Ingo Scholtes,  Center for Artificial Intelligence
   and Data Science, Universität of Würzburg](https://www.ingoscholtes.net/)
+
+
+## [Download Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
 
 
