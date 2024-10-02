@@ -1,6 +1,6 @@
 ---
 title: "Exploring the adjacent possible: play, anticipation, surprise"
-date:
+
 draft: false
 featured: false
 featured_image: pic.jpeg

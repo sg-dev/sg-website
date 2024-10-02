@@ -1,6 +1,6 @@
 ---
 title: "Herleitung und Auswertung von Figurennetzwerken in Märchen mit Szeneneinteilung"
-date:
+
 draft: false
 featured: false
 featured_image: puppe.png

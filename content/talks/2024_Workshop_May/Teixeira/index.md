@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Signed Networks: Insights from Multiscale Structural Balance Theory and Dynamics in High School Social Relations"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

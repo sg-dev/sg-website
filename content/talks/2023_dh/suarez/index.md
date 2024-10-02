@@ -1,6 +1,6 @@
 ---
 title: "Korrespondenzen der Frühromantik: Überlegungen zu Netzwerken und Methoden"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

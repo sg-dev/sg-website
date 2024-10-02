@@ -1,6 +1,6 @@
 ---
 title: "Mathematical Foundations of Early-Warning Signs and Resilience"
-date:
+
 featured: false
 featured_image: kuehn_banner.jpg
 description:

@@ -1,6 +1,6 @@
 ---
 title: "Complex Systems through the Lens of Data-Driven Models: Insights into Social Organizations, Collaborative Innovation, and Supply Chains"
-date:
+
 draft: false
 featured: false
 featured_image: pic.jpeg

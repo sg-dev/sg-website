@@ -1,6 +1,6 @@
 ---
 title: "On the Individual Roots of Polarization: Combining Experiments and Modeling"
-date:
+
 draft: false
 featured: false
 featured_image: Psobkowicz_small.jpg

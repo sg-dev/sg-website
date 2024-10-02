@@ -1,6 +1,6 @@
 ---
 title: "Depolarizing effect of strategic anticonformity – insights from the three-state 𝑞-voter model with bounded confidence"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

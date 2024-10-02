@@ -1,6 +1,6 @@
 ---
 title: "Democratic backsliding, attitudes towards democracy and affective polarization"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

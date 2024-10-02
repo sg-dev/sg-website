@@ -1,6 +1,6 @@
 ---
 title: "ModelSEN: Modellierung historischer Wissenssysteme mit sozio-epistemischen Netzwerken"
-date:
+
 draft: false
 featured: false
 featured_image: malte.jpg

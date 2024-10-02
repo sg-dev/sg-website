@@ -1,6 +1,6 @@
 ---
 title: "Assessing frustration in real-world signed networks: towards a statistical theory of balance"
-date:
+
 draft: false
 featured: false
 featured_image: profile.jpeg

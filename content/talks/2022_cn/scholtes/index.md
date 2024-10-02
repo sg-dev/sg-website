@@ -1,6 +1,6 @@
 ---
 title: "De Bruijn Goes Neural: Towards Causality-Aware Graph Neural Networks for Time Series Data"
-date:
+
 draft: false
 featured: false
 featured_image: ingo.png

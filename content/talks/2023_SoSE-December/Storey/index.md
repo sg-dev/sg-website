@@ -1,6 +1,6 @@
 ---
 title: "The rise and fall of the social software engineer"
-date:
+
 draft: false
 featured: false
 featured_image: pic.jpeg

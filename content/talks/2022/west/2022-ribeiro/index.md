@@ -1,6 +1,6 @@
 ---
 title: "Measuring the impact of content moderation"
-date:
+
 draft: false
 featured: false
 featured_image: ribeiro.jpeg

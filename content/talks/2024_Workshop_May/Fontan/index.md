@@ -1,6 +1,6 @@
 ---
 title: "Collective decision-making on networked systems: From social networks to political decision-making"
-date:
+
 draft: false
 featured: false
 featured_image: Fontan_2024_small.png

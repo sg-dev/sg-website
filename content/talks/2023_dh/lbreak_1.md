@@ -1,7 +1,7 @@
 ---
 title: "Lunch Break"
 break: true
-date:
+
 draft: false
 featured: false
 featured_image:

@@ -1,6 +1,6 @@
 ---
 title: "Computergestützte Musikanalyse: Szenarien, Methoden und Evaluationsprobleme"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

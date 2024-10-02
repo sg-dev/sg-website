@@ -1,6 +1,6 @@
 ---
 title: "Multidimensional party polarization in Europe: Cross-cutting divides and effective dimensionality"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

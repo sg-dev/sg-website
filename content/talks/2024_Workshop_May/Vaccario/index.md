@@ -1,6 +1,6 @@
 ---
 title: "Structural balance in complex network: Observation, Emergence and Implications"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg

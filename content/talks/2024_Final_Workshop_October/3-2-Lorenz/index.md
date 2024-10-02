@@ -1,6 +1,6 @@
 ---
 title: "Opinion Distributions in the Real World"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

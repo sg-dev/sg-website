@@ -1,6 +1,6 @@
 ---
 title: "Graphbasierte Techniken zur Auswertung von Sagen und Legenden"
-date:
+
 draft: false
 featured: false
 featured_image: holger.jpg

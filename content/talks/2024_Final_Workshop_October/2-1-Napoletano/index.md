@@ -1,6 +1,6 @@
 ---
 title: "Extreme Events in Micro- and Macroeconomic Dynamics: Theory and Empirical Evidence"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

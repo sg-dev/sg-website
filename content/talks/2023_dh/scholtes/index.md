@@ -1,6 +1,6 @@
 ---
 title: "Abschluß"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.png

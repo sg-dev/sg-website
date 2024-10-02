@@ -1,6 +1,6 @@
 ---
 title: "Closing and Farewell"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

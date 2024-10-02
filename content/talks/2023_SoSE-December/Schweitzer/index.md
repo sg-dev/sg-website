@@ -1,6 +1,6 @@
 ---
 title: "Quantifying the /Social/ in Social Software Engineering"
-date:
+
 draft: false
 featured: false
 featured_image: pic.jpeg

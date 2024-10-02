@@ -1,6 +1,6 @@
 ---
 title: "Algorithmic bias and multidimensional political polarisation in online social networks"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

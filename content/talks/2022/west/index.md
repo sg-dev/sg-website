@@ -1,6 +1,6 @@
 ---
 title: "Quotebank: Studying Society through the Lens of Quotations"
-date:
+
 draft: false
 featured: false
 featured_image: west.jpg

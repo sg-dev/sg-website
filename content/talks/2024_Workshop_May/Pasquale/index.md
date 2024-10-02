@@ -1,6 +1,6 @@
 ---
 title: "Binary Models for Opinion Dynamics and Interpersonal Relationships via Influence and Homophily Mechanisms"
-date:
+
 draft: false
 featured: false
 featured_image: giulia.jpeg

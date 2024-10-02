@@ -1,6 +1,6 @@
 ---
 title: "Modellierungsprobleme in den Computational Literary Studies"
-date:
+
 draft: false
 featured: false
 featured_image: jannidisportrait.png

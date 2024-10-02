@@ -1,6 +1,6 @@
 ---
 title: "Reconstructing signed relations from interaction data"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

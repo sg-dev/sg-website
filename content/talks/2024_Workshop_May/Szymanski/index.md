@@ -1,6 +1,6 @@
 ---
 title: "Keynote: Political Polarization At the Age of Social Media"
-date:
+
 draft: false
 featured: false
 featured_image: picture.png

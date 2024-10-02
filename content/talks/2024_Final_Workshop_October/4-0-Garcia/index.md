@@ -1,6 +1,6 @@
 ---
 title: "Closing Remarks"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

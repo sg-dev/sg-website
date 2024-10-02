@@ -1,6 +1,6 @@
 ---
 title: "„Ein Chamäleon“ oder der „Papst zu Tübingen“? Erkenntnisse und Grenzen der Netzwerkanalyse am Beispiel des Theologenbriefwechsels Jakob Andreaes"
-date:
+
 draft: false
 featured: false
 featured_image: aderhold.jpg

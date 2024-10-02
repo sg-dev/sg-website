@@ -1,7 +1,7 @@
 ---
 title: "Mittagspause"
 break: true
-date:
+
 draft: false
 featured: false
 featured_image:

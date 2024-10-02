@@ -1,6 +1,6 @@
 ---
 title: "On the design of public debate in social networks"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

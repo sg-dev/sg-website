@@ -1,6 +1,6 @@
 ---
 title: "Unpacking polarization: Antagonism and Alignment in Signed Networks of Online Interaction"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

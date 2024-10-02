@@ -1,6 +1,6 @@
 ---
 title: "Data Science on Knowledge Graphs: from Complex Data to Network Models"
-date:
+
 draft: false
 featured: false
 featured_image: giona.png

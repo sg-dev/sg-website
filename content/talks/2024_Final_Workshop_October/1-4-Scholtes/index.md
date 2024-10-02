@@ -1,6 +1,6 @@
 ---
 title: What makes teams successful? A Network Science Perspective
-date:
+
 draft: false
 featured: false
 featured_image: icon.jpg

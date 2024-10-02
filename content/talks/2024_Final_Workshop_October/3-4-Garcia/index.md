@@ -1,6 +1,6 @@
 ---
 title: "Online emotions and how to measure them"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

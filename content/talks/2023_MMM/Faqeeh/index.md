@@ -1,6 +1,6 @@
 ---
 title: "Political polarization: Persistent hatred or issue-dependent sidings?"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

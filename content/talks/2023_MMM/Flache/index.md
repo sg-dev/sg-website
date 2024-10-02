@@ -1,6 +1,6 @@
 ---
 title: "When contact backfires, and when it does not. A social influence model of the dynamics of affective polarization"
-date:
+
 draft: false
 featured: false
 featured_image: icon.png

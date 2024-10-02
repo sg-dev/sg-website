@@ -1,6 +1,6 @@
 ---
 title: "Welcome and Introduction"
-date:
+
 draft: false
 featured: false
 featured_image: icon.jpg

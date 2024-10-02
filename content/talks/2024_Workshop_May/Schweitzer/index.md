@@ -1,6 +1,6 @@
 ---
 title: "Welcome and Introductory Remarks"
-date:
+
 draft: false
 featured: false
 featured_image: profile_pic.jpg
