@@ -5,6 +5,8 @@ draft: false
 featured: true
 featured_image: distribution_higher_order_empirical.png
 description: "Our research on pharmaceutical supply chain resilience has been published in Science Advances."
+projects:
+- "Pharmaceutical Supply Chain Resilience"
 ---
 
 Excited to share our research published in *Science Advances*, focusing on a vital aspect of modern logistics: pharmaceutical supply chain resilience ([Link to Paper](https://doi.org/10.1126/sciadv.adj1194) 📑).

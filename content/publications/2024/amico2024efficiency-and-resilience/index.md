@@ -29,7 +29,7 @@ url_pdf: http://dx.doi.org/10.1140/epjds/s13688-024-00484-z
 doi: 10.1140/epjds/s13688-024-00484-z
 featured: false
 projects:
+- Pharmaceutical Supply Chain Resilience
 - Economic Networks
-- Resilience 
-
+- Resilience
 ---
