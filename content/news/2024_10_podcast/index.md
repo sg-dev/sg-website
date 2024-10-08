@@ -1,6 +1,6 @@
 ---
 title: "Podcast on Drug Shortage Mitigation"
-date: 2024-10-01T13:36:19+01:00
+date: 2024-10-08T17:36:19+01:00
 draft: false
 featured: true  # show on the first page
 featured_image: dist_podcastq.png  # path/name of image to use as thumbnail
