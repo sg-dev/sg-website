@@ -13,6 +13,7 @@ publication: Science Advances
 featured: false
 doi: '10.1126/sciadv.adj1194'
 projects:
+- Pharmaceutical Supply Chain Resilience
 - Economic Networks
 - Resilience
 ---
