@@ -12,6 +12,7 @@ projects:
 {{< audio-player src="ariadne.mp3" podcast_name="Ariadne Podcast" >}}
 
 <br>
+
 To make [our research on drug shortage mitigation and prevention](/projects/pharmaceutical-supply-chain-resilience/) accessible to a broader audience, we created an AI-generated podcast. The podcast discusses our findings on pharmaceutical supply chain resilience (see the [project page](/projects/pharmaceutical-supply-chain-resilience/) for a list of publications).
 
 Additionally, the podcast provides a broad overview of our current research focus: developing a shortage mitigation system for pharmaceutical supply chains called *ARIADNE*. *ARIADNE* delivers real-time insights and actionable strategies to prevent drug shortages and enhance supply chain resilience.
