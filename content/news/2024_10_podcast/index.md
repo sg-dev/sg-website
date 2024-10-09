@@ -9,7 +9,8 @@ projects:
 - "Pharmaceutical Supply Chain Resilience"
 ---
 
-{{< audio-player src="ariadne.mp3" thumbnail="bg.png" >}}
+{{< audio-player src="ariadne.mp3" podcast_name="Ariadne Podcast" >}}
+
 <br>
 To make [our research on drug shortage mitigation and prevention](/projects/pharmaceutical-supply-chain-resilience/) accessible to a broader audience, we created an AI-generated podcast. The podcast discusses our findings on pharmaceutical supply chain resilience (see the [project page](/projects/pharmaceutical-supply-chain-resilience/) for a list of publications).
 
