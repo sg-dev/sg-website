@@ -1,0 +1,34 @@
+---
+title: The Uneven Access to COVID-19 Research for Women in Science
+date: '2024-09-01'
+publishDate: '2024-10-11T08:59:09.277131Z'
+
+authors:
+- Carolina Biliotti
+- Luca Verginer
+- Massimo Riccaboni
+abstract: The COVID-19 pandemic has exacerbated gender disparities in medical and
+  academic careers. In this study, we examine the impact of COVID-19 as a new research
+  topic on the presence of women in key authorship positions in biomedical research.
+  We determine author's gender based on the names listed on their scientific publications
+  and analyze the changes in the composition of the scientific teams after the COVID-19
+  outbreak. Using a Difference-in-Differences approach, we find that although the
+  share of female authorships has increased overall, women are less likely to be first
+  or last authors (the most prestigious positions) on COVID-19-related research papers
+  and more likely to be found in middle author positions. Stay-at-home mandates, the
+  journal importance and funding opportunities do not fully account for the decline
+  of women in key author positions. The main difference in first authorship is due
+  to the composition of the team and the experience of the lead authors in COVID-19
+  related research. First authorship by women declined after teams of novices emerged,
+  where lead authors have no prior experience in COVID-related research. Discretionality
+  in first-author appointments for newcomers, combined with high pressure to publish
+  quickly, may have led to discriminatory biases. Conversely, there may also be differences
+  in risk-taking attitudes in doing research in unfamiliar domains. Monitoring gender
+  inequality in scientific production is crucial for reducing gender inequalities
+  and for implementing timely policies that ensure equal access to emerging research
+  topics.
+publication: arXiv
+doi: 10.48550/ARXIV.2404.04707
+featured: false
+stage: under-review
+---
