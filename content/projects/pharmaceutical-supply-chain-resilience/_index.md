@@ -12,7 +12,7 @@ Welcome to our research hub on pharmaceutical supply chain resilience. Our work 
 
 ### Learn More
 
-To get quick overview of our research on this topic listen to our 🎤 [**Podcast**](/news/2024_08_podcast/) 🎤
+To get quick overview of our research on this topic listen to our 🎤 [**Podcast**](/news/2024_10_podcast/) 🎤
 
 ### Research Focus
 
