@@ -6,46 +6,43 @@ featured_image: net.png
 archived: false
 ---
 
-
-
 ## List of Doctoral Theses at the Chair of Systems Design
 
 ### 2024
 
-- **Georges Andres**: *"XXX."*\
+- **Georges Andres**: *"From Interactions to Persistence: A Multi-Level Perspective on Group Dynamics."*  
+  Dissertation ETH No. 30259, Defense: 05/2024  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Dr. Stefan Thurner, Prof. Dr. Samin Aref
 
+- **Sophia Schlosser**: *"An Odyssey Through Political Space and Time: Tracing 130 Years of Swiss Legislative Work Through Computational Approaches."*  
+  Dissertation ETH No. 30260, Defense: 05/2024  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Simon Hug, Prof. Dr. Natasha Wunsch
 
-- **Sophia Schlosser**: *"XXX."*\
-
-
-- **Giuseppe Russo**: *"XXX."*\
-
-
-
-
+- **Giuseppe Russo**: *"Computational Approaches for Identifying Causal Effects in Online Social Platforms."*  
+  Dissertation ETH No. 30050, Defense: 02/2024  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Emilio Ferrara, Prof. Dr. Francesco Pierri
 
 ### 2023
 
-
-- **Ambra Amico**: *"XXX."*\
-
-
-
-
+- **Ambra Amico**: *"Modeling the Dynamics of Distribution Networks."*  
+  Dissertation ETH No. 29108, Defense: 02/2023  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Dr. Stefan Thurner, Prof. Dr. Alexandra Brintrup
 
 ### 2022
 
-- **Ramona Roller**: *"XXX."*\
+- **Ramona Roller**: *"Social Differentiation during the European Reformation."*  
+  Dissertation ETH No. 28641, Defense: 09/2022  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Andreas Flache, Prof. Dr. Rachel Midura, Prof. Dr. Jared Rubin
 
-
-- **Christian Zingg**: *"XXX."*\
-
+- **Christian Zingg**: *"Towards a Quantitative Resilience Framework: Data-Driven Studies and Applications to Social Organisations."*  
+  Dissertation ETH No. 28444, Defense: 05/2022  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Raissa M. D’Souza
 
 ### 2021
 
-- **Christoph Gote**: *"XXX."*\
-
-
+- **Christoph Gote**: *"Quantifying Individual and Collective Aspects of Performance in Software Development Teams."*  
+  Dissertation ETH No. 27862, Defense: 09/2021  
+  Supervisor/Examiner: Prof. Frank Schweitzer, Co-Examiners: Prof. Dr. Kevin Crowston
 
 ### 2019
 	
