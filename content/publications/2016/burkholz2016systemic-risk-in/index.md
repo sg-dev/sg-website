@@ -28,5 +28,6 @@ publication: Physica D
 url_pdf: http://www.sciencedirect.com/science/article/pii/S0167278915001943
 doi: doi:10.1016/j.physd.2015.10.004
 featured: false
-sg-areas:
+projects: 
+ - Systemic Risks
 ---

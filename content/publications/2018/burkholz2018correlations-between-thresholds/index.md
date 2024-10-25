@@ -23,4 +23,7 @@ url_pdf: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.98.022306#fullte
 doi: 10.1103/PhysRevE.98.022306
 featured: false
 areas:
+projects: 
+ - Systemic Risks
+ 
 ---
