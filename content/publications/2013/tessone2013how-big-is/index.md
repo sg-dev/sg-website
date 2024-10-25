@@ -37,4 +37,7 @@ url_pdf: http://link.springer.com/article/10.1007%2Fs10955-013-0723-y
 doi: 10.1007/s10955-013-0723-y
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+
 ---

@@ -28,4 +28,7 @@ url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.93.042313
 doi: 10.1103/PhysRevE.93.042313
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---

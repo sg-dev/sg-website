@@ -22,4 +22,7 @@ url_pdf: http://www.ssrn.com/abstract = 1878596
 doi: 10.2139/ssrn.1878596
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---

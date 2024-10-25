@@ -27,4 +27,7 @@ url_pdf: http://dx.doi.org/10.1038/srep00541
 doi: 10.1038/srep00541
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---

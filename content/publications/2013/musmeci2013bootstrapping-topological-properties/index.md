@@ -34,4 +34,7 @@ url_pdf: http://dx.doi.org/10.1007/s10955-013-0720-1
 doi: 10.1007/s10955-013-0720-1
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---

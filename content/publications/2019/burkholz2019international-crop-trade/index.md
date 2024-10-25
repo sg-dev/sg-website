@@ -30,4 +30,6 @@ doi: 10.1088/1748-9326/ab4864
 featured: false
 Projects:
 - Resilience
+- Systemic Risks
+
 ---

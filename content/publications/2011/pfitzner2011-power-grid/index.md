@@ -26,4 +26,7 @@ url_pdf: https://ieeexplore.ieee.org/document/6039412
 doi: 10.1109/PES.2011.6039412
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---

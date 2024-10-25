@@ -19,4 +19,7 @@ abstract: The recent credit crisis of 2007/08 has raised a debate about the so-c
 publication: SAFE Conference
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---

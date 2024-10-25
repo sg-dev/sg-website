@@ -31,4 +31,7 @@ url_pdf: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.005490
 doi: 10.1371/journal.pone.0054904
 featured: false
 sg-areas:
+projects: 
+ - Systemic Risks
+ 
 ---
