@@ -25,7 +25,7 @@ url_pdf: http://www.nature.com/srep/2013/130926/srep02759/full/srep02759.html
 doi: 10.1038/srep02759
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

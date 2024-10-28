@@ -9,9 +9,9 @@ pluralizelisttitles = "false"
 
 
 [taxonomies]
-    project = "projects"
+    research = "research"
     event = "events"
-    course = "courses"
+    teaching = "teaching"
 
 [params]
     unitName = "Chair of Systems Design"
@@ -38,12 +38,12 @@ pluralizelisttitles = "false"
     url = "/team/"
     weight = 3
  [[menu.main]]
-   name = "Projects"
-   url = "/projects/"
+   name = "Research"
+   url = "/research/"
    weight = 5
   [[menu.main]]
-    name = "Courses"
-    url = "/courses/"
+    name = "Teaching"
+    url = "/teaching/"
     weight = 6
   [[menu.main]]
     name = "Theses"
