@@ -30,7 +30,7 @@ url_pdf: https://doi.org/10.1142/S0219525916500041
 doi: 10.1142/S0219525916500041
 featured: false
 sg-areas:
-projects:
+research:
 - R&D Collaborations
 
 ---

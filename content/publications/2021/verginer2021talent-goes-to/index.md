@@ -25,6 +25,6 @@ publication: Research Policy
 url_pdf: http://www.sciencedirect.com/science/article/pii/S004873332030202X
 doi: 10.1016/j.respol.2020.104127
 featured: false
-projects:
+research:
 - Science of Science
 ---

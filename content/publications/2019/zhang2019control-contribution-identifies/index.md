@@ -25,7 +25,7 @@ url_pdf: https://www.worldscientific.com/doi/10.1142/S0219525919500140
 doi: 10.1142/S0219525919500140
 featured: false
 sg-areas:
-projects: 
+research: 
 - systems
 
 ---

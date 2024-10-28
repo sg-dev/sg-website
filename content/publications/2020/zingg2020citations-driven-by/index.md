@@ -28,6 +28,6 @@ publication: Quantitative Science Studies
 url_pdf: https://doi.org/10.1162/qss_a_00092
 doi: 10.1162/qss_a_00092
 featured: false
-projects:
+research:
 - Science of Science
 ---

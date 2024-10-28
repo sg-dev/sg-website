@@ -22,7 +22,7 @@ publication: Applied Network Science
 url_pdf: https://link.springer.com/content/pdf/10.1007/s41109-023-00596-x.pdf
 doi: 10.1007/s41109-023-00596-x
 featured: false
-projects:
+research:
 - Data Science
 - Network Theory
 ---

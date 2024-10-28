@@ -26,7 +26,7 @@ url_pdf: https://link.springer.com/chapter/10.1007/978-3-540-75261-5_10
 doi: 10.1007/978-3-540-75261-5
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

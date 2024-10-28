@@ -26,6 +26,6 @@ abstract: 'Statistical ensembles define probability spaces of all networks consi
 publication: ArXiv e-prints
 url_pdf: https://arxiv.org/abs/1607.02441
 featured: false
-projects:
+research:
 - Network Theory
 ---

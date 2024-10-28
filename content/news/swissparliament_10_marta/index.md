@@ -4,7 +4,7 @@ title: "DemocraSci team: Marta Balode"
 description: "After 2.5 years of working with us on DemocraSci, Marta Balode is leaving our group. Find out what she worked on during the 2.5 years and how many lines of code she wrote!"
 date: 2022-10-07
 featured: true
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

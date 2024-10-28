@@ -4,7 +4,7 @@ title: "Amtliches Bulletin: records of speeches, propositions and votes -- Part 
 description: "We go into detail on which text elements we extract form the Amtliches Bulletin from 1891 until 1995."
 date: 2021-09-20
 featured: true
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

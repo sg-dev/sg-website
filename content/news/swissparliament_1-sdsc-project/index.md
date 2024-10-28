@@ -3,7 +3,7 @@ featured_image: SchemeProject.jpg
 title: "SDSC Project: DemocraSci"
 description: "Introducing our SDSC project: DemocraSci -- A Research Platform for Data-Driven Democracy Studies in Switzerland"
 date: 2021-03-07
-projects:
+research:
   - 130 Years of Swiss Parliament
 ---
 

@@ -27,7 +27,7 @@ publication: Journal of Economic Interaction and Coordination
 url_pdf: https://doi.org/10.1007/s11403-020-00315-0
 doi: 10.1007/s11403-020-00315-0
 featured: false
-projects:
+research:
 - Science of Science
 - Data Science
 ---

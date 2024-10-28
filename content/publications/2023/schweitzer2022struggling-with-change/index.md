@@ -21,7 +21,7 @@ publication: Perspectives on Psychological Science
 url_pdf: [https://journals.sagepub.com/doi/full/10.1177/17456916231192052]
 doi: 10.1177/17456916231192052
 featured: false
-projects:
+research:
 - Resilience
 - Social relations
 ---

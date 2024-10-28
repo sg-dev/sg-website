@@ -31,7 +31,7 @@ url_pdf: https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-0
 doi: 10.1140/epjds/s13688-017-0117-5
 featured: false
 sg-areas:
-projects:
+research:
 - R&D Collaborations
 - Science of Science
 

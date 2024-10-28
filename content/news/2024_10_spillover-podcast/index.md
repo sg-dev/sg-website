@@ -5,7 +5,7 @@ draft: true
 featured: true  # show on the first page
 featured_image: spillover_podcast.png  # path/name of image to use as thumbnail
 description: "Listen to our podcast on the spillover of antisocial behavior on social media."
-projects:
+research:
 ---
 
 {{< audio-player src="spillover_podcast.mp3" podcast_name="Spillover Podcast" >}}

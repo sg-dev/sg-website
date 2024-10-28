@@ -26,7 +26,7 @@ url_pdf: https://www.oxfordscholarship.com/view/10.1093/oso/9780198809456.001.00
 doi: 10.1093/oso/9780198809456.003.0004
 featured: false
 sg-areas:
-projects:
+research:
 - Economic Geography
 
 ---

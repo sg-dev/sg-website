@@ -20,7 +20,7 @@ url_pdf: http://link.springer.com/chapter/10.1007%2F978-3-540-68409-1_2
 doi: 10.1007/978-3-540-68409-1_2
 featured: false
 sg-areas:
-projects:
+research:
 - Network Theory
 - R&D Collaborations
 ---

@@ -26,6 +26,6 @@ publication: Applied Network Science
 url_pdf: https://doi.org/10.1007/s41109-020-00279-x
 doi: 10.1007/s41109-020-00279-x
 featured: false
-projects:
+research:
 - Science of Science
 ---

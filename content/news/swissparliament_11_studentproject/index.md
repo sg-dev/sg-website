@@ -4,7 +4,7 @@ title: "Open Student Project (6 weeks)"
 description: "We're offering a new student research project to find evidence of linguistic divergence in political speeches as a sign of polarization."
 date: 2022-10-19
 featured: true
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

@@ -15,7 +15,7 @@ abstract: 'Systems design utilizes top-down and bottom-up approaches to influenc
 publication: Advances in Complex Systems
 url_pdf: https://www.worldscientific.com/doi/10.1142/S0219525920200015
 featured: true
-projects: 
+research: 
 - systems
 
 ---

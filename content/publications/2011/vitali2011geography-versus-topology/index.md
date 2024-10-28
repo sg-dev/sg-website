@@ -25,7 +25,7 @@ url_pdf: http://iopscience.iop.org/1367-2630/13/6/063021/
 doi: 10.1088/1367-2630/13/6/063021
 featured: false
 sg-areas:
-projects:
+research:
 - Economic Geography
 
 ---

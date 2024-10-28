@@ -32,7 +32,7 @@ publication: ACS - Advances in Complex Systems
 url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525907000933
 doi: 10.1142/S0219525907000933
 featured: false
-projects:
+research:
 - Economic Geography
 
 ---

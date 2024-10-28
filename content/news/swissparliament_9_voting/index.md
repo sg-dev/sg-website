@@ -4,7 +4,7 @@ title: "Voting Records of the Swiss Parliament"
 description: "How does the Swiss parliament report voting outcomes? Over the 130 years, voting records have been published in different styles and with varying degrees of detail, ranging from simple `angeommen` to detailed roll-call voting records."
 date: 2022-05-27
 featured: true
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

@@ -27,7 +27,7 @@ publication: Frontiers in Physics
 url_pdf: https://www.frontiersin.org/articles/10.3389/fphy.2020.00382/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Physics&id=576129
 doi: 10.3389/fphy.2020.00382
 featured: false
-projects:
+research:
 - Resilience
 - systems 
 

@@ -5,7 +5,7 @@ draft: false
 featured: true  # show on the first page
 featured_image: dist_podcastq.png  # path/name of image to use as thumbnail
 description: Explore our latest research on pharmaceutical supply chain resilience in an engaging podcast." # short text, used in cards and for previews
-projects:
+research:
 - "Pharmaceutical Supply Chain Resilience"
 ---
 

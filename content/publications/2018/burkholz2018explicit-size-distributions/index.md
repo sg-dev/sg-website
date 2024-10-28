@@ -29,7 +29,7 @@ url_pdf: https://rdcu.be/NbZe
 doi: 10.1038/s41598-018-25211-3
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

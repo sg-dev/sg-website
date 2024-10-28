@@ -11,7 +11,7 @@ abstract: Massive data from software repositories and collaboration tools are wi
 publication: 2022 IEEE/ACM 44th International Conference on Software Engineering (ICSE)
 arxivid: '2201.04588'
 featured: false
-projects:
+research:
 - Data Science
 - Software Engineering
 ---

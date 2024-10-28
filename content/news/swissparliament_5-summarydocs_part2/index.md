@@ -4,7 +4,7 @@ title: "Summary Documents and the Secrets they Hold -- Part 2"
 description: "In our second part, we show you some interesting anomalies we found in the summary documents provided by the Swiss Parliament."
 date: 2021-05-18
 featured: true
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

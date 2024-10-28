@@ -3,7 +3,7 @@ featured_image: data.png
 title: "A new data source: Records of the Swiss Parliament"
 description: "A short description of the different data sources our project on the Swiss Parliament builds on."
 date: 2021-04-07
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

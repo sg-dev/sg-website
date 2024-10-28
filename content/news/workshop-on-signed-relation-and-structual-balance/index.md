@@ -4,7 +4,7 @@ date: 2022-10-16
 featured: true
 title: Signed relation and structural balance in complex systems - Satellite workshop of CCS 2022
 description: Are you working on signed networks from a complexity science perspective? Submit an abstract and join our workshop.
-projects:
+research:
 - Signed Relations
 ---
 
