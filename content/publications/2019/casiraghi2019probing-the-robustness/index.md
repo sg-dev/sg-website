@@ -24,6 +24,6 @@ abstract: We consider a multi-layer network with two layers, $_1$, $_2$. Their i
 publication: ''
 url_pdf: http://arxiv.org/abs/1911.03277
 featured: false
-projects:
+research:
 - Resilience
 ---

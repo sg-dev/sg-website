@@ -4,7 +4,7 @@ title: "Swiss Parliamentary Bills: An Overview"
 description: "What types of bills does the Swiss parliament know to enact legislative changes? This blogpost gives an overview over the deliberation process of 9 types of parliamentary bills"
 date: 2022-03-14
 featured: true
-projects: 
+research: 
   - 130 Years of Swiss Parliament
 ---
 

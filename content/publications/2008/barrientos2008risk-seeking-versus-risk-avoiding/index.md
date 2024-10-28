@@ -30,7 +30,7 @@ url_pdf: http://www.worldscinet.com/ijmpc/19/1906/S0129183108012662.html
 doi: 10.1142/S0129183108012662
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

@@ -25,7 +25,7 @@ url_pdf: http://aimsciences.org/journals/displayArticles.jsp?paperID=3273
 doi: 10.3934/nhm.2008.3.185
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

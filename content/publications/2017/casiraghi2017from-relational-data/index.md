@@ -27,7 +27,7 @@ publication: 'Social Informatics: 9th International Conference, SocInfo 2017, Ox
   UK, September 13-15, 2017, Proceedings, Part II'
 url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-67256-4_11
 doi: 10.1007/978-3-319-67256-4_11
-projects:
+research:
 - Network Theory
 - Data Science
 ---

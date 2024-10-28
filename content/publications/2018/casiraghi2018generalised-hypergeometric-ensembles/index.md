@@ -10,6 +10,6 @@ publication: 'Scientific Reports 11, 13416'
 url_pdf: https://www.nature.com/articles/s41598-021-92519-y
 doi: 10.1038/s41598-021-92519-y
 featured: false
-projects:
+research:
 - Network Theory
 ---

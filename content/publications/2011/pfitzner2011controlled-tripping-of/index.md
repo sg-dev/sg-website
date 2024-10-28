@@ -28,7 +28,7 @@ publication: ''
 url_pdf: http://arxiv.org/abs/1104.4558
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

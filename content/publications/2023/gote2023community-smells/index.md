@@ -16,7 +16,7 @@ publication: 'Social Network Analysis and Mining'
 doi: '10.1007/s13278-023-01120-w'
 arxivid: 'TK'
 featured: false
-projects:
+research:
 - Data Science
 - Software Engineering
 ---

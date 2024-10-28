@@ -12,7 +12,7 @@ abstract: The functional interaction structure of a team captures the preference
 url_pdf: https://arxiv.org/abs/2302.14609
 publication: PLOS One
 featured: false
-projects:
+research:
 - Data Science
 - Resilience
 - Software Engineering

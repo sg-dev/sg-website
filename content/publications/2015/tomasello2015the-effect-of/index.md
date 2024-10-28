@@ -38,7 +38,7 @@ publication: In Proceedings of the 10th International Forum IFKAD 2015
 pages: 260-276
 featured: false
 sg-areas:
-projects:
+research:
 - R&D Collaborations
 
 ---

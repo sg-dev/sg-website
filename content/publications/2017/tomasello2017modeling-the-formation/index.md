@@ -31,7 +31,7 @@ publication: Economics
 url_pdf: http://www.economics-ejournal.org/economics/discussionpapers/2017-107/
 featured: false
 sg-areas:
-projects:
+research:
 - R&D Collaborations
 
 ---

@@ -13,6 +13,6 @@ authors:
 abstract: "The adaptive voter model allows for studying the interplay between homophily, the tendency of like-minded individuals to attract each other, and social influence, the tendency for connected individuals to influence each other. However, it relies on graphs, and thus, it only considers pairwise interactions. We develop a minimal extension of the adaptive voter model to hypergraphs to study the interactions of groups of arbitrary sizes using a threshold parameter. We study S-uniform hypergraphs as initial configurations. With numerical simulations, we find new phenomena not found in the counterpart pairwise models, such as the formation of bands in the magnetization and the lack of an equilibrium state. Finally, we develop an analytical model using a sparse hypergraph approximation that accurately predicts the bands' boundaries and height."
 publication: 'Physica A: Statistical Mechanics and its Applications'
 featured: false
-projects:
+research:
 - Network Theory
 ---

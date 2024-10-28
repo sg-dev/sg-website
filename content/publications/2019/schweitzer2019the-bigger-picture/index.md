@@ -19,7 +19,7 @@ abstract: "Systems design – the term immediately evokes associations with the 
 publication: Design. Tales of Science and Innovation
 featured: false
 sg-areas:
-projects: 
+research: 
 - systems
 
 ---

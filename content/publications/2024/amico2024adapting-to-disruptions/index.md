@@ -12,7 +12,7 @@ abstract: 'Supply chain disruptions may cause shortages of essential goods, affe
 publication: Science Advances
 featured: false
 doi: '10.1126/sciadv.adj1194'
-projects:
+research:
 - Pharmaceutical Supply Chain Resilience
 - Economic Networks
 - Resilience

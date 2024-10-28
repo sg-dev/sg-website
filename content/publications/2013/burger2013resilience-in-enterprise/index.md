@@ -27,6 +27,6 @@ publication: In Proceedings of Informatik 2013, 43. Jahrestagung der Gesellschaf
 url_pdf: https://pdfs.semanticscholar.org/dcf9/64d6c9c7661ffd5284884f27b6ecca93f8c2.pdf?_ga=2.138090291.249581200.1591362239-253022.1586247655
 featured: false
 sg-areas:
-projects:
+research:
 - Resilience
 ---

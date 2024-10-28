@@ -25,7 +25,7 @@ url_pdf: https://link.springer.com/article/10.1007/s00191-017-0531-7?wt_mc=Inter
 doi: 10.1007/s00191-017-0531-7
 featured: false
 sg-areas:
-projects:
+research:
 - R&D Collaborations
 - Economic Geography
 

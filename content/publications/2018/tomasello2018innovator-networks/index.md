@@ -21,7 +21,7 @@ url_pdf: https://link.springer.com/referenceworkentry/10.1007/978-1-4939-7131-2_
 doi: 10.1007/978-1-4939-7131-2_368
 featured: false
 sg-areas:
-projects:
+research:
 - R&D Collaborations
 
 ---

@@ -15,7 +15,7 @@ publication: Evolution und Selbstorganisation in der Ökonomie / Evolution and S
   in Economics
 featured: false
 sg-areas:
-projects:
+research:
 - Economic Geography
 
 ---

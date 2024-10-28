@@ -34,7 +34,7 @@ url_pdf: https://link.springer.com/article/10.1140%2Fepjb%2Fe2009-00347-4
 doi: 10.1140/epjb/e2009-00347-4
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
  
 ---

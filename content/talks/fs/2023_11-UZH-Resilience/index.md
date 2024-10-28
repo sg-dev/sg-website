@@ -11,7 +11,7 @@ where: University of Zurich
 from: 2023-11-16T12:00:00
 to: 2023-11-16T14:00:00
 events:
-projects:
+research:
 - Resilience
 ---
 

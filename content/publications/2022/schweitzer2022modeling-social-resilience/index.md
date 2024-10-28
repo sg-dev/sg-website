@@ -29,6 +29,6 @@ url_pdf: https://www.worldscientific.com/doi/10.1142/S021952592250014X
 doi: 10.1142/S021952592250014X
 publication: Advances in Complex Systems
 featured: true
-projects:
+research:
 - Resilience
 ---

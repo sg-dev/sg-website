@@ -28,7 +28,7 @@ url_pdf: http://www.sciencedirect.com/science/article/pii/S1572308914000801
 doi: 10.1016/j.jfs.2014.08.006
 featured: false
 sg-areas:
-projects: 
+research: 
  - Systemic Risks
 
 ---

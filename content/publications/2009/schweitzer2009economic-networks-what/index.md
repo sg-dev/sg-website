@@ -30,6 +30,6 @@ url_pdf: http://www.worldscinet.com/acs/12/1204n05/S0219525909002337.html
 doi: 10.1142/S0219525909002337
 featured: false
 sg-areas:
-projects:
+research:
 - Economic Networks
 ---

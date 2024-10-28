@@ -18,7 +18,7 @@ abstract: We introduce a statistical method to investigate the impact of dyadic 
 publication: arXiv e-print
 url_pdf: http://arxiv.org/abs/1702.02048
 featured: false
-projects:
+research:
 - Network Theory
 - Data Science
 ---
