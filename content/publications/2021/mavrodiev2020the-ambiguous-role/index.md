@@ -26,4 +26,7 @@ url_pdf: https://www.sciencedirect.com/science/article/pii/S0378437120309225
 doi: https://doi.org/10.1016/j.physa.2020.125624
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---
