@@ -38,4 +38,7 @@ doi: 10.1145/2556195.2566588
 pages: 593–602
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

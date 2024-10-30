@@ -32,4 +32,7 @@ url_pdf: http://dl.acm.org/citation.cfm?id=2458310
 doi: 10.1007/978-3-642-37256-8_1
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

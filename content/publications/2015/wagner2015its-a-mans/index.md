@@ -24,4 +24,7 @@ publication: ''
 url_pdf: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/view/10585
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

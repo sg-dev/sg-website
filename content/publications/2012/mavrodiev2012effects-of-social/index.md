@@ -23,4 +23,7 @@ publication: ''
 url_pdf: http://arxiv.org/abs/1204.3463
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

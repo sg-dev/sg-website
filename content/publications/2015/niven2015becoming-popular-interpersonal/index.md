@@ -32,4 +32,7 @@ url_pdf: http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01452
 doi: 10.3389/fpsyg.2015.01452
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

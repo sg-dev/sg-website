@@ -23,4 +23,7 @@ url_pdf: https://www.hindawi.com/journals/complexity/2020/5282035/
 doi: 10.1155/2020/5282035
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

@@ -33,4 +33,7 @@ url_pdf: http://rsif.royalsocietypublishing.org/content/11/99/20140623.abstract
 doi: 10.1098/rsif.2014.0623
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

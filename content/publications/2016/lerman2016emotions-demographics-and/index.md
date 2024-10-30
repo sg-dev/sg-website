@@ -31,4 +31,7 @@ publication: nternational Conference in Web and Social Media (ICWSM)
 url_pdf: http://arxiv.org/abs/1510.07090
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---
