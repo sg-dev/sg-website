@@ -26,9 +26,12 @@ abstract: Modular design is a desirable characteristic of complex software syste
   modularity (i.e. quantified in terms of a standard measure from the study of complex
   networks) improves on average by 166+-77 percent. In order to facilitate the application
   of our method in practical studies, we provide a freely available Eclipse plug-in.
-publication: ACM
+publication: 13th International Conference on Modularity
 url_pdf: http://dl.acm.org/citation.cfm?id=2584469.2577097
 doi: '10.1145/2577080.2577097 '
 featured: false
 sg-areas:
+research: 
+- Software Engineering
+
 ---
