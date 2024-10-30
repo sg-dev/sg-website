@@ -30,4 +30,6 @@ publication: Proceedings of the International AAAI Conference on Web and Social 
 url_pdf: https://doi.org/10.1609/icwsm.v17i1.22184
 doi: 10.1609/icwsm.v17i1.22184
 featured: false
+research: 
+- Opinions Emotions 
 ---
