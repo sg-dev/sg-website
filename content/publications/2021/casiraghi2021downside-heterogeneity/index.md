@@ -11,7 +11,7 @@ publication: Entropy, 23(12), 1677
 url_pdf: https://www.mdpi.com/1099-4300/23/12/1677/pdf
 doi: 10.3390/e23121677
 featured: false
-Projects:
+research:
 - Resilience
 - Software Engineering
 ---

@@ -16,4 +16,6 @@ publication: Architecture of Computing Systems (ARCS) Workshops 2012
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6222227
 featured: false
 sg-areas:
+research: 
+- Software Engineering
 ---

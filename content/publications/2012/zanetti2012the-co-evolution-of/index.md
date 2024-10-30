@@ -13,9 +13,12 @@ abstract: Software development depends on many factors, including technical, hum
   projects extracted from online project development platforms. The preliminary results
   presented in this article reveal that the network perspective yields key insights
   into the sustainability of software development.
-publication: IEEE
+publication: 34th International Conference on Software Engineering
 url_pdf: http://dl.acm.org/citation.cfm?id=2337223.2337491&coll=DL&dl=ACM&CFID=181214830&CFTOKEN=36618462
 doi: 10.1109/ICSE.2012.6227030
 featured: false
 sg-areas:
+research: 
+- Software Engineering
+
 ---

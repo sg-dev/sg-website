@@ -24,9 +24,12 @@ abstract: We analyse the relation between the emotions and the activity of contr
   leaving the project. Our analysis opens new perspectives for measuring online contributor
   motivation by means of sentiment analysis and for real-time predictions of contributor
   turnover in Open Source Software projects.
-publication: ''
+publication: 'IEEE Third International Conference on Cloud and Green Computing'
 url_pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6686063
 doi: 10.1109/CGC.2013.71
 featured: false
 sg-areas:
+research: 
+- Software Engineering
+
 ---

@@ -17,7 +17,7 @@ publication: Swiss Political Science Review
 url_pdf: https://onlinelibrary.wiley.com/doi/full/10.1111/spsr.12590
 featured: true
 featured_image: fig_processingchain-2.png
-Projects:
+research:
 - 130 Years of Swiss Parliament
 - Data Science
 ---

@@ -29,6 +29,6 @@ publication: Entropy
 url_pdf: https://www.mdpi.com/1099-4300/22/10/1073#cite
 doi: 10.3390/e22101073
 featured: false
-Projects:
+research:
 - Resilience
 ---

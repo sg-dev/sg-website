@@ -26,7 +26,7 @@ url_pdf: http://dx.doi.org/10.1038/s41597-024-03534-3
 doi: 10.1038/s41597-024-03534-3
 featured: true
 featured_image: tracing-pic.png
-Projects:
+research:
 - Pharmaceutical Supply Chain Resilience
 - Economic Geography
 - Economic Networks

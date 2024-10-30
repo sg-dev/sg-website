@@ -24,7 +24,7 @@ url_pdf: https://arxiv.org/abs/2406.09169
 arxivid: '2403.05343'
 featured: true
 featured_image: sparsegraph.png
-Projects:
+research:
 - Network Theory
 - Data Science
 ---
