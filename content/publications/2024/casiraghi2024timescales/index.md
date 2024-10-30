@@ -10,7 +10,7 @@ publication: ArXiv Preprint
 url_pdf: https://arxiv.org/pdf/2403.05343
 featured: true
 featured_image: 00_fig1_data.png
-Projects:
+research:
 - Network Theory
 - Data Science
 - Resilience
