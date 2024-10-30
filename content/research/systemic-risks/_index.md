@@ -2,7 +2,7 @@
 title: "Systemic Risks"
 date: 2021-05-19
 draft: false
-featured_image: 
+featured_image: "stop.jpg"
 description: "The failure of a few system elements causes failure cascades"
 label:
 weight: 0
