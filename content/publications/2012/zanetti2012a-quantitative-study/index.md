@@ -29,4 +29,7 @@ url_pdf: http://drops.dagstuhl.de/opus/volltexte/2012/3774/
 doi: 10.4230/OASIcs.ICCSW.2012.116
 featured: false
 sg-areas:
+research: 
+- Software Engineering
+
 ---

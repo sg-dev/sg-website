@@ -27,4 +27,7 @@ url_pdf: https://www.worldscientific.com/doi/abs/10.1142/S021952591250083X
 doi: 10.1142/S021952591250083X
 featured: false
 sg-areas:
+research: 
+- Software Engineering
+
 ---

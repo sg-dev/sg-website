@@ -33,4 +33,7 @@ url_pdf: https://link.springer.com/article/10.1140/epjb/e2009-00302-5
 doi: 10.1140/epjb/e2009-00302-5
 featured: false
 sg-areas:
+research: 
+- Software Engineering
+
 ---

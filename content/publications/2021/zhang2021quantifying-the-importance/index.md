@@ -22,6 +22,6 @@ abstract: The reputation of firms is largely channeled through their ownership s
 publication: Frontiers in Big Data
 url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.652913/full
 featured: false
-Projects:
+research:
 - Resilience
 ---
