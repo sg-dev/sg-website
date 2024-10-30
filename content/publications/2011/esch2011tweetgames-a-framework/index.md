@@ -27,10 +27,14 @@ abstract: Today social networks and microblogging services attract much attentio
   social online games along with the so-called TweetGame framework, this paper presents
   a sample application that has already been realized on top of this framework as
   proof of concept.
-publication: In Proceedings of the 7th International Conference on Collaborative Computing
+publication: 7th International Conference on Collaborative Computing
   (CollaborateCom 2011), Orlando, FL, USA
 url_pdf: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6144831
 doi: 10.4108/icst.collaboratecom.2011.247127
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+- Reputation Trust Cooperation
+
 ---

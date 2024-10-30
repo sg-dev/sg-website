@@ -26,4 +26,7 @@ url_pdf: http://www.tandfonline.com/doi/abs/10.1080/0022250X.2012.724486#.VZ-81L
 doi: 10.1080/0022250X.2012.724486
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

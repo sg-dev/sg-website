@@ -33,4 +33,7 @@ url_pdf: http://dx.doi.org/10.1007/978-3-319-43639-5_11
 doi: 10.1007/978-3-319-43639-5_11
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

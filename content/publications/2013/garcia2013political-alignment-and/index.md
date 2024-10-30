@@ -20,4 +20,8 @@ abstract: We present a study political discourse and emotional expression throug
 publication: Workshop on Sentiment Analysis at SEPLN
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
+
 ---

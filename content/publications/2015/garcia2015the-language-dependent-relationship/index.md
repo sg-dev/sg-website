@@ -21,4 +21,7 @@ url_pdf: http://www.pnas.org/lookup/doi/10.1073/pnas.1502909112
 doi: 10.1073/pnas.1502909112
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

@@ -27,4 +27,7 @@ url_pdf: http://www.nature.com/srep/2013/130301/srep01360/full/srep01360.html
 doi: 10.1038/srep01360
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

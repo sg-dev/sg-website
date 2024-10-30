@@ -29,4 +29,7 @@ url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.87.022803
 doi: 10.1103/PhysRevE.87.022803
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

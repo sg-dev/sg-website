@@ -24,4 +24,7 @@ url_pdf: http://www.epjdatascience.com/content/1/1/3
 doi: 10.1140/epjds3
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

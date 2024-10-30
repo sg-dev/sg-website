@@ -23,10 +23,13 @@ abstract: Online communities provide Internet users with means to overcome some 
   in product reviews. This analysis and model can provide guidelines to manufacturers
   on how to increase customer satisfaction and how to measure the emotional impact
   of marketing campaigns through reviews data.
-publication: Proceedings of 2011 IEEE International Conference on Privacy, Security,
+publication: IEEE International Conference on Privacy, Security,
   Risk, and Trust, and IEEE International Conference on Social Computing, PASSAT/SocialCom
 url_pdf: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6113152
 doi: 10.1109/PASSAT/SocialCom.2011.219
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

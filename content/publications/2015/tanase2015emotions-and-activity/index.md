@@ -33,4 +33,7 @@ url_pdf: http://www.frontiersin.org/interdisciplinary_physics/10.3389/fphy.2015.
 doi: 10.3389/fphy.2015.00087
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

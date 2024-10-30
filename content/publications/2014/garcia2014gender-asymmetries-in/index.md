@@ -34,4 +34,7 @@ publication: Proceedings of the International AAAI Conference on Weblogs and Soc
 url_pdf: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8070
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---
