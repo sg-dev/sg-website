@@ -4,6 +4,8 @@ title: "Pharmaceutical Supply Chain Resilience"
 description: "Research on the drivers and mitiagation strategies to reduce drug shortages."
 date: 2021-04-07
 weight: 1
+aliases:
+- projects/pharmaceutical-supply-chain-resilience
 ---
 
 ### Overview
