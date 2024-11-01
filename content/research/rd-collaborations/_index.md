@@ -1,5 +1,5 @@
 ---
-title: "R&D collaboration network of firms"
+title: "R&D collaborations of firms"
 date: 2021-05-18T20:06:35+02:00
 draft: false
 featured_image: RnDnetwork.png

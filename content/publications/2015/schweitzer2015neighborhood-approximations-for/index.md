@@ -28,4 +28,7 @@ url_pdf: http://www.mdpi.com/1099-4300/17/11/7658
 doi: 10.3390/e17117658
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

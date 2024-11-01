@@ -27,4 +27,7 @@ url_pdf: http://www.worldscinet.com/ijmpc/18/1812/S0129183107011789.html
 doi: 10.1142/S0129183107011789
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

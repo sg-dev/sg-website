@@ -34,4 +34,7 @@ url_pdf: http://onlinelibrary.wiley.com/doi/10.1002/poi3.82/abstract
 doi: 10.1002/poi3.82
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

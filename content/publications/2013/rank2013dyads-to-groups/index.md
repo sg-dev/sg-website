@@ -23,4 +23,7 @@ publication: International Journal of Computational Linguistics Research
 url_pdf: http://www.dline.info/jcl/v4n1.php
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

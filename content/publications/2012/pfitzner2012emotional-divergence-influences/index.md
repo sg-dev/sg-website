@@ -22,4 +22,7 @@ publication: In Proceedings of the 6th International AAAI Conference on Weblogs 
 url_pdf: http://www.aaai.org/ocs/index.php/ICWSM/ICWSM12/paper/view/4596
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

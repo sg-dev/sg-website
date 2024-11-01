@@ -31,4 +31,7 @@ url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525913500379
 doi: '10.1142/S0219525913500379 '
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

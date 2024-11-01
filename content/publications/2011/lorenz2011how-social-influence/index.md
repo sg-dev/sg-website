@@ -36,4 +36,7 @@ url_pdf: http://www.pnas.org/content/108/22/9020
 doi: 10.1073/pnas.1008636108
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---
