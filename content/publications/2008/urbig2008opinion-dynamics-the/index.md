@@ -25,4 +25,7 @@ publication: Journal of Artificial Societies and Social Simulation
 url_pdf: http://jasss.soc.surrey.ac.uk/11/2/4.html 
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

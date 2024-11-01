@@ -26,4 +26,7 @@ url_pdf: http://dl.acm.org/citation.cfm?id=2390131.2390147
 doi: 10.1145/2390131.2390147
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

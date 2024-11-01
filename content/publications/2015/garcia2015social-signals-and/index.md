@@ -31,4 +31,7 @@ url_pdf: http://rsos.royalsocietypublishing.org/content/2/9/150288
 doi: 10.1098/rsos.150288
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

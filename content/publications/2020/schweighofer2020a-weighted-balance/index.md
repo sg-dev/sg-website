@@ -25,4 +25,7 @@ url_pdf: http://jasss.soc.surrey.ac.uk/23/3/5.html#3.22
 doi: 10.18564/jasss.4306
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

@@ -29,4 +29,7 @@ url_pdf: http://link.springer.com/chapter/10.1007%2F978-3-642-31567-1_6
 doi: 10.1007/978-3-642-31567-1_6
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

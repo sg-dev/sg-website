@@ -26,4 +26,7 @@ url_pdf: https://link.springer.com/article/10.1140%2Fepjb%2Fe2010-00292-1
 doi: 10.1140/epjb/e2010-00292-1
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

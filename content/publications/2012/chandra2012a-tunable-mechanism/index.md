@@ -33,4 +33,7 @@ doi: 10.1109/TrustCom.2012.63
 pages: 722-- 729
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+
 ---

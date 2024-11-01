@@ -27,4 +27,7 @@ url_pdf: http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199659180.
 doi: 10.1093/acprof:oso/9780199659180.003.0026
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---

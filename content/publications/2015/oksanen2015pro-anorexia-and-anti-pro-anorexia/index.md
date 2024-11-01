@@ -48,4 +48,7 @@ url_pdf: http://www.jmir.org/2015/11/e256
 doi: 10.2196/jmir.5007
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+
 ---
