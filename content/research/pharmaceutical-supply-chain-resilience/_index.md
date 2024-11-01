@@ -5,14 +5,14 @@ description: "Research on the drivers and mitiagation strategies to reduce drug 
 date: 2021-04-07
 weight: 1
 aliases:
-- projects/pharmaceutical-supply-chain-resilience
+- /projects/pharmaceutical-supply-chain-resilience
 ---
 
 ### Overview
 
 Welcome to our research hub on pharmaceutical supply chain resilience. Our work addresses the critical issue of drug shortages, driven by complex logistical, economic, and geopolitical challenges that impact the availability of essential medicines.
 
-### Learn More
+### Learn More (Podcast)
 
 To get quick overview of our research on this topic listen to our 🎤 [**Podcast**](/news/2024_10_podcast/) 🎤
 
