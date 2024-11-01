@@ -12,10 +12,11 @@ aliases:
 
 Welcome to our research hub on pharmaceutical supply chain resilience. Our work addresses the critical issue of drug shortages, driven by complex logistical, economic, and geopolitical challenges that impact the availability of essential medicines.
 
+<a href="/news/2024_10_podcast/" class='podcast'>
 <div class="podcast-highlight">
-  <p>Want to know more? Listen to our <strong><a href="/news/2024_10_podcast/" class='podcast'>Podcast 🎙️</a></strong></p>
+  <p>Want to know more? Listen to our <strong>Podcast 🎙️</strong></p>
 </div>
-
+</a>
 
 ### Focus
 
