@@ -16,6 +16,11 @@ events:
 - SG Final Symposium October 2024 
 ---
 
+
+### [Presentation Slides (PDF)](Presentation-Scholtes.pdf)
+
+
+
 ### Abstract
 
 The convergence of social and technical systems provides us with a wealth of log data that capture the structure and dynamics of social organizations. It is tempting to utilize these data to better understand how social organizations evolve, how collaboration and communication patterns are related to their "success" or "failure", and how the position of individuals in social networks affects their performance, motivation, and productivity.
