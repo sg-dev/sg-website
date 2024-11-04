@@ -15,6 +15,8 @@ events:
 - SG Final Symposium October 2024 
 ---
 
+### [Presentation Slides (PDF)](Presentation-Gote.pdf)
+
 
 ### Abstract
 
