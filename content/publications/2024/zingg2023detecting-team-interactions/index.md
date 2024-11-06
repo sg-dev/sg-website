@@ -8,7 +8,7 @@ authors:
 - Carsten Arzig
 - Frank Schweitzer
 - Christoph Gote
-abstract: The functional interaction structure of a team
+abstract: "The functional interaction structure of a team 
 captures the preferences with which members of different
 roles interact. This paper presents a data-driven approach
 to detect the functional interaction structure for software
@@ -31,7 +31,7 @@ and can be applied in real-time to manage a team’s
 interaction structure. In summary, our approach provides a
 novel way to quantify and evaluate the functional
 interaction structure of software development teams that
-aids in understanding and improving team performance.
+aids in understanding and improving team performance."
 url_pdf: https://doi.org/10.1371/journal.pone.0306923
 publication: PLOS One
 featured: false
