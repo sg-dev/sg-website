@@ -29,4 +29,7 @@ url_pdf: http://dx.doi.org/10.1111/j.1558-5646.2010.00986.x
 doi: 10.1111/j.1558-5646.2010.00986.x
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+
 ---

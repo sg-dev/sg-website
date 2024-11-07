@@ -6,7 +6,7 @@ publishDate: '2021-02-08T11:56:31.575274Z'
 authors:
 - David Garcia
 - Frank Schweitzer
-abstract: Online communities provide Internet users with means to overcome some information
+abstract: "Online communities provide Internet users with means to overcome some information
   barriers and constraints, such as the difficulty to gather independent information
   about products and firms. Product review communities allow customers to share their
   opinions and emotions after the purchase of a product. We introduce a new dataset
@@ -22,7 +22,7 @@ abstract: Online communities provide Internet users with means to overcome some 
   some properties of the distributions of positive and negative emotions expressed
   in product reviews. This analysis and model can provide guidelines to manufacturers
   on how to increase customer satisfaction and how to measure the emotional impact
-  of marketing campaigns through reviews data.
+  of marketing campaigns through reviews data."
 publication: IEEE International Conference on Privacy, Security,
   Risk, and Trust, and IEEE International Conference on Social Computing, PASSAT/SocialCom
 url_pdf: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6113152
@@ -31,5 +31,5 @@ featured: false
 sg-areas:
 research: 
 - Opinions Emotions
-
+- Reputation Trust Cooperation
 ---

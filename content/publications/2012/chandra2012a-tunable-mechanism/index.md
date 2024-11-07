@@ -1,6 +1,6 @@
 ---
-title: A tunable mechanism for identifying trusted nodes in large scale distributed
-  networks
+title: "A tunable mechanism for identifying trusted nodes in large scale distributed
+  networks"
 date: '2012-01-01'
 publishDate: '2021-02-08T11:56:32.906071Z'
 authors:

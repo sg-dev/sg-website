@@ -30,4 +30,8 @@ doi: 10.1002/poi3.151
 pages: 343-364
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+- Social Influence
+
 ---

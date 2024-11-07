@@ -31,4 +31,6 @@ doi: 10.3390/e22101073
 featured: false
 research:
 - Resilience
+- Reputation Trust Cooperation
+
 ---

@@ -3,7 +3,7 @@ title: 'Nonlinear voter models: The transition from invasion to coexistence'
 date: '2009-01-01'
 volume: '67'
 number: '3'
-pages: 301-- 318
+pages: "301-318"
 publishDate: '2021-02-08T11:56:28.890515Z'
 authors:
 - Frank Schweitzer
@@ -27,4 +27,7 @@ url_pdf: https://link.springer.com/article/10.1140%2Fepjb%2Fe2009-00001-3
 doi: 10.1140/epjb/e2009-00001-3
 featured: false
 sg-areas:
+research:
+- Opinions Emotions
+
 ---
