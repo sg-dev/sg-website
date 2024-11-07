@@ -24,4 +24,6 @@ url_pdf: https://www.frontiersin.org/articles/10.3389/fdata.2021.652913/full
 featured: false
 research:
 - Resilience
+- Reputation Trust Cooperation
+
 ---

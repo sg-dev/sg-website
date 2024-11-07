@@ -26,4 +26,8 @@ url_pdf: https://dl.acm.org/citation.cfm?doid=1639714.1639747
 doi: 10.1145/1639714.1639747
 featured: false
 sg-areas:
+research:
+- Reputation Trust Cooperation
+
+
 ---

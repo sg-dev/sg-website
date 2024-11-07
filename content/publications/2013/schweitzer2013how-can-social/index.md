@@ -36,4 +36,7 @@ url_pdf: http://www.worldscientific.com/doi/abs/10.1142/S0219525913500173
 doi: 10.1142/S0219525913500173
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+
 ---

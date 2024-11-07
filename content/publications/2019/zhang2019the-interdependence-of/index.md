@@ -6,7 +6,7 @@ volume: '6'
 pages: '190570'
 publishDate: '2021-02-08T11:56:33.813901Z'
 authors:
-- Dr. Yan Zhang
+- Yan Zhang
 - Frank Schweitzer
 abstract: We propose a novel way to measure the reputation of firms by using information
   about their ownership structure. Supported by the signaling theory, we argue that
@@ -24,4 +24,8 @@ url_pdf: https://royalsocietypublishing.org/doi/full/10.1098/rsos.190570
 doi: 10.1098/rsos.190570
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+- Economic Networks
+
 ---

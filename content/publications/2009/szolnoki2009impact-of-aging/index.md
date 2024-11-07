@@ -31,4 +31,7 @@ url_pdf: http://link.aps.org/doi/10.1103/PhysRevE.80.021901
 doi: 10.1103/PhysRevE.80.021901
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+
 ---

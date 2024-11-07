@@ -20,4 +20,8 @@ publication: Proceedings of the Workshop on Trust at the Fifth International Joi
   Conference on Autonomous Agents and Multi-Agent Systems (AAMAS'06)
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+
+
 ---

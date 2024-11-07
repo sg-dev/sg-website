@@ -24,4 +24,8 @@ url_pdf: https://link.springer.com/article/10.1007%2Fs10458-007-9021-x
 doi: 10.1007/s10458-007-9021-x
 featured: false
 sg-areas:
+resarch: 
+- Reputation Trust Cooperation
+
+
 ---

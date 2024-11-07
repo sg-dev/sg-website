@@ -34,4 +34,7 @@ url_pdf: https://www.nature.com/articles/s41598-020-80946-2
 doi: 10.1038/s41598-020-80946-2
 featured: false
 sg-areas:
+research: 
+- Social Influence
+
 ---

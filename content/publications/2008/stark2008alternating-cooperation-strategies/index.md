@@ -32,4 +32,7 @@ publication: Games, Rationality, and Behaviour
 url_pdf: http://www.if.pw.edu.pl/~jholyst/data/Paper_book.pdf
 featured: false
 sg-areas:
+research: 
+- Reputation Trust Cooperation
+
 ---
