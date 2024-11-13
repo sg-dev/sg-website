@@ -16,7 +16,30 @@ events:
 - SG Final Symposium October 2024 
 ---
 
+## Take your seats
 
-<iframe width="416" height="234"
-src="https://video.ethz.ch/etc/designs/mmp/video/player.html?id=fa1c7d10-e7da-4721-beb5-dcf9faed4baa"
+
+<iframe width="832" height="468"
+src="welcome.mp4"
 frameborder="0" allowfullscreen></iframe>
+
+## 
+
+## Social Capital: Ko-Autoren-Netzwerk ohne FS 
+
+
+<iframe width="832" height="468"
+src="output.mp4"
+frameborder="0" allowfullscreen></iframe>
+
+## 
+
+## Making of the Chair 
+
+
+<iframe width="832" height="468"
+src="making.mp4"
+frameborder="0" allowfullscreen></iframe>
+
+
+## 
