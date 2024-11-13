@@ -1,5 +1,5 @@
 ---
-title: "Abschiedsvorlesung: Dämmerung"
+title: "Dämmerung"
 draft: false
 featured: false
 featured_image: 

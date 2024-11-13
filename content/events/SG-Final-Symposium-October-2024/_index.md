@@ -23,6 +23,7 @@ ETH Zurich Main Building, Audi Max F30 <br>
 Rämistrasse 101, 8092 Zürich</br>
 [Link to map](https://maps.app.goo.gl/cNFRoJCtQpPJrCpa8)
 
+<!--
 <a href="https://www.sg.ethz.ch/final-workshop-form/" style="display: inline-block; padding: 8px 16px; font-size: 16px; font-weight: bold; color: white; background-color: #581616; border-radius: 5px; text-decoration: none; transition: transform 0.2s;">
   Register Here
 </a>
@@ -32,7 +33,7 @@ a:hover {
     transform: translateY(-3px);
 }
 </style>
-
+-->
 
 ## Synopsis
 
@@ -48,7 +49,7 @@ with the right spirit, skills, and leadership.
 ## Registration 
 
 **Participation** is free of charge but **registration** is
-required: [Register here](https://www.sg.ethz.ch/final-workshop-form/)
+required: [Register here]()
 
 For the Farewell Lecture of Frank Schweitzer no registration
 is needed. 
@@ -59,6 +60,14 @@ is needed.
 - [Prof. Ingo Scholtes,  Center for Artificial Intelligence
   and Data Science, Universität of Würzburg](https://www.ingoscholtes.net/)
 
+
+## 
+<p style="text-align:center;">&nbsp;
+<iframe  src="group.png" width="200%" frameborder="0" allowfullscreen="true">
+</iframe>&nbsp;
+</p>
+
+## 
 
 ## [Download Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
 
