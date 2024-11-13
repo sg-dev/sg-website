@@ -64,9 +64,6 @@ pluralizelisttitles = "false"
 
 
 
-[markup.goldmark.renderer]
-    unsafe= true # this allows to use html in markdown files
-
 
 pygmentsUseClasses = false
 
@@ -83,3 +80,6 @@ pygmentsUseClasses = false
     noClasses = true
     style = "dracula"
     tabWidth = 4
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
