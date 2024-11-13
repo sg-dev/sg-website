@@ -15,7 +15,7 @@ events:
 - SG Final Symposium October 2024 
 ---
 
-### Videoaufzeichnung 
+## Videoaufzeichnung 
 
 
 
@@ -24,6 +24,8 @@ src="https://video.ethz.ch/etc/designs/mmp/video/player.html?id=fa1c7d10-e7da-47
 frameborder="0" allowfullscreen></iframe>
 
 
-### [Presentation Slides](Schweitzer-Slides.html)<br>
+## 
+
+## [Presentation Slides (Click for full screen)](/presentations/Schweitzer-Slides.html)<br>
 (PgUp, PgDown to navigate, TAB for overview)
 
