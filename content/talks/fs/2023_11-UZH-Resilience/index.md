@@ -36,10 +36,10 @@ They allow to quantify the impact of agents and their relations, using data abou
 &nbsp;
 
 
-### [Presentation Slides](Presentation-Schweitzer.html)<br>
+### [Presentation Slides](/presentations/Presentation-Schweitzer.html)<br>
 (PgUp, PgDown to navigate, TAB for overview)
 
 
 <!-- insert iframe -->
-<iframe src="Presentation-Schweitzer.html" width="100%" height="300px" frameborder="0" allowfullscreen="true">
+<iframe src="/presentations/Presentation-Schweitzer.html" width="100%" height="300px" frameborder="0" allowfullscreen="true">
 </iframe>
