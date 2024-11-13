@@ -1,4 +1,223 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pharmaceutical Supply Chain Resilience on Chair of Systems Design</title><link>https://www.sg.ethz.ch/research/pharmaceutical-supply-chain-resilience/</link><description>Recent content in Pharmaceutical Supply Chain Resilience on Chair of Systems Design</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.sg.ethz.ch/research/pharmaceutical-supply-chain-resilience/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast on Drug Shortage Mitigation</title><link>https://www.sg.ethz.ch/news/2024_10_podcast/</link><pubDate>Tue, 08 Oct 2024 17:36:19 +0100</pubDate><guid>https://www.sg.ethz.ch/news/2024_10_podcast/</guid><description>&amp;#9658; 0:00 / 0:00 1 1.25 1.5 Your browser does not support the audio element. To make our research on drug shortage mitigation and prevention accessible to a broader audience, we created an AI-generated podcast. The podcast discusses our findings on pharmaceutical supply chain resilience (see the project page for a list of publications).
-Additionally, the podcast provides a broad overview of our current research focus: developing a shortage mitigation system for pharmaceutical supply chains called ARIADNE.</description></item><item><title>Efficiency and resilience: Key drivers of distribution network growth</title><link>https://www.sg.ethz.ch/publications/2024/amico2024efficiency-and-resilience/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/publications/2024/amico2024efficiency-and-resilience/</guid><description/></item><item><title>Tracing Opioids Across the US: A High-Resolution Pharmaceutical Distribution Dataset</title><link>https://www.sg.ethz.ch/publications/2024/amico2024tracing-opioids-across/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/publications/2024/amico2024tracing-opioids-across/</guid><description/></item><item><title>Adapting to disruptions: Managing supply chain resilience through product rerouting</title><link>https://www.sg.ethz.ch/publications/2024/amico2024adapting-to-disruptions/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/publications/2024/amico2024adapting-to-disruptions/</guid><description>See our blog post on this research.</description></item><item><title>Paper on Supply Chain Resilience Published in Science Advances</title><link>https://www.sg.ethz.ch/news/2024_01_resilience-published/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/news/2024_01_resilience-published/</guid><description>Excited to share our research published in Science Advances, focusing on a vital aspect of modern logistics: pharmaceutical supply chain resilience (Link to Paper 📑).
-The COVID-19 pandemic and subsequent global events have underscored the critical need to enhance supply chain resilience. To address this challenge, our study introduces the concept of &amp;lsquo;reroute flexibility,&amp;rsquo; best understood through an analogy to a road network.
-Picture a distribution network for products as a network of roads and intersections.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pharmaceutical Supply Chain Resilience on Chair of Systems Design</title><link>https://www.sg.ethz.ch/research/pharmaceutical-supply-chain-resilience/</link><description>Recent content in Pharmaceutical Supply Chain Resilience on Chair of Systems Design</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2024 17:36:19 +0100</lastBuildDate><atom:link href="https://www.sg.ethz.ch/research/pharmaceutical-supply-chain-resilience/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast on Drug Shortage Mitigation</title><link>https://www.sg.ethz.ch/news/2024_10_podcast/</link><pubDate>Tue, 08 Oct 2024 17:36:19 +0100</pubDate><guid>https://www.sg.ethz.ch/news/2024_10_podcast/</guid><description>&lt;div class="audio-player" data-podcast-name="Ariadne Podcast">
+ 
+ &lt;button id="playPauseButton" class="play-pause-btn">&amp;#9658;&lt;/button>
+
+ 
+ &lt;div class="time-display">
+ &lt;span id="currentTime">0:00&lt;/span> / &lt;span id="totalTime">0:00&lt;/span>
+ &lt;/div>
+
+ 
+ &lt;div class="progress-container">
+ &lt;input type="range" id="progressBar" class="progress-bar" value="0" max="100">
+ &lt;/div>
+
+ 
+ &lt;div class="speed-control">
+ &lt;button class="speed-btn" data-speed="1.0">1&lt;/button>
+ &lt;button class="speed-btn" data-speed="1.25">1.25&lt;/button>
+ &lt;button class="speed-btn" data-speed="1.5">1.5&lt;/button>
+ &lt;/div>
+
+ 
+ &lt;audio id="audioElement">
+ &lt;source src="ariadne.mp3" type="audio/mp3">
+ Your browser does not support the audio element.
+ &lt;/audio>
+&lt;/div>
+
+
+&lt;style>
+.audio-player {
+ display: flex;
+ align-items: center;
+ background: #ffffff;
+ padding: 20px;
+ box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+ border-radius: 10px;
+ max-width: 800px;
+ width: 100%;
+ flex-wrap: wrap; 
+}
+
+.play-pause-btn {
+ background: #a8322d;
+ border: none;
+ color: white;
+ padding: 10px 15px; 
+ font-size: 24px; 
+ cursor: pointer;
+ border-radius: 50%; 
+ margin-right: 20px;
+ width: 50px;
+ height: 50px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ transition: background 0.3s ease;
+}
+
+.play-pause-btn:hover {
+ background: gray;
+}
+
+.time-display {
+ min-width: 80px;
+ font-size: 14px;
+ margin-right: 20px;
+ color: #333;
+ white-space: nowrap; 
+}
+
+.progress-container {
+ flex-grow: 1;
+ margin-right: 20px;
+}
+
+.progress-bar {
+ width: 100%;
+ -webkit-appearance: none;
+ appearance: none;
+ height: 10px;
+ border-radius: 5px;
+ background: #e0e0e0;
+ cursor: pointer;
+}
+
+.progress-bar::-webkit-slider-thumb {
+ -webkit-appearance: none;
+ width: 20px;
+ height: 20px;
+ border-radius: 50%;
+ background: #a8322d;
+ cursor: pointer;
+}
+
+.speed-control {
+ display: flex;
+ align-items: center;
+ margin-left: auto; 
+}
+
+.speed-btn {
+ background: #f5f5f5; 
+ border: none;
+ color: #333; 
+ padding: 5px 10px; 
+ margin: 0 2px; 
+ font-size: 12px; 
+ cursor: pointer;
+ border-radius: 3px; 
+ transition: background 0.3s ease, color 0.3s ease;
+}
+
+.speed-btn:hover {
+ background: #e0e0e0; 
+ color: #000; 
+}
+
+.speed-btn.active {
+ background: #a8322d; 
+ color: #fff; 
+}
+
+.speed-btn::after {
+ content: 'x'; 
+ color: black; 
+ font-size: 10px; 
+ vertical-align: top; 
+ margin-left: 2px; 
+}
+
+&lt;/style>
+
+&lt;script>
+document.addEventListener('DOMContentLoaded', () => {
+ const playPauseButton = document.getElementById('playPauseButton');
+ const audioElement = document.getElementById('audioElement');
+ const progressBar = document.getElementById('progressBar');
+ const currentTimeDisplay = document.getElementById('currentTime');
+ const totalTimeDisplay = document.getElementById('totalTime');
+ const speedButtons = document.querySelectorAll('.speed-btn');
+
+ 
+ const podcastName = document.querySelector('.audio-player').getAttribute('data-podcast-name');
+
+ 
+ let playEventRecorded = false;
+
+ 
+ playPauseButton.addEventListener('click', () => {
+ if (audioElement.paused) {
+ audioElement.play().catch(error => console.error('Playback error:', error));
+ playPauseButton.innerHTML = '&amp;#10074;&amp;#10074;'; 
+
+ 
+ if (!playEventRecorded &amp;&amp; typeof umami !== 'undefined') {
+ 
+ umami.track(`audio: "${podcastName}" played`); 
+ playEventRecorded = true; 
+ }
+ } else {
+ audioElement.pause();
+ playPauseButton.innerHTML = '&amp;#9658;'; 
+ }
+ });
+
+ 
+ audioElement.addEventListener('ended', () => {
+ playPauseButton.innerHTML = '&amp;#9658;'; 
+ progressBar.value = 0;
+ currentTimeDisplay.textContent = '0:00';
+
+ 
+ if (typeof umami !== 'undefined') {
+ umami.track(`audio: "${podcastName}"d completed`); 
+ }
+ });
+
+ 
+ audioElement.addEventListener('timeupdate', () => {
+ const progress = (audioElement.currentTime / audioElement.duration) * 100;
+ progressBar.value = progress;
+
+ const currentMinutes = Math.floor(audioElement.currentTime / 60);
+ const currentSeconds = Math.floor(audioElement.currentTime % 60).toString().padStart(2, '0');
+ currentTimeDisplay.textContent = `${currentMinutes}:${currentSeconds}`;
+
+ if (!isNaN(audioElement.duration)) {
+ const totalMinutes = Math.floor(audioElement.duration / 60);
+ const totalSeconds = Math.floor(audioElement.duration % 60).toString().padStart(2, '0');
+ totalTimeDisplay.textContent = `${totalMinutes}:${totalSeconds}`;
+ }
+ });
+
+ 
+ progressBar.addEventListener('input', () => {
+ const newTime = (progressBar.value / 100) * audioElement.duration;
+ audioElement.currentTime = newTime;
+ });
+
+ 
+ speedButtons.forEach(button => {
+ button.addEventListener('click', () => {
+ speedButtons.forEach(btn => btn.classList.remove('active'));
+ button.classList.add('active');
+ audioElement.playbackRate = parseFloat(button.getAttribute('data-speed'));
+ });
+ });
+
+ 
+ const defaultSpeedButton = document.querySelector('.speed-btn[data-speed="1.0"]');
+ if (defaultSpeedButton) {
+ defaultSpeedButton.classList.add('active');
+ }
+ audioElement.playbackRate = 1.0;
+});
+&lt;/script>
+
+&lt;br>
+&lt;p>To make &lt;a href="https://www.sg.ethz.ch/projects/pharmaceutical-supply-chain-resilience/">our research on drug shortage mitigation and prevention&lt;/a> accessible to a broader audience, we created an AI-generated podcast. The podcast discusses our findings on pharmaceutical supply chain resilience (see the &lt;a href="https://www.sg.ethz.ch/projects/pharmaceutical-supply-chain-resilience/">project page&lt;/a> for a list of publications).&lt;/p></description></item><item><title>Efficiency and resilience: Key drivers of distribution network growth</title><link>https://www.sg.ethz.ch/publications/2024/amico2024efficiency-and-resilience/</link><pubDate>Fri, 23 Aug 2024 08:43:57 +0000</pubDate><guid>https://www.sg.ethz.ch/publications/2024/amico2024efficiency-and-resilience/</guid><description/></item><item><title>Tracing Opioids Across the US: A High-Resolution Pharmaceutical Distribution Dataset</title><link>https://www.sg.ethz.ch/publications/2024/amico2024tracing-opioids-across/</link><pubDate>Tue, 16 Jul 2024 11:01:11 +0000</pubDate><guid>https://www.sg.ethz.ch/publications/2024/amico2024tracing-opioids-across/</guid><description/></item><item><title>Adapting to disruptions: Managing supply chain resilience through product rerouting</title><link>https://www.sg.ethz.ch/publications/2024/amico2024adapting-to-disruptions/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/publications/2024/amico2024adapting-to-disruptions/</guid><description>&lt;p>See &lt;a href="https://www.sg.ethz.ch/news/2024_01_resilience-published/">our blog post&lt;/a> on this research.&lt;/p></description></item><item><title>Paper on Supply Chain Resilience Published in Science Advances</title><link>https://www.sg.ethz.ch/news/2024_01_resilience-published/</link><pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/news/2024_01_resilience-published/</guid><description>&lt;p>Excited to share our research published in &lt;em>Science Advances&lt;/em>, focusing on a vital aspect of modern logistics: pharmaceutical supply chain resilience (&lt;a href="https://doi.org/10.1126/sciadv.adj1194">Link to Paper&lt;/a> 📑).&lt;/p>
+&lt;p>The COVID-19 pandemic and subsequent global events have underscored the critical need to enhance supply chain resilience. To address this challenge, our study introduces the concept of &amp;lsquo;reroute flexibility,&amp;rsquo; best understood through an analogy to a road network.&lt;/p>
+&lt;p>Picture a distribution network for products as a network of roads and intersections.
+The distribution paths—routes products take to their destinations—are like journeys on these roads. During disruptions, one might consider building new roads to improve flow, but this is obviously too slow, prehitively expensive and overall wasteful. A much better solution is for the driver or navigation system to use other, possible but never before used roads to reach the destination.&lt;/p></description></item></channel></rss>

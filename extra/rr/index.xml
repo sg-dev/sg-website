@@ -1,15 +1,274 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ramona Roller on Chair of Systems Design</title><link>https://www.sg.ethz.ch/extra/rr/</link><description>Recent content in Ramona Roller on Chair of Systems Design</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://www.sg.ethz.ch/extra/rr/index.xml" rel="self" type="application/rss+xml"/><item><title>Ramona Roller's talks</title><link>https://www.sg.ethz.ch/extra/rr/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/extra/rr/talks/</guid><description>Path statistics for letter correspondence networks of the European Reformation Event: GrapHNR conference
-Venue: Mainz
-Date: July, 21st 2023
-Previous Next &amp;nbsp; &amp;nbsp; Page: / Download slides Talk: Soziale Differenzierung während der Europäischen Reformation: Rollenanalyse in Briefkorrespondenznetzwerken Event: Research visit, Forschungsplattform Frühe Neuzeit
-Venue: Mainz
-Date: July, 7th 2023
-Download slides
-Talk: Netzwerkanalyse zur Komposition und Evolution innerprotestantischer Gruppen im 16. Jahrhundert
-Event: CAIDAS Workshop
-Venue: Würzburg
-Date: February, 8th 2023</description></item><item><title>Ramona Roller's work in the media</title><link>https://www.sg.ethz.ch/extra/rr/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/extra/rr/media/</guid><description> Newspaper article about International Reuchlin Conference (german)
-Date: July, 2nd 2022
-Download article Article in the magazine of the Evangelical Church in Zurich (german)
-Date: February, 2019
-Download article</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ramona Roller on Chair of Systems Design</title><link>https://www.sg.ethz.ch/extra/rr/</link><description>Recent content in Ramona Roller on Chair of Systems Design</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.sg.ethz.ch/extra/rr/index.xml" rel="self" type="application/rss+xml"/><item><title>Ramona Roller's talks</title><link>https://www.sg.ethz.ch/extra/rr/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/extra/rr/talks/</guid><description>&lt;ul>
+&lt;li>&lt;strong>Path statistics for letter correspondence networks of the European Reformation&lt;/strong>
+&lt;ul>
+&lt;li>&lt;strong>Event&lt;/strong>: GrapHNR conference&lt;br>&lt;/li>
+&lt;li>&lt;strong>Venue&lt;/strong>: Mainz&lt;br>&lt;/li>
+&lt;li>&lt;strong>Date&lt;/strong>: July, 21st 2023&lt;br>
+&lt;script type="text/javascript" src="https://www.sg.ethz.ch/js/pdf-js/build/pdf.js">&lt;/script>
+&lt;style>
+#the-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+}
+#paginator{
+ text-align: center;
+ margin-bottom: 10px;
+}
+&lt;/style>
+
+&lt;div id="paginator">
+ &lt;button id="prev">Previous&lt;/button>
+ &lt;button id="next">Next&lt;/button>
+ &amp;nbsp; &amp;nbsp;
+ &lt;span>Page: &lt;span id="page_num">&lt;/span> / &lt;span id="page_count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div id="embed-pdf-container">
+ &lt;canvas id="the-canvas">&lt;/canvas>
+&lt;/div>
+
+&lt;script type="text/javascript">
+window.onload = function() {
+
+
+
+var url = "https:\/\/www.sg.ethz.ch\/" + ".\/team\/ramona_roller\/data\/2023-07-21_GrapHNR.pdf";
+
+
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = "https:\/\/www.sg.ethz.ch\/" + '/js/pdf-js/build/pdf.worker.js';
+
+
+var pdfDoc = null,
+ pageNum = 1,
+ pageRendering = false,
+ pageNumPending = null,
+ scale = 3,
+ canvas = document.getElementById('the-canvas'),
+ ctx = canvas.getContext('2d');
+
+
+
+function renderPage(num) {
+ pageRendering = true;
+ 
+ pdfDoc.getPage(num).then(function(page) {
+ var viewport = page.getViewport({scale: scale});
+ canvas.height = viewport.height;
+ canvas.width = viewport.width;
+
+ 
+ var renderContext = {
+ canvasContext: ctx,
+ viewport: viewport
+ };
+ var renderTask = page.render(renderContext);
+
+ 
+ renderTask.promise.then(function() {
+ pageRendering = false;
+ if (pageNumPending !== null) {
+ 
+ renderPage(pageNumPending);
+ pageNumPending = null;
+ }
+ });
+ });
+
+ 
+ document.getElementById('page_num').textContent = num;
+}
+
+
+
+function queueRenderPage(num) {
+ if (pageRendering) {
+ pageNumPending = num;
+ } else {
+ renderPage(num);
+ }
+}
+
+
+
+function onPrevPage() {
+ if (pageNum &lt;= 1) {
+ return;
+ }
+ pageNum--;
+ queueRenderPage(pageNum);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
+
+
+
+function onNextPage() {
+ if (pageNum >= pdfDoc.numPages) {
+ return;
+ }
+ pageNum++;
+ queueRenderPage(pageNum);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
+
+
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+ pdfDoc = pdfDoc_;
+ document.getElementById('page_count').textContent = pdfDoc.numPages;
+
+ 
+ renderPage(pageNum);
+});
+}
+
+&lt;/script>
+&lt;a href="https://www.sg.ethz.ch/team/ramona_roller/data/2023-07-21_GrapHNR.pdf">&lt;strong>Download slides&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Talk&lt;/strong>: Soziale Differenzierung während der Europäischen Reformation: Rollenanalyse in Briefkorrespondenznetzwerken
+&lt;br>
+&lt;strong>Event&lt;/strong>: Research visit, Forschungsplattform Frühe Neuzeit&lt;br>
+&lt;strong>Venue&lt;/strong>: Mainz&lt;br>
+&lt;strong>Date&lt;/strong>: July, 7th 2023&lt;br>&lt;/p></description></item><item><title>Ramona Roller's work in the media</title><link>https://www.sg.ethz.ch/extra/rr/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/extra/rr/media/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Newspaper article about International Reuchlin Conference (german)&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Date&lt;/strong>: July, 2nd 2022&lt;br>&lt;/li>
+&lt;li>&lt;a href="https://www.sg.ethz.ch/team/ramona_roller/data/2022-07-02_Reuchlin_PZ.pdf">&lt;strong>Download article&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Article in the magazine of the Evangelical Church in Zurich (german)&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Date&lt;/strong>: February, 2019&lt;br>&lt;/li>
+&lt;li>&lt;a href="https://www.sg.ethz.ch/team/ramona_roller/data/2019-02_notabene.pdf">&lt;strong>Download article&lt;/strong>&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!---&lt;script type="text/javascript" src="https://www.sg.ethz.ch/js/pdf-js/build/pdf.js">&lt;/script>
+&lt;style>
+#the-canvas {
+ border: 1px solid black;
+ direction: ltr;
+ width: 100%;
+ height: auto;
+}
+#paginator{
+ text-align: center;
+ margin-bottom: 10px;
+}
+&lt;/style>
+
+&lt;div id="paginator">
+ &lt;button id="prev">Previous&lt;/button>
+ &lt;button id="next">Next&lt;/button>
+ &amp;nbsp; &amp;nbsp;
+ &lt;span>Page: &lt;span id="page_num">&lt;/span> / &lt;span id="page_count">&lt;/span>&lt;/span>
+&lt;/div>
+&lt;div id="embed-pdf-container">
+ &lt;canvas id="the-canvas">&lt;/canvas>
+&lt;/div>
+
+&lt;script type="text/javascript">
+window.onload = function() {
+
+
+
+var url = "https:\/\/www.sg.ethz.ch\/" + ".\/team\/ramona_roller\/data\/2023-10-01_scoop.pdf";
+
+
+var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+
+pdfjsLib.GlobalWorkerOptions.workerSrc = "https:\/\/www.sg.ethz.ch\/" + '/js/pdf-js/build/pdf.worker.js';
+
+
+var pdfDoc = null,
+ pageNum = 1,
+ pageRendering = false,
+ pageNumPending = null,
+ scale = 3,
+ canvas = document.getElementById('the-canvas'),
+ ctx = canvas.getContext('2d');
+
+
+
+function renderPage(num) {
+ pageRendering = true;
+ 
+ pdfDoc.getPage(num).then(function(page) {
+ var viewport = page.getViewport({scale: scale});
+ canvas.height = viewport.height;
+ canvas.width = viewport.width;
+
+ 
+ var renderContext = {
+ canvasContext: ctx,
+ viewport: viewport
+ };
+ var renderTask = page.render(renderContext);
+
+ 
+ renderTask.promise.then(function() {
+ pageRendering = false;
+ if (pageNumPending !== null) {
+ 
+ renderPage(pageNumPending);
+ pageNumPending = null;
+ }
+ });
+ });
+
+ 
+ document.getElementById('page_num').textContent = num;
+}
+
+
+
+function queueRenderPage(num) {
+ if (pageRendering) {
+ pageNumPending = num;
+ } else {
+ renderPage(num);
+ }
+}
+
+
+
+function onPrevPage() {
+ if (pageNum &lt;= 1) {
+ return;
+ }
+ pageNum--;
+ queueRenderPage(pageNum);
+}
+document.getElementById('prev').addEventListener('click', onPrevPage);
+
+
+
+function onNextPage() {
+ if (pageNum >= pdfDoc.numPages) {
+ return;
+ }
+ pageNum++;
+ queueRenderPage(pageNum);
+}
+document.getElementById('next').addEventListener('click', onNextPage);
+
+
+
+pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+ pdfDoc = pdfDoc_;
+ document.getElementById('page_count').textContent = pdfDoc.numPages;
+
+ 
+ renderPage(pageNum);
+});
+}
+
+&lt;/script>---></description></item></channel></rss>
