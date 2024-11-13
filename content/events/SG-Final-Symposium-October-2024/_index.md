@@ -49,7 +49,7 @@ with the right spirit, skills, and leadership.
 ## Registration 
 
 **Participation** is free of charge but **registration** is
-required: [Register here]()
+required.
 
 For the Farewell Lecture of Frank Schweitzer no registration
 is needed. 
@@ -62,12 +62,12 @@ is needed.
 
 
 ## 
-<p style="text-align:center;">&nbsp;
-<iframe  src="group.png" width="200%" frameborder="0" allowfullscreen="true">
-</iframe>&nbsp;
-</p>
+<iframe  src="group.png" width="1000" height="200" frameborder="0" allowfullscreen="true">
+</iframe>
 
 ## 
+
+## More photos can be found  [here](/static/uploads/photos.html)
 
 ## [Download Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
 
