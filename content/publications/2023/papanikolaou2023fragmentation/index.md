@@ -15,6 +15,6 @@ publication: 'Physica A: Statistical Mechanics and its Applications'
 featured: false
 research:
 - Network Theory
-- Opinons Emotions
+- Opinions Emotions
 
 ---

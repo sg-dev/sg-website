@@ -30,4 +30,6 @@ doi: 10.1007/978-3-319-67256-4_11
 research:
 - Network Theory
 - Data Science
+- Social Influence
+
 ---

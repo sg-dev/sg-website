@@ -36,4 +36,6 @@ doi: 10.1007/s11192-017-2309-y
 featured: false
 research:
 - Science of Science
+- Social Influence
+
 ---
