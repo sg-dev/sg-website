@@ -23,5 +23,5 @@ doi: 10.1177/17456916231192052
 featured: false
 research:
 - Resilience
-- Social relations
+- Social Influence
 ---

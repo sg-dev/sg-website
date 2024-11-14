@@ -25,4 +25,5 @@ sg-areas:
 research:
 - Signed Relations
 - Resilience
+- Social Influence
 ---

@@ -11,4 +11,7 @@ publication: socarxiv
 doi: 10.31235/osf.io/67vgr
 featured: false
 sg-areas:
+research: 
+- Social Influence
+
 ---

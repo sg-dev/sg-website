@@ -34,5 +34,6 @@ featured: false
 sg-areas:
 research: 
 - Opinions Emotions
+- Social Influence
 
 ---

@@ -21,4 +21,6 @@ featured: false
 research:
 - Network Theory
 - Data Science
+- Social Influence
+
 ---

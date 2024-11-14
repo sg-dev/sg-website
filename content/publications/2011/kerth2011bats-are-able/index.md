@@ -32,4 +32,7 @@ url_pdf: http://rspb.royalsocietypublishing.org/content/278/1719/2761
 doi: 10.1098/rspb.2010.2718
 featured: false
 sg-areas:
+research: 
+- Social Influence
+
 ---

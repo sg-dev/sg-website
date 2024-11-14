@@ -32,4 +32,8 @@ url_pdf: http://dx.doi.org/10.1016/j.jmp.2010.10.002
 doi: 10.1016/j.jmp.2010.10.002
 featured: false
 sg-areas:
+research: 
+- Opinions Emotions
+- Social Influence
+
 ---

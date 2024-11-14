@@ -14,4 +14,5 @@ featured: false
 research:
 - Resilience
 - Software Engineering
+- Social Influence
 ---
