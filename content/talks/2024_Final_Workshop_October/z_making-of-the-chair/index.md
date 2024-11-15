@@ -16,30 +16,23 @@ events:
 - SG Final Symposium October 2024 
 ---
 
-## Take your seats
+### Take your seats
 
+<video width="100%" controls>
+  <source src="welcome.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<iframe width="832" height="468"
-src="welcome.mp4"
-frameborder="0" allowfullscreen></iframe>
+### Social Capital: Ko-Autoren-Netzwerk ohne FS
 
-## 
+<video width="100%" controls>
+  <source src="output.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-## Social Capital: Ko-Autoren-Netzwerk ohne FS 
+### Making of the Chair
 
-
-<iframe width="832" height="468"
-src="output.mp4"
-frameborder="0" allowfullscreen></iframe>
-
-## 
-
-## Making of the Chair 
-
-
-<iframe width="832" height="468"
-src="making.mp4"
-frameborder="0" allowfullscreen></iframe>
-
-
-## 
+<video width="100%" controls>
+  <source src="making.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
