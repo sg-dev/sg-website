@@ -46,6 +46,7 @@ Thus, the complexity of social and economic systems can be
 effectively addressed by an interdisciplinary team equipped
 with the right spirit, skills, and leadership.
 
+<!--
 ## Registration 
 
 **Participation** is free of charge but **registration** is
@@ -53,6 +54,7 @@ required.
 
 For the Farewell Lecture of Frank Schweitzer no registration
 is needed. 
+-->
 
 ## Organisation
 
@@ -61,11 +63,10 @@ is needed.
   and Data Science, Universität of Würzburg](https://www.ingoscholtes.net/)
 
 
-## 
-<iframe  src="group.png" width="1000" height="200" frameborder="0" allowfullscreen="true">
-</iframe>
+<a href="group.png">
+    <img src="group.png" width="100%">
+</a>
 
-## 
 
 ## More photos can be found  [here](/static/uploads/photos.html)
 
