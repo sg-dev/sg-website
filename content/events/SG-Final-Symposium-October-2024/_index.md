@@ -68,8 +68,17 @@ is needed.
 </a>
 
 
-## More photos can be found  [here](/static/uploads/photos.html)
+## Downloads 
 
-## [Download Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
+- [Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
+	
+- [Photo Gallery](/uploads/gallery.html)
+
+- [Presentation Slides: Click on "See Abstract" for Each Talk]()
+	
+- [Videos: Making of the Chair](/talks/2024_final_workshop_october/z_making-of-the-chair/)
 
 
+- [Videoaufzeichnung: Abschiedsvorlesung](/talks/2024_final_workshop_october/5-0-schweitzer/)
+
+- [Presentation Slides: Abschiedsvorlesung](/presentations/Schweitzer-Slides.html)

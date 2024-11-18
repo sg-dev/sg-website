@@ -23,16 +23,20 @@ events:
   Your browser does not support the video tag.
 </video>
 
-### Social Capital: Ko-Autoren-Netzwerk ohne FS
-
-<video width="100%" controls>
-  <source src="output.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+###
 
 ### Making of the Chair
 
 <video width="100%" controls>
   <source src="making.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+###
+
+### Social Capital: Ko-Autoren-Netzwerk ohne FS
+
+<video width="100%" controls>
+  <source src="output.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
