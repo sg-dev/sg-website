@@ -156,14 +156,16 @@ Die Erstellung und Analyse eines Wissensgraphen wird am Beispiel des Briefaustau
  &lt;source src="welcome.mp4" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;h3 id="social-capital-ko-autoren-netzwerk-ohne-fs">Social Capital: Ko-Autoren-Netzwerk ohne FS&lt;/h3>
-&lt;video width="100%" controls>
- &lt;source src="output.mp4" type="video/mp4">
- Your browser does not support the video tag.
-&lt;/video>
+&lt;h3 id="heading">&lt;/h3>
 &lt;h3 id="making-of-the-chair">Making of the Chair&lt;/h3>
 &lt;video width="100%" controls>
  &lt;source src="making.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+&lt;/video>
+&lt;h3 id="heading-1">&lt;/h3>
+&lt;h3 id="social-capital-ko-autoren-netzwerk-ohne-fs">Social Capital: Ko-Autoren-Netzwerk ohne FS&lt;/h3>
+&lt;video width="100%" controls>
+ &lt;source src="output.mp4" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video></description></item><item><title>Massively Multilingual Natural Language Processing</title><link>https://www.sg.ethz.ch/talks/2023_dh/glavas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2023_dh/glavas/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>Multilingual language models (LMs) (e.g., multilingual BERT or XLM-R) have pushed the state of the art in multilingual NLP, yielding robust performance for various NLP tasks for languages with little or no task-specific training data. Multilingual LMs, however, suffer from a phenomenon known as curse of multilinguality: for a fixed model capacity, representations of individual languages deteriorate with inclusion of more languages into pretraining. The quality of text encodings thus varies drastically across languages, correlating highly with the size of the languages’ pretraining corpora. I will present work on remedying the curse of multilinguality and improving NLP models for low-resource languages, including the approaches that leverage massively multilingual lexical resources (e.g., BabelNet, PanLex).&lt;/p></description></item><item><title>Mathematical Foundations of Early-Warning Signs and Resilience</title><link>https://www.sg.ethz.ch/talks/2022/kuehn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2022/kuehn/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>

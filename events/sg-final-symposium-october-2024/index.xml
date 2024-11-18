@@ -19,14 +19,16 @@ frameborder="0" allowfullscreen>&lt;/iframe>
  &lt;source src="welcome.mp4" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;h3 id="social-capital-ko-autoren-netzwerk-ohne-fs">Social Capital: Ko-Autoren-Netzwerk ohne FS&lt;/h3>
-&lt;video width="100%" controls>
- &lt;source src="output.mp4" type="video/mp4">
- Your browser does not support the video tag.
-&lt;/video>
+&lt;h3 id="heading">&lt;/h3>
 &lt;h3 id="making-of-the-chair">Making of the Chair&lt;/h3>
 &lt;video width="100%" controls>
  &lt;source src="making.mp4" type="video/mp4">
+ Your browser does not support the video tag.
+&lt;/video>
+&lt;h3 id="heading-1">&lt;/h3>
+&lt;h3 id="social-capital-ko-autoren-netzwerk-ohne-fs">Social Capital: Ko-Autoren-Netzwerk ohne FS&lt;/h3>
+&lt;video width="100%" controls>
+ &lt;source src="output.mp4" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video></description></item><item><title>Memory, Causality and Their Consequences in Temporal Networks</title><link>https://www.sg.ethz.ch/talks/2024_final_workshop_october/1-1-karsai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2024_final_workshop_october/1-1-karsai/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>Temporal networks are commonly used to represent systems
