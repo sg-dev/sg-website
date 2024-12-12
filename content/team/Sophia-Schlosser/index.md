@@ -8,7 +8,7 @@ firstname: Sophia Johanna
 lastname: Schlosser
 role: Postdoc
 honorific: Dr.sc.ETH
-weight: 70
+weight: 94
 aliases:
     - /team/people/sophia-johanna-schlosser/
 background: /images/color_net.png
