@@ -33,4 +33,4 @@ Giacomo publishes papers in major peer-review journals.
 He is a member of the editorial board for the journal Social Network Analysis and Mining and has been a guest editor of the journal Advances of Complex Systems.
 He is also an active reviewer for various venues, including Journal of Informetrics, European Physics Journal - Data Science, and Physica A.
 
-On top of the research activity, Giacomo has been teaching the course [Agent-Based Modelling of Social Systems](https://www.sg.ethz.ch/teaching/abm/) with [Prof. Frank Schweitzer](https://www.sg.ethz.ch/team/frank_schweitzer/).
+On top of the research activity, Giacomo has been teaching the course [Agent-Based Modelling of Social Systems](https://www.sg.ethz.ch/teaching/abm/) with [Prof. Frank Schweitzer](https://www.sg.ethz.ch/team/frank_schweitzer/). Now Giacomo is at the [Chair of Ecosystem Managment](https://ecology.ethz.ch/).
