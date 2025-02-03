@@ -3,8 +3,11 @@
 &lt;ul>
 &lt;li>&lt;strong>Event&lt;/strong>: GrapHNR conference&lt;br>&lt;/li>
 &lt;li>&lt;strong>Venue&lt;/strong>: Mainz&lt;br>&lt;/li>
-&lt;li>&lt;strong>Date&lt;/strong>: July, 21st 2023&lt;br>
-&lt;script type="text/javascript" src="https://www.sg.ethz.ch/js/pdf-js/build/pdf.js">&lt;/script>
+&lt;li>&lt;strong>Date&lt;/strong>: July, 21st 2023&lt;br>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;!--- &lt;script type="text/javascript" src="https://www.sg.ethz.ch/js/pdf-js/build/pdf.js">&lt;/script>
 &lt;style>
 #the-canvas {
  border: 1px solid black;
@@ -125,16 +128,8 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
 });
 }
 
-&lt;/script>
-&lt;a href="https://www.sg.ethz.ch/team/ramona_roller/data/2023-07-21_GrapHNR.pdf">&lt;strong>Download slides&lt;/strong>&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Talk&lt;/strong>: Soziale Differenzierung während der Europäischen Reformation: Rollenanalyse in Briefkorrespondenznetzwerken
-&lt;br>
-&lt;strong>Event&lt;/strong>: Research visit, Forschungsplattform Frühe Neuzeit&lt;br>
-&lt;strong>Venue&lt;/strong>: Mainz&lt;br>
-&lt;strong>Date&lt;/strong>: July, 7th 2023&lt;br>&lt;/p></description></item><item><title>Ramona Roller's work in the media</title><link>https://www.sg.ethz.ch/extra/rr/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/extra/rr/media/</guid><description>&lt;ul>
+&lt;/script> --->
+&lt;p>&lt;a href="https://www.sg.ethz.ch/team/ramona_roller/data/2023-07-21_GrapHNR.pdf">&lt;strong>Download slides&lt;/strong>&lt;/a>&lt;/p></description></item><item><title>Ramona Roller's work in the media</title><link>https://www.sg.ethz.ch/extra/rr/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/extra/rr/media/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>&lt;strong>Newspaper article about International Reuchlin Conference (german)&lt;/strong>&lt;/p>
 &lt;ul>
