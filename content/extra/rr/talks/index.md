@@ -6,7 +6,7 @@ title: Ramona Roller's talks
     - **Event**: GrapHNR conference<br>
     - **Venue**: Mainz<br>
     - **Date**: July, 21st 2023<br>
-{{< embed-pdf url="./team/ramona_roller/data/2023-07-21_GrapHNR.pdf" >}}
+<!--- {{< embed-pdf url="./team/ramona_roller/data/2023-07-21_GrapHNR.pdf" >}} --->
 <a href="/team/ramona_roller/data/2023-07-21_GrapHNR.pdf">**Download slides**</a>
 
 
