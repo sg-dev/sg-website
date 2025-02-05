@@ -20,8 +20,8 @@ to ETH Students from the following Departments: `D-MTEC`, `D-PHYS`, `D-MAVT`, an
 - **Alesch Bättig** (Semester Thesis): *"How sustainable cooperation creates resilient organizations:
 An agent-based model."*\
 	Department of Physics\
-    Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi\ 
-  Date of completion 06/2024
+    Supervisor: Prof. Frank Schweitzer, Dr. Giona Casiraghi\
+	Date of completion 06/2024
 
 
 ### 2023
@@ -349,16 +349,7 @@ An agent-based model."*\
     Supervisor: Prof. Frank Schweitzer\
     Date of completion: 07/2008
 
-
-### 2007
-
-- **Remo Sandro Storni** (Master Thesis): *"A simple social vs economical capital trade-off model"*\
-	Department of Mathematics, ETH Zurich\
-	Supervisor: Prof. Frank Schweitzer\
-	Date of completion: 08/2007
-
-
-## 2005
+### 2005
 
 - **Nicolas Bürkler** (Semester Thesis): *"Dynamics of Companies: The Evolution of its Research"*\
 	Department of Mechanical and Process Engineering, ETH Zurich\
