@@ -19,7 +19,7 @@ Over a period of 20 years, more than 70 researchers from various disciplines
 political science and economics) have been working with us. 
 30 of them obtained their doctoral degree.
 More information about our collaborators can be found under 
-[Team](/team/) and [Theses](/theses/). 
+[Team](/team-complete/) and [Theses](/theses/). 
 
  Our research can be best described as
 *data driven modelling* of complex systems with particular
