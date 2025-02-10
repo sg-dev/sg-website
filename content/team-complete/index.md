@@ -178,7 +178,7 @@ Stefano](https://www.unive.it/data/persone/23832560/curriculum)
 - [Schweighofer,  Simon](https://www.linkedin.com/in/simon-schweighofer-phd-32a55619b/)
 
 
-- [Schweitzer, Frank](https://www.sg.ethz.ch) 
+- [Schweitzer, Frank](https://www.sg.ethz.ch/team/frank_schweitzer/)) 
 
 - [Siegfried, Carole]() 
 
