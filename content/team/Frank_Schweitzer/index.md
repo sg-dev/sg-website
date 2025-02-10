@@ -4,7 +4,7 @@ firstname: Frank
 lastname: Schweitzer
 honorific: Prof. Dr. Dr.
 email: fschweitzer@ethz.ch
-role: Professor
+role: Professor Emeritus
 weight: 100
 room:
 homepage:
