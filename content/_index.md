@@ -30,7 +30,7 @@ More information can be found under [About us](/about/), [Research](/research/),
 The publication list will be **regularly updated** as pending
 papers are published.  
 
-Frank Schweitzer remains at ETH Zurich as a Professor
+[Frank Schweitzer](https://www.sg.ethz.ch/team/frank_schweitzer/) remains at ETH Zurich as a Professor
 emeritus (Prof. em.) and can still be reached via his email
 address "@ethz.ch". 
 A small team with [Dr. Luca Verginer](https://www.sg.ethz.ch/team/luca_verginer/), [Dr. Giona Casiraghi](https://www.sg.ethz.ch/team/giona_casiraghi/)
