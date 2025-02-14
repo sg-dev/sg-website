@@ -1,13 +1,16 @@
 ---
 title: Giacomo Vaccario
-image: profile_pic.jpg
-email: gvaccario@ethz.ch
-room: WEV G 206
-tel: +41 44 632 82 11
-github: giava90
-website: https://www.linkedin.com/in/giacomo-vaccario-631772a6/
 firstname: Giacomo
 lastname: Vaccario
+image: profile_pic.jpg
+email: gvaccario@ethz.ch
+room: CHN G 73.2
+tel: +41 44 632 82 11
+github: giava90
+website: http://www.giacomovaccario.eu/
+firstname: Giacomo
+lastname: Vaccario
+twitter: giacomovaccario
 role: Senior Researcher
 orcid: 0000-0001-8290-2742
 gscholar: yo8IoxwAAAAJ
@@ -18,6 +21,7 @@ bg_tiled: true
 aliases:
     - /team/people/gvaccario/
 ---
+
 Giacomo is a senior researcher at the Chair of Systems Design, ETH Zurich.
 In this group, he worked as a post-doc and obtained a Doctorate in Science in 2019.
 Before joining ETH Zurich, he completed the Part III of the Mathematical Tripos from the University of Cambridge and received a Master in Theoretical Physics from Sapienza University of Rome.
@@ -33,4 +37,4 @@ Giacomo publishes papers in major peer-review journals.
 He is a member of the editorial board for the journal Social Network Analysis and Mining and has been a guest editor of the journal Advances of Complex Systems.
 He is also an active reviewer for various venues, including Journal of Informetrics, European Physics Journal - Data Science, and Physica A.
 
-On top of the research activity, Giacomo has been teaching the course [Agent-Based Modelling of Social Systems](https://www.sg.ethz.ch/teaching/abm/) with [Prof. Frank Schweitzer](https://www.sg.ethz.ch/team/frank_schweitzer/). Now Giacomo is at the [Chair of Ecosystem Managment](https://ecology.ethz.ch/) working on the wood supply chain.
+On top of the research activity, Giacomo has been teaching the course [Agent-Based Modelling of Social Systems](https://www.sg.ethz.ch/teaching/abm/) with [Prof. Frank Schweitzer](https://www.sg.ethz.ch/team/frank_schweitzer/). Now Giacomo is at the [Chair of Ecosystem Managment](https://ecology.ethz.ch/) working on the wood supply chain. [Personal webiste](https://www.giacomovaccario.eu). 
