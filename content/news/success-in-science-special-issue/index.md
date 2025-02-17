@@ -15,7 +15,7 @@ This issue and the satellite would not have been possible without the valuable c
 Specifically, we thank the Editors and Guest Editors of ACS and Organizers of the CCS satellite.
 
 - [Dr. Luca Verginer](/team/luca_verginer)
-- [Dr. Giacomo Vaccario](/team/giacomo_vaccario)
+- [Dr. Giacomo Vaccario](https://giacomovaccario.eu/)
 - [Prof. Alexander M. Petersen](http://physics.bu.edu/~amp17/)
 
 We hope you enjoy the contributions in this special issue!
