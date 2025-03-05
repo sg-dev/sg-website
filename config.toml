@@ -14,7 +14,7 @@ pluralizelisttitles = "false"
     teaching = "teaching"
 
 [params]
-    unitName = "Chair of Systems Design (formerly)"
+    unitName = "Chair of Systems Design"
     unitCode = "SG"
     departmentCode = "D-MTEC"
     departmentURL = "https://mtec.ethz.ch/"
