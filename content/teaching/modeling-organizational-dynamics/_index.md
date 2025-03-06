@@ -57,7 +57,7 @@ target="_blank">Lecture 02: Basics - Modeling</a>
 ### Networks 
 
 - <a href="/presentations/slides03.html"
-target="_blank">Lecture 03: Networks - Topomlogy</a>
+target="_blank">Lecture 03: Networks - Topology</a>
 
 
 - <a href="/presentations/slides04.html"
