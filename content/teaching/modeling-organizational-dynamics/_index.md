@@ -127,3 +127,8 @@ target="_blank">Lecture 19: Data - Performance</a>
 - <a href="/presentations/slides20.html"
 target="_blank">Lecture 20: Data - Resilience</a>
 
+### Exercises
+[Repository for the Exercises](https://github.com/sg-dev/Exercises-Modeling-Organizational-Dynamics)
+
+
+
