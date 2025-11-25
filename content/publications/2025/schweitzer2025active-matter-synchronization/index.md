@@ -1,8 +1,8 @@
 ---
 title: Active matter synchronization and synergetics
 date: '2025-11-11'
-publishDate: '2025-10-17T13:50:10.656166Z'
-volume: 10.1140/epjs/s11734-025-02035-7
+publishDate: '2025-11-24T13:50:10.656166Z'
+volume: 
 pages: 
 authors:
 - Frank Schweitzer
@@ -25,6 +25,8 @@ abstract: "We study the collective behavior in a stochastic agent-based model of
   \ switching between cooperation and competition.   The model dynamics illustrates\
   \ the principles of synergetics, i.e., the spontaneous emergence of order given\
   \ a critical energy supply and cooperative interactions. "
+url_pdf: http://dx.doi.org/10.1140/epjs/s11734-025-02035-7
+doi: 10.1140/epjs/s11734-025-02035-710.1063/5.0234563
 publication: 'European Physical Journal: Special Topics'
 featured: false
 ---
