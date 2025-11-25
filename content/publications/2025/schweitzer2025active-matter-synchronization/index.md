@@ -1,9 +1,9 @@
 ---
 title: Active matter synchronization and synergetics
-date: '2025-01-01'
+date: '2025-11-11'
 publishDate: '2025-10-17T13:50:10.656166Z'
-volume: XXX
-pages: XXX
+volume: 10.1140/epjs/s11734-025-02035-7
+pages: 
 authors:
 - Frank Schweitzer
 - Georges Andres
