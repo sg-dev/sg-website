@@ -25,7 +25,7 @@ abstract: "We study the collective behavior in a stochastic agent-based model of
   \ switching between cooperation and competition.   The model dynamics illustrates\
   \ the principles of synergetics, i.e., the spontaneous emergence of order given\
   \ a critical energy supply and cooperative interactions. "
-url_pdf: http://dx.doi.org/10.1140/epjs/s11734-025-02035-7
+url_pdf: https://link.springer.com/article/10.1140/epjs/s11734-025-02035-7
 doi: 10.1140/epjs/s11734-025-02035-710.1063/5.0234563
 publication: 'European Physical Journal: Special Topics'
 featured: false
