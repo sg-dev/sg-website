@@ -20,7 +20,7 @@ events:
 
 
 <iframe width="832" height="468"
-src="https://video.ethz.ch/etc/designs/mmp/video/player.html?id=fa1c7d10-e7da-4721-beb5-dcf9faed4baa"
+src="Abschiedsvorlesung.mp4"
 frameborder="0" allowfullscreen></iframe>
 
 
