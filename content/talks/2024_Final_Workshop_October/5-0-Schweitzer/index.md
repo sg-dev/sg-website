@@ -18,9 +18,8 @@ events:
 ## Videoaufzeichnung 
 
 
-
 <iframe width="832" height="468"
-src="Abschiedsvorlesung.mp4"
+src="https://simply-complex.net/img/Abschiedsvorlesung.mp4"
 frameborder="0" allowfullscreen></iframe>
 
 
