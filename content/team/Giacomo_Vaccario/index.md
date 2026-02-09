@@ -8,8 +8,6 @@ room: CHN G 73.2
 tel: +41 44 632 82 11
 github: giava90
 website: http://www.giacomovaccario.eu/
-firstname: Giacomo
-lastname: Vaccario
 twitter: giacomovaccario
 role: Senior Researcher
 orcid: 0000-0001-8290-2742

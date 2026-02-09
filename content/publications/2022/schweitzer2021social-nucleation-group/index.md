@@ -23,7 +23,6 @@ publication: Physical Review E
 featured: false
 doi: https://doi.org/10.1103/PhysRevE.105.044301
 url_pdf: https://journals.aps.org/pre/pdf/10.1103/PhysRevE.105.044301
-featured: false
 sg-areas:
 research: 
 - Opinions Emotions
