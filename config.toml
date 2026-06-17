@@ -83,3 +83,7 @@ pygmentsUseClasses = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+
+[security]
+  allowContent = ['text/html', 'text/markdown', 'text/plain', 'application/toml', 'application/yaml', 'application/json']
