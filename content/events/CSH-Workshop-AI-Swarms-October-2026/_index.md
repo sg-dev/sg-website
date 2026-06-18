@@ -3,7 +3,7 @@ featured_image: bg.png
 title: "From Fear to Forecast: Understanding AI Swarms" 
 description: CSH Workshop 
 date: 2026-06-17
-publishDate: '2026-09-16T11:01:11.698833Z'
+publishDate: '2026-06-16T11:01:11.698833Z'
 from: "2026-10-05T9:00:00"
 to: "2026-10-07T13:00:00"
 where: "Complexity Science Hub Vienna"
