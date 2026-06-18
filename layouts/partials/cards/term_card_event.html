@@ -1,0 +1,49 @@
+<figure class="card">
+    <a href="{{ .RelPermalink }}">
+        <div>
+            {{ $image := resources.Get "images/pattern1.png" }}
+            {{ if .Params.featured_image }}
+                {{ $image = .Resources.GetMatch .Params.featured_image }}
+            {{ end }}
+            {{ $cropped := $image.Fill "400x200 Center" }}
+
+            {{ $label := "" }}
+            {{ if .Params.from }}
+                {{ $label = (time .Params.from) | time.Format "Jan 2, 2006" }}
+            {{ end }}
+            {{ if .Params.label }}
+                {{ $label = .Params.label }}
+            {{ end }}
+
+            <div class='image'>
+                <img src="{{ $cropped.RelPermalink }}">
+                {{ with $label }}
+                    <p class="image-tag sg-tag"><strong>{{ . }}</strong></p>
+                {{ end }}
+            </div>
+            <h3>{{ .Title }}</h3>
+            {{ if .Params.from }}
+                <p>{{ .Params.event_type }}</p>
+            {{ end }}
+            <p>
+                {{ if .Params.where }}
+                    <b>{{ .Params.where }}</b><br>
+                {{ end }}
+                {{ if .Params.from }}
+                    {{ if .Params.to }}
+                        {{ $sameDay := eq (dateFormat "2006-01-02" .Params.from) (dateFormat "2006-01-02" .Params.to) }}
+                        {{ $sameMonth := eq (dateFormat "2006-01" .Params.from) (dateFormat "2006-01" .Params.to) }}
+                        {{ if $sameDay }}
+                            {{ (time .Params.from) | time.Format "2 January, 15:04" }}–{{ (time .Params.to) | time.Format "15:04" }}
+                        {{ else if $sameMonth }}
+                            {{ (time .Params.from) | time.Format "2" }}–{{ (time .Params.to) | time.Format "2 January, 2006" }}
+                        {{ else }}
+                            {{ (time .Params.from) | time.Format "2 January" }}–{{ (time .Params.to) | time.Format "2 January, 2006" }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </p>
+        </div>
+    </a>
+</figure>
+

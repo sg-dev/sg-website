@@ -1,0 +1,53 @@
+{{ $break := false }}
+{{ with .Params.break }}
+{{ $break = . }}
+{{ end }}
+
+{{ if eq $break true }}
+<div class="break">
+    <h3>{{ .Params.Title }}</h3>
+    <span>{{- dateFormat "15:04" .Params.from -}}<span>–</span>{{- dateFormat "15:04" .Params.to -}}</span>
+</div>
+{{end}}
+{{ if eq $break false }}
+<a href="{{ .RelPermalink }}" class="list speaker">
+    {{ if eq $break false }}
+    {{ if ne .Params.featured_image nil }}
+    <div class="first">
+        <p>{{ .Params.speaker}}</p>
+        <h3>{{ .Params.Title }}</h3>
+        <p><i>{{ .Params.affiliation}}</i></p>
+        <div style="clear: both;">
+            <p style="float: left;"> > See Abstract</p>
+            <p style="float: right;">{{- dateFormat "15:04" .Params.from -}}<span> – </span>{{- dateFormat "15:04"
+                .Params.to -}}</p>
+        </div>
+    </div>
+
+
+    <div class="second">
+        {{ if ne .Params.featured_image nil }}
+        {{ with .Resources.GetMatch ( .Params.featured_image ) }}
+        {{ $image := . }}
+        {{ with $image.Fill "400x500 Center" }}
+        <img src="{{ .RelPermalink }}">
+        {{ else }}
+        <!-- Fallback Image in case .Fill fails -->
+        <img src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" width="400"
+            height="500">
+        {{ end }}
+        {{ else }}
+        <!-- Fallback Image if no featured image is found -->
+        <img src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" width="400"
+            height="500">
+        {{ end }}
+        {{ else }}
+        <img src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" width="400"
+            height="500">
+        {{ end }}
+
+    </div>
+    {{ end }}
+    {{ end }}
+</a>
+{{end}}

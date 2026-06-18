@@ -1,0 +1,15 @@
+<div class="list session">
+    <div class="first">
+        <h3>Session</h3>
+        <h2><strong>{{ .Params.Title }}</strong></h2>
+        <div class="session-details">
+            {{ with .Params.speaker }}
+            <p class="speaker-info"><strong>{{ . }}</strong> (Chair/Discussant)<br><i>{{ $.Params.affiliation }}</i></p>
+            {{ end }}
+            <p class="session-time">
+                {{ dateFormat "January 2" .Params.from }}<br>
+                {{ dateFormat "15:04" .Params.from }} – {{ dateFormat "15:04" .Params.to }}
+            </p>
+        </div>
+    </div>
+</div>

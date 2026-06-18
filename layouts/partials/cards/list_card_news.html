@@ -1,0 +1,14 @@
+<a href="{{ .RelPermalink }}" class="list">
+    <div class="first">
+        <h3>{{ .Params.Title }}</h3>
+        <p>{{ .Description }}</p>
+        <p class="date">{{- dateFormat "Jan 2, 2006" .PublishDate -}} - {{- partial "elapsed_time" . -}}</p>
+    </div>
+    <div class="second">
+        {{ if .Params.featured_image }}
+            {{ $image := .Resources.GetMatch ( .Params.featured_image ) }}
+            {{ $cropped := $image.Fill "200x200 Center" }}
+            <img src="{{ $cropped.RelPermalink }}">
+        {{ end }}
+    </div>
+</a>

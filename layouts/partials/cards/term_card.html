@@ -1,0 +1,22 @@
+
+<figure class="card">
+    <a href="{{ .RelPermalink }}">
+    <div>
+    {{ $image := resources.Get "images/pattern1.png" }}
+    {{ if .Params.featured_image }}
+        {{ $image = .Resources.GetMatch .Params.featured_image }}
+    {{ end }}
+    {{ $cropped := $image.Fill "400x200 Center" }}
+
+
+    <div class='image'>
+        <img src="{{ $cropped.RelPermalink }}">
+        {{ with .Params.label}}
+        <p class="image-tag sg-tag"><strong>{{ . }}</strong></p>
+        {{ end }}
+    </div>
+    <h3>{{ .Title }}</h3>
+    <p>{{ .Params.description }}</p>
+</a>
+</figure>
+

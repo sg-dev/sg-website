@@ -1,0 +1,25 @@
+
+<figure class="card">
+<a href="{{ .RelPermalink }}">
+    <div>
+    {{ $image := resources.Get "images/pattern1.png" }}
+    {{ if .Params.featured_image }}
+        {{ $image = .Resources.GetMatch .Params.featured_image }}
+    {{ end }}
+    {{ with $image }}
+        {{ $cropped := .Fill "400x200 Center" }}
+        <img src="{{ $cropped.RelPermalink }}">
+    {{ end }}
+    <h3>{{ .Title }}</h3>
+    <p>{{ .Description | truncate 80}}</p>
+    <div>
+        <p class="date flushleft">
+        {{with .Params.pin}}<i class='fas fa-thumbtack' style='display:float'></i>{{end}}
+        </p>
+        <p class="date flushright">added {{- partial "elapsed_time" . -}}</p>
+        <div style="clear: both;"></div>
+    </div>
+    </div>
+</a>
+</figure>
+

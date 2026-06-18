@@ -1,0 +1,19 @@
+<a href="{{ .RelPermalink }}" class="list">
+        <div class="first">
+            <h3>{{ .Params.Title }}</h3>
+            <p>
+                {{ with .Params.publication }}
+                <span class="journal">{{ . }}</span> - {{ end }}
+                <span>{{ dateFormat "2006" .Params.date }}</span>
+            </p>
+            <p><span class="author">{{ delimit .Params.authors ", " " and "}}</span></p>
+        </div>
+        <div class="second">
+            {{ $images := .Resources.ByType "image" }}
+            {{ with $images}}
+                {{ $image := index . 0 }}
+                {{ $cropped := $image.Fill "200x200 Center" }}
+                <img src="{{ $cropped.RelPermalink }}">
+            {{ end }}
+        </div>
+</a>

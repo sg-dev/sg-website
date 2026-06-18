@@ -1,0 +1,12 @@
+<figure class="card">
+    <a href="{{ .RelPermalink }}">
+    <div>
+        {{ if .Params.featured_image }}
+            {{ $image := .Resources.GetMatch ( .Params.featured_image ) }}
+            {{ $cropped := $image.Fill "400x200 Center" }}
+            <img src="{{ $cropped.RelPermalink }}">
+        {{ end }}
+    <h3>{{ .Title }}</h3>
+    <p>{{ .Description }}</p>
+</a>
+</figure>

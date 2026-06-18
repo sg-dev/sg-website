@@ -1,0 +1,37 @@
+{{ $isBreak := eq .Params.break true }}
+{{ $isSession := eq .Params.session true }}
+{{ $hasContent := ne (trim .Content " \n") "" }}
+{{ $hasAbstract := not $hasContent }}
+{{ $dateFormat := "January 2, 2006 | 15:04" }}
+{{ $timeFormat := "15:04" }}
+
+{{ if $isBreak }}
+    {{ partial "cards/break.html" . }}
+{{ else if $isSession }}
+    {{ partial "cards/session.html" . }}
+{{ else }}
+    <a href="{{ .RelPermalink }}" 
+       class="list speaker{{ if .Params.highlight }} highlight{{ end }}{{ if .Params.common }} common{{ end }}{{ if $hasAbstract }} no-abstract{{ end }}">
+        <div class="first">
+            <p>{{ .Params.speaker }}</p>
+            <h3>{{ .Params.Title }}</h3>
+            <p><i>{{ .Params.affiliation }}</i></p>
+            <div class="talk-details">
+                {{ if not $hasAbstract }}
+                <p class="abstract-link"><i class="fas fa-clipboard"></i>&nbsp;&nbsp;See Abstract</p>
+                {{ end }}
+                <p class="talk-time">{{ dateFormat $dateFormat .Params.from }}–{{ dateFormat $timeFormat .Params.to }}</p>
+            </div>
+        </div>
+
+        <div class="second">
+            {{ $image := .Resources.GetMatch .Params.featured_image }}
+            {{ with $image }}
+                {{ $resized := .Fill "400x500 Center" }}
+                <img src="{{ $resized.RelPermalink }}" alt="{{ $.Params.Title }}">
+            {{ else }}
+                <img src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%3E%3C/svg%3E" width="400" height="500" alt="Placeholder">
+            {{ end }}
+        </div>
+    </a>
+{{ end }}
