@@ -18,7 +18,7 @@ abstract: The widely known Yin-Yang symbol (Taijitu) is based on nested circles
   Golden Ratio as the growth parameter. The didactical quantitative derivation 
   of the Yin-Yang symbol and its grounding in real-world observations can be 
   regarded as a novel perspective on this iconic pattern.
-publication: (to be published)
+publication:  Preprint arXiv:2606.18009
 url_pdf: https://arxiv.org/abs/2606.18009
 doi: 10.48550/arXiv.2606.18009
 featured: false
