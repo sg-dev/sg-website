@@ -1,7 +1,7 @@
 ---
 title: 'Resilience: Understand Breakdown, Foster Recovery, and Choose the Right Perspective'
 date: '2026-01-01'
-publishDate: '2026-08-05T05:58:01.236433Z'
+publishDate: '2026-07-05T05:58:01.236433Z'
 authors:
 - Frank Schweitzer
 abstract: Resilience denotes the capacity of a system to withstand shocks and to
