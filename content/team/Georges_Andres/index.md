@@ -4,12 +4,13 @@ image: profile_pic.jpg
 email: geandres@ethz.ch
 room: WEV G 208
 tel:
-website:
+website: https://andres.swiss/
+gscholar: T6YZjM0AAAAJ
 firstname: Georges
 lastname: Andres
 role: Postdoc
 weight: 94
-honorific: MSc Physics
+honorific: Dr.
 aliases:
     - /team/people/gandres/
 background: /images/3d_net2.png
