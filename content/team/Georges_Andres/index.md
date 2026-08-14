@@ -1,16 +1,19 @@
 ---
 title: Georges Andres
-image: profile_pic.jpg
-email: geandres@ethz.ch
-room: WEV G 208
-tel:
-website: https://andres.swiss/
-gscholar: T6YZjM0AAAAJ
 firstname: Georges
 lastname: Andres
 role: Postdoc
 weight: 94
 honorific: Dr.
+room: WEV G 208
+
+
+image: profile_pic.jpg
+email: geandres@ethz.ch
+website: https://andres.swiss/
+gscholar: T6YZjM0AAAAJ
+github: GeorgesAndres
+
 aliases:
     - /team/people/gandres/
 background: /images/3d_net2.png
