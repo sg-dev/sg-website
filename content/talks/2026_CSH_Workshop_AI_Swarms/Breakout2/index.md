@@ -1,5 +1,5 @@
 ---
-title: Breakout Session / Working Groups 
+title: "SwarmPosium: Live experiment with LLM personas"
 
 draft: false
 featured: false
@@ -10,9 +10,9 @@ common: true
 highlight: 
 speaker: 
 affiliation: 
-- graph learning, collective learning 
-- autonomy, decentralized control, prediction
-- scalability, multi-layer interaction
+# - graph learning, collective learning 
+# - autonomy, decentralized control, prediction
+# - scalability, multi-layer interaction
 where:
 
 from: 2026-10-05T16:00:00

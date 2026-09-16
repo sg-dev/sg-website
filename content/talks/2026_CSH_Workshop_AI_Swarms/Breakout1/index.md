@@ -1,6 +1,5 @@
 ---
-title: Breakout Session / Working Groups 
-
+title: "SwarmPosium: Live experiment with LLM personas"
 draft: false
 featured: false
 featured_image: breakout.png 
@@ -10,9 +9,9 @@ common: true
 highlight: 
 speaker: 
 affiliation: 
-- LLM, chain-of-thought
-- learning, recombination vs. novelty
-- semantic truth vs. procedural legitimacy
+# - LLM, chain-of-thought
+# - learning, recombination vs. novelty
+# - semantic truth vs. procedural legitimacy
 where:
 
 from: 2026-10-05T11:00:00

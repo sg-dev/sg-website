@@ -1,5 +1,5 @@
 ---
-title: Breakout Session / Working Groups 
+title: "SwarmPosium: Live experiment with LLM personas" 
 
 draft: false
 featured: false
@@ -10,9 +10,9 @@ description:
 highlight: 
 speaker: 
 affiliation: 
-- human-swarm interactions, maintain coherence
-- coordination, adaptation, co-evolution 
-- cascading effects, control 
+# - human-swarm interactions, maintain coherence
+# - coordination, adaptation, co-evolution 
+# - cascading effects, control 
 
 where:
 from: 2026-10-06T11:00:00

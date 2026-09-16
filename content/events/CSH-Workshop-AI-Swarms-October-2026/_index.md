@@ -53,27 +53,23 @@ motivate interventions and policies.
 * Understanding: To what extent can LLM based multi-agent
 systems exhibit swarm behavior? 
 
-* Interventions: How can malicious AI swarms be
-detected, steered or disrupted? 
-
 * Methodologies: How can we empirically understand the
   individual and collective behavior of AI agents?
 
+* Interventions: How can malicious AI swarms be
+detected, steered or disrupted? 
+
+
 ## Participants 
 
-* Bail, Christopher	(Duke U), USA
-* Baronchelli, Andrea (City U London), UK
-* Eisenberger, Iris (Vienna), Austria
 * Evans, James	(U. Chicago), USA
 * Galesic, Mirta (CSH Vienna), Austria
 * Garcia, David (U Konstanz), Germany
-
 * Hamann, Heiko (U Konstanz), Germany
 * Hayes, Abigail (U Mannheim), Germany
-
+* Kunst, Jonas	(Norwegian Business School), Norway
 * Lorenz-Spreen, Philipp (MPI Berlin), Germany
 * de Marzo, Giordano (U Konstanz), Germany
-* Kunst, Jonas	(Norwegian Business School), Norway
 * Olsson, Henrik (CSH Vienna), Austria
 * Prieto-Curiel, Rafael (CSH Vienna), Austria
 * Scholtes, Ingo (U Würzburg), Germany

@@ -1,5 +1,5 @@
 ---
-title: Breakout Session / Working Groups 
+title: "SwarmPosium: Live experiment with LLM personas" 
 
 draft: false
 featured: false
@@ -10,9 +10,9 @@ description:
 highlight: 
 speaker: 
 affiliation: 
-- systemic risk, adaptivity
-- unintended consequences
-- legal boundaries and costs
+# - systemic risk, adaptivity
+# - unintended consequences
+# - legal boundaries and costs
 
 where:
 from: 2026-10-07T11:00:00

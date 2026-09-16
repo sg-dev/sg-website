@@ -3,7 +3,7 @@ title: "Welcome"
 
 draft: false
 featured: false
-featured_image: icon.png
+featured_image: Stefan-Thurner_2022-10-19_003.jpg
 speaker_image:
 description:
 highlight: true

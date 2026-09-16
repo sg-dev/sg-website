@@ -1,5 +1,5 @@
 ---
-title: Breakout Session / Working Groups 
+title: "SwarmPosium: Live experiment with LLM personas" 
 
 draft: false
 featured: false
@@ -10,9 +10,9 @@ description:
 highlight: 
 speaker: 
 affiliation:
-- strategic behavior of collectives
-- role of attention and emotions
-- opinion dynamics 
+# - strategic behavior of collectives
+# - role of attention and emotions
+# - opinion dynamics 
 
 where:
 from: 2026-10-06T16:00:00
