@@ -1,5 +1,5 @@
 ---
-featured_image: bg.png
+featured_image: group.jpeg
 title: "Modeling Organizational Dynamics" 
 description: Master Class
 date: 2025-03-10

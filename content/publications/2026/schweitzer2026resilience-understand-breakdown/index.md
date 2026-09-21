@@ -25,4 +25,6 @@ publication: Preprint arXiv:2607.25458
 url_pdf: https://arxiv.org/abs/2607.25458
 doi: 10.48550/arXiv.2607.25458
 featured: false
+research:
+- Resilience
 ---
