@@ -1,5 +1,5 @@
 ---
-title: "SwarmPosium: Live experiment with LLM personas"
+title: "Exeriments with SwarmPosium: Live Interactions with LLM personas"
 draft: false
 featured: false
 featured_image: breakout.png 

@@ -10,7 +10,7 @@ where: "Complexity Science Hub Vienna"
 weight: 1
 event_type: CSH Workshop
 label: CSH Workshop
-featured: false
+featured: true
 draft: false
 aliases:
 ---
@@ -62,13 +62,13 @@ detected, steered or disrupted?
 
 ## Participants 
 
+* Burkholz, Rebekka (CISPA Saarbrücken), Germany
 * Evans, James	(U. Chicago), USA
 * Galesic, Mirta (CSH Vienna), Austria
 * Garcia, David (U Konstanz), Germany
 * Hamann, Heiko (U Konstanz), Germany
 * Hayes, Abigail (U Mannheim), Germany
 * Kunst, Jonas	(Norwegian Business School), Norway
-* Lorenz-Spreen, Philipp (MPI Berlin), Germany
 * de Marzo, Giordano (U Konstanz), Germany
 * Olsson, Henrik (CSH Vienna), Austria
 * Prieto-Curiel, Rafael (CSH Vienna), Austria
