@@ -16,12 +16,36 @@ events:
 ---
 ### Abstract
 
-Understanding AI regulation on social media
-- legal foundations of AI regulation
-- current regulatory developments
-- implications of AI swarms for social media regulation
+Social media platforms have long been known to host
+substantial populations of bots. As these bots are replaced
+with LLM-driven agents, social media platforms are likely
+one of the first spaces outside frontier AI labs where
+emergent multi-agent dynamics become reality. 
 
-My input talk would focus on a European perspective on this (e.g., the Digital Services Act as the primary regulatory tool for social media) and how this connects to agent swarms and recommendation algorithms (also AI!).
+Moltbook – an agent-only social network – gave a first
+glimpse of how this could look like. The stakes are high:
+social platforms are central to commerce, entertainment,
+political advertisement, and information exchange. Next to
+dynamics potentially emerging from benign agentic delegates
+they are also target for malicious actors who could harness
+AI swarms for influence operations. 
+
+These developments do not occur in a regulatory vacuum: the
+EU's Digital Services Act and AI Act regulate systemic risks
+on large social media platforms and situations in which
+agents interact with natural persons, respectively. 
+As such, they both have implications for AI swarms on social
+media platforms. 
+
+This session will explore the interactions between the recent insights into AI swarms and the regulatory landscape from a European perspective.
+
+### Literature:
+
+- Agents in the Wild: Safety, Society, and the Illusion of Sociality on Moltbook. arXiv preprint. https://doi.org/10.48550/arXiv.2602.13284
+
+- The Digital Services Act, specifically Article 34
+
+- The AI Act, specifically Article 5, Article 50 and Article 55 
 
 
 ### Sildes 
