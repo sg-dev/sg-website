@@ -11,7 +11,7 @@ speaker: Ingo Scholtes
 affiliation: CAIDAS, University of Würzburg
 where:
 from: 2026-10-06T09:15:00
-to: 2026-10-06T15:30:00
+to: 2026-10-06T10:30:00
 events:
 - CSH Workshop AI Swarms October 2026
 ---
