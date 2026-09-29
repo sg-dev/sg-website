@@ -39,9 +39,11 @@ media platforms.
 
 This session will explore the interactions between the recent insights into AI swarms and the regulatory landscape from a European perspective.
 
-### Literature:
+### Literature
 
-- Agents in the Wild: Safety, Society, and the Illusion of Sociality on Moltbook. arXiv preprint. https://doi.org/10.48550/arXiv.2602.13284
+- Agents in the Wild: Safety, Society, and the Illusion of
+Sociality on Moltbook. <br>
+https://doi.org/10.48550/arXiv.2602.13284
 
 - The Digital Services Act, specifically Article 34
 
