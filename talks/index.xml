@@ -121,8 +121,19 @@ social platforms are central to commerce, entertainment,
 political advertisement, and information exchange. Next to
 dynamics potentially emerging from benign agentic delegates
 they are also target for malicious actors who could harness
-AI swarms for influence operations.&lt;/p></description></item><item><title>Input Talk and Discussion: Swarm Intelligence</title><link>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/4-hamann/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/4-hamann/</guid><description>&lt;h3 id="sildes">Sildes&lt;/h3>
-&lt;h3 id="abstract">Abstract&lt;/h3></description></item><item><title>Input Talk and Discussion: Understand Explainability</title><link>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/2-roth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/2-roth/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+AI swarms for influence operations.&lt;/p></description></item><item><title>Input Talk and Discussion: Swarm Intelligence</title><link>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/4-hamann/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/4-hamann/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Can Swarm Intelligence Make AI Collectives Predictable?&lt;/p>
+&lt;p>Classical swarm-intelligence algorithms rely on simple,
+reactive agents that use local information and decentralized
+communication, enabling scalability and robustness.
+A central challenge is the micro-macro link: predicting
+global behavior from local rules and designing local rules
+that produce desired collective outcomes.&lt;/p>
+&lt;p>AI swarms differ because their agents have higher cognitive
+capabilities and often share global information. It remains
+unclear whether greater decentralization would improve these
+systems, or whether swarm-intelligence models can help
+predict their behavior.&lt;/p></description></item><item><title>Input Talk and Discussion: Understand Explainability</title><link>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/2-roth/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/2-roth/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>As AI systems become more agentic, what should it mean to understand them?&lt;/p>
 &lt;p>A common desideratum for explanations is faithfulness: an explanation should accurately reflect how a system operates. But faithfulness alone is not enough. An explanation can faithfully identify individual tokens, activations, model components, messages, or execution steps while providing little useful or human-understable insight into why an agent behaves as it does.&lt;/p>
 &lt;p>I argue that explainability for agentic systems increasingly requires choosing the right granularity, vocabulary, and level of abstraction. Attribution to individual inputs, model components, or execution events must be complemented by higher-level characterizations of system-level design or behavior.&lt;/p></description></item><item><title>Input Talk and Discussion: Understand Social Interactions</title><link>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/1-garcia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sg.ethz.ch/talks/2026_csh_workshop_ai_swarms/1-garcia/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
