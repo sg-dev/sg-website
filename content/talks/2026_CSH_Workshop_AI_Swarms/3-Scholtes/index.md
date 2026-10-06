@@ -40,3 +40,6 @@ AI swarms are networks at two scales. Inside each agent, a large language model 
 	
 	
 ### Sildes 
+
+[Slides-Scholtes.pdf (3.6 MB)](Slides-Scholtes.pdf)
+
