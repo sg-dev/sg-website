@@ -88,6 +88,12 @@ detected, steered or disrupted?
 - [Prof.em. Frank Schweitzer, Former Chair of Systems
   Design, ETH Zürich](https://www.sg.ethz.ch/)
 
+
+## [Photo Gallery](/uploads/CSHgallery.html)
+
+## Manifesto (coming)
+
+
 <!--
 <a href="group.png">
     <img src="group.png" width="100%">
@@ -96,9 +102,9 @@ detected, steered or disrupted?
 
 ## Downloads 
 
-- [Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
-	
 - [Photo Gallery](/uploads/gallery.html)
+	
+- [Program with Abstracts (PDF)](SG-Final-Symposium-Program.pdf)
 
 - [Presentation Slides: Click on "See Abstract" for Each Talk]()
 	
